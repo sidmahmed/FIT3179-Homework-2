@@ -1,0 +1,2305 @@
+,birth_country,year,destination,values
+0,Australia,2011,Australia,"16,321,840"
+1,Norfolk Island,2011,Australia,270
+2,"Aust E T, nec",2011,Australia,0
+3,New Zealand,2011,Australia,"543,950"
+4,New Caledonia,2011,Australia,"1,450"
+5,PNG,2011,Australia,"30,650"
+6,Solomon Islands,2011,Australia,"2,020"
+7,Vanuatu,2011,Australia,"1,300"
+8,Guam,2011,Australia,100
+9,Kiribati,2011,Australia,600
+10,Marshall Is,2011,Australia,40
+11,"Micronesia, F S",2011,Australia,20
+12,Nauru,2011,Australia,620
+13,N Mariana Is,2011,Australia,20
+14,Palau,2011,Australia,20
+15,Cook Islands,2011,Australia,"6,930"
+16,Fiji,2011,Australia,"65,470"
+17,French Poly,2011,Australia,480
+18,Niue,2011,Australia,810
+19,Samoa,2011,Australia,"21,820"
+20,Samoa American,2011,Australia,290
+21,Tokelau,2011,Australia,600
+22,Tonga,2011,Australia,"10,560"
+23,Tuvalu,2011,Australia,140
+24,Wallis/Futuna,2011,Australia,20
+25,Pitcairn Is,2011,Australia,0
+26,"Polynesia, nec",2011,Australia,10
+27,Adelie Land,2011,Australia,0
+28,Argentinian A T,2011,Australia,0
+29,Australian A T,2011,Australia,0
+30,British A T,2011,Australia,0
+31,Chilean A T,2011,Australia,0
+32,Queen Maud Land,2011,Australia,0
+33,Ross Dependency,2011,Australia,0
+34,England,2011,Australia,"991,040"
+35,Isle of Man,2011,Australia,890
+36,N'thern Ireland,2011,Australia,"27,320"
+37,Scotland,2011,Australia,"141,220"
+38,Wales,2011,Australia,"33,470"
+39,Guernsey,2011,Australia,760
+40,Jersey,2011,Australia,"1,290"
+41,Ireland,2011,Australia,"78,620"
+42,Austria,2011,Australia,"19,800"
+43,Belgium,2011,Australia,"6,690"
+44,France,2011,Australia,"29,770"
+45,Germany,2011,Australia,"125,750"
+46,Liechtenstein,2011,Australia,30
+47,Luxembourg,2011,Australia,230
+48,Monaco,2011,Australia,70
+49,Netherlands,2011,Australia,"87,660"
+50,Switzerland,2011,Australia,"14,260"
+51,Denmark,2011,Australia,"10,640"
+52,Faroe Islands,2011,Australia,40
+53,Finland,2011,Australia,"9,520"
+54,Greenland,2011,Australia,30
+55,Iceland,2011,Australia,710
+56,Norway,2011,Australia,"4,400"
+57,Sweden,2011,Australia,"10,330"
+58,Aland Islands,2011,Australia,40
+59,Andorra,2011,Australia,20
+60,Gibraltar,2011,Australia,480
+61,Holy See,2011,Australia,0
+62,Italy,2011,Australia,"201,680"
+63,Malta,2011,Australia,"47,960"
+64,Portugal,2011,Australia,"18,550"
+65,San Marino,2011,Australia,10
+66,Spain,2011,Australia,"15,320"
+67,Albania,2011,Australia,"2,950"
+68,Bosnia/Herzegov,2011,Australia,"39,440"
+69,Bulgaria,2011,Australia,"3,620"
+70,Croatia,2011,Australia,"67,580"
+71,Cyprus,2011,Australia,"21,150"
+72,North Macedonia,2011,Australia,"51,140"
+73,Greece,2011,Australia,"121,180"
+74,Moldova,2011,Australia,"1,040"
+75,Romania,2011,Australia,"16,720"
+76,Slovenia,2011,Australia,"8,260"
+77,Montenegro,2011,Australia,"1,850"
+78,Serbia,2011,Australia,"34,850"
+79,Kosovo,2011,Australia,"1,390"
+80,Belarus,2011,Australia,"1,870"
+81,Czechia,2011,Australia,"13,450"
+82,Estonia,2011,Australia,"2,430"
+83,Hungary,2011,Australia,"22,420"
+84,Latvia,2011,Australia,"5,470"
+85,Lithuania,2011,Australia,"3,130"
+86,Poland,2011,Australia,"57,900"
+87,Russia,2011,Australia,"21,500"
+88,Slovakia,2011,Australia,"6,020"
+89,Ukraine,2011,Australia,"16,280"
+90,Algeria,2011,Australia,"1,400"
+91,Egypt,2011,Australia,"42,080"
+92,Libya,2011,Australia,"2,900"
+93,Morocco,2011,Australia,"1,870"
+94,Sudan,2011,Australia,"22,000"
+95,Tunisia,2011,Australia,580
+96,Western Sahara,2011,Australia,10
+97,Sp North Africa,2011,Australia,0
+98,South Sudan,2011,Australia,"3,900"
+99,Bahrain,2011,Australia,"1,440"
+100,Gaza Str/W Bank,2011,Australia,"3,020"
+101,Iran,2011,Australia,"39,640"
+102,Iraq,2011,Australia,"54,980"
+103,Israel,2011,Australia,"10,840"
+104,Jordan,2011,Australia,"5,440"
+105,Kuwait,2011,Australia,"4,720"
+106,Lebanon,2011,Australia,"90,030"
+107,Oman,2011,Australia,"1,250"
+108,Qatar,2011,Australia,690
+109,Saudi Arabia,2011,Australia,"12,640"
+110,Syria,2011,Australia,"9,670"
+111,Turkey,2011,Australia,"39,980"
+112,Unit Arab Emir,2011,Australia,"5,570"
+113,Yemen,2011,Australia,610
+114,Myanmar,2011,Australia,"24,430"
+115,Cambodia,2011,Australia,"32,510"
+116,Laos,2011,Australia,"11,300"
+117,Thailand,2011,Australia,"52,990"
+118,Vietnam,2011,Australia,"207,620"
+119,Brunei,2011,Australia,"3,020"
+120,Indonesia,2011,Australia,"73,060"
+121,Malaysia,2011,Australia,"134,140"
+122,Philippines,2011,Australia,"193,030"
+123,Singapore,2011,Australia,"55,820"
+124,Timor-Leste,2011,Australia,"10,540"
+125,China,2011,Australia,"387,420"
+126,Hong Kong,2011,Australia,"85,990"
+127,Macau,2011,Australia,"2,610"
+128,Mongolia,2011,Australia,780
+129,Taiwan,2011,Australia,"33,450"
+130,Japan,2011,Australia,"41,390"
+131,"Korea, North",2011,Australia,230
+132,"Korea, South",2011,Australia,"85,930"
+133,Bangladesh,2011,Australia,"31,620"
+134,Bhutan,2011,Australia,"2,680"
+135,India,2011,Australia,"337,120"
+136,Maldives,2011,Australia,440
+137,Nepal,2011,Australia,"27,810"
+138,Pakistan,2011,Australia,"34,150"
+139,Sri Lanka,2011,Australia,"99,740"
+140,Afghanistan,2011,Australia,"32,970"
+141,Armenia,2011,Australia,"1,220"
+142,Azerbaijan,2011,Australia,460
+143,Georgia,2011,Australia,500
+144,Kazakhstan,2011,Australia,"1,310"
+145,Kyrgyzstan,2011,Australia,400
+146,Tajikistan,2011,Australia,110
+147,Turkmenistan,2011,Australia,90
+148,Uzbekistan,2011,Australia,"1,380"
+149,Bermuda,2011,Australia,520
+150,Canada,2011,Australia,"46,230"
+151,St Pierre/Mique,2011,Australia,0
+152,USA,2011,Australia,"90,090"
+153,Argentina,2011,Australia,"13,800"
+154,Bolivia,2011,Australia,900
+155,Brazil,2011,Australia,"17,060"
+156,Chile,2011,Australia,"28,520"
+157,Colombia,2011,Australia,"13,030"
+158,Ecuador,2011,Australia,"2,000"
+159,Falkland Is,2011,Australia,130
+160,French Guiana,2011,Australia,10
+161,Guyana,2011,Australia,610
+162,Paraguay,2011,Australia,450
+163,Peru,2011,Australia,"9,840"
+164,Suriname,2011,Australia,120
+165,Uruguay,2011,Australia,"10,540"
+166,Venezuela,2011,Australia,"3,870"
+167,"S America, nec",2011,Australia,0
+168,Belize,2011,Australia,70
+169,Costa Rica,2011,Australia,450
+170,El Salvador,2011,Australia,"10,990"
+171,Guatemala,2011,Australia,430
+172,Honduras,2011,Australia,240
+173,Mexico,2011,Australia,"3,770"
+174,Nicaragua,2011,Australia,820
+175,Panama,2011,Australia,230
+176,Anguilla,2011,Australia,0
+177,Antigua/Barbuda,2011,Australia,40
+178,Aruba,2011,Australia,60
+179,Bahamas,2011,Australia,290
+180,Barbados,2011,Australia,430
+181,Cayman Islands,2011,Australia,90
+182,Cuba,2011,Australia,760
+183,Dominica,2011,Australia,40
+184,Dominican Rep,2011,Australia,160
+185,Grenada,2011,Australia,130
+186,Guadeloupe,2011,Australia,30
+187,Haiti,2011,Australia,110
+188,Jamaica,2011,Australia,"1,150"
+189,Martinique,2011,Australia,50
+190,Montserrat,2011,Australia,10
+191,Puerto Rico,2011,Australia,150
+192,St Kitts/Nevis,2011,Australia,40
+193,St Lucia,2011,Australia,50
+194,St Vinc/Grenad,2011,Australia,60
+195,Trinidad/Tobago,2011,Australia,"1,730"
+196,Turks/Caicos Is,2011,Australia,0
+197,"Virgin Is, Brit",2011,Australia,20
+198,"Virgin Is, US",2011,Australia,10
+199,St Barthelemy,2011,Australia,0
+200,St Martin (Fr),2011,Australia,0
+201,Bonaire/SE/Saba,2011,Australia,0
+202,Curacao,2011,Australia,120
+203,Sint Maarten Dp,2011,Australia,10
+204,Benin,2011,Australia,90
+205,Burkina Faso,2011,Australia,40
+206,Cameroon,2011,Australia,320
+207,Cabo Verde,2011,Australia,30
+208,Cent Africa Rep,2011,Australia,20
+209,Chad,2011,Australia,60
+210,"Congo, Rep",2011,Australia,"1,120"
+211,"Congo, Dem Rep",2011,Australia,"2,850"
+212,Cote d'Ivoire,2011,Australia,500
+213,Equator Guinea,2011,Australia,10
+214,Gabon,2011,Australia,30
+215,Gambia,2011,Australia,110
+216,Ghana,2011,Australia,"4,440"
+217,Guinea,2011,Australia,720
+218,Guinea-Bissau,2011,Australia,20
+219,Liberia,2011,Australia,"3,010"
+220,Mali,2011,Australia,60
+221,Mauritania,2011,Australia,50
+222,Niger,2011,Australia,30
+223,Nigeria,2011,Australia,"5,130"
+224,Sao Tome/Princ,2011,Australia,20
+225,Senegal,2011,Australia,380
+226,Sierra Leone,2011,Australia,"3,450"
+227,Togo,2011,Australia,320
+228,Angola,2011,Australia,530
+229,Botswana,2011,Australia,"1,120"
+230,Burundi,2011,Australia,"1,940"
+231,Comoros,2011,Australia,20
+232,Djibouti,2011,Australia,150
+233,Eritrea,2011,Australia,"3,260"
+234,Ethiopia,2011,Australia,"9,630"
+235,Kenya,2011,Australia,"15,870"
+236,Lesotho,2011,Australia,120
+237,Madagascar,2011,Australia,270
+238,Malawi,2011,Australia,"1,080"
+239,Mauritius,2011,Australia,"26,780"
+240,Mayotte,2011,Australia,0
+241,Mozambique,2011,Australia,890
+242,Namibia,2011,Australia,"1,160"
+243,Reunion,2011,Australia,210
+244,Rwanda,2011,Australia,720
+245,St Helena,2011,Australia,50
+246,Seychelles,2011,Australia,"2,980"
+247,Somalia,2011,Australia,"6,590"
+248,South Africa,2011,Australia,"161,590"
+249,Eswatini,2011,Australia,350
+250,Tanzania,2011,Australia,"3,940"
+251,Uganda,2011,Australia,"3,040"
+252,Zambia,2011,Australia,"6,350"
+253,Zimbabwe,2011,Australia,"34,610"
+254,"S & E Afr, nec",2011,Australia,20
+255,Inadequately described,2011,Australia,0
+256,Australia,2011,New South Wales,"5,175,400"
+257,Norfolk Island,2011,New South Wales,100
+258,"Aust E T, nec",2011,New South Wales,0
+259,New Zealand,2011,New South Wales,"128,830"
+260,New Caledonia,2011,New South Wales,560
+261,PNG,2011,New South Wales,"6,150"
+262,Solomon Islands,2011,New South Wales,590
+263,Vanuatu,2011,New South Wales,520
+264,Guam,2011,New South Wales,30
+265,Kiribati,2011,New South Wales,120
+266,Marshall Is,2011,New South Wales,10
+267,"Micronesia, F S",2011,New South Wales,10
+268,Nauru,2011,New South Wales,90
+269,N Mariana Is,2011,New South Wales,0
+270,Palau,2011,New South Wales,10
+271,Cook Islands,2011,New South Wales,"2,390"
+272,Fiji,2011,New South Wales,"37,120"
+273,French Poly,2011,New South Wales,170
+274,Niue,2011,New South Wales,350
+275,Samoa,2011,New South Wales,"9,040"
+276,Samoa American,2011,New South Wales,90
+277,Tokelau,2011,New South Wales,290
+278,Tonga,2011,New South Wales,"6,400"
+279,Tuvalu,2011,New South Wales,20
+280,Wallis/Futuna,2011,New South Wales,10
+281,Pitcairn Is,2011,New South Wales,0
+282,"Polynesia, nec",2011,New South Wales,10
+283,Adelie Land,2011,New South Wales,0
+284,Argentinian A T,2011,New South Wales,0
+285,Australian A T,2011,New South Wales,0
+286,British A T,2011,New South Wales,0
+287,Chilean A T,2011,New South Wales,0
+288,Queen Maud Land,2011,New South Wales,0
+289,Ross Dependency,2011,New South Wales,0
+290,England,2011,New South Wales,"248,600"
+291,Isle of Man,2011,New South Wales,210
+292,N'thern Ireland,2011,New South Wales,"7,170"
+293,Scotland,2011,New South Wales,"34,920"
+294,Wales,2011,New South Wales,"8,830"
+295,Guernsey,2011,New South Wales,180
+296,Jersey,2011,New South Wales,330
+297,Ireland,2011,New South Wales,"25,700"
+298,Austria,2011,New South Wales,"6,740"
+299,Belgium,2011,New South Wales,"2,110"
+300,France,2011,New South Wales,"11,080"
+301,Germany,2011,New South Wales,"36,490"
+302,Liechtenstein,2011,New South Wales,10
+303,Luxembourg,2011,New South Wales,60
+304,Monaco,2011,New South Wales,20
+305,Netherlands,2011,New South Wales,"21,070"
+306,Switzerland,2011,New South Wales,"4,530"
+307,Denmark,2011,New South Wales,"3,230"
+308,Faroe Islands,2011,New South Wales,10
+309,Finland,2011,New South Wales,"2,750"
+310,Greenland,2011,New South Wales,10
+311,Iceland,2011,New South Wales,240
+312,Norway,2011,New South Wales,"1,410"
+313,Sweden,2011,New South Wales,"3,570"
+314,Aland Islands,2011,New South Wales,10
+315,Andorra,2011,New South Wales,10
+316,Gibraltar,2011,New South Wales,120
+317,Holy See,2011,New South Wales,0
+318,Italy,2011,New South Wales,"56,840"
+319,Malta,2011,New South Wales,"18,600"
+320,Portugal,2011,New South Wales,"10,000"
+321,San Marino,2011,New South Wales,0
+322,Spain,2011,New South Wales,"6,260"
+323,Albania,2011,New South Wales,240
+324,Bosnia/Herzegov,2011,New South Wales,"12,170"
+325,Bulgaria,2011,New South Wales,"1,120"
+326,Croatia,2011,New South Wales,"24,590"
+327,Cyprus,2011,New South Wales,"7,780"
+328,North Macedonia,2011,New South Wales,"21,810"
+329,Greece,2011,New South Wales,"38,980"
+330,Moldova,2011,New South Wales,260
+331,Romania,2011,New South Wales,"4,190"
+332,Slovenia,2011,New South Wales,"2,740"
+333,Montenegro,2011,New South Wales,600
+334,Serbia,2011,New South Wales,"12,100"
+335,Kosovo,2011,New South Wales,330
+336,Belarus,2011,New South Wales,480
+337,Czechia,2011,New South Wales,"5,430"
+338,Estonia,2011,New South Wales,910
+339,Hungary,2011,New South Wales,"8,330"
+340,Latvia,2011,New South Wales,"1,670"
+341,Lithuania,2011,New South Wales,"1,030"
+342,Poland,2011,New South Wales,"17,140"
+343,Russia,2011,New South Wales,"8,140"
+344,Slovakia,2011,New South Wales,"2,840"
+345,Ukraine,2011,New South Wales,"5,900"
+346,Algeria,2011,New South Wales,600
+347,Egypt,2011,New South Wales,"21,320"
+348,Libya,2011,New South Wales,800
+349,Morocco,2011,New South Wales,720
+350,Sudan,2011,New South Wales,"6,350"
+351,Tunisia,2011,New South Wales,250
+352,Western Sahara,2011,New South Wales,0
+353,Sp North Africa,2011,New South Wales,0
+354,South Sudan,2011,New South Wales,630
+355,Bahrain,2011,New South Wales,470
+356,Gaza Str/W Bank,2011,New South Wales,"1,660"
+357,Iran,2011,New South Wales,"17,970"
+358,Iraq,2011,New South Wales,"33,580"
+359,Israel,2011,New South Wales,"4,000"
+360,Jordan,2011,New South Wales,"3,600"
+361,Kuwait,2011,New South Wales,"2,180"
+362,Lebanon,2011,New South Wales,"66,450"
+363,Oman,2011,New South Wales,220
+364,Qatar,2011,New South Wales,220
+365,Saudi Arabia,2011,New South Wales,"3,750"
+366,Syria,2011,New South Wales,"5,950"
+367,Turkey,2011,New South Wales,"15,980"
+368,Unit Arab Emir,2011,New South Wales,"1,610"
+369,Yemen,2011,New South Wales,180
+370,Myanmar,2011,New South Wales,"5,790"
+371,Cambodia,2011,New South Wales,"12,840"
+372,Laos,2011,New South Wales,"5,830"
+373,Thailand,2011,New South Wales,"20,530"
+374,Vietnam,2011,New South Wales,"80,640"
+375,Brunei,2011,New South Wales,470
+376,Indonesia,2011,New South Wales,"30,920"
+377,Malaysia,2011,New South Wales,"31,420"
+378,Philippines,2011,New South Wales,"79,380"
+379,Singapore,2011,New South Wales,"12,900"
+380,Timor-Leste,2011,New South Wales,"2,470"
+381,China,2011,New South Wales,"190,000"
+382,Hong Kong,2011,New South Wales,"44,140"
+383,Macau,2011,New South Wales,"1,270"
+384,Mongolia,2011,New South Wales,320
+385,Taiwan,2011,New South Wales,"10,120"
+386,Japan,2011,New South Wales,"14,160"
+387,"Korea, North",2011,New South Wales,170
+388,"Korea, South",2011,New South Wales,"47,720"
+389,Bangladesh,2011,New South Wales,"19,500"
+390,Bhutan,2011,New South Wales,500
+391,India,2011,New South Wales,"109,100"
+392,Maldives,2011,New South Wales,60
+393,Nepal,2011,New South Wales,"17,310"
+394,Pakistan,2011,New South Wales,"15,070"
+395,Sri Lanka,2011,New South Wales,"27,510"
+396,Afghanistan,2011,New South Wales,"10,360"
+397,Armenia,2011,New South Wales,690
+398,Azerbaijan,2011,New South Wales,140
+399,Georgia,2011,New South Wales,200
+400,Kazakhstan,2011,New South Wales,370
+401,Kyrgyzstan,2011,New South Wales,100
+402,Tajikistan,2011,New South Wales,40
+403,Turkmenistan,2011,New South Wales,30
+404,Uzbekistan,2011,New South Wales,440
+405,Bermuda,2011,New South Wales,160
+406,Canada,2011,New South Wales,"14,290"
+407,St Pierre/Mique,2011,New South Wales,0
+408,USA,2011,New South Wales,"31,350"
+409,Argentina,2011,New South Wales,"6,650"
+410,Bolivia,2011,New South Wales,570
+411,Brazil,2011,New South Wales,"7,670"
+412,Chile,2011,New South Wales,"14,450"
+413,Colombia,2011,New South Wales,"5,190"
+414,Ecuador,2011,New South Wales,"1,490"
+415,Falkland Is,2011,New South Wales,30
+416,French Guiana,2011,New South Wales,10
+417,Guyana,2011,New South Wales,180
+418,Paraguay,2011,New South Wales,250
+419,Peru,2011,New South Wales,"6,010"
+420,Suriname,2011,New South Wales,30
+421,Uruguay,2011,New South Wales,"7,440"
+422,Venezuela,2011,New South Wales,"1,360"
+423,"S America, nec",2011,New South Wales,0
+424,Belize,2011,New South Wales,30
+425,Costa Rica,2011,New South Wales,220
+426,El Salvador,2011,New South Wales,"2,150"
+427,Guatemala,2011,New South Wales,130
+428,Honduras,2011,New South Wales,100
+429,Mexico,2011,New South Wales,"1,370"
+430,Nicaragua,2011,New South Wales,500
+431,Panama,2011,New South Wales,110
+432,Anguilla,2011,New South Wales,0
+433,Antigua/Barbuda,2011,New South Wales,10
+434,Aruba,2011,New South Wales,20
+435,Bahamas,2011,New South Wales,80
+436,Barbados,2011,New South Wales,90
+437,Cayman Islands,2011,New South Wales,20
+438,Cuba,2011,New South Wales,340
+439,Dominica,2011,New South Wales,10
+440,Dominican Rep,2011,New South Wales,50
+441,Grenada,2011,New South Wales,70
+442,Guadeloupe,2011,New South Wales,10
+443,Haiti,2011,New South Wales,30
+444,Jamaica,2011,New South Wales,330
+445,Martinique,2011,New South Wales,10
+446,Montserrat,2011,New South Wales,0
+447,Puerto Rico,2011,New South Wales,50
+448,St Kitts/Nevis,2011,New South Wales,20
+449,St Lucia,2011,New South Wales,10
+450,St Vinc/Grenad,2011,New South Wales,20
+451,Trinidad/Tobago,2011,New South Wales,410
+452,Turks/Caicos Is,2011,New South Wales,0
+453,"Virgin Is, Brit",2011,New South Wales,10
+454,"Virgin Is, US",2011,New South Wales,10
+455,St Barthelemy,2011,New South Wales,0
+456,St Martin (Fr),2011,New South Wales,0
+457,Bonaire/SE/Saba,2011,New South Wales,0
+458,Curacao,2011,New South Wales,50
+459,Sint Maarten Dp,2011,New South Wales,0
+460,Benin,2011,New South Wales,20
+461,Burkina Faso,2011,New South Wales,10
+462,Cameroon,2011,New South Wales,70
+463,Cabo Verde,2011,New South Wales,10
+464,Cent Africa Rep,2011,New South Wales,0
+465,Chad,2011,New South Wales,20
+466,"Congo, Rep",2011,New South Wales,200
+467,"Congo, Dem Rep",2011,New South Wales,530
+468,Cote d'Ivoire,2011,New South Wales,120
+469,Equator Guinea,2011,New South Wales,0
+470,Gabon,2011,New South Wales,10
+471,Gambia,2011,New South Wales,50
+472,Ghana,2011,New South Wales,"2,260"
+473,Guinea,2011,New South Wales,220
+474,Guinea-Bissau,2011,New South Wales,10
+475,Liberia,2011,New South Wales,620
+476,Mali,2011,New South Wales,20
+477,Mauritania,2011,New South Wales,20
+478,Niger,2011,New South Wales,10
+479,Nigeria,2011,New South Wales,"1,700"
+480,Sao Tome/Princ,2011,New South Wales,10
+481,Senegal,2011,New South Wales,180
+482,Sierra Leone,2011,New South Wales,"1,750"
+483,Togo,2011,New South Wales,100
+484,Angola,2011,New South Wales,200
+485,Botswana,2011,New South Wales,230
+486,Burundi,2011,New South Wales,240
+487,Comoros,2011,New South Wales,0
+488,Djibouti,2011,New South Wales,30
+489,Eritrea,2011,New South Wales,230
+490,Ethiopia,2011,New South Wales,"1,270"
+491,Kenya,2011,New South Wales,"3,170"
+492,Lesotho,2011,New South Wales,40
+493,Madagascar,2011,New South Wales,70
+494,Malawi,2011,New South Wales,190
+495,Mauritius,2011,New South Wales,"6,580"
+496,Mayotte,2011,New South Wales,0
+497,Mozambique,2011,New South Wales,200
+498,Namibia,2011,New South Wales,230
+499,Reunion,2011,New South Wales,80
+500,Rwanda,2011,New South Wales,120
+501,St Helena,2011,New South Wales,10
+502,Seychelles,2011,New South Wales,260
+503,Somalia,2011,New South Wales,720
+504,South Africa,2011,New South Wales,"44,750"
+505,Eswatini,2011,New South Wales,90
+506,Tanzania,2011,New South Wales,910
+507,Uganda,2011,New South Wales,830
+508,Zambia,2011,New South Wales,"1,210"
+509,Zimbabwe,2011,New South Wales,"6,400"
+510,"S & E Afr, nec",2011,New South Wales,10
+511,Inadequately described,2011,New South Wales,0
+512,Australia,2011,Victoria,"3,948,070"
+513,Norfolk Island,2011,Victoria,10
+514,"Aust E T, nec",2011,Victoria,0
+515,New Zealand,2011,Victoria,"89,270"
+516,New Caledonia,2011,Victoria,100
+517,PNG,2011,Victoria,"2,860"
+518,Solomon Islands,2011,Victoria,170
+519,Vanuatu,2011,Victoria,150
+520,Guam,2011,Victoria,20
+521,Kiribati,2011,Victoria,100
+522,Marshall Is,2011,Victoria,10
+523,"Micronesia, F S",2011,Victoria,0
+524,Nauru,2011,Victoria,260
+525,N Mariana Is,2011,Victoria,0
+526,Palau,2011,Victoria,0
+527,Cook Islands,2011,Victoria,"1,900"
+528,Fiji,2011,Victoria,"11,060"
+529,French Poly,2011,Victoria,40
+530,Niue,2011,Victoria,100
+531,Samoa,2011,Victoria,"4,540"
+532,Samoa American,2011,Victoria,60
+533,Tokelau,2011,Victoria,20
+534,Tonga,2011,Victoria,"1,620"
+535,Tuvalu,2011,Victoria,30
+536,Wallis/Futuna,2011,Victoria,0
+537,Pitcairn Is,2011,Victoria,0
+538,"Polynesia, nec",2011,Victoria,0
+539,Adelie Land,2011,Victoria,0
+540,Argentinian A T,2011,Victoria,0
+541,Australian A T,2011,Victoria,0
+542,British A T,2011,Victoria,0
+543,Chilean A T,2011,Victoria,0
+544,Queen Maud Land,2011,Victoria,0
+545,Ross Dependency,2011,Victoria,0
+546,England,2011,Victoria,"184,620"
+547,Isle of Man,2011,Victoria,140
+548,N'thern Ireland,2011,Victoria,"6,840"
+549,Scotland,2011,Victoria,"30,950"
+550,Wales,2011,Victoria,"5,580"
+551,Guernsey,2011,Victoria,130
+552,Jersey,2011,Victoria,180
+553,Ireland,2011,Victoria,"16,730"
+554,Austria,2011,Victoria,"5,270"
+555,Belgium,2011,Victoria,"1,480"
+556,France,2011,Victoria,"6,580"
+557,Germany,2011,Victoria,"32,220"
+558,Liechtenstein,2011,Victoria,10
+559,Luxembourg,2011,Victoria,70
+560,Monaco,2011,Victoria,10
+561,Netherlands,2011,Victoria,"24,640"
+562,Switzerland,2011,Victoria,"2,760"
+563,Denmark,2011,Victoria,"1,820"
+564,Faroe Islands,2011,Victoria,10
+565,Finland,2011,Victoria,"1,470"
+566,Greenland,2011,Victoria,10
+567,Iceland,2011,Victoria,110
+568,Norway,2011,Victoria,830
+569,Sweden,2011,Victoria,"2,160"
+570,Aland Islands,2011,Victoria,20
+571,Andorra,2011,Victoria,0
+572,Gibraltar,2011,Victoria,100
+573,Holy See,2011,Victoria,0
+574,Italy,2011,Victoria,"82,670"
+575,Malta,2011,Victoria,"22,780"
+576,Portugal,2011,Victoria,"3,220"
+577,San Marino,2011,Victoria,0
+578,Spain,2011,Victoria,"3,580"
+579,Albania,2011,Victoria,"1,820"
+580,Bosnia/Herzegov,2011,Victoria,"13,940"
+581,Bulgaria,2011,Victoria,"1,120"
+582,Croatia,2011,Victoria,"23,520"
+583,Cyprus,2011,Victoria,"9,540"
+584,North Macedonia,2011,Victoria,"22,690"
+585,Greece,2011,Victoria,"60,120"
+586,Moldova,2011,Victoria,590
+587,Romania,2011,Victoria,"6,350"
+588,Slovenia,2011,Victoria,"3,230"
+589,Montenegro,2011,Victoria,790
+590,Serbia,2011,Victoria,"12,250"
+591,Kosovo,2011,Victoria,720
+592,Belarus,2011,Victoria,"1,050"
+593,Czechia,2011,Victoria,"3,120"
+594,Estonia,2011,Victoria,450
+595,Hungary,2011,Victoria,"6,430"
+596,Latvia,2011,Victoria,"1,780"
+597,Lithuania,2011,Victoria,"1,050"
+598,Poland,2011,Victoria,"19,250"
+599,Russia,2011,Victoria,"7,040"
+600,Slovakia,2011,Victoria,"1,200"
+601,Ukraine,2011,Victoria,"6,710"
+602,Algeria,2011,Victoria,260
+603,Egypt,2011,Victoria,"14,200"
+604,Libya,2011,Victoria,"1,150"
+605,Morocco,2011,Victoria,590
+606,Sudan,2011,Victoria,"6,890"
+607,Tunisia,2011,Victoria,170
+608,Western Sahara,2011,Victoria,0
+609,Sp North Africa,2011,Victoria,0
+610,South Sudan,2011,Victoria,"1,230"
+611,Bahrain,2011,Victoria,400
+612,Gaza Str/W Bank,2011,Victoria,820
+613,Iran,2011,Victoria,"8,550"
+614,Iraq,2011,Victoria,"14,490"
+615,Israel,2011,Victoria,"4,760"
+616,Jordan,2011,Victoria,810
+617,Kuwait,2011,Victoria,"1,370"
+618,Lebanon,2011,Victoria,"18,470"
+619,Oman,2011,Victoria,400
+620,Qatar,2011,Victoria,170
+621,Saudi Arabia,2011,Victoria,"3,330"
+622,Syria,2011,Victoria,"2,590"
+623,Turkey,2011,Victoria,"19,860"
+624,Unit Arab Emir,2011,Victoria,"1,960"
+625,Yemen,2011,Victoria,160
+626,Myanmar,2011,Victoria,"6,220"
+627,Cambodia,2011,Victoria,"12,970"
+628,Laos,2011,Victoria,"2,430"
+629,Thailand,2011,Victoria,"12,450"
+630,Vietnam,2011,Victoria,"76,230"
+631,Brunei,2011,Victoria,710
+632,Indonesia,2011,Victoria,"17,670"
+633,Malaysia,2011,Victoria,"45,690"
+634,Philippines,2011,Victoria,"42,340"
+635,Singapore,2011,Victoria,"15,550"
+636,Timor-Leste,2011,Victoria,"5,560"
+637,China,2011,Victoria,"112,750"
+638,Hong Kong,2011,Victoria,"20,680"
+639,Macau,2011,Victoria,730
+640,Mongolia,2011,Victoria,120
+641,Taiwan,2011,Victoria,"6,540"
+642,Japan,2011,Victoria,"7,920"
+643,"Korea, North",2011,Victoria,30
+644,"Korea, South",2011,Victoria,"11,750"
+645,Bangladesh,2011,Victoria,"5,730"
+646,Bhutan,2011,Victoria,370
+647,India,2011,Victoria,"126,820"
+648,Maldives,2011,Victoria,110
+649,Nepal,2011,Victoria,"4,860"
+650,Pakistan,2011,Victoria,"10,390"
+651,Sri Lanka,2011,Victoria,"50,450"
+652,Afghanistan,2011,Victoria,"11,410"
+653,Armenia,2011,Victoria,330
+654,Azerbaijan,2011,Victoria,170
+655,Georgia,2011,Victoria,190
+656,Kazakhstan,2011,Victoria,400
+657,Kyrgyzstan,2011,Victoria,100
+658,Tajikistan,2011,Victoria,40
+659,Turkmenistan,2011,Victoria,30
+660,Uzbekistan,2011,Victoria,460
+661,Bermuda,2011,Victoria,80
+662,Canada,2011,Victoria,"9,070"
+663,St Pierre/Mique,2011,Victoria,0
+664,USA,2011,Victoria,"19,420"
+665,Argentina,2011,Victoria,"4,140"
+666,Bolivia,2011,Victoria,120
+667,Brazil,2011,Victoria,"2,300"
+668,Chile,2011,Victoria,"8,030"
+669,Colombia,2011,Victoria,"3,240"
+670,Ecuador,2011,Victoria,120
+671,Falkland Is,2011,Victoria,30
+672,French Guiana,2011,Victoria,0
+673,Guyana,2011,Victoria,150
+674,Paraguay,2011,Victoria,90
+675,Peru,2011,Victoria,"1,400"
+676,Suriname,2011,Victoria,30
+677,Uruguay,2011,Victoria,"1,830"
+678,Venezuela,2011,Victoria,820
+679,"S America, nec",2011,Victoria,0
+680,Belize,2011,Victoria,10
+681,Costa Rica,2011,Victoria,90
+682,El Salvador,2011,Victoria,"3,530"
+683,Guatemala,2011,Victoria,150
+684,Honduras,2011,Victoria,60
+685,Mexico,2011,Victoria,"1,020"
+686,Nicaragua,2011,Victoria,80
+687,Panama,2011,Victoria,30
+688,Anguilla,2011,Victoria,0
+689,Antigua/Barbuda,2011,Victoria,10
+690,Aruba,2011,Victoria,10
+691,Bahamas,2011,Victoria,40
+692,Barbados,2011,Victoria,70
+693,Cayman Islands,2011,Victoria,10
+694,Cuba,2011,Victoria,170
+695,Dominica,2011,Victoria,10
+696,Dominican Rep,2011,Victoria,40
+697,Grenada,2011,Victoria,10
+698,Guadeloupe,2011,Victoria,0
+699,Haiti,2011,Victoria,50
+700,Jamaica,2011,Victoria,180
+701,Martinique,2011,Victoria,0
+702,Montserrat,2011,Victoria,0
+703,Puerto Rico,2011,Victoria,30
+704,St Kitts/Nevis,2011,Victoria,10
+705,St Lucia,2011,Victoria,10
+706,St Vinc/Grenad,2011,Victoria,10
+707,Trinidad/Tobago,2011,Victoria,240
+708,Turks/Caicos Is,2011,Victoria,0
+709,"Virgin Is, Brit",2011,Victoria,0
+710,"Virgin Is, US",2011,Victoria,0
+711,St Barthelemy,2011,Victoria,0
+712,St Martin (Fr),2011,Victoria,0
+713,Bonaire/SE/Saba,2011,Victoria,0
+714,Curacao,2011,Victoria,20
+715,Sint Maarten Dp,2011,Victoria,0
+716,Benin,2011,Victoria,30
+717,Burkina Faso,2011,Victoria,10
+718,Cameroon,2011,Victoria,80
+719,Cabo Verde,2011,Victoria,10
+720,Cent Africa Rep,2011,Victoria,0
+721,Chad,2011,Victoria,20
+722,"Congo, Rep",2011,Victoria,170
+723,"Congo, Dem Rep",2011,Victoria,370
+724,Cote d'Ivoire,2011,Victoria,100
+725,Equator Guinea,2011,Victoria,0
+726,Gabon,2011,Victoria,10
+727,Gambia,2011,Victoria,20
+728,Ghana,2011,Victoria,790
+729,Guinea,2011,Victoria,100
+730,Guinea-Bissau,2011,Victoria,0
+731,Liberia,2011,Victoria,570
+732,Mali,2011,Victoria,20
+733,Mauritania,2011,Victoria,10
+734,Niger,2011,Victoria,10
+735,Nigeria,2011,Victoria,"1,260"
+736,Sao Tome/Princ,2011,Victoria,0
+737,Senegal,2011,Victoria,70
+738,Sierra Leone,2011,Victoria,330
+739,Togo,2011,Victoria,50
+740,Angola,2011,Victoria,110
+741,Botswana,2011,Victoria,270
+742,Burundi,2011,Victoria,160
+743,Comoros,2011,Victoria,20
+744,Djibouti,2011,Victoria,90
+745,Eritrea,2011,Victoria,"1,750"
+746,Ethiopia,2011,Victoria,"5,090"
+747,Kenya,2011,Victoria,"3,240"
+748,Lesotho,2011,Victoria,20
+749,Madagascar,2011,Victoria,70
+750,Malawi,2011,Victoria,200
+751,Mauritius,2011,Victoria,"13,210"
+752,Mayotte,2011,Victoria,0
+753,Mozambique,2011,Victoria,150
+754,Namibia,2011,Victoria,150
+755,Reunion,2011,Victoria,30
+756,Rwanda,2011,Victoria,50
+757,St Helena,2011,Victoria,10
+758,Seychelles,2011,Victoria,"1,130"
+759,Somalia,2011,Victoria,"3,540"
+760,South Africa,2011,Victoria,"26,630"
+761,Eswatini,2011,Victoria,70
+762,Tanzania,2011,Victoria,620
+763,Uganda,2011,Victoria,560
+764,Zambia,2011,Victoria,800
+765,Zimbabwe,2011,Victoria,"4,270"
+766,"S & E Afr, nec",2011,Victoria,0
+767,Inadequately described,2011,Victoria,0
+768,Australia,2011,Queensland,"3,471,480"
+769,Norfolk Island,2011,Queensland,140
+770,"Aust E T, nec",2011,Queensland,0
+771,New Zealand,2011,Queensland,"215,620"
+772,New Caledonia,2011,Queensland,700
+773,PNG,2011,Queensland,"16,590"
+774,Solomon Islands,2011,Queensland,990
+775,Vanuatu,2011,Queensland,470
+776,Guam,2011,Queensland,40
+777,Kiribati,2011,Queensland,290
+778,Marshall Is,2011,Queensland,10
+779,"Micronesia, F S",2011,Queensland,10
+780,Nauru,2011,Queensland,200
+781,N Mariana Is,2011,Queensland,10
+782,Palau,2011,Queensland,10
+783,Cook Islands,2011,Queensland,"2,110"
+784,Fiji,2011,Queensland,"13,190"
+785,French Poly,2011,Queensland,240
+786,Niue,2011,Queensland,280
+787,Samoa,2011,Queensland,"7,420"
+788,Samoa American,2011,Queensland,120
+789,Tokelau,2011,Queensland,260
+790,Tonga,2011,Queensland,"1,840"
+791,Tuvalu,2011,Queensland,70
+792,Wallis/Futuna,2011,Queensland,10
+793,Pitcairn Is,2011,Queensland,0
+794,"Polynesia, nec",2011,Queensland,0
+795,Adelie Land,2011,Queensland,0
+796,Argentinian A T,2011,Queensland,0
+797,Australian A T,2011,Queensland,0
+798,British A T,2011,Queensland,0
+799,Chilean A T,2011,Queensland,0
+800,Queen Maud Land,2011,Queensland,0
+801,Ross Dependency,2011,Queensland,0
+802,England,2011,Queensland,"194,840"
+803,Isle of Man,2011,Queensland,180
+804,N'thern Ireland,2011,Queensland,"5,020"
+805,Scotland,2011,Queensland,"25,480"
+806,Wales,2011,Queensland,"6,600"
+807,Guernsey,2011,Queensland,140
+808,Jersey,2011,Queensland,300
+809,Ireland,2011,Queensland,"12,670"
+810,Austria,2011,Queensland,"3,320"
+811,Belgium,2011,Queensland,"1,400"
+812,France,2011,Queensland,"5,900"
+813,Germany,2011,Queensland,"24,580"
+814,Liechtenstein,2011,Queensland,0
+815,Luxembourg,2011,Queensland,40
+816,Monaco,2011,Queensland,10
+817,Netherlands,2011,Queensland,"17,340"
+818,Switzerland,2011,Queensland,"3,230"
+819,Denmark,2011,Queensland,"2,990"
+820,Faroe Islands,2011,Queensland,10
+821,Finland,2011,Queensland,"3,170"
+822,Greenland,2011,Queensland,10
+823,Iceland,2011,Queensland,140
+824,Norway,2011,Queensland,"1,020"
+825,Sweden,2011,Queensland,"2,430"
+826,Aland Islands,2011,Queensland,0
+827,Andorra,2011,Queensland,0
+828,Gibraltar,2011,Queensland,90
+829,Holy See,2011,Queensland,0
+830,Italy,2011,Queensland,"14,560"
+831,Malta,2011,Queensland,"3,070"
+832,Portugal,2011,Queensland,"1,270"
+833,San Marino,2011,Queensland,0
+834,Spain,2011,Queensland,"2,420"
+835,Albania,2011,Queensland,260
+836,Bosnia/Herzegov,2011,Queensland,"5,060"
+837,Bulgaria,2011,Queensland,490
+838,Croatia,2011,Queensland,"5,610"
+839,Cyprus,2011,Queensland,"1,420"
+840,North Macedonia,2011,Queensland,"1,390"
+841,Greece,2011,Queensland,"4,190"
+842,Moldova,2011,Queensland,80
+843,Romania,2011,Queensland,"2,740"
+844,Slovenia,2011,Queensland,940
+845,Montenegro,2011,Queensland,170
+846,Serbia,2011,Queensland,"3,890"
+847,Kosovo,2011,Queensland,130
+848,Belarus,2011,Queensland,130
+849,Czechia,2011,Queensland,"2,170"
+850,Estonia,2011,Queensland,380
+851,Hungary,2011,Queensland,"3,860"
+852,Latvia,2011,Queensland,620
+853,Lithuania,2011,Queensland,290
+854,Poland,2011,Queensland,"6,050"
+855,Russia,2011,Queensland,"2,780"
+856,Slovakia,2011,Queensland,910
+857,Ukraine,2011,Queensland,"1,320"
+858,Algeria,2011,Queensland,250
+859,Egypt,2011,Queensland,"2,410"
+860,Libya,2011,Queensland,390
+861,Morocco,2011,Queensland,290
+862,Sudan,2011,Queensland,"2,940"
+863,Tunisia,2011,Queensland,80
+864,Western Sahara,2011,Queensland,0
+865,Sp North Africa,2011,Queensland,0
+866,South Sudan,2011,Queensland,800
+867,Bahrain,2011,Queensland,240
+868,Gaza Str/W Bank,2011,Queensland,130
+869,Iran,2011,Queensland,"4,130"
+870,Iraq,2011,Queensland,"1,770"
+871,Israel,2011,Queensland,820
+872,Jordan,2011,Queensland,300
+873,Kuwait,2011,Queensland,450
+874,Lebanon,2011,Queensland,"1,550"
+875,Oman,2011,Queensland,300
+876,Qatar,2011,Queensland,80
+877,Saudi Arabia,2011,Queensland,"2,680"
+878,Syria,2011,Queensland,360
+879,Turkey,2011,Queensland,"1,700"
+880,Unit Arab Emir,2011,Queensland,840
+881,Yemen,2011,Queensland,90
+882,Myanmar,2011,Queensland,"2,140"
+883,Cambodia,2011,Queensland,"1,770"
+884,Laos,2011,Queensland,"1,530"
+885,Thailand,2011,Queensland,"8,140"
+886,Vietnam,2011,Queensland,"18,340"
+887,Brunei,2011,Queensland,440
+888,Indonesia,2011,Queensland,"7,480"
+889,Malaysia,2011,Queensland,"14,800"
+890,Philippines,2011,Queensland,"33,100"
+891,Singapore,2011,Queensland,"6,870"
+892,Timor-Leste,2011,Queensland,580
+893,China,2011,Queensland,"33,220"
+894,Hong Kong,2011,Queensland,"10,130"
+895,Macau,2011,Queensland,320
+896,Mongolia,2011,Queensland,110
+897,Taiwan,2011,Queensland,"12,790"
+898,Japan,2011,Queensland,"12,070"
+899,"Korea, North",2011,Queensland,20
+900,"Korea, South",2011,Queensland,"14,720"
+901,Bangladesh,2011,Queensland,"1,890"
+902,Bhutan,2011,Queensland,320
+903,India,2011,Queensland,"34,930"
+904,Maldives,2011,Queensland,60
+905,Nepal,2011,Queensland,"2,410"
+906,Pakistan,2011,Queensland,"2,650"
+907,Sri Lanka,2011,Queensland,"8,970"
+908,Afghanistan,2011,Queensland,"2,080"
+909,Armenia,2011,Queensland,20
+910,Azerbaijan,2011,Queensland,70
+911,Georgia,2011,Queensland,30
+912,Kazakhstan,2011,Queensland,220
+913,Kyrgyzstan,2011,Queensland,90
+914,Tajikistan,2011,Queensland,10
+915,Turkmenistan,2011,Queensland,10
+916,Uzbekistan,2011,Queensland,130
+917,Bermuda,2011,Queensland,140
+918,Canada,2011,Queensland,"11,560"
+919,St Pierre/Mique,2011,Queensland,0
+920,USA,2011,Queensland,"18,430"
+921,Argentina,2011,Queensland,"1,420"
+922,Bolivia,2011,Queensland,90
+923,Brazil,2011,Queensland,"4,060"
+924,Chile,2011,Queensland,"2,280"
+925,Colombia,2011,Queensland,"2,810"
+926,Ecuador,2011,Queensland,170
+927,Falkland Is,2011,Queensland,30
+928,French Guiana,2011,Queensland,0
+929,Guyana,2011,Queensland,140
+930,Paraguay,2011,Queensland,60
+931,Peru,2011,Queensland,"1,130"
+932,Suriname,2011,Queensland,30
+933,Uruguay,2011,Queensland,790
+934,Venezuela,2011,Queensland,660
+935,"S America, nec",2011,Queensland,0
+936,Belize,2011,Queensland,10
+937,Costa Rica,2011,Queensland,60
+938,El Salvador,2011,Queensland,"2,640"
+939,Guatemala,2011,Queensland,70
+940,Honduras,2011,Queensland,50
+941,Mexico,2011,Queensland,620
+942,Nicaragua,2011,Queensland,130
+943,Panama,2011,Queensland,40
+944,Anguilla,2011,Queensland,0
+945,Antigua/Barbuda,2011,Queensland,10
+946,Aruba,2011,Queensland,10
+947,Bahamas,2011,Queensland,60
+948,Barbados,2011,Queensland,190
+949,Cayman Islands,2011,Queensland,30
+950,Cuba,2011,Queensland,180
+951,Dominica,2011,Queensland,10
+952,Dominican Rep,2011,Queensland,30
+953,Grenada,2011,Queensland,50
+954,Guadeloupe,2011,Queensland,10
+955,Haiti,2011,Queensland,10
+956,Jamaica,2011,Queensland,370
+957,Martinique,2011,Queensland,30
+958,Montserrat,2011,Queensland,0
+959,Puerto Rico,2011,Queensland,30
+960,St Kitts/Nevis,2011,Queensland,10
+961,St Lucia,2011,Queensland,20
+962,St Vinc/Grenad,2011,Queensland,20
+963,Trinidad/Tobago,2011,Queensland,470
+964,Turks/Caicos Is,2011,Queensland,0
+965,"Virgin Is, Brit",2011,Queensland,10
+966,"Virgin Is, US",2011,Queensland,0
+967,St Barthelemy,2011,Queensland,0
+968,St Martin (Fr),2011,Queensland,0
+969,Bonaire/SE/Saba,2011,Queensland,0
+970,Curacao,2011,Queensland,30
+971,Sint Maarten Dp,2011,Queensland,0
+972,Benin,2011,Queensland,20
+973,Burkina Faso,2011,Queensland,0
+974,Cameroon,2011,Queensland,60
+975,Cabo Verde,2011,Queensland,0
+976,Cent Africa Rep,2011,Queensland,10
+977,Chad,2011,Queensland,10
+978,"Congo, Rep",2011,Queensland,200
+979,"Congo, Dem Rep",2011,Queensland,630
+980,Cote d'Ivoire,2011,Queensland,100
+981,Equator Guinea,2011,Queensland,0
+982,Gabon,2011,Queensland,10
+983,Gambia,2011,Queensland,10
+984,Ghana,2011,Queensland,400
+985,Guinea,2011,Queensland,120
+986,Guinea-Bissau,2011,Queensland,0
+987,Liberia,2011,Queensland,520
+988,Mali,2011,Queensland,10
+989,Mauritania,2011,Queensland,0
+990,Niger,2011,Queensland,10
+991,Nigeria,2011,Queensland,700
+992,Sao Tome/Princ,2011,Queensland,0
+993,Senegal,2011,Queensland,60
+994,Sierra Leone,2011,Queensland,420
+995,Togo,2011,Queensland,50
+996,Angola,2011,Queensland,110
+997,Botswana,2011,Queensland,230
+998,Burundi,2011,Queensland,560
+999,Comoros,2011,Queensland,0
+1000,Djibouti,2011,Queensland,10
+1001,Eritrea,2011,Queensland,430
+1002,Ethiopia,2011,Queensland,850
+1003,Kenya,2011,Queensland,"2,340"
+1004,Lesotho,2011,Queensland,20
+1005,Madagascar,2011,Queensland,70
+1006,Malawi,2011,Queensland,250
+1007,Mauritius,2011,Queensland,"1,700"
+1008,Mayotte,2011,Queensland,0
+1009,Mozambique,2011,Queensland,250
+1010,Namibia,2011,Queensland,300
+1011,Reunion,2011,Queensland,30
+1012,Rwanda,2011,Queensland,250
+1013,St Helena,2011,Queensland,10
+1014,Seychelles,2011,Queensland,520
+1015,Somalia,2011,Queensland,730
+1016,South Africa,2011,Queensland,"39,350"
+1017,Eswatini,2011,Queensland,60
+1018,Tanzania,2011,Queensland,850
+1019,Uganda,2011,Queensland,550
+1020,Zambia,2011,Queensland,"1,310"
+1021,Zimbabwe,2011,Queensland,"9,490"
+1022,"S & E Afr, nec",2011,Queensland,0
+1023,Inadequately described,2011,Queensland,0
+1024,Australia,2011,South Australia,"1,250,720"
+1025,Norfolk Island,2011,South Australia,0
+1026,"Aust E T, nec",2011,South Australia,0
+1027,New Zealand,2011,South Australia,"14,050"
+1028,New Caledonia,2011,South Australia,20
+1029,PNG,2011,South Australia,"1,050"
+1030,Solomon Islands,2011,South Australia,70
+1031,Vanuatu,2011,South Australia,30
+1032,Guam,2011,South Australia,0
+1033,Kiribati,2011,South Australia,20
+1034,Marshall Is,2011,South Australia,0
+1035,"Micronesia, F S",2011,South Australia,0
+1036,Nauru,2011,South Australia,20
+1037,N Mariana Is,2011,South Australia,0
+1038,Palau,2011,South Australia,0
+1039,Cook Islands,2011,South Australia,90
+1040,Fiji,2011,South Australia,"1,310"
+1041,French Poly,2011,South Australia,10
+1042,Niue,2011,South Australia,10
+1043,Samoa,2011,South Australia,100
+1044,Samoa American,2011,South Australia,10
+1045,Tokelau,2011,South Australia,0
+1046,Tonga,2011,South Australia,110
+1047,Tuvalu,2011,South Australia,0
+1048,Wallis/Futuna,2011,South Australia,0
+1049,Pitcairn Is,2011,South Australia,0
+1050,"Polynesia, nec",2011,South Australia,0
+1051,Adelie Land,2011,South Australia,0
+1052,Argentinian A T,2011,South Australia,0
+1053,Australian A T,2011,South Australia,0
+1054,British A T,2011,South Australia,0
+1055,Chilean A T,2011,South Australia,0
+1056,Queen Maud Land,2011,South Australia,0
+1057,Ross Dependency,2011,South Australia,0
+1058,England,2011,South Australia,"108,360"
+1059,Isle of Man,2011,South Australia,70
+1060,N'thern Ireland,2011,South Australia,"2,530"
+1061,Scotland,2011,South Australia,"14,290"
+1062,Wales,2011,South Australia,"3,450"
+1063,Guernsey,2011,South Australia,80
+1064,Jersey,2011,South Australia,80
+1065,Ireland,2011,South Australia,"3,920"
+1066,Austria,2011,South Australia,"1,730"
+1067,Belgium,2011,South Australia,480
+1068,France,2011,South Australia,"1,420"
+1069,Germany,2011,South Australia,"12,840"
+1070,Liechtenstein,2011,South Australia,0
+1071,Luxembourg,2011,South Australia,10
+1072,Monaco,2011,South Australia,10
+1073,Netherlands,2011,South Australia,"8,210"
+1074,Switzerland,2011,South Australia,640
+1075,Denmark,2011,South Australia,640
+1076,Faroe Islands,2011,South Australia,0
+1077,Finland,2011,South Australia,560
+1078,Greenland,2011,South Australia,0
+1079,Iceland,2011,South Australia,20
+1080,Norway,2011,South Australia,210
+1081,Sweden,2011,South Australia,520
+1082,Aland Islands,2011,South Australia,10
+1083,Andorra,2011,South Australia,0
+1084,Gibraltar,2011,South Australia,50
+1085,Holy See,2011,South Australia,0
+1086,Italy,2011,South Australia,"22,060"
+1087,Malta,2011,South Australia,"1,790"
+1088,Portugal,2011,South Australia,600
+1089,San Marino,2011,South Australia,0
+1090,Spain,2011,South Australia,840
+1091,Albania,2011,South Australia,430
+1092,Bosnia/Herzegov,2011,South Australia,"3,280"
+1093,Bulgaria,2011,South Australia,400
+1094,Croatia,2011,South Australia,"4,470"
+1095,Cyprus,2011,South Australia,"1,510"
+1096,North Macedonia,2011,South Australia,640
+1097,Greece,2011,South Australia,"11,380"
+1098,Moldova,2011,South Australia,60
+1099,Romania,2011,South Australia,"1,230"
+1100,Slovenia,2011,South Australia,590
+1101,Montenegro,2011,South Australia,100
+1102,Serbia,2011,South Australia,"2,620"
+1103,Kosovo,2011,South Australia,130
+1104,Belarus,2011,South Australia,100
+1105,Czechia,2011,South Australia,"1,010"
+1106,Estonia,2011,South Australia,230
+1107,Hungary,2011,South Australia,"1,580"
+1108,Latvia,2011,South Australia,760
+1109,Lithuania,2011,South Australia,410
+1110,Poland,2011,South Australia,"6,520"
+1111,Russia,2011,South Australia,"1,450"
+1112,Slovakia,2011,South Australia,470
+1113,Ukraine,2011,South Australia,"1,260"
+1114,Algeria,2011,South Australia,60
+1115,Egypt,2011,South Australia,"1,440"
+1116,Libya,2011,South Australia,130
+1117,Morocco,2011,South Australia,60
+1118,Sudan,2011,South Australia,"1,580"
+1119,Tunisia,2011,South Australia,20
+1120,Western Sahara,2011,South Australia,0
+1121,Sp North Africa,2011,South Australia,0
+1122,South Sudan,2011,South Australia,430
+1123,Bahrain,2011,South Australia,50
+1124,Gaza Str/W Bank,2011,South Australia,140
+1125,Iran,2011,South Australia,"3,230"
+1126,Iraq,2011,South Australia,"1,520"
+1127,Israel,2011,South Australia,250
+1128,Jordan,2011,South Australia,160
+1129,Kuwait,2011,South Australia,180
+1130,Lebanon,2011,South Australia,"1,740"
+1131,Oman,2011,South Australia,50
+1132,Qatar,2011,South Australia,30
+1133,Saudi Arabia,2011,South Australia,910
+1134,Syria,2011,South Australia,270
+1135,Turkey,2011,South Australia,740
+1136,Unit Arab Emir,2011,South Australia,180
+1137,Yemen,2011,South Australia,30
+1138,Myanmar,2011,South Australia,770
+1139,Cambodia,2011,South Australia,"3,170"
+1140,Laos,2011,South Australia,500
+1141,Thailand,2011,South Australia,"2,510"
+1142,Vietnam,2011,South Australia,"13,410"
+1143,Brunei,2011,South Australia,140
+1144,Indonesia,2011,South Australia,"2,200"
+1145,Malaysia,2011,South Australia,"8,040"
+1146,Philippines,2011,South Australia,"9,790"
+1147,Singapore,2011,South Australia,"2,350"
+1148,Timor-Leste,2011,South Australia,140
+1149,China,2011,South Australia,"19,340"
+1150,Hong Kong,2011,South Australia,"3,150"
+1151,Macau,2011,South Australia,60
+1152,Mongolia,2011,South Australia,60
+1153,Taiwan,2011,South Australia,"1,080"
+1154,Japan,2011,South Australia,"1,580"
+1155,"Korea, North",2011,South Australia,10
+1156,"Korea, South",2011,South Australia,"3,900"
+1157,Bangladesh,2011,South Australia,"1,400"
+1158,Bhutan,2011,South Australia,760
+1159,India,2011,South Australia,"21,020"
+1160,Maldives,2011,South Australia,50
+1161,Nepal,2011,South Australia,"1,120"
+1162,Pakistan,2011,South Australia,"1,500"
+1163,Sri Lanka,2011,South Australia,"3,020"
+1164,Afghanistan,2011,South Australia,"3,790"
+1165,Armenia,2011,South Australia,140
+1166,Azerbaijan,2011,South Australia,20
+1167,Georgia,2011,South Australia,80
+1168,Kazakhstan,2011,South Australia,120
+1169,Kyrgyzstan,2011,South Australia,30
+1170,Tajikistan,2011,South Australia,0
+1171,Turkmenistan,2011,South Australia,10
+1172,Uzbekistan,2011,South Australia,240
+1173,Bermuda,2011,South Australia,10
+1174,Canada,2011,South Australia,"2,480"
+1175,St Pierre/Mique,2011,South Australia,0
+1176,USA,2011,South Australia,"4,630"
+1177,Argentina,2011,South Australia,480
+1178,Bolivia,2011,South Australia,50
+1179,Brazil,2011,South Australia,550
+1180,Chile,2011,South Australia,870
+1181,Colombia,2011,South Australia,480
+1182,Ecuador,2011,South Australia,70
+1183,Falkland Is,2011,South Australia,10
+1184,French Guiana,2011,South Australia,0
+1185,Guyana,2011,South Australia,30
+1186,Paraguay,2011,South Australia,20
+1187,Peru,2011,South Australia,320
+1188,Suriname,2011,South Australia,10
+1189,Uruguay,2011,South Australia,140
+1190,Venezuela,2011,South Australia,380
+1191,"S America, nec",2011,South Australia,0
+1192,Belize,2011,South Australia,0
+1193,Costa Rica,2011,South Australia,10
+1194,El Salvador,2011,South Australia,880
+1195,Guatemala,2011,South Australia,30
+1196,Honduras,2011,South Australia,10
+1197,Mexico,2011,South Australia,330
+1198,Nicaragua,2011,South Australia,30
+1199,Panama,2011,South Australia,10
+1200,Anguilla,2011,South Australia,0
+1201,Antigua/Barbuda,2011,South Australia,0
+1202,Aruba,2011,South Australia,0
+1203,Bahamas,2011,South Australia,0
+1204,Barbados,2011,South Australia,20
+1205,Cayman Islands,2011,South Australia,0
+1206,Cuba,2011,South Australia,20
+1207,Dominica,2011,South Australia,0
+1208,Dominican Rep,2011,South Australia,10
+1209,Grenada,2011,South Australia,0
+1210,Guadeloupe,2011,South Australia,0
+1211,Haiti,2011,South Australia,0
+1212,Jamaica,2011,South Australia,40
+1213,Martinique,2011,South Australia,0
+1214,Montserrat,2011,South Australia,0
+1215,Puerto Rico,2011,South Australia,0
+1216,St Kitts/Nevis,2011,South Australia,0
+1217,St Lucia,2011,South Australia,10
+1218,St Vinc/Grenad,2011,South Australia,10
+1219,Trinidad/Tobago,2011,South Australia,40
+1220,Turks/Caicos Is,2011,South Australia,0
+1221,"Virgin Is, Brit",2011,South Australia,0
+1222,"Virgin Is, US",2011,South Australia,0
+1223,St Barthelemy,2011,South Australia,0
+1224,St Martin (Fr),2011,South Australia,0
+1225,Bonaire/SE/Saba,2011,South Australia,0
+1226,Curacao,2011,South Australia,10
+1227,Sint Maarten Dp,2011,South Australia,0
+1228,Benin,2011,South Australia,10
+1229,Burkina Faso,2011,South Australia,0
+1230,Cameroon,2011,South Australia,20
+1231,Cabo Verde,2011,South Australia,0
+1232,Cent Africa Rep,2011,South Australia,0
+1233,Chad,2011,South Australia,0
+1234,"Congo, Rep",2011,South Australia,240
+1235,"Congo, Dem Rep",2011,South Australia,610
+1236,Cote d'Ivoire,2011,South Australia,100
+1237,Equator Guinea,2011,South Australia,0
+1238,Gabon,2011,South Australia,0
+1239,Gambia,2011,South Australia,0
+1240,Ghana,2011,South Australia,250
+1241,Guinea,2011,South Australia,140
+1242,Guinea-Bissau,2011,South Australia,0
+1243,Liberia,2011,South Australia,590
+1244,Mali,2011,South Australia,0
+1245,Mauritania,2011,South Australia,0
+1246,Niger,2011,South Australia,0
+1247,Nigeria,2011,South Australia,310
+1248,Sao Tome/Princ,2011,South Australia,0
+1249,Senegal,2011,South Australia,10
+1250,Sierra Leone,2011,South Australia,230
+1251,Togo,2011,South Australia,60
+1252,Angola,2011,South Australia,20
+1253,Botswana,2011,South Australia,60
+1254,Burundi,2011,South Australia,550
+1255,Comoros,2011,South Australia,0
+1256,Djibouti,2011,South Australia,0
+1257,Eritrea,2011,South Australia,190
+1258,Ethiopia,2011,South Australia,660
+1259,Kenya,2011,South Australia,"1,290"
+1260,Lesotho,2011,South Australia,0
+1261,Madagascar,2011,South Australia,10
+1262,Malawi,2011,South Australia,90
+1263,Mauritius,2011,South Australia,230
+1264,Mayotte,2011,South Australia,0
+1265,Mozambique,2011,South Australia,20
+1266,Namibia,2011,South Australia,70
+1267,Reunion,2011,South Australia,10
+1268,Rwanda,2011,South Australia,90
+1269,St Helena,2011,South Australia,0
+1270,Seychelles,2011,South Australia,40
+1271,Somalia,2011,South Australia,270
+1272,South Africa,2011,South Australia,"6,720"
+1273,Eswatini,2011,South Australia,10
+1274,Tanzania,2011,South Australia,510
+1275,Uganda,2011,South Australia,280
+1276,Zambia,2011,South Australia,260
+1277,Zimbabwe,2011,South Australia,"1,370"
+1278,"S & E Afr, nec",2011,South Australia,0
+1279,Inadequately described,2011,South Australia,0
+1280,Australia,2011,Western Australia,"1,566,900"
+1281,Norfolk Island,2011,Western Australia,10
+1282,"Aust E T, nec",2011,Western Australia,0
+1283,New Zealand,2011,Western Australia,"80,970"
+1284,New Caledonia,2011,Western Australia,40
+1285,PNG,2011,Western Australia,"2,090"
+1286,Solomon Islands,2011,Western Australia,100
+1287,Vanuatu,2011,Western Australia,50
+1288,Guam,2011,Western Australia,0
+1289,Kiribati,2011,Western Australia,30
+1290,Marshall Is,2011,Western Australia,0
+1291,"Micronesia, F S",2011,Western Australia,0
+1292,Nauru,2011,Western Australia,30
+1293,N Mariana Is,2011,Western Australia,0
+1294,Palau,2011,Western Australia,0
+1295,Cook Islands,2011,Western Australia,350
+1296,Fiji,2011,Western Australia,"1,210"
+1297,French Poly,2011,Western Australia,20
+1298,Niue,2011,Western Australia,50
+1299,Samoa,2011,Western Australia,420
+1300,Samoa American,2011,Western Australia,10
+1301,Tokelau,2011,Western Australia,10
+1302,Tonga,2011,Western Australia,250
+1303,Tuvalu,2011,Western Australia,10
+1304,Wallis/Futuna,2011,Western Australia,0
+1305,Pitcairn Is,2011,Western Australia,0
+1306,"Polynesia, nec",2011,Western Australia,0
+1307,Adelie Land,2011,Western Australia,0
+1308,Argentinian A T,2011,Western Australia,0
+1309,Australian A T,2011,Western Australia,0
+1310,British A T,2011,Western Australia,0
+1311,Chilean A T,2011,Western Australia,0
+1312,Queen Maud Land,2011,Western Australia,0
+1313,Ross Dependency,2011,Western Australia,0
+1314,England,2011,Western Australia,"213,390"
+1315,Isle of Man,2011,Western Australia,250
+1316,N'thern Ireland,2011,Western Australia,"4,760"
+1317,Scotland,2011,Western Australia,"29,570"
+1318,Wales,2011,Western Australia,"7,580"
+1319,Guernsey,2011,Western Australia,200
+1320,Jersey,2011,Western Australia,370
+1321,Ireland,2011,Western Australia,"17,050"
+1322,Austria,2011,Western Australia,"1,690"
+1323,Belgium,2011,Western Australia,900
+1324,France,2011,Western Australia,"3,480"
+1325,Germany,2011,Western Australia,"13,190"
+1326,Liechtenstein,2011,Western Australia,10
+1327,Luxembourg,2011,Western Australia,50
+1328,Monaco,2011,Western Australia,10
+1329,Netherlands,2011,Western Australia,"11,780"
+1330,Switzerland,2011,Western Australia,"2,290"
+1331,Denmark,2011,Western Australia,"1,440"
+1332,Faroe Islands,2011,Western Australia,10
+1333,Finland,2011,Western Australia,660
+1334,Greenland,2011,Western Australia,0
+1335,Iceland,2011,Western Australia,180
+1336,Norway,2011,Western Australia,740
+1337,Sweden,2011,Western Australia,"1,220"
+1338,Aland Islands,2011,Western Australia,0
+1339,Andorra,2011,Western Australia,0
+1340,Gibraltar,2011,Western Australia,120
+1341,Holy See,2011,Western Australia,0
+1342,Italy,2011,Western Australia,"21,750"
+1343,Malta,2011,Western Australia,"1,180"
+1344,Portugal,2011,Western Australia,"2,980"
+1345,San Marino,2011,Western Australia,0
+1346,Spain,2011,Western Australia,"1,400"
+1347,Albania,2011,Western Australia,170
+1348,Bosnia/Herzegov,2011,Western Australia,"4,270"
+1349,Bulgaria,2011,Western Australia,410
+1350,Croatia,2011,Western Australia,"7,090"
+1351,Cyprus,2011,Western Australia,520
+1352,North Macedonia,2011,Western Australia,"4,070"
+1353,Greece,2011,Western Australia,"3,200"
+1354,Moldova,2011,Western Australia,40
+1355,Romania,2011,Western Australia,"1,940"
+1356,Slovenia,2011,Western Australia,470
+1357,Montenegro,2011,Western Australia,170
+1358,Serbia,2011,Western Australia,"3,010"
+1359,Kosovo,2011,Western Australia,60
+1360,Belarus,2011,Western Australia,70
+1361,Czechia,2011,Western Australia,"1,130"
+1362,Estonia,2011,Western Australia,340
+1363,Hungary,2011,Western Australia,"1,440"
+1364,Latvia,2011,Western Australia,400
+1365,Lithuania,2011,Western Australia,220
+1366,Poland,2011,Western Australia,"6,830"
+1367,Russia,2011,Western Australia,"1,500"
+1368,Slovakia,2011,Western Australia,490
+1369,Ukraine,2011,Western Australia,780
+1370,Algeria,2011,Western Australia,160
+1371,Egypt,2011,Western Australia,"2,190"
+1372,Libya,2011,Western Australia,370
+1373,Morocco,2011,Western Australia,160
+1374,Sudan,2011,Western Australia,"3,150"
+1375,Tunisia,2011,Western Australia,50
+1376,Western Sahara,2011,Western Australia,0
+1377,Sp North Africa,2011,Western Australia,0
+1378,South Sudan,2011,Western Australia,570
+1379,Bahrain,2011,Western Australia,230
+1380,Gaza Str/W Bank,2011,Western Australia,200
+1381,Iran,2011,Western Australia,"4,430"
+1382,Iraq,2011,Western Australia,"3,070"
+1383,Israel,2011,Western Australia,830
+1384,Jordan,2011,Western Australia,440
+1385,Kuwait,2011,Western Australia,440
+1386,Lebanon,2011,Western Australia,"1,240"
+1387,Oman,2011,Western Australia,240
+1388,Qatar,2011,Western Australia,170
+1389,Saudi Arabia,2011,Western Australia,"1,340"
+1390,Syria,2011,Western Australia,350
+1391,Turkey,2011,Western Australia,"1,310"
+1392,Unit Arab Emir,2011,Western Australia,810
+1393,Yemen,2011,Western Australia,120
+1394,Myanmar,2011,Western Australia,"8,470"
+1395,Cambodia,2011,Western Australia,"1,180"
+1396,Laos,2011,Western Australia,230
+1397,Thailand,2011,Western Australia,"6,710"
+1398,Vietnam,2011,Western Australia,"14,590"
+1399,Brunei,2011,Western Australia,"1,180"
+1400,Indonesia,2011,Western Australia,"12,070"
+1401,Malaysia,2011,Western Australia,"29,430"
+1402,Philippines,2011,Western Australia,"19,880"
+1403,Singapore,2011,Western Australia,"16,300"
+1404,Timor-Leste,2011,Western Australia,480
+1405,China,2011,Western Australia,"20,520"
+1406,Hong Kong,2011,Western Australia,"5,640"
+1407,Macau,2011,Western Australia,170
+1408,Mongolia,2011,Western Australia,110
+1409,Taiwan,2011,Western Australia,"2,050"
+1410,Japan,2011,Western Australia,"4,270"
+1411,"Korea, North",2011,Western Australia,10
+1412,"Korea, South",2011,Western Australia,"4,910"
+1413,Bangladesh,2011,Western Australia,"1,710"
+1414,Bhutan,2011,Western Australia,150
+1415,India,2011,Western Australia,"34,640"
+1416,Maldives,2011,Western Australia,130
+1417,Nepal,2011,Western Australia,"1,050"
+1418,Pakistan,2011,Western Australia,"2,930"
+1419,Sri Lanka,2011,Western Australia,"6,310"
+1420,Afghanistan,2011,Western Australia,"4,650"
+1421,Armenia,2011,Western Australia,40
+1422,Azerbaijan,2011,Western Australia,60
+1423,Georgia,2011,Western Australia,10
+1424,Kazakhstan,2011,Western Australia,170
+1425,Kyrgyzstan,2011,Western Australia,60
+1426,Tajikistan,2011,Western Australia,20
+1427,Turkmenistan,2011,Western Australia,10
+1428,Uzbekistan,2011,Western Australia,110
+1429,Bermuda,2011,Western Australia,120
+1430,Canada,2011,Western Australia,"6,270"
+1431,St Pierre/Mique,2011,Western Australia,0
+1432,USA,2011,Western Australia,"10,400"
+1433,Argentina,2011,Western Australia,720
+1434,Bolivia,2011,Western Australia,40
+1435,Brazil,2011,Western Australia,"2,090"
+1436,Chile,2011,Western Australia,"1,800"
+1437,Colombia,2011,Western Australia,"1,100"
+1438,Ecuador,2011,Western Australia,100
+1439,Falkland Is,2011,Western Australia,10
+1440,French Guiana,2011,Western Australia,0
+1441,Guyana,2011,Western Australia,80
+1442,Paraguay,2011,Western Australia,30
+1443,Peru,2011,Western Australia,690
+1444,Suriname,2011,Western Australia,20
+1445,Uruguay,2011,Western Australia,200
+1446,Venezuela,2011,Western Australia,540
+1447,"S America, nec",2011,Western Australia,0
+1448,Belize,2011,Western Australia,10
+1449,Costa Rica,2011,Western Australia,50
+1450,El Salvador,2011,Western Australia,"1,410"
+1451,Guatemala,2011,Western Australia,30
+1452,Honduras,2011,Western Australia,30
+1453,Mexico,2011,Western Australia,280
+1454,Nicaragua,2011,Western Australia,50
+1455,Panama,2011,Western Australia,40
+1456,Anguilla,2011,Western Australia,0
+1457,Antigua/Barbuda,2011,Western Australia,10
+1458,Aruba,2011,Western Australia,10
+1459,Bahamas,2011,Western Australia,90
+1460,Barbados,2011,Western Australia,60
+1461,Cayman Islands,2011,Western Australia,20
+1462,Cuba,2011,Western Australia,50
+1463,Dominica,2011,Western Australia,0
+1464,Dominican Rep,2011,Western Australia,20
+1465,Grenada,2011,Western Australia,10
+1466,Guadeloupe,2011,Western Australia,0
+1467,Haiti,2011,Western Australia,10
+1468,Jamaica,2011,Western Australia,150
+1469,Martinique,2011,Western Australia,0
+1470,Montserrat,2011,Western Australia,0
+1471,Puerto Rico,2011,Western Australia,30
+1472,St Kitts/Nevis,2011,Western Australia,0
+1473,St Lucia,2011,Western Australia,0
+1474,St Vinc/Grenad,2011,Western Australia,0
+1475,Trinidad/Tobago,2011,Western Australia,520
+1476,Turks/Caicos Is,2011,Western Australia,0
+1477,"Virgin Is, Brit",2011,Western Australia,0
+1478,"Virgin Is, US",2011,Western Australia,0
+1479,St Barthelemy,2011,Western Australia,0
+1480,St Martin (Fr),2011,Western Australia,0
+1481,Bonaire/SE/Saba,2011,Western Australia,0
+1482,Curacao,2011,Western Australia,20
+1483,Sint Maarten Dp,2011,Western Australia,0
+1484,Benin,2011,Western Australia,10
+1485,Burkina Faso,2011,Western Australia,10
+1486,Cameroon,2011,Western Australia,50
+1487,Cabo Verde,2011,Western Australia,10
+1488,Cent Africa Rep,2011,Western Australia,10
+1489,Chad,2011,Western Australia,10
+1490,"Congo, Rep",2011,Western Australia,210
+1491,"Congo, Dem Rep",2011,Western Australia,520
+1492,Cote d'Ivoire,2011,Western Australia,80
+1493,Equator Guinea,2011,Western Australia,0
+1494,Gabon,2011,Western Australia,10
+1495,Gambia,2011,Western Australia,20
+1496,Ghana,2011,Western Australia,510
+1497,Guinea,2011,Western Australia,110
+1498,Guinea-Bissau,2011,Western Australia,0
+1499,Liberia,2011,Western Australia,580
+1500,Mali,2011,Western Australia,10
+1501,Mauritania,2011,Western Australia,20
+1502,Niger,2011,Western Australia,0
+1503,Nigeria,2011,Western Australia,840
+1504,Sao Tome/Princ,2011,Western Australia,0
+1505,Senegal,2011,Western Australia,60
+1506,Sierra Leone,2011,Western Australia,490
+1507,Togo,2011,Western Australia,50
+1508,Angola,2011,Western Australia,80
+1509,Botswana,2011,Western Australia,270
+1510,Burundi,2011,Western Australia,370
+1511,Comoros,2011,Western Australia,0
+1512,Djibouti,2011,Western Australia,20
+1513,Eritrea,2011,Western Australia,540
+1514,Ethiopia,2011,Western Australia,"1,330"
+1515,Kenya,2011,Western Australia,"5,170"
+1516,Lesotho,2011,Western Australia,30
+1517,Madagascar,2011,Western Australia,40
+1518,Malawi,2011,Western Australia,290
+1519,Mauritius,2011,Western Australia,"4,710"
+1520,Mayotte,2011,Western Australia,0
+1521,Mozambique,2011,Western Australia,220
+1522,Namibia,2011,Western Australia,360
+1523,Reunion,2011,Western Australia,70
+1524,Rwanda,2011,Western Australia,150
+1525,St Helena,2011,Western Australia,10
+1526,Seychelles,2011,Western Australia,950
+1527,Somalia,2011,Western Australia,"1,260"
+1528,South Africa,2011,Western Australia,"39,800"
+1529,Eswatini,2011,Western Australia,100
+1530,Tanzania,2011,Western Australia,920
+1531,Uganda,2011,Western Australia,620
+1532,Zambia,2011,Western Australia,"2,490"
+1533,Zimbabwe,2011,Western Australia,"11,420"
+1534,"S & E Afr, nec",2011,Western Australia,0
+1535,Inadequately described,2011,Western Australia,0
+1536,Australia,2011,Tasmania,"447,290"
+1537,Norfolk Island,2011,Tasmania,0
+1538,"Aust E T, nec",2011,Tasmania,0
+1539,New Zealand,2011,Tasmania,"5,460"
+1540,New Caledonia,2011,Tasmania,10
+1541,PNG,2011,Tasmania,360
+1542,Solomon Islands,2011,Tasmania,20
+1543,Vanuatu,2011,Tasmania,10
+1544,Guam,2011,Tasmania,0
+1545,Kiribati,2011,Tasmania,10
+1546,Marshall Is,2011,Tasmania,10
+1547,"Micronesia, F S",2011,Tasmania,10
+1548,Nauru,2011,Tasmania,10
+1549,N Mariana Is,2011,Tasmania,0
+1550,Palau,2011,Tasmania,0
+1551,Cook Islands,2011,Tasmania,20
+1552,Fiji,2011,Tasmania,310
+1553,French Poly,2011,Tasmania,0
+1554,Niue,2011,Tasmania,0
+1555,Samoa,2011,Tasmania,40
+1556,Samoa American,2011,Tasmania,0
+1557,Tokelau,2011,Tasmania,0
+1558,Tonga,2011,Tasmania,40
+1559,Tuvalu,2011,Tasmania,0
+1560,Wallis/Futuna,2011,Tasmania,0
+1561,Pitcairn Is,2011,Tasmania,0
+1562,"Polynesia, nec",2011,Tasmania,0
+1563,Adelie Land,2011,Tasmania,0
+1564,Argentinian A T,2011,Tasmania,0
+1565,Australian A T,2011,Tasmania,0
+1566,British A T,2011,Tasmania,0
+1567,Chilean A T,2011,Tasmania,0
+1568,Queen Maud Land,2011,Tasmania,0
+1569,Ross Dependency,2011,Tasmania,0
+1570,England,2011,Tasmania,"20,930"
+1571,Isle of Man,2011,Tasmania,30
+1572,N'thern Ireland,2011,Tasmania,450
+1573,Scotland,2011,Tasmania,"2,860"
+1574,Wales,2011,Tasmania,750
+1575,Guernsey,2011,Tasmania,10
+1576,Jersey,2011,Tasmania,20
+1577,Ireland,2011,Tasmania,770
+1578,Austria,2011,Tasmania,380
+1579,Belgium,2011,Tasmania,100
+1580,France,2011,Tasmania,360
+1581,Germany,2011,Tasmania,"2,550"
+1582,Liechtenstein,2011,Tasmania,0
+1583,Luxembourg,2011,Tasmania,0
+1584,Monaco,2011,Tasmania,0
+1585,Netherlands,2011,Tasmania,"2,770"
+1586,Switzerland,2011,Tasmania,340
+1587,Denmark,2011,Tasmania,210
+1588,Faroe Islands,2011,Tasmania,0
+1589,Finland,2011,Tasmania,170
+1590,Greenland,2011,Tasmania,0
+1591,Iceland,2011,Tasmania,10
+1592,Norway,2011,Tasmania,60
+1593,Sweden,2011,Tasmania,150
+1594,Aland Islands,2011,Tasmania,0
+1595,Andorra,2011,Tasmania,0
+1596,Gibraltar,2011,Tasmania,0
+1597,Holy See,2011,Tasmania,0
+1598,Italy,2011,Tasmania,"1,070"
+1599,Malta,2011,Tasmania,130
+1600,Portugal,2011,Tasmania,40
+1601,San Marino,2011,Tasmania,0
+1602,Spain,2011,Tasmania,90
+1603,Albania,2011,Tasmania,10
+1604,Bosnia/Herzegov,2011,Tasmania,150
+1605,Bulgaria,2011,Tasmania,20
+1606,Croatia,2011,Tasmania,380
+1607,Cyprus,2011,Tasmania,60
+1608,North Macedonia,2011,Tasmania,40
+1609,Greece,2011,Tasmania,610
+1610,Moldova,2011,Tasmania,0
+1611,Romania,2011,Tasmania,70
+1612,Slovenia,2011,Tasmania,80
+1613,Montenegro,2011,Tasmania,0
+1614,Serbia,2011,Tasmania,180
+1615,Kosovo,2011,Tasmania,10
+1616,Belarus,2011,Tasmania,20
+1617,Czechia,2011,Tasmania,230
+1618,Estonia,2011,Tasmania,30
+1619,Hungary,2011,Tasmania,260
+1620,Latvia,2011,Tasmania,70
+1621,Lithuania,2011,Tasmania,50
+1622,Poland,2011,Tasmania,780
+1623,Russia,2011,Tasmania,150
+1624,Slovakia,2011,Tasmania,40
+1625,Ukraine,2011,Tasmania,100
+1626,Algeria,2011,Tasmania,10
+1627,Egypt,2011,Tasmania,130
+1628,Libya,2011,Tasmania,40
+1629,Morocco,2011,Tasmania,20
+1630,Sudan,2011,Tasmania,480
+1631,Tunisia,2011,Tasmania,0
+1632,Western Sahara,2011,Tasmania,0
+1633,Sp North Africa,2011,Tasmania,0
+1634,South Sudan,2011,Tasmania,80
+1635,Bahrain,2011,Tasmania,20
+1636,Gaza Str/W Bank,2011,Tasmania,10
+1637,Iran,2011,Tasmania,220
+1638,Iraq,2011,Tasmania,60
+1639,Israel,2011,Tasmania,40
+1640,Jordan,2011,Tasmania,10
+1641,Kuwait,2011,Tasmania,10
+1642,Lebanon,2011,Tasmania,70
+1643,Oman,2011,Tasmania,10
+1644,Qatar,2011,Tasmania,0
+1645,Saudi Arabia,2011,Tasmania,180
+1646,Syria,2011,Tasmania,70
+1647,Turkey,2011,Tasmania,80
+1648,Unit Arab Emir,2011,Tasmania,40
+1649,Yemen,2011,Tasmania,0
+1650,Myanmar,2011,Tasmania,290
+1651,Cambodia,2011,Tasmania,20
+1652,Laos,2011,Tasmania,30
+1653,Thailand,2011,Tasmania,560
+1654,Vietnam,2011,Tasmania,290
+1655,Brunei,2011,Tasmania,10
+1656,Indonesia,2011,Tasmania,270
+1657,Malaysia,2011,Tasmania,"1,410"
+1658,Philippines,2011,Tasmania,"1,410"
+1659,Singapore,2011,Tasmania,520
+1660,Timor-Leste,2011,Tasmania,10
+1661,China,2011,Tasmania,"2,330"
+1662,Hong Kong,2011,Tasmania,380
+1663,Macau,2011,Tasmania,10
+1664,Mongolia,2011,Tasmania,10
+1665,Taiwan,2011,Tasmania,150
+1666,Japan,2011,Tasmania,410
+1667,"Korea, North",2011,Tasmania,0
+1668,"Korea, South",2011,Tasmania,740
+1669,Bangladesh,2011,Tasmania,60
+1670,Bhutan,2011,Tasmania,430
+1671,India,2011,Tasmania,"1,660"
+1672,Maldives,2011,Tasmania,10
+1673,Nepal,2011,Tasmania,330
+1674,Pakistan,2011,Tasmania,130
+1675,Sri Lanka,2011,Tasmania,330
+1676,Afghanistan,2011,Tasmania,50
+1677,Armenia,2011,Tasmania,0
+1678,Azerbaijan,2011,Tasmania,0
+1679,Georgia,2011,Tasmania,0
+1680,Kazakhstan,2011,Tasmania,0
+1681,Kyrgyzstan,2011,Tasmania,0
+1682,Tajikistan,2011,Tasmania,0
+1683,Turkmenistan,2011,Tasmania,0
+1684,Uzbekistan,2011,Tasmania,0
+1685,Bermuda,2011,Tasmania,10
+1686,Canada,2011,Tasmania,880
+1687,St Pierre/Mique,2011,Tasmania,0
+1688,USA,2011,Tasmania,"1,720"
+1689,Argentina,2011,Tasmania,70
+1690,Bolivia,2011,Tasmania,10
+1691,Brazil,2011,Tasmania,80
+1692,Chile,2011,Tasmania,220
+1693,Colombia,2011,Tasmania,40
+1694,Ecuador,2011,Tasmania,10
+1695,Falkland Is,2011,Tasmania,10
+1696,French Guiana,2011,Tasmania,0
+1697,Guyana,2011,Tasmania,10
+1698,Paraguay,2011,Tasmania,0
+1699,Peru,2011,Tasmania,50
+1700,Suriname,2011,Tasmania,0
+1701,Uruguay,2011,Tasmania,30
+1702,Venezuela,2011,Tasmania,10
+1703,"S America, nec",2011,Tasmania,0
+1704,Belize,2011,Tasmania,0
+1705,Costa Rica,2011,Tasmania,10
+1706,El Salvador,2011,Tasmania,210
+1707,Guatemala,2011,Tasmania,0
+1708,Honduras,2011,Tasmania,0
+1709,Mexico,2011,Tasmania,30
+1710,Nicaragua,2011,Tasmania,0
+1711,Panama,2011,Tasmania,0
+1712,Anguilla,2011,Tasmania,0
+1713,Antigua/Barbuda,2011,Tasmania,0
+1714,Aruba,2011,Tasmania,0
+1715,Bahamas,2011,Tasmania,0
+1716,Barbados,2011,Tasmania,0
+1717,Cayman Islands,2011,Tasmania,0
+1718,Cuba,2011,Tasmania,0
+1719,Dominica,2011,Tasmania,0
+1720,Dominican Rep,2011,Tasmania,0
+1721,Grenada,2011,Tasmania,0
+1722,Guadeloupe,2011,Tasmania,0
+1723,Haiti,2011,Tasmania,0
+1724,Jamaica,2011,Tasmania,10
+1725,Martinique,2011,Tasmania,0
+1726,Montserrat,2011,Tasmania,0
+1727,Puerto Rico,2011,Tasmania,0
+1728,St Kitts/Nevis,2011,Tasmania,0
+1729,St Lucia,2011,Tasmania,0
+1730,St Vinc/Grenad,2011,Tasmania,0
+1731,Trinidad/Tobago,2011,Tasmania,20
+1732,Turks/Caicos Is,2011,Tasmania,0
+1733,"Virgin Is, Brit",2011,Tasmania,0
+1734,"Virgin Is, US",2011,Tasmania,0
+1735,St Barthelemy,2011,Tasmania,0
+1736,St Martin (Fr),2011,Tasmania,0
+1737,Bonaire/SE/Saba,2011,Tasmania,0
+1738,Curacao,2011,Tasmania,0
+1739,Sint Maarten Dp,2011,Tasmania,0
+1740,Benin,2011,Tasmania,0
+1741,Burkina Faso,2011,Tasmania,0
+1742,Cameroon,2011,Tasmania,10
+1743,Cabo Verde,2011,Tasmania,0
+1744,Cent Africa Rep,2011,Tasmania,0
+1745,Chad,2011,Tasmania,0
+1746,"Congo, Rep",2011,Tasmania,60
+1747,"Congo, Dem Rep",2011,Tasmania,110
+1748,Cote d'Ivoire,2011,Tasmania,10
+1749,Equator Guinea,2011,Tasmania,0
+1750,Gabon,2011,Tasmania,0
+1751,Gambia,2011,Tasmania,0
+1752,Ghana,2011,Tasmania,30
+1753,Guinea,2011,Tasmania,10
+1754,Guinea-Bissau,2011,Tasmania,0
+1755,Liberia,2011,Tasmania,40
+1756,Mali,2011,Tasmania,0
+1757,Mauritania,2011,Tasmania,0
+1758,Niger,2011,Tasmania,0
+1759,Nigeria,2011,Tasmania,80
+1760,Sao Tome/Princ,2011,Tasmania,0
+1761,Senegal,2011,Tasmania,0
+1762,Sierra Leone,2011,Tasmania,100
+1763,Togo,2011,Tasmania,0
+1764,Angola,2011,Tasmania,0
+1765,Botswana,2011,Tasmania,20
+1766,Burundi,2011,Tasmania,40
+1767,Comoros,2011,Tasmania,0
+1768,Djibouti,2011,Tasmania,0
+1769,Eritrea,2011,Tasmania,70
+1770,Ethiopia,2011,Tasmania,240
+1771,Kenya,2011,Tasmania,170
+1772,Lesotho,2011,Tasmania,0
+1773,Madagascar,2011,Tasmania,0
+1774,Malawi,2011,Tasmania,20
+1775,Mauritius,2011,Tasmania,60
+1776,Mayotte,2011,Tasmania,0
+1777,Mozambique,2011,Tasmania,0
+1778,Namibia,2011,Tasmania,20
+1779,Reunion,2011,Tasmania,0
+1780,Rwanda,2011,Tasmania,30
+1781,St Helena,2011,Tasmania,0
+1782,Seychelles,2011,Tasmania,10
+1783,Somalia,2011,Tasmania,10
+1784,South Africa,2011,Tasmania,"1,690"
+1785,Eswatini,2011,Tasmania,10
+1786,Tanzania,2011,Tasmania,50
+1787,Uganda,2011,Tasmania,100
+1788,Zambia,2011,Tasmania,100
+1789,Zimbabwe,2011,Tasmania,350
+1790,"S & E Afr, nec",2011,Tasmania,0
+1791,Inadequately described,2011,Tasmania,0
+1792,Australia,2011,Northern Territory,"187,680"
+1793,Norfolk Island,2011,Northern Territory,0
+1794,"Aust E T, nec",2011,Northern Territory,0
+1795,New Zealand,2011,Northern Territory,"4,840"
+1796,New Caledonia,2011,Northern Territory,10
+1797,PNG,2011,Northern Territory,760
+1798,Solomon Islands,2011,Northern Territory,50
+1799,Vanuatu,2011,Northern Territory,30
+1800,Guam,2011,Northern Territory,0
+1801,Kiribati,2011,Northern Territory,20
+1802,Marshall Is,2011,Northern Territory,0
+1803,"Micronesia, F S",2011,Northern Territory,0
+1804,Nauru,2011,Northern Territory,10
+1805,N Mariana Is,2011,Northern Territory,0
+1806,Palau,2011,Northern Territory,0
+1807,Cook Islands,2011,Northern Territory,40
+1808,Fiji,2011,Northern Territory,360
+1809,French Poly,2011,Northern Territory,10
+1810,Niue,2011,Northern Territory,0
+1811,Samoa,2011,Northern Territory,40
+1812,Samoa American,2011,Northern Territory,0
+1813,Tokelau,2011,Northern Territory,20
+1814,Tonga,2011,Northern Territory,70
+1815,Tuvalu,2011,Northern Territory,0
+1816,Wallis/Futuna,2011,Northern Territory,0
+1817,Pitcairn Is,2011,Northern Territory,0
+1818,"Polynesia, nec",2011,Northern Territory,0
+1819,Adelie Land,2011,Northern Territory,0
+1820,Argentinian A T,2011,Northern Territory,0
+1821,Australian A T,2011,Northern Territory,0
+1822,British A T,2011,Northern Territory,0
+1823,Chilean A T,2011,Northern Territory,0
+1824,Queen Maud Land,2011,Northern Territory,0
+1825,Ross Dependency,2011,Northern Territory,0
+1826,England,2011,Northern Territory,"6,350"
+1827,Isle of Man,2011,Northern Territory,10
+1828,N'thern Ireland,2011,Northern Territory,150
+1829,Scotland,2011,Northern Territory,940
+1830,Wales,2011,Northern Territory,190
+1831,Guernsey,2011,Northern Territory,0
+1832,Jersey,2011,Northern Territory,10
+1833,Ireland,2011,Northern Territory,820
+1834,Austria,2011,Northern Territory,130
+1835,Belgium,2011,Northern Territory,60
+1836,France,2011,Northern Territory,310
+1837,Germany,2011,Northern Territory,"1,240"
+1838,Liechtenstein,2011,Northern Territory,0
+1839,Luxembourg,2011,Northern Territory,0
+1840,Monaco,2011,Northern Territory,0
+1841,Netherlands,2011,Northern Territory,590
+1842,Switzerland,2011,Northern Territory,180
+1843,Denmark,2011,Northern Territory,140
+1844,Faroe Islands,2011,Northern Territory,0
+1845,Finland,2011,Northern Territory,70
+1846,Greenland,2011,Northern Territory,0
+1847,Iceland,2011,Northern Territory,0
+1848,Norway,2011,Northern Territory,40
+1849,Sweden,2011,Northern Territory,100
+1850,Aland Islands,2011,Northern Territory,0
+1851,Andorra,2011,Northern Territory,0
+1852,Gibraltar,2011,Northern Territory,10
+1853,Holy See,2011,Northern Territory,0
+1854,Italy,2011,Northern Territory,550
+1855,Malta,2011,Northern Territory,60
+1856,Portugal,2011,Northern Territory,200
+1857,San Marino,2011,Northern Territory,0
+1858,Spain,2011,Northern Territory,110
+1859,Albania,2011,Northern Territory,0
+1860,Bosnia/Herzegov,2011,Northern Territory,60
+1861,Bulgaria,2011,Northern Territory,20
+1862,Croatia,2011,Northern Territory,70
+1863,Cyprus,2011,Northern Territory,180
+1864,North Macedonia,2011,Northern Territory,30
+1865,Greece,2011,Northern Territory,"1,420"
+1866,Moldova,2011,Northern Territory,0
+1867,Romania,2011,Northern Territory,30
+1868,Slovenia,2011,Northern Territory,40
+1869,Montenegro,2011,Northern Territory,0
+1870,Serbia,2011,Northern Territory,70
+1871,Kosovo,2011,Northern Territory,10
+1872,Belarus,2011,Northern Territory,0
+1873,Czechia,2011,Northern Territory,100
+1874,Estonia,2011,Northern Territory,40
+1875,Hungary,2011,Northern Territory,90
+1876,Latvia,2011,Northern Territory,20
+1877,Lithuania,2011,Northern Territory,10
+1878,Poland,2011,Northern Territory,140
+1879,Russia,2011,Northern Territory,50
+1880,Slovakia,2011,Northern Territory,10
+1881,Ukraine,2011,Northern Territory,20
+1882,Algeria,2011,Northern Territory,10
+1883,Egypt,2011,Northern Territory,70
+1884,Libya,2011,Northern Territory,0
+1885,Morocco,2011,Northern Territory,10
+1886,Sudan,2011,Northern Territory,210
+1887,Tunisia,2011,Northern Territory,10
+1888,Western Sahara,2011,Northern Territory,0
+1889,Sp North Africa,2011,Northern Territory,0
+1890,South Sudan,2011,Northern Territory,80
+1891,Bahrain,2011,Northern Territory,10
+1892,Gaza Str/W Bank,2011,Northern Territory,10
+1893,Iran,2011,Northern Territory,470
+1894,Iraq,2011,Northern Territory,120
+1895,Israel,2011,Northern Territory,20
+1896,Jordan,2011,Northern Territory,10
+1897,Kuwait,2011,Northern Territory,20
+1898,Lebanon,2011,Northern Territory,60
+1899,Oman,2011,Northern Territory,10
+1900,Qatar,2011,Northern Territory,0
+1901,Saudi Arabia,2011,Northern Territory,30
+1902,Syria,2011,Northern Territory,10
+1903,Turkey,2011,Northern Territory,50
+1904,Unit Arab Emir,2011,Northern Territory,30
+1905,Yemen,2011,Northern Territory,0
+1906,Myanmar,2011,Northern Territory,230
+1907,Cambodia,2011,Northern Territory,190
+1908,Laos,2011,Northern Territory,50
+1909,Thailand,2011,Northern Territory,900
+1910,Vietnam,2011,Northern Territory,820
+1911,Brunei,2011,Northern Territory,30
+1912,Indonesia,2011,Northern Territory,"1,270"
+1913,Malaysia,2011,Northern Territory,780
+1914,Philippines,2011,Northern Territory,"4,430"
+1915,Singapore,2011,Northern Territory,300
+1916,Timor-Leste,2011,Northern Territory,"1,260"
+1917,China,2011,Northern Territory,"1,130"
+1918,Hong Kong,2011,Northern Territory,280
+1919,Macau,2011,Northern Territory,10
+1920,Mongolia,2011,Northern Territory,10
+1921,Taiwan,2011,Northern Territory,310
+1922,Japan,2011,Northern Territory,200
+1923,"Korea, North",2011,Northern Territory,0
+1924,"Korea, South",2011,Northern Territory,380
+1925,Bangladesh,2011,Northern Territory,210
+1926,Bhutan,2011,Northern Territory,20
+1927,India,2011,Northern Territory,"2,390"
+1928,Maldives,2011,Northern Territory,0
+1929,Nepal,2011,Northern Territory,420
+1930,Pakistan,2011,Northern Territory,240
+1931,Sri Lanka,2011,Northern Territory,580
+1932,Afghanistan,2011,Northern Territory,230
+1933,Armenia,2011,Northern Territory,0
+1934,Azerbaijan,2011,Northern Territory,0
+1935,Georgia,2011,Northern Territory,0
+1936,Kazakhstan,2011,Northern Territory,0
+1937,Kyrgyzstan,2011,Northern Territory,0
+1938,Tajikistan,2011,Northern Territory,0
+1939,Turkmenistan,2011,Northern Territory,0
+1940,Uzbekistan,2011,Northern Territory,0
+1941,Bermuda,2011,Northern Territory,0
+1942,Canada,2011,Northern Territory,430
+1943,St Pierre/Mique,2011,Northern Territory,0
+1944,USA,2011,Northern Territory,"1,380"
+1945,Argentina,2011,Northern Territory,40
+1946,Bolivia,2011,Northern Territory,10
+1947,Brazil,2011,Northern Territory,90
+1948,Chile,2011,Northern Territory,50
+1949,Colombia,2011,Northern Territory,50
+1950,Ecuador,2011,Northern Territory,0
+1951,Falkland Is,2011,Northern Territory,10
+1952,French Guiana,2011,Northern Territory,0
+1953,Guyana,2011,Northern Territory,10
+1954,Paraguay,2011,Northern Territory,0
+1955,Peru,2011,Northern Territory,30
+1956,Suriname,2011,Northern Territory,0
+1957,Uruguay,2011,Northern Territory,10
+1958,Venezuela,2011,Northern Territory,20
+1959,"S America, nec",2011,Northern Territory,0
+1960,Belize,2011,Northern Territory,0
+1961,Costa Rica,2011,Northern Territory,0
+1962,El Salvador,2011,Northern Territory,20
+1963,Guatemala,2011,Northern Territory,10
+1964,Honduras,2011,Northern Territory,0
+1965,Mexico,2011,Northern Territory,10
+1966,Nicaragua,2011,Northern Territory,0
+1967,Panama,2011,Northern Territory,10
+1968,Anguilla,2011,Northern Territory,0
+1969,Antigua/Barbuda,2011,Northern Territory,0
+1970,Aruba,2011,Northern Territory,0
+1971,Bahamas,2011,Northern Territory,10
+1972,Barbados,2011,Northern Territory,0
+1973,Cayman Islands,2011,Northern Territory,0
+1974,Cuba,2011,Northern Territory,0
+1975,Dominica,2011,Northern Territory,0
+1976,Dominican Rep,2011,Northern Territory,10
+1977,Grenada,2011,Northern Territory,0
+1978,Guadeloupe,2011,Northern Territory,0
+1979,Haiti,2011,Northern Territory,0
+1980,Jamaica,2011,Northern Territory,20
+1981,Martinique,2011,Northern Territory,0
+1982,Montserrat,2011,Northern Territory,0
+1983,Puerto Rico,2011,Northern Territory,10
+1984,St Kitts/Nevis,2011,Northern Territory,0
+1985,St Lucia,2011,Northern Territory,0
+1986,St Vinc/Grenad,2011,Northern Territory,0
+1987,Trinidad/Tobago,2011,Northern Territory,10
+1988,Turks/Caicos Is,2011,Northern Territory,0
+1989,"Virgin Is, Brit",2011,Northern Territory,0
+1990,"Virgin Is, US",2011,Northern Territory,0
+1991,St Barthelemy,2011,Northern Territory,0
+1992,St Martin (Fr),2011,Northern Territory,0
+1993,Bonaire/SE/Saba,2011,Northern Territory,0
+1994,Curacao,2011,Northern Territory,0
+1995,Sint Maarten Dp,2011,Northern Territory,0
+1996,Benin,2011,Northern Territory,0
+1997,Burkina Faso,2011,Northern Territory,0
+1998,Cameroon,2011,Northern Territory,10
+1999,Cabo Verde,2011,Northern Territory,0
+2000,Cent Africa Rep,2011,Northern Territory,0
+2001,Chad,2011,Northern Territory,0
+2002,"Congo, Rep",2011,Northern Territory,30
+2003,"Congo, Dem Rep",2011,Northern Territory,70
+2004,Cote d'Ivoire,2011,Northern Territory,0
+2005,Equator Guinea,2011,Northern Territory,0
+2006,Gabon,2011,Northern Territory,0
+2007,Gambia,2011,Northern Territory,0
+2008,Ghana,2011,Northern Territory,40
+2009,Guinea,2011,Northern Territory,10
+2010,Guinea-Bissau,2011,Northern Territory,0
+2011,Liberia,2011,Northern Territory,80
+2012,Mali,2011,Northern Territory,0
+2013,Mauritania,2011,Northern Territory,0
+2014,Niger,2011,Northern Territory,0
+2015,Nigeria,2011,Northern Territory,60
+2016,Sao Tome/Princ,2011,Northern Territory,0
+2017,Senegal,2011,Northern Territory,0
+2018,Sierra Leone,2011,Northern Territory,10
+2019,Togo,2011,Northern Territory,0
+2020,Angola,2011,Northern Territory,10
+2021,Botswana,2011,Northern Territory,20
+2022,Burundi,2011,Northern Territory,10
+2023,Comoros,2011,Northern Territory,0
+2024,Djibouti,2011,Northern Territory,0
+2025,Eritrea,2011,Northern Territory,0
+2026,Ethiopia,2011,Northern Territory,40
+2027,Kenya,2011,Northern Territory,150
+2028,Lesotho,2011,Northern Territory,0
+2029,Madagascar,2011,Northern Territory,0
+2030,Malawi,2011,Northern Territory,20
+2031,Mauritius,2011,Northern Territory,50
+2032,Mayotte,2011,Northern Territory,0
+2033,Mozambique,2011,Northern Territory,30
+2034,Namibia,2011,Northern Territory,20
+2035,Reunion,2011,Northern Territory,0
+2036,Rwanda,2011,Northern Territory,0
+2037,St Helena,2011,Northern Territory,0
+2038,Seychelles,2011,Northern Territory,40
+2039,Somalia,2011,Northern Territory,30
+2040,South Africa,2011,Northern Territory,900
+2041,Eswatini,2011,Northern Territory,0
+2042,Tanzania,2011,Northern Territory,40
+2043,Uganda,2011,Northern Territory,40
+2044,Zambia,2011,Northern Territory,70
+2045,Zimbabwe,2011,Northern Territory,740
+2046,"S & E Afr, nec",2011,Northern Territory,0
+2047,Inadequately described,2011,Northern Territory,0
+2048,Australia,2011,Australian Capital Territory,"271,990"
+2049,Norfolk Island,2011,Australian Capital Territory,0
+2050,"Aust E T, nec",2011,Australian Capital Territory,0
+2051,New Zealand,2011,Australian Capital Territory,"4,790"
+2052,New Caledonia,2011,Australian Capital Territory,20
+2053,PNG,2011,Australian Capital Territory,800
+2054,Solomon Islands,2011,Australian Capital Territory,50
+2055,Vanuatu,2011,Australian Capital Territory,30
+2056,Guam,2011,Australian Capital Territory,10
+2057,Kiribati,2011,Australian Capital Territory,10
+2058,Marshall Is,2011,Australian Capital Territory,0
+2059,"Micronesia, F S",2011,Australian Capital Territory,0
+2060,Nauru,2011,Australian Capital Territory,10
+2061,N Mariana Is,2011,Australian Capital Territory,0
+2062,Palau,2011,Australian Capital Territory,0
+2063,Cook Islands,2011,Australian Capital Territory,30
+2064,Fiji,2011,Australian Capital Territory,920
+2065,French Poly,2011,Australian Capital Territory,0
+2066,Niue,2011,Australian Capital Territory,10
+2067,Samoa,2011,Australian Capital Territory,210
+2068,Samoa American,2011,Australian Capital Territory,0
+2069,Tokelau,2011,Australian Capital Territory,0
+2070,Tonga,2011,Australian Capital Territory,230
+2071,Tuvalu,2011,Australian Capital Territory,10
+2072,Wallis/Futuna,2011,Australian Capital Territory,0
+2073,Pitcairn Is,2011,Australian Capital Territory,0
+2074,"Polynesia, nec",2011,Australian Capital Territory,0
+2075,Adelie Land,2011,Australian Capital Territory,0
+2076,Argentinian A T,2011,Australian Capital Territory,0
+2077,Australian A T,2011,Australian Capital Territory,0
+2078,British A T,2011,Australian Capital Territory,0
+2079,Chilean A T,2011,Australian Capital Territory,0
+2080,Queen Maud Land,2011,Australian Capital Territory,0
+2081,Ross Dependency,2011,Australian Capital Territory,0
+2082,England,2011,Australian Capital Territory,"13,790"
+2083,Isle of Man,2011,Australian Capital Territory,10
+2084,N'thern Ireland,2011,Australian Capital Territory,400
+2085,Scotland,2011,Australian Capital Territory,"2,210"
+2086,Wales,2011,Australian Capital Territory,500
+2087,Guernsey,2011,Australian Capital Territory,10
+2088,Jersey,2011,Australian Capital Territory,10
+2089,Ireland,2011,Australian Capital Territory,960
+2090,Austria,2011,Australian Capital Territory,550
+2091,Belgium,2011,Australian Capital Territory,160
+2092,France,2011,Australian Capital Territory,660
+2093,Germany,2011,Australian Capital Territory,"2,630"
+2094,Liechtenstein,2011,Australian Capital Territory,0
+2095,Luxembourg,2011,Australian Capital Territory,0
+2096,Monaco,2011,Australian Capital Territory,0
+2097,Netherlands,2011,Australian Capital Territory,"1,260"
+2098,Switzerland,2011,Australian Capital Territory,280
+2099,Denmark,2011,Australian Capital Territory,170
+2100,Faroe Islands,2011,Australian Capital Territory,0
+2101,Finland,2011,Australian Capital Territory,660
+2102,Greenland,2011,Australian Capital Territory,0
+2103,Iceland,2011,Australian Capital Territory,0
+2104,Norway,2011,Australian Capital Territory,90
+2105,Sweden,2011,Australian Capital Territory,180
+2106,Aland Islands,2011,Australian Capital Territory,0
+2107,Andorra,2011,Australian Capital Territory,0
+2108,Gibraltar,2011,Australian Capital Territory,10
+2109,Holy See,2011,Australian Capital Territory,0
+2110,Italy,2011,Australian Capital Territory,"2,160"
+2111,Malta,2011,Australian Capital Territory,350
+2112,Portugal,2011,Australian Capital Territory,260
+2113,San Marino,2011,Australian Capital Territory,0
+2114,Spain,2011,Australian Capital Territory,620
+2115,Albania,2011,Australian Capital Territory,30
+2116,Bosnia/Herzegov,2011,Australian Capital Territory,520
+2117,Bulgaria,2011,Australian Capital Territory,40
+2118,Croatia,2011,Australian Capital Territory,"1,850"
+2119,Cyprus,2011,Australian Capital Territory,140
+2120,North Macedonia,2011,Australian Capital Territory,490
+2121,Greece,2011,Australian Capital Territory,"1,290"
+2122,Moldova,2011,Australian Capital Territory,10
+2123,Romania,2011,Australian Capital Territory,160
+2124,Slovenia,2011,Australian Capital Territory,180
+2125,Montenegro,2011,Australian Capital Territory,10
+2126,Serbia,2011,Australian Capital Territory,720
+2127,Kosovo,2011,Australian Capital Territory,0
+2128,Belarus,2011,Australian Capital Territory,20
+2129,Czechia,2011,Australian Capital Territory,250
+2130,Estonia,2011,Australian Capital Territory,50
+2131,Hungary,2011,Australian Capital Territory,420
+2132,Latvia,2011,Australian Capital Territory,160
+2133,Lithuania,2011,Australian Capital Territory,60
+2134,Poland,2011,Australian Capital Territory,"1,210"
+2135,Russia,2011,Australian Capital Territory,400
+2136,Slovakia,2011,Australian Capital Territory,60
+2137,Ukraine,2011,Australian Capital Territory,190
+2138,Algeria,2011,Australian Capital Territory,40
+2139,Egypt,2011,Australian Capital Territory,340
+2140,Libya,2011,Australian Capital Territory,30
+2141,Morocco,2011,Australian Capital Territory,30
+2142,Sudan,2011,Australian Capital Territory,400
+2143,Tunisia,2011,Australian Capital Territory,10
+2144,Western Sahara,2011,Australian Capital Territory,0
+2145,Sp North Africa,2011,Australian Capital Territory,0
+2146,South Sudan,2011,Australian Capital Territory,90
+2147,Bahrain,2011,Australian Capital Territory,30
+2148,Gaza Str/W Bank,2011,Australian Capital Territory,60
+2149,Iran,2011,Australian Capital Territory,600
+2150,Iraq,2011,Australian Capital Territory,360
+2151,Israel,2011,Australian Capital Territory,140
+2152,Jordan,2011,Australian Capital Territory,130
+2153,Kuwait,2011,Australian Capital Territory,80
+2154,Lebanon,2011,Australian Capital Territory,440
+2155,Oman,2011,Australian Capital Territory,20
+2156,Qatar,2011,Australian Capital Territory,20
+2157,Saudi Arabia,2011,Australian Capital Territory,430
+2158,Syria,2011,Australian Capital Territory,70
+2159,Turkey,2011,Australian Capital Territory,260
+2160,Unit Arab Emir,2011,Australian Capital Territory,100
+2161,Yemen,2011,Australian Capital Territory,30
+2162,Myanmar,2011,Australian Capital Territory,520
+2163,Cambodia,2011,Australian Capital Territory,380
+2164,Laos,2011,Australian Capital Territory,710
+2165,Thailand,2011,Australian Capital Territory,"1,190"
+2166,Vietnam,2011,Australian Capital Territory,"3,260"
+2167,Brunei,2011,Australian Capital Territory,40
+2168,Indonesia,2011,Australian Capital Territory,"1,170"
+2169,Malaysia,2011,Australian Capital Territory,"2,510"
+2170,Philippines,2011,Australian Capital Territory,"2,670"
+2171,Singapore,2011,Australian Capital Territory,"1,040"
+2172,Timor-Leste,2011,Australian Capital Territory,30
+2173,China,2011,Australian Capital Territory,"8,030"
+2174,Hong Kong,2011,Australian Capital Territory,"1,580"
+2175,Macau,2011,Australian Capital Territory,50
+2176,Mongolia,2011,Australian Capital Territory,40
+2177,Taiwan,2011,Australian Capital Territory,410
+2178,Japan,2011,Australian Capital Territory,770
+2179,"Korea, North",2011,Australian Capital Territory,0
+2180,"Korea, South",2011,Australian Capital Territory,"1,790"
+2181,Bangladesh,2011,Australian Capital Territory,"1,110"
+2182,Bhutan,2011,Australian Capital Territory,120
+2183,India,2011,Australian Capital Territory,"6,500"
+2184,Maldives,2011,Australian Capital Territory,30
+2185,Nepal,2011,Australian Capital Territory,310
+2186,Pakistan,2011,Australian Capital Territory,"1,240"
+2187,Sri Lanka,2011,Australian Capital Territory,"2,580"
+2188,Afghanistan,2011,Australian Capital Territory,390
+2189,Armenia,2011,Australian Capital Territory,10
+2190,Azerbaijan,2011,Australian Capital Territory,0
+2191,Georgia,2011,Australian Capital Territory,10
+2192,Kazakhstan,2011,Australian Capital Territory,30
+2193,Kyrgyzstan,2011,Australian Capital Territory,10
+2194,Tajikistan,2011,Australian Capital Territory,0
+2195,Turkmenistan,2011,Australian Capital Territory,10
+2196,Uzbekistan,2011,Australian Capital Territory,10
+2197,Bermuda,2011,Australian Capital Territory,10
+2198,Canada,2011,Australian Capital Territory,"1,240"
+2199,St Pierre/Mique,2011,Australian Capital Territory,0
+2200,USA,2011,Australian Capital Territory,"2,760"
+2201,Argentina,2011,Australian Capital Territory,280
+2202,Bolivia,2011,Australian Capital Territory,10
+2203,Brazil,2011,Australian Capital Territory,230
+2204,Chile,2011,Australian Capital Territory,820
+2205,Colombia,2011,Australian Capital Territory,130
+2206,Ecuador,2011,Australian Capital Territory,40
+2207,Falkland Is,2011,Australian Capital Territory,0
+2208,French Guiana,2011,Australian Capital Territory,0
+2209,Guyana,2011,Australian Capital Territory,10
+2210,Paraguay,2011,Australian Capital Territory,10
+2211,Peru,2011,Australian Capital Territory,210
+2212,Suriname,2011,Australian Capital Territory,0
+2213,Uruguay,2011,Australian Capital Territory,110
+2214,Venezuela,2011,Australian Capital Territory,80
+2215,"S America, nec",2011,Australian Capital Territory,0
+2216,Belize,2011,Australian Capital Territory,0
+2217,Costa Rica,2011,Australian Capital Territory,10
+2218,El Salvador,2011,Australian Capital Territory,160
+2219,Guatemala,2011,Australian Capital Territory,10
+2220,Honduras,2011,Australian Capital Territory,0
+2221,Mexico,2011,Australian Capital Territory,110
+2222,Nicaragua,2011,Australian Capital Territory,30
+2223,Panama,2011,Australian Capital Territory,0
+2224,Anguilla,2011,Australian Capital Territory,0
+2225,Antigua/Barbuda,2011,Australian Capital Territory,0
+2226,Aruba,2011,Australian Capital Territory,0
+2227,Bahamas,2011,Australian Capital Territory,0
+2228,Barbados,2011,Australian Capital Territory,0
+2229,Cayman Islands,2011,Australian Capital Territory,0
+2230,Cuba,2011,Australian Capital Territory,10
+2231,Dominica,2011,Australian Capital Territory,0
+2232,Dominican Rep,2011,Australian Capital Territory,0
+2233,Grenada,2011,Australian Capital Territory,0
+2234,Guadeloupe,2011,Australian Capital Territory,0
+2235,Haiti,2011,Australian Capital Territory,0
+2236,Jamaica,2011,Australian Capital Territory,30
+2237,Martinique,2011,Australian Capital Territory,0
+2238,Montserrat,2011,Australian Capital Territory,0
+2239,Puerto Rico,2011,Australian Capital Territory,0
+2240,St Kitts/Nevis,2011,Australian Capital Territory,0
+2241,St Lucia,2011,Australian Capital Territory,0
+2242,St Vinc/Grenad,2011,Australian Capital Territory,0
+2243,Trinidad/Tobago,2011,Australian Capital Territory,30
+2244,Turks/Caicos Is,2011,Australian Capital Territory,0
+2245,"Virgin Is, Brit",2011,Australian Capital Territory,0
+2246,"Virgin Is, US",2011,Australian Capital Territory,0
+2247,St Barthelemy,2011,Australian Capital Territory,0
+2248,St Martin (Fr),2011,Australian Capital Territory,0
+2249,Bonaire/SE/Saba,2011,Australian Capital Territory,0
+2250,Curacao,2011,Australian Capital Territory,0
+2251,Sint Maarten Dp,2011,Australian Capital Territory,0
+2252,Benin,2011,Australian Capital Territory,0
+2253,Burkina Faso,2011,Australian Capital Territory,0
+2254,Cameroon,2011,Australian Capital Territory,20
+2255,Cabo Verde,2011,Australian Capital Territory,0
+2256,Cent Africa Rep,2011,Australian Capital Territory,0
+2257,Chad,2011,Australian Capital Territory,0
+2258,"Congo, Rep",2011,Australian Capital Territory,10
+2259,"Congo, Dem Rep",2011,Australian Capital Territory,20
+2260,Cote d'Ivoire,2011,Australian Capital Territory,0
+2261,Equator Guinea,2011,Australian Capital Territory,0
+2262,Gabon,2011,Australian Capital Territory,0
+2263,Gambia,2011,Australian Capital Territory,0
+2264,Ghana,2011,Australian Capital Territory,170
+2265,Guinea,2011,Australian Capital Territory,0
+2266,Guinea-Bissau,2011,Australian Capital Territory,0
+2267,Liberia,2011,Australian Capital Territory,10
+2268,Mali,2011,Australian Capital Territory,0
+2269,Mauritania,2011,Australian Capital Territory,0
+2270,Niger,2011,Australian Capital Territory,0
+2271,Nigeria,2011,Australian Capital Territory,170
+2272,Sao Tome/Princ,2011,Australian Capital Territory,0
+2273,Senegal,2011,Australian Capital Territory,0
+2274,Sierra Leone,2011,Australian Capital Territory,120
+2275,Togo,2011,Australian Capital Territory,0
+2276,Angola,2011,Australian Capital Territory,10
+2277,Botswana,2011,Australian Capital Territory,30
+2278,Burundi,2011,Australian Capital Territory,0
+2279,Comoros,2011,Australian Capital Territory,0
+2280,Djibouti,2011,Australian Capital Territory,0
+2281,Eritrea,2011,Australian Capital Territory,60
+2282,Ethiopia,2011,Australian Capital Territory,140
+2283,Kenya,2011,Australian Capital Territory,350
+2284,Lesotho,2011,Australian Capital Territory,10
+2285,Madagascar,2011,Australian Capital Territory,0
+2286,Malawi,2011,Australian Capital Territory,30
+2287,Mauritius,2011,Australian Capital Territory,250
+2288,Mayotte,2011,Australian Capital Territory,0
+2289,Mozambique,2011,Australian Capital Territory,20
+2290,Namibia,2011,Australian Capital Territory,20
+2291,Reunion,2011,Australian Capital Territory,10
+2292,Rwanda,2011,Australian Capital Territory,20
+2293,St Helena,2011,Australian Capital Territory,0
+2294,Seychelles,2011,Australian Capital Territory,20
+2295,Somalia,2011,Australian Capital Territory,30
+2296,South Africa,2011,Australian Capital Territory,"1,730"
+2297,Eswatini,2011,Australian Capital Territory,10
+2298,Tanzania,2011,Australian Capital Territory,60
+2299,Uganda,2011,Australian Capital Territory,70
+2300,Zambia,2011,Australian Capital Territory,110
+2301,Zimbabwe,2011,Australian Capital Territory,590
+2302,"S & E Afr, nec",2011,Australian Capital Territory,0
+2303,Inadequately described,2011,Australian Capital Territory,0

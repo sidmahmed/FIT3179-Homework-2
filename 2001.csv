@@ -1,0 +1,2305 @@
+,birth_country,year,destination,values
+0,Australia,2001,Australia,"14,822,350"
+1,Norfolk Island,2001,Australia,190
+2,"Aust E T, nec",2001,Australia,10
+3,New Zealand,2001,Australia,"389,600"
+4,New Caledonia,2001,Australia,"1,160"
+5,PNG,2001,Australia,"25,640"
+6,Solomon Islands,2001,Australia,"1,440"
+7,Vanuatu,2001,Australia,"1,040"
+8,Guam,2001,Australia,50
+9,Kiribati,2001,Australia,430
+10,Marshall Is,2001,Australia,30
+11,"Micronesia, F S",2001,Australia,20
+12,Nauru,2001,Australia,480
+13,N Mariana Is,2001,Australia,10
+14,Palau,2001,Australia,20
+15,Cook Islands,2001,Australia,"4,960"
+16,Fiji,2001,Australia,"49,070"
+17,French Poly,2001,Australia,360
+18,Niue,2001,Australia,470
+19,Samoa,2001,Australia,"13,960"
+20,Samoa American,2001,Australia,140
+21,Tokelau,2001,Australia,290
+22,Tonga,2001,Australia,"8,350"
+23,Tuvalu,2001,Australia,110
+24,Wallis/Futuna,2001,Australia,20
+25,Pitcairn Is,2001,Australia,0
+26,"Polynesia, nec",2001,Australia,90
+27,Adelie Land,2001,Australia,0
+28,Argentinian A T,2001,Australia,0
+29,Australian A T,2001,Australia,0
+30,British A T,2001,Australia,0
+31,Chilean A T,2001,Australia,0
+32,Queen Maud Land,2001,Australia,0
+33,Ross Dependency,2001,Australia,0
+34,England,2001,Australia,"927,630"
+35,Isle of Man,2001,Australia,690
+36,N'thern Ireland,2001,Australia,"21,950"
+37,Scotland,2001,Australia,"141,850"
+38,Wales,2001,Australia,"30,770"
+39,Guernsey,2001,Australia,580
+40,Jersey,2001,Australia,"1,000"
+41,Ireland,2001,Australia,"53,650"
+42,Austria,2001,Australia,"21,330"
+43,Belgium,2001,Australia,"5,380"
+44,France,2001,Australia,"18,400"
+45,Germany,2001,Australia,"118,340"
+46,Liechtenstein,2001,Australia,20
+47,Luxembourg,2001,Australia,150
+48,Monaco,2001,Australia,40
+49,Netherlands,2001,Australia,"91,900"
+50,Switzerland,2001,Australia,"12,250"
+51,Denmark,2001,Australia,"10,030"
+52,Faroe Islands,2001,Australia,40
+53,Finland,2001,Australia,"9,360"
+54,Greenland,2001,Australia,30
+55,Iceland,2001,Australia,590
+56,Norway,2001,Australia,"4,230"
+57,Sweden,2001,Australia,"7,300"
+58,Aland Islands,2001,Australia,0
+59,Andorra,2001,Australia,20
+60,Gibraltar,2001,Australia,470
+61,Holy See,2001,Australia,0
+62,Italy,2001,Australia,"229,850"
+63,Malta,2001,Australia,"51,810"
+64,Portugal,2001,Australia,"17,780"
+65,San Marino,2001,Australia,0
+66,Spain,2001,Australia,"14,110"
+67,Albania,2001,Australia,"1,620"
+68,Bosnia/Herzegov,2001,Australia,"28,780"
+69,Bulgaria,2001,Australia,"3,110"
+70,Croatia,2001,Australia,"58,690"
+71,Cyprus,2001,Australia,"22,720"
+72,North Macedonia,2001,Australia,"49,740"
+73,Greece,2001,Australia,"128,700"
+74,Moldova,2001,Australia,620
+75,Romania,2001,Australia,"14,380"
+76,Slovenia,2001,Australia,"8,440"
+77,Montenegro,2001,Australia,"5,330"
+78,Serbia,2001,Australia,"52,050"
+79,Kosovo,2001,Australia,0
+80,Belarus,2001,Australia,"1,360"
+81,Czechia,2001,Australia,"13,070"
+82,Estonia,2001,Australia,"1,860"
+83,Hungary,2001,Australia,"25,640"
+84,Latvia,2001,Australia,"6,990"
+85,Lithuania,2001,Australia,"3,630"
+86,Poland,2001,Australia,"65,530"
+87,Russia,2001,Australia,"16,710"
+88,Slovakia,2001,Australia,"6,430"
+89,Ukraine,2001,Australia,"16,660"
+90,Algeria,2001,Australia,"1,240"
+91,Egypt,2001,Australia,"37,420"
+92,Libya,2001,Australia,"1,460"
+93,Morocco,2001,Australia,"1,360"
+94,Sudan,2001,Australia,"5,090"
+95,Tunisia,2001,Australia,490
+96,Western Sahara,2001,Australia,0
+97,Sp North Africa,2001,Australia,0
+98,South Sudan,2001,Australia,0
+99,Bahrain,2001,Australia,760
+100,Gaza Str/W Bank,2001,Australia,"3,120"
+101,Iran,2001,Australia,"22,250"
+102,Iraq,2001,Australia,"28,480"
+103,Israel,2001,Australia,"7,510"
+104,Jordan,2001,Australia,"3,620"
+105,Kuwait,2001,Australia,"2,630"
+106,Lebanon,2001,Australia,"79,850"
+107,Oman,2001,Australia,410
+108,Qatar,2001,Australia,270
+109,Saudi Arabia,2001,Australia,"1,620"
+110,Syria,2001,Australia,"7,610"
+111,Turkey,2001,Australia,"34,230"
+112,Unit Arab Emir,2001,Australia,"1,540"
+113,Yemen,2001,Australia,400
+114,Myanmar,2001,Australia,"12,190"
+115,Cambodia,2001,Australia,"25,100"
+116,Laos,2001,Australia,"10,350"
+117,Thailand,2001,Australia,"24,430"
+118,Vietnam,2001,Australia,"163,490"
+119,Brunei,2001,Australia,"2,150"
+120,Indonesia,2001,Australia,"53,090"
+121,Malaysia,2001,Australia,"86,400"
+122,Philippines,2001,Australia,"114,260"
+123,Singapore,2001,Australia,"35,670"
+124,Timor-Leste,2001,Australia,"10,420"
+125,China,2001,Australia,"153,360"
+126,Hong Kong,2001,Australia,"73,920"
+127,Macau,2001,Australia,"1,960"
+128,Mongolia,2001,Australia,130
+129,Taiwan,2001,Australia,"24,140"
+130,Japan,2001,Australia,"25,690"
+131,"Korea, North",2001,Australia,410
+132,"Korea, South",2001,Australia,"38,980"
+133,Bangladesh,2001,Australia,"9,790"
+134,Bhutan,2001,Australia,70
+135,India,2001,Australia,"98,070"
+136,Maldives,2001,Australia,170
+137,Nepal,2001,Australia,"2,440"
+138,Pakistan,2001,Australia,"12,290"
+139,Sri Lanka,2001,Australia,"60,640"
+140,Afghanistan,2001,Australia,"13,860"
+141,Armenia,2001,Australia,980
+142,Azerbaijan,2001,Australia,200
+143,Georgia,2001,Australia,360
+144,Kazakhstan,2001,Australia,480
+145,Kyrgyzstan,2001,Australia,110
+146,Tajikistan,2001,Australia,50
+147,Turkmenistan,2001,Australia,40
+148,Uzbekistan,2001,Australia,530
+149,Bermuda,2001,Australia,420
+150,Canada,2001,Australia,"31,020"
+151,St Pierre/Mique,2001,Australia,0
+152,USA,2001,Australia,"60,780"
+153,Argentina,2001,Australia,"12,030"
+154,Bolivia,2001,Australia,700
+155,Brazil,2001,Australia,"5,120"
+156,Chile,2001,Australia,"25,920"
+157,Colombia,2001,Australia,"4,510"
+158,Ecuador,2001,Australia,"1,460"
+159,Falkland Is,2001,Australia,130
+160,French Guiana,2001,Australia,10
+161,Guyana,2001,Australia,530
+162,Paraguay,2001,Australia,360
+163,Peru,2001,Australia,"5,940"
+164,Suriname,2001,Australia,80
+165,Uruguay,2001,Australia,"10,490"
+166,Venezuela,2001,Australia,"1,260"
+167,"S America, nec",2001,Australia,0
+168,Belize,2001,Australia,50
+169,Costa Rica,2001,Australia,350
+170,El Salvador,2001,Australia,"10,570"
+171,Guatemala,2001,Australia,310
+172,Honduras,2001,Australia,190
+173,Mexico,2001,Australia,"1,320"
+174,Nicaragua,2001,Australia,780
+175,Panama,2001,Australia,140
+176,Anguilla,2001,Australia,0
+177,Antigua/Barbuda,2001,Australia,30
+178,Aruba,2001,Australia,50
+179,Bahamas,2001,Australia,240
+180,Barbados,2001,Australia,350
+181,Cayman Islands,2001,Australia,20
+182,Cuba,2001,Australia,510
+183,Dominica,2001,Australia,10
+184,Dominican Rep,2001,Australia,70
+185,Grenada,2001,Australia,120
+186,Guadeloupe,2001,Australia,10
+187,Haiti,2001,Australia,90
+188,Jamaica,2001,Australia,930
+189,Martinique,2001,Australia,30
+190,Montserrat,2001,Australia,10
+191,Puerto Rico,2001,Australia,140
+192,St Kitts/Nevis,2001,Australia,30
+193,St Lucia,2001,Australia,30
+194,St Vinc/Grenad,2001,Australia,80
+195,Trinidad/Tobago,2001,Australia,"1,440"
+196,Turks/Caicos Is,2001,Australia,0
+197,"Virgin Is, Brit",2001,Australia,10
+198,"Virgin Is, US",2001,Australia,10
+199,St Barthelemy,2001,Australia,0
+200,St Martin (Fr),2001,Australia,0
+201,Bonaire/SE/Saba,2001,Australia,0
+202,Curacao,2001,Australia,90
+203,Sint Maarten Dp,2001,Australia,0
+204,Benin,2001,Australia,20
+205,Burkina Faso,2001,Australia,20
+206,Cameroon,2001,Australia,70
+207,Cabo Verde,2001,Australia,30
+208,Cent Africa Rep,2001,Australia,0
+209,Chad,2001,Australia,40
+210,"Congo, Rep",2001,Australia,170
+211,"Congo, Dem Rep",2001,Australia,280
+212,Cote d'Ivoire,2001,Australia,70
+213,Equator Guinea,2001,Australia,0
+214,Gabon,2001,Australia,20
+215,Gambia,2001,Australia,40
+216,Ghana,2001,Australia,"2,250"
+217,Guinea,2001,Australia,30
+218,Guinea-Bissau,2001,Australia,20
+219,Liberia,2001,Australia,120
+220,Mali,2001,Australia,30
+221,Mauritania,2001,Australia,20
+222,Niger,2001,Australia,10
+223,Nigeria,2001,Australia,"1,950"
+224,Sao Tome/Princ,2001,Australia,20
+225,Senegal,2001,Australia,240
+226,Sierra Leone,2001,Australia,370
+227,Togo,2001,Australia,20
+228,Angola,2001,Australia,410
+229,Botswana,2001,Australia,750
+230,Burundi,2001,Australia,30
+231,Comoros,2001,Australia,20
+232,Djibouti,2001,Australia,80
+233,Eritrea,2001,Australia,"1,790"
+234,Ethiopia,2001,Australia,"3,820"
+235,Kenya,2001,Australia,"7,640"
+236,Lesotho,2001,Australia,60
+237,Madagascar,2001,Australia,180
+238,Malawi,2001,Australia,540
+239,Mauritius,2001,Australia,"18,580"
+240,Mayotte,2001,Australia,0
+241,Mozambique,2001,Australia,640
+242,Namibia,2001,Australia,470
+243,Reunion,2001,Australia,80
+244,Rwanda,2001,Australia,50
+245,St Helena,2001,Australia,30
+246,Seychelles,2001,Australia,"2,720"
+247,Somalia,2001,Australia,"3,770"
+248,South Africa,2001,Australia,"86,820"
+249,Eswatini,2001,Australia,230
+250,Tanzania,2001,Australia,"1,950"
+251,Uganda,2001,Australia,"1,390"
+252,Zambia,2001,Australia,"3,510"
+253,Zimbabwe,2001,Australia,"13,210"
+254,"S & E Afr, nec",2001,Australia,20
+255,Inadequately described,2001,Australia,0
+256,Australia,2001,New South Wales,"4,913,390"
+257,Norfolk Island,2001,New South Wales,90
+258,"Aust E T, nec",2001,New South Wales,0
+259,New Zealand,2001,New South Wales,"117,960"
+260,New Caledonia,2001,New South Wales,510
+261,PNG,2001,New South Wales,"6,080"
+262,Solomon Islands,2001,New South Wales,510
+263,Vanuatu,2001,New South Wales,480
+264,Guam,2001,New South Wales,20
+265,Kiribati,2001,New South Wales,110
+266,Marshall Is,2001,New South Wales,10
+267,"Micronesia, F S",2001,New South Wales,0
+268,Nauru,2001,New South Wales,70
+269,N Mariana Is,2001,New South Wales,0
+270,Palau,2001,New South Wales,10
+271,Cook Islands,2001,New South Wales,"2,190"
+272,Fiji,2001,New South Wales,"30,300"
+273,French Poly,2001,New South Wales,140
+274,Niue,2001,New South Wales,220
+275,Samoa,2001,New South Wales,"6,820"
+276,Samoa American,2001,New South Wales,50
+277,Tokelau,2001,New South Wales,160
+278,Tonga,2001,New South Wales,"5,550"
+279,Tuvalu,2001,New South Wales,30
+280,Wallis/Futuna,2001,New South Wales,10
+281,Pitcairn Is,2001,New South Wales,0
+282,"Polynesia, nec",2001,New South Wales,30
+283,Adelie Land,2001,New South Wales,0
+284,Argentinian A T,2001,New South Wales,0
+285,Australian A T,2001,New South Wales,0
+286,British A T,2001,New South Wales,0
+287,Chilean A T,2001,New South Wales,0
+288,Queen Maud Land,2001,New South Wales,0
+289,Ross Dependency,2001,New South Wales,0
+290,England,2001,New South Wales,"248,440"
+291,Isle of Man,2001,New South Wales,160
+292,N'thern Ireland,2001,New South Wales,"5,960"
+293,Scotland,2001,New South Wales,"38,750"
+294,Wales,2001,New South Wales,"8,800"
+295,Guernsey,2001,New South Wales,140
+296,Jersey,2001,New South Wales,240
+297,Ireland,2001,New South Wales,"19,080"
+298,Austria,2001,New South Wales,"7,410"
+299,Belgium,2001,New South Wales,"1,670"
+300,France,2001,New South Wales,"6,920"
+301,Germany,2001,New South Wales,"35,010"
+302,Liechtenstein,2001,New South Wales,0
+303,Luxembourg,2001,New South Wales,40
+304,Monaco,2001,New South Wales,10
+305,Netherlands,2001,New South Wales,"22,570"
+306,Switzerland,2001,New South Wales,"4,090"
+307,Denmark,2001,New South Wales,"3,210"
+308,Faroe Islands,2001,New South Wales,10
+309,Finland,2001,New South Wales,"2,810"
+310,Greenland,2001,New South Wales,10
+311,Iceland,2001,New South Wales,200
+312,Norway,2001,New South Wales,"1,340"
+313,Sweden,2001,New South Wales,"2,510"
+314,Aland Islands,2001,New South Wales,0
+315,Andorra,2001,New South Wales,0
+316,Gibraltar,2001,New South Wales,120
+317,Holy See,2001,New South Wales,0
+318,Italy,2001,New South Wales,"64,610"
+319,Malta,2001,New South Wales,"20,540"
+320,Portugal,2001,New South Wales,"10,030"
+321,San Marino,2001,New South Wales,0
+322,Spain,2001,New South Wales,"6,040"
+323,Albania,2001,New South Wales,180
+324,Bosnia/Herzegov,2001,New South Wales,"8,640"
+325,Bulgaria,2001,New South Wales,"1,050"
+326,Croatia,2001,New South Wales,"21,180"
+327,Cyprus,2001,New South Wales,"8,600"
+328,North Macedonia,2001,New South Wales,"22,030"
+329,Greece,2001,New South Wales,"41,990"
+330,Moldova,2001,New South Wales,150
+331,Romania,2001,New South Wales,"4,070"
+332,Slovenia,2001,New South Wales,"2,890"
+333,Montenegro,2001,New South Wales,"1,940"
+334,Serbia,2001,New South Wales,"18,930"
+335,Kosovo,2001,New South Wales,0
+336,Belarus,2001,New South Wales,350
+337,Czechia,2001,New South Wales,"5,080"
+338,Estonia,2001,New South Wales,800
+339,Hungary,2001,New South Wales,"9,930"
+340,Latvia,2001,New South Wales,"2,050"
+341,Lithuania,2001,New South Wales,"1,100"
+342,Poland,2001,New South Wales,"19,220"
+343,Russia,2001,New South Wales,"6,520"
+344,Slovakia,2001,New South Wales,"2,780"
+345,Ukraine,2001,New South Wales,"6,000"
+346,Algeria,2001,New South Wales,570
+347,Egypt,2001,New South Wales,"19,540"
+348,Libya,2001,New South Wales,370
+349,Morocco,2001,New South Wales,520
+350,Sudan,2001,New South Wales,"2,670"
+351,Tunisia,2001,New South Wales,220
+352,Western Sahara,2001,New South Wales,0
+353,Sp North Africa,2001,New South Wales,0
+354,South Sudan,2001,New South Wales,0
+355,Bahrain,2001,New South Wales,280
+356,Gaza Str/W Bank,2001,New South Wales,"1,650"
+357,Iran,2001,New South Wales,"12,370"
+358,Iraq,2001,New South Wales,"18,080"
+359,Israel,2001,New South Wales,"3,040"
+360,Jordan,2001,New South Wales,"2,560"
+361,Kuwait,2001,New South Wales,"1,440"
+362,Lebanon,2001,New South Wales,"59,810"
+363,Oman,2001,New South Wales,100
+364,Qatar,2001,New South Wales,130
+365,Saudi Arabia,2001,New South Wales,680
+366,Syria,2001,New South Wales,"4,800"
+367,Turkey,2001,New South Wales,"14,150"
+368,Unit Arab Emir,2001,New South Wales,580
+369,Yemen,2001,New South Wales,130
+370,Myanmar,2001,New South Wales,"3,590"
+371,Cambodia,2001,New South Wales,"10,720"
+372,Laos,2001,New South Wales,"5,740"
+373,Thailand,2001,New South Wales,"10,170"
+374,Vietnam,2001,New South Wales,"67,080"
+375,Brunei,2001,New South Wales,310
+376,Indonesia,2001,New South Wales,"23,650"
+377,Malaysia,2001,New South Wales,"23,440"
+378,Philippines,2001,New South Wales,"57,850"
+379,Singapore,2001,New South Wales,"9,170"
+380,Timor-Leste,2001,New South Wales,"2,650"
+381,China,2001,New South Wales,"92,420"
+382,Hong Kong,2001,New South Wales,"41,900"
+383,Macau,2001,New South Wales,"1,080"
+384,Mongolia,2001,New South Wales,60
+385,Taiwan,2001,New South Wales,"8,640"
+386,Japan,2001,New South Wales,"10,380"
+387,"Korea, North",2001,New South Wales,290
+388,"Korea, South",2001,New South Wales,"28,120"
+389,Bangladesh,2001,New South Wales,"6,600"
+390,Bhutan,2001,New South Wales,30
+391,India,2001,New South Wales,"39,260"
+392,Maldives,2001,New South Wales,40
+393,Nepal,2001,New South Wales,"1,640"
+394,Pakistan,2001,New South Wales,"6,880"
+395,Sri Lanka,2001,New South Wales,"19,430"
+396,Afghanistan,2001,New South Wales,"5,740"
+397,Armenia,2001,New South Wales,550
+398,Azerbaijan,2001,New South Wales,60
+399,Georgia,2001,New South Wales,140
+400,Kazakhstan,2001,New South Wales,140
+401,Kyrgyzstan,2001,New South Wales,30
+402,Tajikistan,2001,New South Wales,10
+403,Turkmenistan,2001,New South Wales,20
+404,Uzbekistan,2001,New South Wales,200
+405,Bermuda,2001,New South Wales,110
+406,Canada,2001,New South Wales,"10,690"
+407,St Pierre/Mique,2001,New South Wales,0
+408,USA,2001,New South Wales,"22,060"
+409,Argentina,2001,New South Wales,"6,170"
+410,Bolivia,2001,New South Wales,500
+411,Brazil,2001,New South Wales,"2,740"
+412,Chile,2001,New South Wales,"14,070"
+413,Colombia,2001,New South Wales,"2,550"
+414,Ecuador,2001,New South Wales,"1,200"
+415,Falkland Is,2001,New South Wales,40
+416,French Guiana,2001,New South Wales,0
+417,Guyana,2001,New South Wales,160
+418,Paraguay,2001,New South Wales,210
+419,Peru,2001,New South Wales,"4,170"
+420,Suriname,2001,New South Wales,20
+421,Uruguay,2001,New South Wales,"7,740"
+422,Venezuela,2001,New South Wales,620
+423,"S America, nec",2001,New South Wales,0
+424,Belize,2001,New South Wales,20
+425,Costa Rica,2001,New South Wales,180
+426,El Salvador,2001,New South Wales,"2,100"
+427,Guatemala,2001,New South Wales,80
+428,Honduras,2001,New South Wales,80
+429,Mexico,2001,New South Wales,620
+430,Nicaragua,2001,New South Wales,470
+431,Panama,2001,New South Wales,70
+432,Anguilla,2001,New South Wales,0
+433,Antigua/Barbuda,2001,New South Wales,10
+434,Aruba,2001,New South Wales,20
+435,Bahamas,2001,New South Wales,60
+436,Barbados,2001,New South Wales,70
+437,Cayman Islands,2001,New South Wales,0
+438,Cuba,2001,New South Wales,290
+439,Dominica,2001,New South Wales,10
+440,Dominican Rep,2001,New South Wales,10
+441,Grenada,2001,New South Wales,60
+442,Guadeloupe,2001,New South Wales,10
+443,Haiti,2001,New South Wales,20
+444,Jamaica,2001,New South Wales,270
+445,Martinique,2001,New South Wales,10
+446,Montserrat,2001,New South Wales,0
+447,Puerto Rico,2001,New South Wales,60
+448,St Kitts/Nevis,2001,New South Wales,10
+449,St Lucia,2001,New South Wales,10
+450,St Vinc/Grenad,2001,New South Wales,30
+451,Trinidad/Tobago,2001,New South Wales,380
+452,Turks/Caicos Is,2001,New South Wales,0
+453,"Virgin Is, Brit",2001,New South Wales,0
+454,"Virgin Is, US",2001,New South Wales,0
+455,St Barthelemy,2001,New South Wales,0
+456,St Martin (Fr),2001,New South Wales,0
+457,Bonaire/SE/Saba,2001,New South Wales,0
+458,Curacao,2001,New South Wales,20
+459,Sint Maarten Dp,2001,New South Wales,0
+460,Benin,2001,New South Wales,10
+461,Burkina Faso,2001,New South Wales,0
+462,Cameroon,2001,New South Wales,20
+463,Cabo Verde,2001,New South Wales,10
+464,Cent Africa Rep,2001,New South Wales,0
+465,Chad,2001,New South Wales,10
+466,"Congo, Rep",2001,New South Wales,50
+467,"Congo, Dem Rep",2001,New South Wales,80
+468,Cote d'Ivoire,2001,New South Wales,20
+469,Equator Guinea,2001,New South Wales,0
+470,Gabon,2001,New South Wales,0
+471,Gambia,2001,New South Wales,20
+472,Ghana,2001,New South Wales,"1,340"
+473,Guinea,2001,New South Wales,20
+474,Guinea-Bissau,2001,New South Wales,10
+475,Liberia,2001,New South Wales,30
+476,Mali,2001,New South Wales,10
+477,Mauritania,2001,New South Wales,10
+478,Niger,2001,New South Wales,0
+479,Nigeria,2001,New South Wales,840
+480,Sao Tome/Princ,2001,New South Wales,10
+481,Senegal,2001,New South Wales,110
+482,Sierra Leone,2001,New South Wales,200
+483,Togo,2001,New South Wales,10
+484,Angola,2001,New South Wales,180
+485,Botswana,2001,New South Wales,200
+486,Burundi,2001,New South Wales,10
+487,Comoros,2001,New South Wales,10
+488,Djibouti,2001,New South Wales,20
+489,Eritrea,2001,New South Wales,140
+490,Ethiopia,2001,New South Wales,620
+491,Kenya,2001,New South Wales,"1,980"
+492,Lesotho,2001,New South Wales,30
+493,Madagascar,2001,New South Wales,40
+494,Malawi,2001,New South Wales,140
+495,Mauritius,2001,New South Wales,"5,830"
+496,Mayotte,2001,New South Wales,0
+497,Mozambique,2001,New South Wales,170
+498,Namibia,2001,New South Wales,130
+499,Reunion,2001,New South Wales,30
+500,Rwanda,2001,New South Wales,20
+501,St Helena,2001,New South Wales,10
+502,Seychelles,2001,New South Wales,270
+503,Somalia,2001,New South Wales,620
+504,South Africa,2001,New South Wales,"31,610"
+505,Eswatini,2001,New South Wales,70
+506,Tanzania,2001,New South Wales,660
+507,Uganda,2001,New South Wales,490
+508,Zambia,2001,New South Wales,850
+509,Zimbabwe,2001,New South Wales,"2,740"
+510,"S & E Afr, nec",2001,New South Wales,10
+511,Inadequately described,2001,New South Wales,0
+512,Australia,2001,Victoria,"3,594,670"
+513,Norfolk Island,2001,Victoria,10
+514,"Aust E T, nec",2001,Victoria,0
+515,New Zealand,2001,Victoria,"60,610"
+516,New Caledonia,2001,Victoria,70
+517,PNG,2001,Victoria,"2,380"
+518,Solomon Islands,2001,Victoria,120
+519,Vanuatu,2001,Victoria,130
+520,Guam,2001,Victoria,10
+521,Kiribati,2001,Victoria,110
+522,Marshall Is,2001,Victoria,10
+523,"Micronesia, F S",2001,Victoria,10
+524,Nauru,2001,Victoria,200
+525,N Mariana Is,2001,Victoria,0
+526,Palau,2001,Victoria,0
+527,Cook Islands,2001,Victoria,"1,400"
+528,Fiji,2001,Victoria,"7,820"
+529,French Poly,2001,Victoria,30
+530,Niue,2001,Victoria,60
+531,Samoa,2001,Victoria,"2,490"
+532,Samoa American,2001,Victoria,20
+533,Tokelau,2001,Victoria,20
+534,Tonga,2001,Victoria,"1,340"
+535,Tuvalu,2001,Victoria,30
+536,Wallis/Futuna,2001,Victoria,0
+537,Pitcairn Is,2001,Victoria,0
+538,"Polynesia, nec",2001,Victoria,20
+539,Adelie Land,2001,Victoria,0
+540,Argentinian A T,2001,Victoria,0
+541,Australian A T,2001,Victoria,0
+542,British A T,2001,Victoria,0
+543,Chilean A T,2001,Victoria,0
+544,Queen Maud Land,2001,Victoria,0
+545,Ross Dependency,2001,Victoria,0
+546,England,2001,Victoria,"180,310"
+547,Isle of Man,2001,Victoria,120
+548,N'thern Ireland,2001,Victoria,"5,960"
+549,Scotland,2001,Victoria,"32,890"
+550,Wales,2001,Victoria,"5,320"
+551,Guernsey,2001,Victoria,90
+552,Jersey,2001,Victoria,150
+553,Ireland,2001,Victoria,"12,300"
+554,Austria,2001,Victoria,"5,880"
+555,Belgium,2001,Victoria,"1,200"
+556,France,2001,Victoria,"4,200"
+557,Germany,2001,Victoria,"31,760"
+558,Liechtenstein,2001,Victoria,0
+559,Luxembourg,2001,Victoria,30
+560,Monaco,2001,Victoria,10
+561,Netherlands,2001,Victoria,"26,610"
+562,Switzerland,2001,Victoria,"2,400"
+563,Denmark,2001,Victoria,"1,690"
+564,Faroe Islands,2001,Victoria,10
+565,Finland,2001,Victoria,"1,300"
+566,Greenland,2001,Victoria,0
+567,Iceland,2001,Victoria,60
+568,Norway,2001,Victoria,690
+569,Sweden,2001,Victoria,"1,480"
+570,Aland Islands,2001,Victoria,0
+571,Andorra,2001,Victoria,10
+572,Gibraltar,2001,Victoria,90
+573,Holy See,2001,Victoria,0
+574,Italy,2001,Victoria,"94,710"
+575,Malta,2001,Victoria,"24,560"
+576,Portugal,2001,Victoria,"3,020"
+577,San Marino,2001,Victoria,0
+578,Spain,2001,Victoria,"3,250"
+579,Albania,2001,Victoria,940
+580,Bosnia/Herzegov,2001,Victoria,"10,190"
+581,Bulgaria,2001,Victoria,"1,010"
+582,Croatia,2001,Victoria,"21,090"
+583,Cyprus,2001,Victoria,"10,260"
+584,North Macedonia,2001,Victoria,"22,040"
+585,Greece,2001,Victoria,"63,010"
+586,Moldova,2001,Victoria,390
+587,Romania,2001,Victoria,"5,510"
+588,Slovenia,2001,Victoria,"3,450"
+589,Montenegro,2001,Victoria,"1,860"
+590,Serbia,2001,Victoria,"18,210"
+591,Kosovo,2001,Victoria,0
+592,Belarus,2001,Victoria,760
+593,Czechia,2001,Victoria,"3,370"
+594,Estonia,2001,Victoria,390
+595,Hungary,2001,Victoria,"7,770"
+596,Latvia,2001,Victoria,"2,220"
+597,Lithuania,2001,Victoria,"1,220"
+598,Poland,2001,Victoria,"22,830"
+599,Russia,2001,Victoria,"6,510"
+600,Slovakia,2001,Victoria,"1,510"
+601,Ukraine,2001,Victoria,"6,820"
+602,Algeria,2001,Victoria,210
+603,Egypt,2001,Victoria,"12,850"
+604,Libya,2001,Victoria,790
+605,Morocco,2001,Victoria,450
+606,Sudan,2001,Victoria,"1,020"
+607,Tunisia,2001,Victoria,150
+608,Western Sahara,2001,Victoria,0
+609,Sp North Africa,2001,Victoria,0
+610,South Sudan,2001,Victoria,0
+611,Bahrain,2001,Victoria,230
+612,Gaza Str/W Bank,2001,Victoria,"1,020"
+613,Iran,2001,Victoria,"3,760"
+614,Iraq,2001,Victoria,"6,940"
+615,Israel,2001,Victoria,"3,100"
+616,Jordan,2001,Victoria,460
+617,Kuwait,2001,Victoria,670
+618,Lebanon,2001,Victoria,"15,700"
+619,Oman,2001,Victoria,130
+620,Qatar,2001,Victoria,50
+621,Saudi Arabia,2001,Victoria,420
+622,Syria,2001,Victoria,"2,010"
+623,Turkey,2001,Victoria,"17,310"
+624,Unit Arab Emir,2001,Victoria,410
+625,Yemen,2001,Victoria,90
+626,Myanmar,2001,Victoria,"1,290"
+627,Cambodia,2001,Victoria,"9,740"
+628,Laos,2001,Victoria,"2,200"
+629,Thailand,2001,Victoria,"5,580"
+630,Vietnam,2001,Victoria,"59,490"
+631,Brunei,2001,Victoria,420
+632,Indonesia,2001,Victoria,"12,000"
+633,Malaysia,2001,Victoria,"26,930"
+634,Philippines,2001,Victoria,"24,460"
+635,Singapore,2001,Victoria,"7,980"
+636,Timor-Leste,2001,Victoria,"5,470"
+637,China,2001,Victoria,"38,860"
+638,Hong Kong,2001,Victoria,"17,240"
+639,Macau,2001,Victoria,520
+640,Mongolia,2001,Victoria,10
+641,Taiwan,2001,Victoria,"4,540"
+642,Japan,2001,Victoria,"4,620"
+643,"Korea, North",2001,Victoria,20
+644,"Korea, South",2001,Victoria,"3,480"
+645,Bangladesh,2001,Victoria,"1,510"
+646,Bhutan,2001,Victoria,10
+647,India,2001,Victoria,"31,140"
+648,Maldives,2001,Victoria,40
+649,Nepal,2001,Victoria,400
+650,Pakistan,2001,Victoria,"2,840"
+651,Sri Lanka,2001,Victoria,"29,860"
+652,Afghanistan,2001,Victoria,"3,970"
+653,Armenia,2001,Victoria,300
+654,Azerbaijan,2001,Victoria,100
+655,Georgia,2001,Victoria,120
+656,Kazakhstan,2001,Victoria,130
+657,Kyrgyzstan,2001,Victoria,20
+658,Tajikistan,2001,Victoria,20
+659,Turkmenistan,2001,Victoria,10
+660,Uzbekistan,2001,Victoria,200
+661,Bermuda,2001,Victoria,40
+662,Canada,2001,Victoria,"5,970"
+663,St Pierre/Mique,2001,Victoria,0
+664,USA,2001,Victoria,"12,640"
+665,Argentina,2001,Victoria,"3,730"
+666,Bolivia,2001,Victoria,80
+667,Brazil,2001,Victoria,870
+668,Chile,2001,Victoria,"7,270"
+669,Colombia,2001,Victoria,790
+670,Ecuador,2001,Victoria,60
+671,Falkland Is,2001,Victoria,30
+672,French Guiana,2001,Victoria,0
+673,Guyana,2001,Victoria,130
+674,Paraguay,2001,Victoria,60
+675,Peru,2001,Victoria,800
+676,Suriname,2001,Victoria,20
+677,Uruguay,2001,Victoria,"1,800"
+678,Venezuela,2001,Victoria,230
+679,"S America, nec",2001,Victoria,0
+680,Belize,2001,Victoria,0
+681,Costa Rica,2001,Victoria,60
+682,El Salvador,2001,Victoria,"3,300"
+683,Guatemala,2001,Victoria,110
+684,Honduras,2001,Victoria,40
+685,Mexico,2001,Victoria,270
+686,Nicaragua,2001,Victoria,80
+687,Panama,2001,Victoria,20
+688,Anguilla,2001,Victoria,0
+689,Antigua/Barbuda,2001,Victoria,10
+690,Aruba,2001,Victoria,10
+691,Bahamas,2001,Victoria,20
+692,Barbados,2001,Victoria,50
+693,Cayman Islands,2001,Victoria,0
+694,Cuba,2001,Victoria,100
+695,Dominica,2001,Victoria,0
+696,Dominican Rep,2001,Victoria,20
+697,Grenada,2001,Victoria,10
+698,Guadeloupe,2001,Victoria,0
+699,Haiti,2001,Victoria,30
+700,Jamaica,2001,Victoria,140
+701,Martinique,2001,Victoria,0
+702,Montserrat,2001,Victoria,0
+703,Puerto Rico,2001,Victoria,30
+704,St Kitts/Nevis,2001,Victoria,0
+705,St Lucia,2001,Victoria,0
+706,St Vinc/Grenad,2001,Victoria,10
+707,Trinidad/Tobago,2001,Victoria,190
+708,Turks/Caicos Is,2001,Victoria,0
+709,"Virgin Is, Brit",2001,Victoria,0
+710,"Virgin Is, US",2001,Victoria,0
+711,St Barthelemy,2001,Victoria,0
+712,St Martin (Fr),2001,Victoria,0
+713,Bonaire/SE/Saba,2001,Victoria,0
+714,Curacao,2001,Victoria,10
+715,Sint Maarten Dp,2001,Victoria,0
+716,Benin,2001,Victoria,10
+717,Burkina Faso,2001,Victoria,10
+718,Cameroon,2001,Victoria,10
+719,Cabo Verde,2001,Victoria,10
+720,Cent Africa Rep,2001,Victoria,0
+721,Chad,2001,Victoria,10
+722,"Congo, Rep",2001,Victoria,30
+723,"Congo, Dem Rep",2001,Victoria,50
+724,Cote d'Ivoire,2001,Victoria,20
+725,Equator Guinea,2001,Victoria,0
+726,Gabon,2001,Victoria,10
+727,Gambia,2001,Victoria,10
+728,Ghana,2001,Victoria,410
+729,Guinea,2001,Victoria,10
+730,Guinea-Bissau,2001,Victoria,0
+731,Liberia,2001,Victoria,30
+732,Mali,2001,Victoria,10
+733,Mauritania,2001,Victoria,10
+734,Niger,2001,Victoria,0
+735,Nigeria,2001,Victoria,460
+736,Sao Tome/Princ,2001,Victoria,10
+737,Senegal,2001,Victoria,40
+738,Sierra Leone,2001,Victoria,30
+739,Togo,2001,Victoria,0
+740,Angola,2001,Victoria,80
+741,Botswana,2001,Victoria,210
+742,Burundi,2001,Victoria,0
+743,Comoros,2001,Victoria,10
+744,Djibouti,2001,Victoria,40
+745,Eritrea,2001,Victoria,"1,110"
+746,Ethiopia,2001,Victoria,"2,140"
+747,Kenya,2001,Victoria,"1,200"
+748,Lesotho,2001,Victoria,10
+749,Madagascar,2001,Victoria,40
+750,Malawi,2001,Victoria,120
+751,Mauritius,2001,Victoria,"8,970"
+752,Mayotte,2001,Victoria,0
+753,Mozambique,2001,Victoria,110
+754,Namibia,2001,Victoria,50
+755,Reunion,2001,Victoria,20
+756,Rwanda,2001,Victoria,0
+757,St Helena,2001,Victoria,10
+758,Seychelles,2001,Victoria,"1,160"
+759,Somalia,2001,Victoria,"2,310"
+760,South Africa,2001,Victoria,"16,980"
+761,Eswatini,2001,Victoria,40
+762,Tanzania,2001,Victoria,360
+763,Uganda,2001,Victoria,250
+764,Zambia,2001,Victoria,490
+765,Zimbabwe,2001,Victoria,"1,420"
+766,"S & E Afr, nec",2001,Victoria,0
+767,Inadequately described,2001,Victoria,0
+768,Australia,2001,Queensland,"2,927,700"
+769,Norfolk Island,2001,Queensland,70
+770,"Aust E T, nec",2001,Queensland,0
+771,New Zealand,2001,Queensland,"137,050"
+772,New Caledonia,2001,Queensland,470
+773,PNG,2001,Queensland,"13,140"
+774,Solomon Islands,2001,Queensland,640
+775,Vanuatu,2001,Queensland,330
+776,Guam,2001,Queensland,20
+777,Kiribati,2001,Queensland,120
+778,Marshall Is,2001,Queensland,10
+779,"Micronesia, F S",2001,Queensland,10
+780,Nauru,2001,Queensland,140
+781,N Mariana Is,2001,Queensland,0
+782,Palau,2001,Queensland,0
+783,Cook Islands,2001,Queensland,"1,140"
+784,Fiji,2001,Queensland,"8,280"
+785,French Poly,2001,Queensland,160
+786,Niue,2001,Queensland,140
+787,Samoa,2001,Queensland,"4,200"
+788,Samoa American,2001,Queensland,50
+789,Tokelau,2001,Queensland,100
+790,Tonga,2001,Queensland,"1,070"
+791,Tuvalu,2001,Queensland,40
+792,Wallis/Futuna,2001,Queensland,0
+793,Pitcairn Is,2001,Queensland,0
+794,"Polynesia, nec",2001,Queensland,20
+795,Adelie Land,2001,Queensland,0
+796,Argentinian A T,2001,Queensland,0
+797,Australian A T,2001,Queensland,0
+798,British A T,2001,Queensland,0
+799,Chilean A T,2001,Queensland,0
+800,Queen Maud Land,2001,Queensland,0
+801,Ross Dependency,2001,Queensland,0
+802,England,2001,Queensland,"158,160"
+803,Isle of Man,2001,Queensland,130
+804,N'thern Ireland,2001,Queensland,"3,520"
+805,Scotland,2001,Queensland,"22,450"
+806,Wales,2001,Queensland,"5,180"
+807,Guernsey,2001,Queensland,110
+808,Jersey,2001,Queensland,170
+809,Ireland,2001,Queensland,"7,170"
+810,Austria,2001,Queensland,"3,160"
+811,Belgium,2001,Queensland,"1,090"
+812,France,2001,Queensland,"3,390"
+813,Germany,2001,Queensland,"20,560"
+814,Liechtenstein,2001,Queensland,0
+815,Luxembourg,2001,Queensland,30
+816,Monaco,2001,Queensland,10
+817,Netherlands,2001,Queensland,"16,560"
+818,Switzerland,2001,Queensland,"2,540"
+819,Denmark,2001,Queensland,"2,660"
+820,Faroe Islands,2001,Queensland,10
+821,Finland,2001,Queensland,"2,990"
+822,Greenland,2001,Queensland,10
+823,Iceland,2001,Queensland,110
+824,Norway,2001,Queensland,"1,090"
+825,Sweden,2001,Queensland,"1,740"
+826,Aland Islands,2001,Queensland,0
+827,Andorra,2001,Queensland,0
+828,Gibraltar,2001,Queensland,60
+829,Holy See,2001,Queensland,0
+830,Italy,2001,Queensland,"15,670"
+831,Malta,2001,Queensland,"3,060"
+832,Portugal,2001,Queensland,900
+833,San Marino,2001,Queensland,0
+834,Spain,2001,Queensland,"2,010"
+835,Albania,2001,Queensland,170
+836,Bosnia/Herzegov,2001,Queensland,"3,460"
+837,Bulgaria,2001,Queensland,310
+838,Croatia,2001,Queensland,"4,020"
+839,Cyprus,2001,Queensland,"1,290"
+840,North Macedonia,2001,Queensland,910
+841,Greece,2001,Queensland,"4,280"
+842,Moldova,2001,Queensland,20
+843,Romania,2001,Queensland,"1,850"
+844,Slovenia,2001,Queensland,680
+845,Montenegro,2001,Queensland,500
+846,Serbia,2001,Queensland,"4,980"
+847,Kosovo,2001,Queensland,0
+848,Belarus,2001,Queensland,70
+849,Czechia,2001,Queensland,"1,890"
+850,Estonia,2001,Queensland,160
+851,Hungary,2001,Queensland,"3,310"
+852,Latvia,2001,Queensland,710
+853,Lithuania,2001,Queensland,290
+854,Poland,2001,Queensland,"5,750"
+855,Russia,2001,Queensland,"1,410"
+856,Slovakia,2001,Queensland,840
+857,Ukraine,2001,Queensland,"1,020"
+858,Algeria,2001,Queensland,220
+859,Egypt,2001,Queensland,"1,660"
+860,Libya,2001,Queensland,110
+861,Morocco,2001,Queensland,170
+862,Sudan,2001,Queensland,420
+863,Tunisia,2001,Queensland,60
+864,Western Sahara,2001,Queensland,0
+865,Sp North Africa,2001,Queensland,0
+866,South Sudan,2001,Queensland,0
+867,Bahrain,2001,Queensland,80
+868,Gaza Str/W Bank,2001,Queensland,90
+869,Iran,2001,Queensland,"1,360"
+870,Iraq,2001,Queensland,690
+871,Israel,2001,Queensland,470
+872,Jordan,2001,Queensland,160
+873,Kuwait,2001,Queensland,160
+874,Lebanon,2001,Queensland,"1,250"
+875,Oman,2001,Queensland,60
+876,Qatar,2001,Queensland,10
+877,Saudi Arabia,2001,Queensland,160
+878,Syria,2001,Queensland,220
+879,Turkey,2001,Queensland,"1,040"
+880,Unit Arab Emir,2001,Queensland,210
+881,Yemen,2001,Queensland,40
+882,Myanmar,2001,Queensland,600
+883,Cambodia,2001,Queensland,"1,010"
+884,Laos,2001,Queensland,950
+885,Thailand,2001,Queensland,"3,080"
+886,Vietnam,2001,Queensland,"12,060"
+887,Brunei,2001,Queensland,220
+888,Indonesia,2001,Queensland,"5,080"
+889,Malaysia,2001,Queensland,"8,540"
+890,Philippines,2001,Queensland,"16,560"
+891,Singapore,2001,Queensland,"4,630"
+892,Timor-Leste,2001,Queensland,510
+893,China,2001,Queensland,"9,440"
+894,Hong Kong,2001,Queensland,"7,210"
+895,Macau,2001,Queensland,180
+896,Mongolia,2001,Queensland,20
+897,Taiwan,2001,Queensland,"9,110"
+898,Japan,2001,Queensland,"6,540"
+899,"Korea, North",2001,Queensland,30
+900,"Korea, South",2001,Queensland,"4,000"
+901,Bangladesh,2001,Queensland,520
+902,Bhutan,2001,Queensland,0
+903,India,2001,Queensland,"7,240"
+904,Maldives,2001,Queensland,20
+905,Nepal,2001,Queensland,140
+906,Pakistan,2001,Queensland,770
+907,Sri Lanka,2001,Queensland,"4,460"
+908,Afghanistan,2001,Queensland,600
+909,Armenia,2001,Queensland,10
+910,Azerbaijan,2001,Queensland,10
+911,Georgia,2001,Queensland,0
+912,Kazakhstan,2001,Queensland,60
+913,Kyrgyzstan,2001,Queensland,30
+914,Tajikistan,2001,Queensland,0
+915,Turkmenistan,2001,Queensland,0
+916,Uzbekistan,2001,Queensland,10
+917,Bermuda,2001,Queensland,110
+918,Canada,2001,Queensland,"6,720"
+919,St Pierre/Mique,2001,Queensland,0
+920,USA,2001,Queensland,"11,070"
+921,Argentina,2001,Queensland,940
+922,Bolivia,2001,Queensland,60
+923,Brazil,2001,Queensland,700
+924,Chile,2001,Queensland,"1,430"
+925,Colombia,2001,Queensland,770
+926,Ecuador,2001,Queensland,70
+927,Falkland Is,2001,Queensland,20
+928,French Guiana,2001,Queensland,0
+929,Guyana,2001,Queensland,120
+930,Paraguay,2001,Queensland,40
+931,Peru,2001,Queensland,420
+932,Suriname,2001,Queensland,20
+933,Uruguay,2001,Queensland,510
+934,Venezuela,2001,Queensland,150
+935,"S America, nec",2001,Queensland,0
+936,Belize,2001,Queensland,10
+937,Costa Rica,2001,Queensland,40
+938,El Salvador,2001,Queensland,"2,540"
+939,Guatemala,2001,Queensland,60
+940,Honduras,2001,Queensland,30
+941,Mexico,2001,Queensland,200
+942,Nicaragua,2001,Queensland,110
+943,Panama,2001,Queensland,20
+944,Anguilla,2001,Queensland,0
+945,Antigua/Barbuda,2001,Queensland,0
+946,Aruba,2001,Queensland,10
+947,Bahamas,2001,Queensland,60
+948,Barbados,2001,Queensland,140
+949,Cayman Islands,2001,Queensland,0
+950,Cuba,2001,Queensland,80
+951,Dominica,2001,Queensland,0
+952,Dominican Rep,2001,Queensland,20
+953,Grenada,2001,Queensland,40
+954,Guadeloupe,2001,Queensland,0
+955,Haiti,2001,Queensland,10
+956,Jamaica,2001,Queensland,240
+957,Martinique,2001,Queensland,20
+958,Montserrat,2001,Queensland,0
+959,Puerto Rico,2001,Queensland,20
+960,St Kitts/Nevis,2001,Queensland,10
+961,St Lucia,2001,Queensland,10
+962,St Vinc/Grenad,2001,Queensland,20
+963,Trinidad/Tobago,2001,Queensland,340
+964,Turks/Caicos Is,2001,Queensland,0
+965,"Virgin Is, Brit",2001,Queensland,0
+966,"Virgin Is, US",2001,Queensland,0
+967,St Barthelemy,2001,Queensland,0
+968,St Martin (Fr),2001,Queensland,0
+969,Bonaire/SE/Saba,2001,Queensland,0
+970,Curacao,2001,Queensland,20
+971,Sint Maarten Dp,2001,Queensland,0
+972,Benin,2001,Queensland,10
+973,Burkina Faso,2001,Queensland,0
+974,Cameroon,2001,Queensland,10
+975,Cabo Verde,2001,Queensland,0
+976,Cent Africa Rep,2001,Queensland,0
+977,Chad,2001,Queensland,0
+978,"Congo, Rep",2001,Queensland,40
+979,"Congo, Dem Rep",2001,Queensland,50
+980,Cote d'Ivoire,2001,Queensland,10
+981,Equator Guinea,2001,Queensland,0
+982,Gabon,2001,Queensland,0
+983,Gambia,2001,Queensland,0
+984,Ghana,2001,Queensland,140
+985,Guinea,2001,Queensland,0
+986,Guinea-Bissau,2001,Queensland,0
+987,Liberia,2001,Queensland,10
+988,Mali,2001,Queensland,0
+989,Mauritania,2001,Queensland,10
+990,Niger,2001,Queensland,0
+991,Nigeria,2001,Queensland,250
+992,Sao Tome/Princ,2001,Queensland,0
+993,Senegal,2001,Queensland,50
+994,Sierra Leone,2001,Queensland,30
+995,Togo,2001,Queensland,0
+996,Angola,2001,Queensland,40
+997,Botswana,2001,Queensland,130
+998,Burundi,2001,Queensland,10
+999,Comoros,2001,Queensland,0
+1000,Djibouti,2001,Queensland,0
+1001,Eritrea,2001,Queensland,90
+1002,Ethiopia,2001,Queensland,250
+1003,Kenya,2001,Queensland,"1,200"
+1004,Lesotho,2001,Queensland,10
+1005,Madagascar,2001,Queensland,50
+1006,Malawi,2001,Queensland,110
+1007,Mauritius,2001,Queensland,"1,080"
+1008,Mayotte,2001,Queensland,0
+1009,Mozambique,2001,Queensland,120
+1010,Namibia,2001,Queensland,100
+1011,Reunion,2001,Queensland,20
+1012,Rwanda,2001,Queensland,10
+1013,St Helena,2001,Queensland,0
+1014,Seychelles,2001,Queensland,460
+1015,Somalia,2001,Queensland,200
+1016,South Africa,2001,Queensland,"15,380"
+1017,Eswatini,2001,Queensland,20
+1018,Tanzania,2001,Queensland,300
+1019,Uganda,2001,Queensland,190
+1020,Zambia,2001,Queensland,700
+1021,Zimbabwe,2001,Queensland,"3,580"
+1022,"S & E Afr, nec",2001,Queensland,0
+1023,Inadequately described,2001,Queensland,0
+1024,Australia,2001,South Australia,"1,184,810"
+1025,Norfolk Island,2001,South Australia,0
+1026,"Aust E T, nec",2001,South Australia,0
+1027,New Zealand,2001,South Australia,"11,800"
+1028,New Caledonia,2001,South Australia,30
+1029,PNG,2001,South Australia,910
+1030,Solomon Islands,2001,South Australia,30
+1031,Vanuatu,2001,South Australia,20
+1032,Guam,2001,South Australia,0
+1033,Kiribati,2001,South Australia,20
+1034,Marshall Is,2001,South Australia,0
+1035,"Micronesia, F S",2001,South Australia,0
+1036,Nauru,2001,South Australia,20
+1037,N Mariana Is,2001,South Australia,0
+1038,Palau,2001,South Australia,0
+1039,Cook Islands,2001,South Australia,60
+1040,Fiji,2001,South Australia,870
+1041,French Poly,2001,South Australia,10
+1042,Niue,2001,South Australia,0
+1043,Samoa,2001,South Australia,70
+1044,Samoa American,2001,South Australia,10
+1045,Tokelau,2001,South Australia,0
+1046,Tonga,2001,South Australia,60
+1047,Tuvalu,2001,South Australia,0
+1048,Wallis/Futuna,2001,South Australia,0
+1049,Pitcairn Is,2001,South Australia,0
+1050,"Polynesia, nec",2001,South Australia,10
+1051,Adelie Land,2001,South Australia,0
+1052,Argentinian A T,2001,South Australia,0
+1053,Australian A T,2001,South Australia,0
+1054,British A T,2001,South Australia,0
+1055,Chilean A T,2001,South Australia,0
+1056,Queen Maud Land,2001,South Australia,0
+1057,Ross Dependency,2001,South Australia,0
+1058,England,2001,South Australia,"112,420"
+1059,Isle of Man,2001,South Australia,60
+1060,N'thern Ireland,2001,South Australia,"2,270"
+1061,Scotland,2001,South Australia,"15,720"
+1062,Wales,2001,South Australia,"3,440"
+1063,Guernsey,2001,South Australia,50
+1064,Jersey,2001,South Australia,100
+1065,Ireland,2001,South Australia,"3,480"
+1066,Austria,2001,South Australia,"1,910"
+1067,Belgium,2001,South Australia,440
+1068,France,2001,South Australia,"1,220"
+1069,Germany,2001,South Australia,"13,760"
+1070,Liechtenstein,2001,South Australia,0
+1071,Luxembourg,2001,South Australia,10
+1072,Monaco,2001,South Australia,0
+1073,Netherlands,2001,South Australia,"9,140"
+1074,Switzerland,2001,South Australia,610
+1075,Denmark,2001,South Australia,700
+1076,Faroe Islands,2001,South Australia,0
+1077,Finland,2001,South Australia,600
+1078,Greenland,2001,South Australia,0
+1079,Iceland,2001,South Australia,30
+1080,Norway,2001,South Australia,300
+1081,Sweden,2001,South Australia,450
+1082,Aland Islands,2001,South Australia,0
+1083,Andorra,2001,South Australia,0
+1084,Gibraltar,2001,South Australia,50
+1085,Holy See,2001,South Australia,0
+1086,Italy,2001,South Australia,"25,830"
+1087,Malta,2001,South Australia,"1,970"
+1088,Portugal,2001,South Australia,540
+1089,San Marino,2001,South Australia,0
+1090,Spain,2001,South Australia,770
+1091,Albania,2001,South Australia,220
+1092,Bosnia/Herzegov,2001,South Australia,"2,600"
+1093,Bulgaria,2001,South Australia,430
+1094,Croatia,2001,South Australia,"4,030"
+1095,Cyprus,2001,South Australia,"1,700"
+1096,North Macedonia,2001,South Australia,490
+1097,Greece,2001,South Australia,"12,490"
+1098,Moldova,2001,South Australia,20
+1099,Romania,2001,South Australia,"1,170"
+1100,Slovenia,2001,South Australia,630
+1101,Montenegro,2001,South Australia,410
+1102,Serbia,2001,South Australia,"3,930"
+1103,Kosovo,2001,South Australia,0
+1104,Belarus,2001,South Australia,100
+1105,Czechia,2001,South Australia,"1,120"
+1106,Estonia,2001,South Australia,270
+1107,Hungary,2001,South Australia,"2,160"
+1108,Latvia,2001,South Australia,"1,100"
+1109,Lithuania,2001,South Australia,560
+1110,Poland,2001,South Australia,"7,760"
+1111,Russia,2001,South Australia,"1,070"
+1112,Slovakia,2001,South Australia,630
+1113,Ukraine,2001,South Australia,"1,760"
+1114,Algeria,2001,South Australia,60
+1115,Egypt,2001,South Australia,"1,210"
+1116,Libya,2001,South Australia,50
+1117,Morocco,2001,South Australia,50
+1118,Sudan,2001,South Australia,270
+1119,Tunisia,2001,South Australia,20
+1120,Western Sahara,2001,South Australia,0
+1121,Sp North Africa,2001,South Australia,0
+1122,South Sudan,2001,South Australia,0
+1123,Bahrain,2001,South Australia,40
+1124,Gaza Str/W Bank,2001,South Australia,110
+1125,Iran,2001,South Australia,"1,950"
+1126,Iraq,2001,South Australia,880
+1127,Israel,2001,South Australia,160
+1128,Jordan,2001,South Australia,100
+1129,Kuwait,2001,South Australia,50
+1130,Lebanon,2001,South Australia,"1,650"
+1131,Oman,2001,South Australia,20
+1132,Qatar,2001,South Australia,0
+1133,Saudi Arabia,2001,South Australia,70
+1134,Syria,2001,South Australia,200
+1135,Turkey,2001,South Australia,650
+1136,Unit Arab Emir,2001,South Australia,40
+1137,Yemen,2001,South Australia,30
+1138,Myanmar,2001,South Australia,130
+1139,Cambodia,2001,South Australia,"2,520"
+1140,Laos,2001,South Australia,440
+1141,Thailand,2001,South Australia,"1,350"
+1142,Vietnam,2001,South Australia,"10,890"
+1143,Brunei,2001,South Australia,120
+1144,Indonesia,2001,South Australia,"1,380"
+1145,Malaysia,2001,South Australia,"4,500"
+1146,Philippines,2001,South Australia,"4,870"
+1147,Singapore,2001,South Australia,"1,470"
+1148,Timor-Leste,2001,South Australia,80
+1149,China,2001,South Australia,"3,820"
+1150,Hong Kong,2001,South Australia,"1,950"
+1151,Macau,2001,South Australia,50
+1152,Mongolia,2001,South Australia,0
+1153,Taiwan,2001,South Australia,550
+1154,Japan,2001,South Australia,880
+1155,"Korea, North",2001,South Australia,10
+1156,"Korea, South",2001,South Australia,890
+1157,Bangladesh,2001,South Australia,120
+1158,Bhutan,2001,South Australia,10
+1159,India,2001,South Australia,"3,750"
+1160,Maldives,2001,South Australia,20
+1161,Nepal,2001,South Australia,70
+1162,Pakistan,2001,South Australia,360
+1163,Sri Lanka,2001,South Australia,"1,260"
+1164,Afghanistan,2001,South Australia,"1,300"
+1165,Armenia,2001,South Australia,100
+1166,Azerbaijan,2001,South Australia,10
+1167,Georgia,2001,South Australia,60
+1168,Kazakhstan,2001,South Australia,90
+1169,Kyrgyzstan,2001,South Australia,10
+1170,Tajikistan,2001,South Australia,0
+1171,Turkmenistan,2001,South Australia,0
+1172,Uzbekistan,2001,South Australia,60
+1173,Bermuda,2001,South Australia,10
+1174,Canada,2001,South Australia,"1,760"
+1175,St Pierre/Mique,2001,South Australia,0
+1176,USA,2001,South Australia,"3,360"
+1177,Argentina,2001,South Australia,320
+1178,Bolivia,2001,South Australia,30
+1179,Brazil,2001,South Australia,140
+1180,Chile,2001,South Australia,730
+1181,Colombia,2001,South Australia,80
+1182,Ecuador,2001,South Australia,50
+1183,Falkland Is,2001,South Australia,10
+1184,French Guiana,2001,South Australia,0
+1185,Guyana,2001,South Australia,30
+1186,Paraguay,2001,South Australia,10
+1187,Peru,2001,South Australia,130
+1188,Suriname,2001,South Australia,10
+1189,Uruguay,2001,South Australia,130
+1190,Venezuela,2001,South Australia,70
+1191,"S America, nec",2001,South Australia,0
+1192,Belize,2001,South Australia,0
+1193,Costa Rica,2001,South Australia,0
+1194,El Salvador,2001,South Australia,910
+1195,Guatemala,2001,South Australia,20
+1196,Honduras,2001,South Australia,10
+1197,Mexico,2001,South Australia,50
+1198,Nicaragua,2001,South Australia,30
+1199,Panama,2001,South Australia,10
+1200,Anguilla,2001,South Australia,0
+1201,Antigua/Barbuda,2001,South Australia,0
+1202,Aruba,2001,South Australia,0
+1203,Bahamas,2001,South Australia,0
+1204,Barbados,2001,South Australia,30
+1205,Cayman Islands,2001,South Australia,0
+1206,Cuba,2001,South Australia,10
+1207,Dominica,2001,South Australia,0
+1208,Dominican Rep,2001,South Australia,0
+1209,Grenada,2001,South Australia,0
+1210,Guadeloupe,2001,South Australia,0
+1211,Haiti,2001,South Australia,10
+1212,Jamaica,2001,South Australia,40
+1213,Martinique,2001,South Australia,0
+1214,Montserrat,2001,South Australia,0
+1215,Puerto Rico,2001,South Australia,0
+1216,St Kitts/Nevis,2001,South Australia,0
+1217,St Lucia,2001,South Australia,0
+1218,St Vinc/Grenad,2001,South Australia,0
+1219,Trinidad/Tobago,2001,South Australia,30
+1220,Turks/Caicos Is,2001,South Australia,0
+1221,"Virgin Is, Brit",2001,South Australia,0
+1222,"Virgin Is, US",2001,South Australia,0
+1223,St Barthelemy,2001,South Australia,0
+1224,St Martin (Fr),2001,South Australia,0
+1225,Bonaire/SE/Saba,2001,South Australia,0
+1226,Curacao,2001,South Australia,10
+1227,Sint Maarten Dp,2001,South Australia,0
+1228,Benin,2001,South Australia,0
+1229,Burkina Faso,2001,South Australia,0
+1230,Cameroon,2001,South Australia,10
+1231,Cabo Verde,2001,South Australia,0
+1232,Cent Africa Rep,2001,South Australia,0
+1233,Chad,2001,South Australia,0
+1234,"Congo, Rep",2001,South Australia,10
+1235,"Congo, Dem Rep",2001,South Australia,10
+1236,Cote d'Ivoire,2001,South Australia,0
+1237,Equator Guinea,2001,South Australia,0
+1238,Gabon,2001,South Australia,0
+1239,Gambia,2001,South Australia,0
+1240,Ghana,2001,South Australia,60
+1241,Guinea,2001,South Australia,0
+1242,Guinea-Bissau,2001,South Australia,0
+1243,Liberia,2001,South Australia,10
+1244,Mali,2001,South Australia,0
+1245,Mauritania,2001,South Australia,0
+1246,Niger,2001,South Australia,0
+1247,Nigeria,2001,South Australia,80
+1248,Sao Tome/Princ,2001,South Australia,0
+1249,Senegal,2001,South Australia,10
+1250,Sierra Leone,2001,South Australia,20
+1251,Togo,2001,South Australia,0
+1252,Angola,2001,South Australia,20
+1253,Botswana,2001,South Australia,30
+1254,Burundi,2001,South Australia,0
+1255,Comoros,2001,South Australia,0
+1256,Djibouti,2001,South Australia,0
+1257,Eritrea,2001,South Australia,140
+1258,Ethiopia,2001,South Australia,220
+1259,Kenya,2001,South Australia,390
+1260,Lesotho,2001,South Australia,0
+1261,Madagascar,2001,South Australia,20
+1262,Malawi,2001,South Australia,20
+1263,Mauritius,2001,South Australia,120
+1264,Mayotte,2001,South Australia,0
+1265,Mozambique,2001,South Australia,10
+1266,Namibia,2001,South Australia,30
+1267,Reunion,2001,South Australia,0
+1268,Rwanda,2001,South Australia,0
+1269,St Helena,2001,South Australia,0
+1270,Seychelles,2001,South Australia,30
+1271,Somalia,2001,South Australia,100
+1272,South Africa,2001,South Australia,"3,360"
+1273,Eswatini,2001,South Australia,0
+1274,Tanzania,2001,South Australia,130
+1275,Uganda,2001,South Australia,50
+1276,Zambia,2001,South Australia,160
+1277,Zimbabwe,2001,South Australia,490
+1278,"S & E Afr, nec",2001,South Australia,10
+1279,Inadequately described,2001,South Australia,0
+1280,Australia,2001,Western Australia,"1,361,280"
+1281,Norfolk Island,2001,Western Australia,10
+1282,"Aust E T, nec",2001,Western Australia,0
+1283,New Zealand,2001,Western Australia,"49,680"
+1284,New Caledonia,2001,Western Australia,30
+1285,PNG,2001,Western Australia,"1,280"
+1286,Solomon Islands,2001,Western Australia,40
+1287,Vanuatu,2001,Western Australia,40
+1288,Guam,2001,Western Australia,0
+1289,Kiribati,2001,Western Australia,20
+1290,Marshall Is,2001,Western Australia,0
+1291,"Micronesia, F S",2001,Western Australia,0
+1292,Nauru,2001,Western Australia,30
+1293,N Mariana Is,2001,Western Australia,0
+1294,Palau,2001,Western Australia,0
+1295,Cook Islands,2001,Western Australia,120
+1296,Fiji,2001,Western Australia,680
+1297,French Poly,2001,Western Australia,10
+1298,Niue,2001,Western Australia,20
+1299,Samoa,2001,Western Australia,180
+1300,Samoa American,2001,Western Australia,10
+1301,Tokelau,2001,Western Australia,10
+1302,Tonga,2001,Western Australia,90
+1303,Tuvalu,2001,Western Australia,0
+1304,Wallis/Futuna,2001,Western Australia,0
+1305,Pitcairn Is,2001,Western Australia,0
+1306,"Polynesia, nec",2001,Western Australia,10
+1307,Adelie Land,2001,Western Australia,0
+1308,Argentinian A T,2001,Western Australia,0
+1309,Australian A T,2001,Western Australia,0
+1310,British A T,2001,Western Australia,0
+1311,Chilean A T,2001,Western Australia,0
+1312,Queen Maud Land,2001,Western Australia,0
+1313,Ross Dependency,2001,Western Australia,0
+1314,England,2001,Western Australia,"186,550"
+1315,Isle of Man,2001,Western Australia,180
+1316,N'thern Ireland,2001,Western Australia,"3,370"
+1317,Scotland,2001,Western Australia,"25,600"
+1318,Wales,2001,Western Australia,"6,490"
+1319,Guernsey,2001,Western Australia,180
+1320,Jersey,2001,Western Australia,280
+1321,Ireland,2001,Western Australia,"9,720"
+1322,Austria,2001,Western Australia,"1,700"
+1323,Belgium,2001,Western Australia,680
+1324,France,2001,Western Australia,"1,790"
+1325,Germany,2001,Western Australia,"11,050"
+1326,Liechtenstein,2001,Western Australia,0
+1327,Luxembourg,2001,Western Australia,30
+1328,Monaco,2001,Western Australia,0
+1329,Netherlands,2001,Western Australia,"11,820"
+1330,Switzerland,2001,Western Australia,"1,800"
+1331,Denmark,2001,Western Australia,"1,240"
+1332,Faroe Islands,2001,Western Australia,0
+1333,Finland,2001,Western Australia,600
+1334,Greenland,2001,Western Australia,0
+1335,Iceland,2001,Western Australia,150
+1336,Norway,2001,Western Australia,610
+1337,Sweden,2001,Western Australia,800
+1338,Aland Islands,2001,Western Australia,0
+1339,Andorra,2001,Western Australia,0
+1340,Gibraltar,2001,Western Australia,120
+1341,Holy See,2001,Western Australia,0
+1342,Italy,2001,Western Australia,"24,630"
+1343,Malta,2001,Western Australia,"1,120"
+1344,Portugal,2001,Western Australia,"2,810"
+1345,San Marino,2001,Western Australia,0
+1346,Spain,2001,Western Australia,"1,200"
+1347,Albania,2001,Western Australia,90
+1348,Bosnia/Herzegov,2001,Western Australia,"3,170"
+1349,Bulgaria,2001,Western Australia,240
+1350,Croatia,2001,Western Australia,"5,980"
+1351,Cyprus,2001,Western Australia,450
+1352,North Macedonia,2001,Western Australia,"3,810"
+1353,Greece,2001,Western Australia,"3,450"
+1354,Moldova,2001,Western Australia,10
+1355,Romania,2001,Western Australia,"1,490"
+1356,Slovenia,2001,Western Australia,400
+1357,Montenegro,2001,Western Australia,450
+1358,Serbia,2001,Western Australia,"4,390"
+1359,Kosovo,2001,Western Australia,0
+1360,Belarus,2001,Western Australia,30
+1361,Czechia,2001,Western Australia,"1,000"
+1362,Estonia,2001,Western Australia,130
+1363,Hungary,2001,Western Australia,"1,480"
+1364,Latvia,2001,Western Australia,560
+1365,Lithuania,2001,Western Australia,260
+1366,Poland,2001,Western Australia,"7,350"
+1367,Russia,2001,Western Australia,780
+1368,Slovakia,2001,Western Australia,460
+1369,Ukraine,2001,Western Australia,740
+1370,Algeria,2001,Western Australia,130
+1371,Egypt,2001,Western Australia,"1,770"
+1372,Libya,2001,Western Australia,100
+1373,Morocco,2001,Western Australia,120
+1374,Sudan,2001,Western Australia,450
+1375,Tunisia,2001,Western Australia,30
+1376,Western Sahara,2001,Western Australia,0
+1377,Sp North Africa,2001,Western Australia,0
+1378,South Sudan,2001,Western Australia,0
+1379,Bahrain,2001,Western Australia,100
+1380,Gaza Str/W Bank,2001,Western Australia,180
+1381,Iran,2001,Western Australia,"2,320"
+1382,Iraq,2001,Western Australia,"1,750"
+1383,Israel,2001,Western Australia,610
+1384,Jordan,2001,Western Australia,270
+1385,Kuwait,2001,Western Australia,240
+1386,Lebanon,2001,Western Australia,950
+1387,Oman,2001,Western Australia,70
+1388,Qatar,2001,Western Australia,50
+1389,Saudi Arabia,2001,Western Australia,210
+1390,Syria,2001,Western Australia,280
+1391,Turkey,2001,Western Australia,850
+1392,Unit Arab Emir,2001,Western Australia,230
+1393,Yemen,2001,Western Australia,70
+1394,Myanmar,2001,Western Australia,"6,150"
+1395,Cambodia,2001,Western Australia,730
+1396,Laos,2001,Western Australia,160
+1397,Thailand,2001,Western Australia,"2,710"
+1398,Vietnam,2001,Western Australia,"10,780"
+1399,Brunei,2001,Western Australia,980
+1400,Indonesia,2001,Western Australia,"9,180"
+1401,Malaysia,2001,Western Australia,"19,390"
+1402,Philippines,2001,Western Australia,"5,970"
+1403,Singapore,2001,Western Australia,"11,070"
+1404,Timor-Leste,2001,Western Australia,390
+1405,China,2001,Western Australia,"5,710"
+1406,Hong Kong,2001,Western Australia,"3,940"
+1407,Macau,2001,Western Australia,100
+1408,Mongolia,2001,Western Australia,10
+1409,Taiwan,2001,Western Australia,970
+1410,Japan,2001,Western Australia,"2,340"
+1411,"Korea, North",2001,Western Australia,20
+1412,"Korea, South",2001,Western Australia,"1,420"
+1413,Bangladesh,2001,Western Australia,500
+1414,Bhutan,2001,Western Australia,10
+1415,India,2001,Western Australia,"13,550"
+1416,Maldives,2001,Western Australia,20
+1417,Nepal,2001,Western Australia,90
+1418,Pakistan,2001,Western Australia,"1,000"
+1419,Sri Lanka,2001,Western Australia,"3,410"
+1420,Afghanistan,2001,Western Australia,"2,050"
+1421,Armenia,2001,Western Australia,10
+1422,Azerbaijan,2001,Western Australia,10
+1423,Georgia,2001,Western Australia,10
+1424,Kazakhstan,2001,Western Australia,40
+1425,Kyrgyzstan,2001,Western Australia,10
+1426,Tajikistan,2001,Western Australia,10
+1427,Turkmenistan,2001,Western Australia,0
+1428,Uzbekistan,2001,Western Australia,30
+1429,Bermuda,2001,Western Australia,110
+1430,Canada,2001,Western Australia,"4,000"
+1431,St Pierre/Mique,2001,Western Australia,0
+1432,USA,2001,Western Australia,"6,890"
+1433,Argentina,2001,Western Australia,540
+1434,Bolivia,2001,Western Australia,20
+1435,Brazil,2001,Western Australia,430
+1436,Chile,2001,Western Australia,"1,370"
+1437,Colombia,2001,Western Australia,220
+1438,Ecuador,2001,Western Australia,40
+1439,Falkland Is,2001,Western Australia,10
+1440,French Guiana,2001,Western Australia,0
+1441,Guyana,2001,Western Australia,60
+1442,Paraguay,2001,Western Australia,20
+1443,Peru,2001,Western Australia,250
+1444,Suriname,2001,Western Australia,10
+1445,Uruguay,2001,Western Australia,180
+1446,Venezuela,2001,Western Australia,110
+1447,"S America, nec",2001,Western Australia,0
+1448,Belize,2001,Western Australia,10
+1449,Costa Rica,2001,Western Australia,40
+1450,El Salvador,2001,Western Australia,"1,280"
+1451,Guatemala,2001,Western Australia,30
+1452,Honduras,2001,Western Australia,20
+1453,Mexico,2001,Western Australia,90
+1454,Nicaragua,2001,Western Australia,40
+1455,Panama,2001,Western Australia,20
+1456,Anguilla,2001,Western Australia,0
+1457,Antigua/Barbuda,2001,Western Australia,10
+1458,Aruba,2001,Western Australia,10
+1459,Bahamas,2001,Western Australia,90
+1460,Barbados,2001,Western Australia,40
+1461,Cayman Islands,2001,Western Australia,10
+1462,Cuba,2001,Western Australia,20
+1463,Dominica,2001,Western Australia,0
+1464,Dominican Rep,2001,Western Australia,0
+1465,Grenada,2001,Western Australia,10
+1466,Guadeloupe,2001,Western Australia,0
+1467,Haiti,2001,Western Australia,10
+1468,Jamaica,2001,Western Australia,150
+1469,Martinique,2001,Western Australia,0
+1470,Montserrat,2001,Western Australia,0
+1471,Puerto Rico,2001,Western Australia,20
+1472,St Kitts/Nevis,2001,Western Australia,0
+1473,St Lucia,2001,Western Australia,0
+1474,St Vinc/Grenad,2001,Western Australia,10
+1475,Trinidad/Tobago,2001,Western Australia,430
+1476,Turks/Caicos Is,2001,Western Australia,0
+1477,"Virgin Is, Brit",2001,Western Australia,0
+1478,"Virgin Is, US",2001,Western Australia,0
+1479,St Barthelemy,2001,Western Australia,0
+1480,St Martin (Fr),2001,Western Australia,0
+1481,Bonaire/SE/Saba,2001,Western Australia,0
+1482,Curacao,2001,Western Australia,10
+1483,Sint Maarten Dp,2001,Western Australia,0
+1484,Benin,2001,Western Australia,0
+1485,Burkina Faso,2001,Western Australia,0
+1486,Cameroon,2001,Western Australia,10
+1487,Cabo Verde,2001,Western Australia,10
+1488,Cent Africa Rep,2001,Western Australia,0
+1489,Chad,2001,Western Australia,10
+1490,"Congo, Rep",2001,Western Australia,30
+1491,"Congo, Dem Rep",2001,Western Australia,50
+1492,Cote d'Ivoire,2001,Western Australia,10
+1493,Equator Guinea,2001,Western Australia,0
+1494,Gabon,2001,Western Australia,0
+1495,Gambia,2001,Western Australia,0
+1496,Ghana,2001,Western Australia,130
+1497,Guinea,2001,Western Australia,0
+1498,Guinea-Bissau,2001,Western Australia,0
+1499,Liberia,2001,Western Australia,20
+1500,Mali,2001,Western Australia,0
+1501,Mauritania,2001,Western Australia,0
+1502,Niger,2001,Western Australia,0
+1503,Nigeria,2001,Western Australia,190
+1504,Sao Tome/Princ,2001,Western Australia,10
+1505,Senegal,2001,Western Australia,10
+1506,Sierra Leone,2001,Western Australia,70
+1507,Togo,2001,Western Australia,0
+1508,Angola,2001,Western Australia,60
+1509,Botswana,2001,Western Australia,140
+1510,Burundi,2001,Western Australia,10
+1511,Comoros,2001,Western Australia,0
+1512,Djibouti,2001,Western Australia,10
+1513,Eritrea,2001,Western Australia,260
+1514,Ethiopia,2001,Western Australia,450
+1515,Kenya,2001,Western Australia,"2,450"
+1516,Lesotho,2001,Western Australia,10
+1517,Madagascar,2001,Western Australia,20
+1518,Malawi,2001,Western Australia,110
+1519,Mauritius,2001,Western Australia,"2,390"
+1520,Mayotte,2001,Western Australia,0
+1521,Mozambique,2001,Western Australia,170
+1522,Namibia,2001,Western Australia,130
+1523,Reunion,2001,Western Australia,10
+1524,Rwanda,2001,Western Australia,20
+1525,St Helena,2001,Western Australia,10
+1526,Seychelles,2001,Western Australia,750
+1527,Somalia,2001,Western Australia,490
+1528,South Africa,2001,Western Australia,"16,990"
+1529,Eswatini,2001,Western Australia,70
+1530,Tanzania,2001,Western Australia,400
+1531,Uganda,2001,Western Australia,300
+1532,Zambia,2001,Western Australia,"1,110"
+1533,Zimbabwe,2001,Western Australia,"4,460"
+1534,"S & E Afr, nec",2001,Western Australia,0
+1535,Inadequately described,2001,Western Australia,0
+1536,Australia,2001,Tasmania,"422,470"
+1537,Norfolk Island,2001,Tasmania,0
+1538,"Aust E T, nec",2001,Tasmania,0
+1539,New Zealand,2001,Tasmania,"4,010"
+1540,New Caledonia,2001,Tasmania,10
+1541,PNG,2001,Tasmania,280
+1542,Solomon Islands,2001,Tasmania,10
+1543,Vanuatu,2001,Tasmania,10
+1544,Guam,2001,Tasmania,0
+1545,Kiribati,2001,Tasmania,10
+1546,Marshall Is,2001,Tasmania,0
+1547,"Micronesia, F S",2001,Tasmania,0
+1548,Nauru,2001,Tasmania,10
+1549,N Mariana Is,2001,Tasmania,0
+1550,Palau,2001,Tasmania,0
+1551,Cook Islands,2001,Tasmania,20
+1552,Fiji,2001,Tasmania,290
+1553,French Poly,2001,Tasmania,0
+1554,Niue,2001,Tasmania,0
+1555,Samoa,2001,Tasmania,30
+1556,Samoa American,2001,Tasmania,0
+1557,Tokelau,2001,Tasmania,0
+1558,Tonga,2001,Tasmania,30
+1559,Tuvalu,2001,Tasmania,0
+1560,Wallis/Futuna,2001,Tasmania,0
+1561,Pitcairn Is,2001,Tasmania,0
+1562,"Polynesia, nec",2001,Tasmania,0
+1563,Adelie Land,2001,Tasmania,0
+1564,Argentinian A T,2001,Tasmania,0
+1565,Australian A T,2001,Tasmania,0
+1566,British A T,2001,Tasmania,0
+1567,Chilean A T,2001,Tasmania,0
+1568,Queen Maud Land,2001,Tasmania,0
+1569,Ross Dependency,2001,Tasmania,0
+1570,England,2001,Tasmania,"19,850"
+1571,Isle of Man,2001,Tasmania,20
+1572,N'thern Ireland,2001,Tasmania,370
+1573,Scotland,2001,Tasmania,"2,850"
+1574,Wales,2001,Tasmania,780
+1575,Guernsey,2001,Tasmania,10
+1576,Jersey,2001,Tasmania,20
+1577,Ireland,2001,Tasmania,700
+1578,Austria,2001,Tasmania,420
+1579,Belgium,2001,Tasmania,80
+1580,France,2001,Tasmania,190
+1581,Germany,2001,Tasmania,"2,200"
+1582,Liechtenstein,2001,Tasmania,0
+1583,Luxembourg,2001,Tasmania,0
+1584,Monaco,2001,Tasmania,0
+1585,Netherlands,2001,Tasmania,"2,950"
+1586,Switzerland,2001,Tasmania,280
+1587,Denmark,2001,Tasmania,180
+1588,Faroe Islands,2001,Tasmania,0
+1589,Finland,2001,Tasmania,140
+1590,Greenland,2001,Tasmania,0
+1591,Iceland,2001,Tasmania,20
+1592,Norway,2001,Tasmania,50
+1593,Sweden,2001,Tasmania,90
+1594,Aland Islands,2001,Tasmania,0
+1595,Andorra,2001,Tasmania,0
+1596,Gibraltar,2001,Tasmania,0
+1597,Holy See,2001,Tasmania,0
+1598,Italy,2001,Tasmania,"1,240"
+1599,Malta,2001,Tasmania,110
+1600,Portugal,2001,Tasmania,20
+1601,San Marino,2001,Tasmania,0
+1602,Spain,2001,Tasmania,80
+1603,Albania,2001,Tasmania,10
+1604,Bosnia/Herzegov,2001,Tasmania,190
+1605,Bulgaria,2001,Tasmania,20
+1606,Croatia,2001,Tasmania,330
+1607,Cyprus,2001,Tasmania,60
+1608,North Macedonia,2001,Tasmania,30
+1609,Greece,2001,Tasmania,680
+1610,Moldova,2001,Tasmania,10
+1611,Romania,2001,Tasmania,70
+1612,Slovenia,2001,Tasmania,100
+1613,Montenegro,2001,Tasmania,30
+1614,Serbia,2001,Tasmania,320
+1615,Kosovo,2001,Tasmania,0
+1616,Belarus,2001,Tasmania,20
+1617,Czechia,2001,Tasmania,250
+1618,Estonia,2001,Tasmania,40
+1619,Hungary,2001,Tasmania,310
+1620,Latvia,2001,Tasmania,120
+1621,Lithuania,2001,Tasmania,90
+1622,Poland,2001,Tasmania,"1,020"
+1623,Russia,2001,Tasmania,110
+1624,Slovakia,2001,Tasmania,70
+1625,Ukraine,2001,Tasmania,130
+1626,Algeria,2001,Tasmania,10
+1627,Egypt,2001,Tasmania,80
+1628,Libya,2001,Tasmania,0
+1629,Morocco,2001,Tasmania,10
+1630,Sudan,2001,Tasmania,140
+1631,Tunisia,2001,Tasmania,0
+1632,Western Sahara,2001,Tasmania,0
+1633,Sp North Africa,2001,Tasmania,0
+1634,South Sudan,2001,Tasmania,0
+1635,Bahrain,2001,Tasmania,10
+1636,Gaza Str/W Bank,2001,Tasmania,10
+1637,Iran,2001,Tasmania,120
+1638,Iraq,2001,Tasmania,40
+1639,Israel,2001,Tasmania,20
+1640,Jordan,2001,Tasmania,10
+1641,Kuwait,2001,Tasmania,0
+1642,Lebanon,2001,Tasmania,60
+1643,Oman,2001,Tasmania,0
+1644,Qatar,2001,Tasmania,0
+1645,Saudi Arabia,2001,Tasmania,20
+1646,Syria,2001,Tasmania,70
+1647,Turkey,2001,Tasmania,40
+1648,Unit Arab Emir,2001,Tasmania,20
+1649,Yemen,2001,Tasmania,10
+1650,Myanmar,2001,Tasmania,40
+1651,Cambodia,2001,Tasmania,10
+1652,Laos,2001,Tasmania,90
+1653,Thailand,2001,Tasmania,280
+1654,Vietnam,2001,Tasmania,170
+1655,Brunei,2001,Tasmania,10
+1656,Indonesia,2001,Tasmania,190
+1657,Malaysia,2001,Tasmania,760
+1658,Philippines,2001,Tasmania,860
+1659,Singapore,2001,Tasmania,280
+1660,Timor-Leste,2001,Tasmania,10
+1661,China,2001,Tasmania,500
+1662,Hong Kong,2001,Tasmania,290
+1663,Macau,2001,Tasmania,10
+1664,Mongolia,2001,Tasmania,0
+1665,Taiwan,2001,Tasmania,60
+1666,Japan,2001,Tasmania,250
+1667,"Korea, North",2001,Tasmania,0
+1668,"Korea, South",2001,Tasmania,320
+1669,Bangladesh,2001,Tasmania,40
+1670,Bhutan,2001,Tasmania,0
+1671,India,2001,Tasmania,590
+1672,Maldives,2001,Tasmania,0
+1673,Nepal,2001,Tasmania,20
+1674,Pakistan,2001,Tasmania,30
+1675,Sri Lanka,2001,Tasmania,210
+1676,Afghanistan,2001,Tasmania,20
+1677,Armenia,2001,Tasmania,0
+1678,Azerbaijan,2001,Tasmania,0
+1679,Georgia,2001,Tasmania,10
+1680,Kazakhstan,2001,Tasmania,0
+1681,Kyrgyzstan,2001,Tasmania,0
+1682,Tajikistan,2001,Tasmania,0
+1683,Turkmenistan,2001,Tasmania,0
+1684,Uzbekistan,2001,Tasmania,10
+1685,Bermuda,2001,Tasmania,10
+1686,Canada,2001,Tasmania,630
+1687,St Pierre/Mique,2001,Tasmania,0
+1688,USA,2001,Tasmania,"1,100"
+1689,Argentina,2001,Tasmania,40
+1690,Bolivia,2001,Tasmania,10
+1691,Brazil,2001,Tasmania,50
+1692,Chile,2001,Tasmania,160
+1693,Colombia,2001,Tasmania,20
+1694,Ecuador,2001,Tasmania,0
+1695,Falkland Is,2001,Tasmania,10
+1696,French Guiana,2001,Tasmania,0
+1697,Guyana,2001,Tasmania,10
+1698,Paraguay,2001,Tasmania,0
+1699,Peru,2001,Tasmania,30
+1700,Suriname,2001,Tasmania,0
+1701,Uruguay,2001,Tasmania,20
+1702,Venezuela,2001,Tasmania,10
+1703,"S America, nec",2001,Tasmania,0
+1704,Belize,2001,Tasmania,0
+1705,Costa Rica,2001,Tasmania,0
+1706,El Salvador,2001,Tasmania,260
+1707,Guatemala,2001,Tasmania,0
+1708,Honduras,2001,Tasmania,0
+1709,Mexico,2001,Tasmania,10
+1710,Nicaragua,2001,Tasmania,0
+1711,Panama,2001,Tasmania,0
+1712,Anguilla,2001,Tasmania,0
+1713,Antigua/Barbuda,2001,Tasmania,0
+1714,Aruba,2001,Tasmania,0
+1715,Bahamas,2001,Tasmania,0
+1716,Barbados,2001,Tasmania,0
+1717,Cayman Islands,2001,Tasmania,0
+1718,Cuba,2001,Tasmania,0
+1719,Dominica,2001,Tasmania,0
+1720,Dominican Rep,2001,Tasmania,0
+1721,Grenada,2001,Tasmania,0
+1722,Guadeloupe,2001,Tasmania,0
+1723,Haiti,2001,Tasmania,0
+1724,Jamaica,2001,Tasmania,10
+1725,Martinique,2001,Tasmania,0
+1726,Montserrat,2001,Tasmania,0
+1727,Puerto Rico,2001,Tasmania,0
+1728,St Kitts/Nevis,2001,Tasmania,0
+1729,St Lucia,2001,Tasmania,0
+1730,St Vinc/Grenad,2001,Tasmania,0
+1731,Trinidad/Tobago,2001,Tasmania,10
+1732,Turks/Caicos Is,2001,Tasmania,0
+1733,"Virgin Is, Brit",2001,Tasmania,0
+1734,"Virgin Is, US",2001,Tasmania,0
+1735,St Barthelemy,2001,Tasmania,0
+1736,St Martin (Fr),2001,Tasmania,0
+1737,Bonaire/SE/Saba,2001,Tasmania,0
+1738,Curacao,2001,Tasmania,0
+1739,Sint Maarten Dp,2001,Tasmania,0
+1740,Benin,2001,Tasmania,0
+1741,Burkina Faso,2001,Tasmania,0
+1742,Cameroon,2001,Tasmania,0
+1743,Cabo Verde,2001,Tasmania,0
+1744,Cent Africa Rep,2001,Tasmania,0
+1745,Chad,2001,Tasmania,0
+1746,"Congo, Rep",2001,Tasmania,0
+1747,"Congo, Dem Rep",2001,Tasmania,10
+1748,Cote d'Ivoire,2001,Tasmania,0
+1749,Equator Guinea,2001,Tasmania,0
+1750,Gabon,2001,Tasmania,0
+1751,Gambia,2001,Tasmania,0
+1752,Ghana,2001,Tasmania,10
+1753,Guinea,2001,Tasmania,0
+1754,Guinea-Bissau,2001,Tasmania,0
+1755,Liberia,2001,Tasmania,0
+1756,Mali,2001,Tasmania,0
+1757,Mauritania,2001,Tasmania,0
+1758,Niger,2001,Tasmania,0
+1759,Nigeria,2001,Tasmania,50
+1760,Sao Tome/Princ,2001,Tasmania,0
+1761,Senegal,2001,Tasmania,0
+1762,Sierra Leone,2001,Tasmania,10
+1763,Togo,2001,Tasmania,0
+1764,Angola,2001,Tasmania,0
+1765,Botswana,2001,Tasmania,10
+1766,Burundi,2001,Tasmania,0
+1767,Comoros,2001,Tasmania,0
+1768,Djibouti,2001,Tasmania,0
+1769,Eritrea,2001,Tasmania,0
+1770,Ethiopia,2001,Tasmania,40
+1771,Kenya,2001,Tasmania,110
+1772,Lesotho,2001,Tasmania,0
+1773,Madagascar,2001,Tasmania,0
+1774,Malawi,2001,Tasmania,10
+1775,Mauritius,2001,Tasmania,30
+1776,Mayotte,2001,Tasmania,0
+1777,Mozambique,2001,Tasmania,0
+1778,Namibia,2001,Tasmania,10
+1779,Reunion,2001,Tasmania,0
+1780,Rwanda,2001,Tasmania,0
+1781,St Helena,2001,Tasmania,0
+1782,Seychelles,2001,Tasmania,10
+1783,Somalia,2001,Tasmania,10
+1784,South Africa,2001,Tasmania,"1,090"
+1785,Eswatini,2001,Tasmania,0
+1786,Tanzania,2001,Tasmania,30
+1787,Uganda,2001,Tasmania,30
+1788,Zambia,2001,Tasmania,70
+1789,Zimbabwe,2001,Tasmania,170
+1790,"S & E Afr, nec",2001,Tasmania,0
+1791,Inadequately described,2001,Tasmania,0
+1792,Australia,2001,Northern Territory,"169,190"
+1793,Norfolk Island,2001,Northern Territory,0
+1794,"Aust E T, nec",2001,Northern Territory,0
+1795,New Zealand,2001,Northern Territory,"4,110"
+1796,New Caledonia,2001,Northern Territory,10
+1797,PNG,2001,Northern Territory,750
+1798,Solomon Islands,2001,Northern Territory,50
+1799,Vanuatu,2001,Northern Territory,10
+1800,Guam,2001,Northern Territory,0
+1801,Kiribati,2001,Northern Territory,20
+1802,Marshall Is,2001,Northern Territory,0
+1803,"Micronesia, F S",2001,Northern Territory,0
+1804,Nauru,2001,Northern Territory,10
+1805,N Mariana Is,2001,Northern Territory,0
+1806,Palau,2001,Northern Territory,0
+1807,Cook Islands,2001,Northern Territory,10
+1808,Fiji,2001,Northern Territory,200
+1809,French Poly,2001,Northern Territory,10
+1810,Niue,2001,Northern Territory,0
+1811,Samoa,2001,Northern Territory,20
+1812,Samoa American,2001,Northern Territory,0
+1813,Tokelau,2001,Northern Territory,0
+1814,Tonga,2001,Northern Territory,70
+1815,Tuvalu,2001,Northern Territory,0
+1816,Wallis/Futuna,2001,Northern Territory,0
+1817,Pitcairn Is,2001,Northern Territory,0
+1818,"Polynesia, nec",2001,Northern Territory,0
+1819,Adelie Land,2001,Northern Territory,0
+1820,Argentinian A T,2001,Northern Territory,0
+1821,Australian A T,2001,Northern Territory,0
+1822,British A T,2001,Northern Territory,0
+1823,Chilean A T,2001,Northern Territory,0
+1824,Queen Maud Land,2001,Northern Territory,0
+1825,Ross Dependency,2001,Northern Territory,0
+1826,England,2001,Northern Territory,"6,620"
+1827,Isle of Man,2001,Northern Territory,10
+1828,N'thern Ireland,2001,Northern Territory,140
+1829,Scotland,2001,Northern Territory,"1,000"
+1830,Wales,2001,Northern Territory,230
+1831,Guernsey,2001,Northern Territory,0
+1832,Jersey,2001,Northern Territory,10
+1833,Ireland,2001,Northern Territory,400
+1834,Austria,2001,Northern Territory,190
+1835,Belgium,2001,Northern Territory,60
+1836,France,2001,Northern Territory,220
+1837,Germany,2001,Northern Territory,"1,200"
+1838,Liechtenstein,2001,Northern Territory,0
+1839,Luxembourg,2001,Northern Territory,0
+1840,Monaco,2001,Northern Territory,0
+1841,Netherlands,2001,Northern Territory,690
+1842,Switzerland,2001,Northern Territory,240
+1843,Denmark,2001,Northern Territory,180
+1844,Faroe Islands,2001,Northern Territory,0
+1845,Finland,2001,Northern Territory,130
+1846,Greenland,2001,Northern Territory,0
+1847,Iceland,2001,Northern Territory,10
+1848,Norway,2001,Northern Territory,50
+1849,Sweden,2001,Northern Territory,100
+1850,Aland Islands,2001,Northern Territory,0
+1851,Andorra,2001,Northern Territory,0
+1852,Gibraltar,2001,Northern Territory,10
+1853,Holy See,2001,Northern Territory,0
+1854,Italy,2001,Northern Territory,630
+1855,Malta,2001,Northern Territory,60
+1856,Portugal,2001,Northern Territory,210
+1857,San Marino,2001,Northern Territory,0
+1858,Spain,2001,Northern Territory,100
+1859,Albania,2001,Northern Territory,0
+1860,Bosnia/Herzegov,2001,Northern Territory,60
+1861,Bulgaria,2001,Northern Territory,10
+1862,Croatia,2001,Northern Territory,80
+1863,Cyprus,2001,Northern Territory,210
+1864,North Macedonia,2001,Northern Territory,20
+1865,Greece,2001,Northern Territory,"1,350"
+1866,Moldova,2001,Northern Territory,0
+1867,Romania,2001,Northern Territory,30
+1868,Slovenia,2001,Northern Territory,40
+1869,Montenegro,2001,Northern Territory,10
+1870,Serbia,2001,Northern Territory,120
+1871,Kosovo,2001,Northern Territory,0
+1872,Belarus,2001,Northern Territory,0
+1873,Czechia,2001,Northern Territory,100
+1874,Estonia,2001,Northern Territory,10
+1875,Hungary,2001,Northern Territory,130
+1876,Latvia,2001,Northern Territory,20
+1877,Lithuania,2001,Northern Territory,10
+1878,Poland,2001,Northern Territory,140
+1879,Russia,2001,Northern Territory,10
+1880,Slovakia,2001,Northern Territory,40
+1881,Ukraine,2001,Northern Territory,10
+1882,Algeria,2001,Northern Territory,30
+1883,Egypt,2001,Northern Territory,60
+1884,Libya,2001,Northern Territory,0
+1885,Morocco,2001,Northern Territory,10
+1886,Sudan,2001,Northern Territory,90
+1887,Tunisia,2001,Northern Territory,0
+1888,Western Sahara,2001,Northern Territory,0
+1889,Sp North Africa,2001,Northern Territory,0
+1890,South Sudan,2001,Northern Territory,0
+1891,Bahrain,2001,Northern Territory,0
+1892,Gaza Str/W Bank,2001,Northern Territory,0
+1893,Iran,2001,Northern Territory,50
+1894,Iraq,2001,Northern Territory,20
+1895,Israel,2001,Northern Territory,30
+1896,Jordan,2001,Northern Territory,0
+1897,Kuwait,2001,Northern Territory,0
+1898,Lebanon,2001,Northern Territory,20
+1899,Oman,2001,Northern Territory,20
+1900,Qatar,2001,Northern Territory,0
+1901,Saudi Arabia,2001,Northern Territory,10
+1902,Syria,2001,Northern Territory,10
+1903,Turkey,2001,Northern Territory,30
+1904,Unit Arab Emir,2001,Northern Territory,10
+1905,Yemen,2001,Northern Territory,10
+1906,Myanmar,2001,Northern Territory,80
+1907,Cambodia,2001,Northern Territory,120
+1908,Laos,2001,Northern Territory,40
+1909,Thailand,2001,Northern Territory,520
+1910,Vietnam,2001,Northern Territory,660
+1911,Brunei,2001,Northern Territory,50
+1912,Indonesia,2001,Northern Territory,950
+1913,Malaysia,2001,Northern Territory,730
+1914,Philippines,2001,Northern Territory,"2,130"
+1915,Singapore,2001,Northern Territory,280
+1916,Timor-Leste,2001,Northern Territory,"1,290"
+1917,China,2001,Northern Territory,410
+1918,Hong Kong,2001,Northern Territory,300
+1919,Macau,2001,Northern Territory,10
+1920,Mongolia,2001,Northern Territory,0
+1921,Taiwan,2001,Northern Territory,60
+1922,Japan,2001,Northern Territory,160
+1923,"Korea, North",2001,Northern Territory,0
+1924,"Korea, South",2001,Northern Territory,80
+1925,Bangladesh,2001,Northern Territory,50
+1926,Bhutan,2001,Northern Territory,0
+1927,India,2001,Northern Territory,590
+1928,Maldives,2001,Northern Territory,0
+1929,Nepal,2001,Northern Territory,10
+1930,Pakistan,2001,Northern Territory,80
+1931,Sri Lanka,2001,Northern Territory,350
+1932,Afghanistan,2001,Northern Territory,10
+1933,Armenia,2001,Northern Territory,0
+1934,Azerbaijan,2001,Northern Territory,0
+1935,Georgia,2001,Northern Territory,0
+1936,Kazakhstan,2001,Northern Territory,0
+1937,Kyrgyzstan,2001,Northern Territory,0
+1938,Tajikistan,2001,Northern Territory,0
+1939,Turkmenistan,2001,Northern Territory,0
+1940,Uzbekistan,2001,Northern Territory,0
+1941,Bermuda,2001,Northern Territory,0
+1942,Canada,2001,Northern Territory,340
+1943,St Pierre/Mique,2001,Northern Territory,0
+1944,USA,2001,Northern Territory,"1,500"
+1945,Argentina,2001,Northern Territory,40
+1946,Bolivia,2001,Northern Territory,10
+1947,Brazil,2001,Northern Territory,20
+1948,Chile,2001,Northern Territory,80
+1949,Colombia,2001,Northern Territory,20
+1950,Ecuador,2001,Northern Territory,0
+1951,Falkland Is,2001,Northern Territory,0
+1952,French Guiana,2001,Northern Territory,0
+1953,Guyana,2001,Northern Territory,10
+1954,Paraguay,2001,Northern Territory,0
+1955,Peru,2001,Northern Territory,30
+1956,Suriname,2001,Northern Territory,0
+1957,Uruguay,2001,Northern Territory,10
+1958,Venezuela,2001,Northern Territory,10
+1959,"S America, nec",2001,Northern Territory,0
+1960,Belize,2001,Northern Territory,0
+1961,Costa Rica,2001,Northern Territory,0
+1962,El Salvador,2001,Northern Territory,10
+1963,Guatemala,2001,Northern Territory,0
+1964,Honduras,2001,Northern Territory,0
+1965,Mexico,2001,Northern Territory,20
+1966,Nicaragua,2001,Northern Territory,0
+1967,Panama,2001,Northern Territory,0
+1968,Anguilla,2001,Northern Territory,0
+1969,Antigua/Barbuda,2001,Northern Territory,0
+1970,Aruba,2001,Northern Territory,0
+1971,Bahamas,2001,Northern Territory,0
+1972,Barbados,2001,Northern Territory,0
+1973,Cayman Islands,2001,Northern Territory,0
+1974,Cuba,2001,Northern Territory,0
+1975,Dominica,2001,Northern Territory,0
+1976,Dominican Rep,2001,Northern Territory,10
+1977,Grenada,2001,Northern Territory,0
+1978,Guadeloupe,2001,Northern Territory,0
+1979,Haiti,2001,Northern Territory,0
+1980,Jamaica,2001,Northern Territory,20
+1981,Martinique,2001,Northern Territory,0
+1982,Montserrat,2001,Northern Territory,0
+1983,Puerto Rico,2001,Northern Territory,10
+1984,St Kitts/Nevis,2001,Northern Territory,0
+1985,St Lucia,2001,Northern Territory,0
+1986,St Vinc/Grenad,2001,Northern Territory,0
+1987,Trinidad/Tobago,2001,Northern Territory,10
+1988,Turks/Caicos Is,2001,Northern Territory,0
+1989,"Virgin Is, Brit",2001,Northern Territory,0
+1990,"Virgin Is, US",2001,Northern Territory,0
+1991,St Barthelemy,2001,Northern Territory,0
+1992,St Martin (Fr),2001,Northern Territory,0
+1993,Bonaire/SE/Saba,2001,Northern Territory,0
+1994,Curacao,2001,Northern Territory,0
+1995,Sint Maarten Dp,2001,Northern Territory,0
+1996,Benin,2001,Northern Territory,0
+1997,Burkina Faso,2001,Northern Territory,0
+1998,Cameroon,2001,Northern Territory,0
+1999,Cabo Verde,2001,Northern Territory,0
+2000,Cent Africa Rep,2001,Northern Territory,0
+2001,Chad,2001,Northern Territory,0
+2002,"Congo, Rep",2001,Northern Territory,0
+2003,"Congo, Dem Rep",2001,Northern Territory,0
+2004,Cote d'Ivoire,2001,Northern Territory,0
+2005,Equator Guinea,2001,Northern Territory,0
+2006,Gabon,2001,Northern Territory,0
+2007,Gambia,2001,Northern Territory,0
+2008,Ghana,2001,Northern Territory,30
+2009,Guinea,2001,Northern Territory,0
+2010,Guinea-Bissau,2001,Northern Territory,0
+2011,Liberia,2001,Northern Territory,0
+2012,Mali,2001,Northern Territory,0
+2013,Mauritania,2001,Northern Territory,0
+2014,Niger,2001,Northern Territory,0
+2015,Nigeria,2001,Northern Territory,20
+2016,Sao Tome/Princ,2001,Northern Territory,0
+2017,Senegal,2001,Northern Territory,10
+2018,Sierra Leone,2001,Northern Territory,10
+2019,Togo,2001,Northern Territory,0
+2020,Angola,2001,Northern Territory,10
+2021,Botswana,2001,Northern Territory,0
+2022,Burundi,2001,Northern Territory,0
+2023,Comoros,2001,Northern Territory,0
+2024,Djibouti,2001,Northern Territory,0
+2025,Eritrea,2001,Northern Territory,10
+2026,Ethiopia,2001,Northern Territory,30
+2027,Kenya,2001,Northern Territory,80
+2028,Lesotho,2001,Northern Territory,0
+2029,Madagascar,2001,Northern Territory,10
+2030,Malawi,2001,Northern Territory,10
+2031,Mauritius,2001,Northern Territory,30
+2032,Mayotte,2001,Northern Territory,0
+2033,Mozambique,2001,Northern Territory,20
+2034,Namibia,2001,Northern Territory,10
+2035,Reunion,2001,Northern Territory,0
+2036,Rwanda,2001,Northern Territory,0
+2037,St Helena,2001,Northern Territory,0
+2038,Seychelles,2001,Northern Territory,30
+2039,Somalia,2001,Northern Territory,10
+2040,South Africa,2001,Northern Territory,400
+2041,Eswatini,2001,Northern Territory,0
+2042,Tanzania,2001,Northern Territory,20
+2043,Uganda,2001,Northern Territory,20
+2044,Zambia,2001,Northern Territory,60
+2045,Zimbabwe,2001,Northern Territory,140
+2046,"S & E Afr, nec",2001,Northern Territory,0
+2047,Inadequately described,2001,Northern Territory,0
+2048,Australia,2001,Australian Capital Territory,"247,910"
+2049,Norfolk Island,2001,Australian Capital Territory,10
+2050,"Aust E T, nec",2001,Australian Capital Territory,0
+2051,New Zealand,2001,Australian Capital Territory,"4,360"
+2052,New Caledonia,2001,Australian Capital Territory,20
+2053,PNG,2001,Australian Capital Territory,820
+2054,Solomon Islands,2001,Australian Capital Territory,20
+2055,Vanuatu,2001,Australian Capital Territory,30
+2056,Guam,2001,Australian Capital Territory,0
+2057,Kiribati,2001,Australian Capital Territory,10
+2058,Marshall Is,2001,Australian Capital Territory,0
+2059,"Micronesia, F S",2001,Australian Capital Territory,0
+2060,Nauru,2001,Australian Capital Territory,10
+2061,N Mariana Is,2001,Australian Capital Territory,0
+2062,Palau,2001,Australian Capital Territory,0
+2063,Cook Islands,2001,Australian Capital Territory,20
+2064,Fiji,2001,Australian Capital Territory,620
+2065,French Poly,2001,Australian Capital Territory,0
+2066,Niue,2001,Australian Capital Territory,10
+2067,Samoa,2001,Australian Capital Territory,150
+2068,Samoa American,2001,Australian Capital Territory,0
+2069,Tokelau,2001,Australian Capital Territory,0
+2070,Tonga,2001,Australian Capital Territory,150
+2071,Tuvalu,2001,Australian Capital Territory,0
+2072,Wallis/Futuna,2001,Australian Capital Territory,0
+2073,Pitcairn Is,2001,Australian Capital Territory,0
+2074,"Polynesia, nec",2001,Australian Capital Territory,0
+2075,Adelie Land,2001,Australian Capital Territory,0
+2076,Argentinian A T,2001,Australian Capital Territory,0
+2077,Australian A T,2001,Australian Capital Territory,0
+2078,British A T,2001,Australian Capital Territory,0
+2079,Chilean A T,2001,Australian Capital Territory,0
+2080,Queen Maud Land,2001,Australian Capital Territory,0
+2081,Ross Dependency,2001,Australian Capital Territory,0
+2082,England,2001,Australian Capital Territory,"15,240"
+2083,Isle of Man,2001,Australian Capital Territory,10
+2084,N'thern Ireland,2001,Australian Capital Territory,370
+2085,Scotland,2001,Australian Capital Territory,"2,590"
+2086,Wales,2001,Australian Capital Territory,530
+2087,Guernsey,2001,Australian Capital Territory,0
+2088,Jersey,2001,Australian Capital Territory,20
+2089,Ireland,2001,Australian Capital Territory,780
+2090,Austria,2001,Australian Capital Territory,650
+2091,Belgium,2001,Australian Capital Territory,160
+2092,France,2001,Australian Capital Territory,480
+2093,Germany,2001,Australian Capital Territory,"2,790"
+2094,Liechtenstein,2001,Australian Capital Territory,0
+2095,Luxembourg,2001,Australian Capital Territory,0
+2096,Monaco,2001,Australian Capital Territory,0
+2097,Netherlands,2001,Australian Capital Territory,"1,570"
+2098,Switzerland,2001,Australian Capital Territory,280
+2099,Denmark,2001,Australian Capital Territory,170
+2100,Faroe Islands,2001,Australian Capital Territory,0
+2101,Finland,2001,Australian Capital Territory,790
+2102,Greenland,2001,Australian Capital Territory,0
+2103,Iceland,2001,Australian Capital Territory,10
+2104,Norway,2001,Australian Capital Territory,100
+2105,Sweden,2001,Australian Capital Territory,130
+2106,Aland Islands,2001,Australian Capital Territory,0
+2107,Andorra,2001,Australian Capital Territory,0
+2108,Gibraltar,2001,Australian Capital Territory,10
+2109,Holy See,2001,Australian Capital Territory,0
+2110,Italy,2001,Australian Capital Territory,"2,530"
+2111,Malta,2001,Australian Capital Territory,380
+2112,Portugal,2001,Australian Capital Territory,240
+2113,San Marino,2001,Australian Capital Territory,0
+2114,Spain,2001,Australian Capital Territory,650
+2115,Albania,2001,Australian Capital Territory,0
+2116,Bosnia/Herzegov,2001,Australian Capital Territory,480
+2117,Bulgaria,2001,Australian Capital Territory,40
+2118,Croatia,2001,Australian Capital Territory,"1,990"
+2119,Cyprus,2001,Australian Capital Territory,140
+2120,North Macedonia,2001,Australian Capital Territory,420
+2121,Greece,2001,Australian Capital Territory,"1,450"
+2122,Moldova,2001,Australian Capital Territory,0
+2123,Romania,2001,Australian Capital Territory,160
+2124,Slovenia,2001,Australian Capital Territory,250
+2125,Montenegro,2001,Australian Capital Territory,140
+2126,Serbia,2001,Australian Capital Territory,"1,160"
+2127,Kosovo,2001,Australian Capital Territory,0
+2128,Belarus,2001,Australian Capital Territory,10
+2129,Czechia,2001,Australian Capital Territory,270
+2130,Estonia,2001,Australian Capital Territory,70
+2131,Hungary,2001,Australian Capital Territory,550
+2132,Latvia,2001,Australian Capital Territory,200
+2133,Lithuania,2001,Australian Capital Territory,100
+2134,Poland,2001,Australian Capital Territory,"1,460"
+2135,Russia,2001,Australian Capital Territory,300
+2136,Slovakia,2001,Australian Capital Territory,80
+2137,Ukraine,2001,Australian Capital Territory,180
+2138,Algeria,2001,Australian Capital Territory,10
+2139,Egypt,2001,Australian Capital Territory,250
+2140,Libya,2001,Australian Capital Territory,20
+2141,Morocco,2001,Australian Capital Territory,20
+2142,Sudan,2001,Australian Capital Territory,40
+2143,Tunisia,2001,Australian Capital Territory,0
+2144,Western Sahara,2001,Australian Capital Territory,0
+2145,Sp North Africa,2001,Australian Capital Territory,0
+2146,South Sudan,2001,Australian Capital Territory,0
+2147,Bahrain,2001,Australian Capital Territory,20
+2148,Gaza Str/W Bank,2001,Australian Capital Territory,50
+2149,Iran,2001,Australian Capital Territory,320
+2150,Iraq,2001,Australian Capital Territory,90
+2151,Israel,2001,Australian Capital Territory,70
+2152,Jordan,2001,Australian Capital Territory,60
+2153,Kuwait,2001,Australian Capital Territory,50
+2154,Lebanon,2001,Australian Capital Territory,410
+2155,Oman,2001,Australian Capital Territory,10
+2156,Qatar,2001,Australian Capital Territory,10
+2157,Saudi Arabia,2001,Australian Capital Territory,50
+2158,Syria,2001,Australian Capital Territory,40
+2159,Turkey,2001,Australian Capital Territory,170
+2160,Unit Arab Emir,2001,Australian Capital Territory,50
+2161,Yemen,2001,Australian Capital Territory,20
+2162,Myanmar,2001,Australian Capital Territory,300
+2163,Cambodia,2001,Australian Capital Territory,240
+2164,Laos,2001,Australian Capital Territory,720
+2165,Thailand,2001,Australian Capital Territory,750
+2166,Vietnam,2001,Australian Capital Territory,"2,350"
+2167,Brunei,2001,Australian Capital Territory,40
+2168,Indonesia,2001,Australian Capital Territory,650
+2169,Malaysia,2001,Australian Capital Territory,"1,740"
+2170,Philippines,2001,Australian Capital Territory,"1,550"
+2171,Singapore,2001,Australian Capital Territory,730
+2172,Timor-Leste,2001,Australian Capital Territory,20
+2173,China,2001,Australian Capital Territory,"2,200"
+2174,Hong Kong,2001,Australian Capital Territory,"1,090"
+2175,Macau,2001,Australian Capital Territory,20
+2176,Mongolia,2001,Australian Capital Territory,10
+2177,Taiwan,2001,Australian Capital Territory,230
+2178,Japan,2001,Australian Capital Territory,520
+2179,"Korea, North",2001,Australian Capital Territory,20
+2180,"Korea, South",2001,Australian Capital Territory,670
+2181,Bangladesh,2001,Australian Capital Territory,450
+2182,Bhutan,2001,Australian Capital Territory,10
+2183,India,2001,Australian Capital Territory,"1,930"
+2184,Maldives,2001,Australian Capital Territory,10
+2185,Nepal,2001,Australian Capital Territory,60
+2186,Pakistan,2001,Australian Capital Territory,330
+2187,Sri Lanka,2001,Australian Capital Territory,"1,660"
+2188,Afghanistan,2001,Australian Capital Territory,180
+2189,Armenia,2001,Australian Capital Territory,0
+2190,Azerbaijan,2001,Australian Capital Territory,0
+2191,Georgia,2001,Australian Capital Territory,10
+2192,Kazakhstan,2001,Australian Capital Territory,10
+2193,Kyrgyzstan,2001,Australian Capital Territory,0
+2194,Tajikistan,2001,Australian Capital Territory,0
+2195,Turkmenistan,2001,Australian Capital Territory,0
+2196,Uzbekistan,2001,Australian Capital Territory,10
+2197,Bermuda,2001,Australian Capital Territory,10
+2198,Canada,2001,Australian Capital Territory,900
+2199,St Pierre/Mique,2001,Australian Capital Territory,0
+2200,USA,2001,Australian Capital Territory,"2,170"
+2201,Argentina,2001,Australian Capital Territory,240
+2202,Bolivia,2001,Australian Capital Territory,10
+2203,Brazil,2001,Australian Capital Territory,170
+2204,Chile,2001,Australian Capital Territory,810
+2205,Colombia,2001,Australian Capital Territory,70
+2206,Ecuador,2001,Australian Capital Territory,20
+2207,Falkland Is,2001,Australian Capital Territory,10
+2208,French Guiana,2001,Australian Capital Territory,0
+2209,Guyana,2001,Australian Capital Territory,10
+2210,Paraguay,2001,Australian Capital Territory,0
+2211,Peru,2001,Australian Capital Territory,120
+2212,Suriname,2001,Australian Capital Territory,0
+2213,Uruguay,2001,Australian Capital Territory,100
+2214,Venezuela,2001,Australian Capital Territory,40
+2215,"S America, nec",2001,Australian Capital Territory,0
+2216,Belize,2001,Australian Capital Territory,0
+2217,Costa Rica,2001,Australian Capital Territory,10
+2218,El Salvador,2001,Australian Capital Territory,170
+2219,Guatemala,2001,Australian Capital Territory,0
+2220,Honduras,2001,Australian Capital Territory,0
+2221,Mexico,2001,Australian Capital Territory,60
+2222,Nicaragua,2001,Australian Capital Territory,40
+2223,Panama,2001,Australian Capital Territory,0
+2224,Anguilla,2001,Australian Capital Territory,0
+2225,Antigua/Barbuda,2001,Australian Capital Territory,0
+2226,Aruba,2001,Australian Capital Territory,0
+2227,Bahamas,2001,Australian Capital Territory,0
+2228,Barbados,2001,Australian Capital Territory,0
+2229,Cayman Islands,2001,Australian Capital Territory,0
+2230,Cuba,2001,Australian Capital Territory,0
+2231,Dominica,2001,Australian Capital Territory,0
+2232,Dominican Rep,2001,Australian Capital Territory,0
+2233,Grenada,2001,Australian Capital Territory,0
+2234,Guadeloupe,2001,Australian Capital Territory,0
+2235,Haiti,2001,Australian Capital Territory,10
+2236,Jamaica,2001,Australian Capital Territory,40
+2237,Martinique,2001,Australian Capital Territory,0
+2238,Montserrat,2001,Australian Capital Territory,0
+2239,Puerto Rico,2001,Australian Capital Territory,0
+2240,St Kitts/Nevis,2001,Australian Capital Territory,0
+2241,St Lucia,2001,Australian Capital Territory,0
+2242,St Vinc/Grenad,2001,Australian Capital Territory,0
+2243,Trinidad/Tobago,2001,Australian Capital Territory,30
+2244,Turks/Caicos Is,2001,Australian Capital Territory,0
+2245,"Virgin Is, Brit",2001,Australian Capital Territory,0
+2246,"Virgin Is, US",2001,Australian Capital Territory,0
+2247,St Barthelemy,2001,Australian Capital Territory,0
+2248,St Martin (Fr),2001,Australian Capital Territory,0
+2249,Bonaire/SE/Saba,2001,Australian Capital Territory,0
+2250,Curacao,2001,Australian Capital Territory,0
+2251,Sint Maarten Dp,2001,Australian Capital Territory,0
+2252,Benin,2001,Australian Capital Territory,0
+2253,Burkina Faso,2001,Australian Capital Territory,0
+2254,Cameroon,2001,Australian Capital Territory,0
+2255,Cabo Verde,2001,Australian Capital Territory,0
+2256,Cent Africa Rep,2001,Australian Capital Territory,0
+2257,Chad,2001,Australian Capital Territory,0
+2258,"Congo, Rep",2001,Australian Capital Territory,10
+2259,"Congo, Dem Rep",2001,Australian Capital Territory,10
+2260,Cote d'Ivoire,2001,Australian Capital Territory,0
+2261,Equator Guinea,2001,Australian Capital Territory,0
+2262,Gabon,2001,Australian Capital Territory,0
+2263,Gambia,2001,Australian Capital Territory,0
+2264,Ghana,2001,Australian Capital Territory,130
+2265,Guinea,2001,Australian Capital Territory,0
+2266,Guinea-Bissau,2001,Australian Capital Territory,0
+2267,Liberia,2001,Australian Capital Territory,0
+2268,Mali,2001,Australian Capital Territory,0
+2269,Mauritania,2001,Australian Capital Territory,0
+2270,Niger,2001,Australian Capital Territory,0
+2271,Nigeria,2001,Australian Capital Territory,50
+2272,Sao Tome/Princ,2001,Australian Capital Territory,0
+2273,Senegal,2001,Australian Capital Territory,0
+2274,Sierra Leone,2001,Australian Capital Territory,10
+2275,Togo,2001,Australian Capital Territory,0
+2276,Angola,2001,Australian Capital Territory,10
+2277,Botswana,2001,Australian Capital Territory,20
+2278,Burundi,2001,Australian Capital Territory,0
+2279,Comoros,2001,Australian Capital Territory,0
+2280,Djibouti,2001,Australian Capital Territory,0
+2281,Eritrea,2001,Australian Capital Territory,20
+2282,Ethiopia,2001,Australian Capital Territory,70
+2283,Kenya,2001,Australian Capital Territory,230
+2284,Lesotho,2001,Australian Capital Territory,0
+2285,Madagascar,2001,Australian Capital Territory,0
+2286,Malawi,2001,Australian Capital Territory,20
+2287,Mauritius,2001,Australian Capital Territory,130
+2288,Mayotte,2001,Australian Capital Territory,0
+2289,Mozambique,2001,Australian Capital Territory,30
+2290,Namibia,2001,Australian Capital Territory,10
+2291,Reunion,2001,Australian Capital Territory,0
+2292,Rwanda,2001,Australian Capital Territory,0
+2293,St Helena,2001,Australian Capital Territory,0
+2294,Seychelles,2001,Australian Capital Territory,10
+2295,Somalia,2001,Australian Capital Territory,30
+2296,South Africa,2001,Australian Capital Territory,"1,010"
+2297,Eswatini,2001,Australian Capital Territory,10
+2298,Tanzania,2001,Australian Capital Territory,60
+2299,Uganda,2001,Australian Capital Territory,50
+2300,Zambia,2001,Australian Capital Territory,80
+2301,Zimbabwe,2001,Australian Capital Territory,210
+2302,"S & E Afr, nec",2001,Australian Capital Territory,0
+2303,Inadequately described,2001,Australian Capital Territory,0

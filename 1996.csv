@@ -1,0 +1,2305 @@
+,birth_country,year,destination,values
+0,Australia,1996,Australia,"13,984,720"
+1,Norfolk Island,1996,Australia,190
+2,"Aust E T, nec",1996,Australia,10
+3,New Zealand,1996,Australia,"312,240"
+4,New Caledonia,1996,Australia,"1,190"
+5,PNG,1996,Australia,"26,120"
+6,Solomon Islands,1996,Australia,"1,260"
+7,Vanuatu,1996,Australia,"1,020"
+8,Guam,1996,Australia,40
+9,Kiribati,1996,Australia,410
+10,Marshall Is,1996,Australia,30
+11,"Micronesia, F S",1996,Australia,10
+12,Nauru,1996,Australia,490
+13,N Mariana Is,1996,Australia,0
+14,Palau,1996,Australia,10
+15,Cook Islands,1996,Australia,"3,220"
+16,Fiji,1996,Australia,"40,930"
+17,French Poly,1996,Australia,270
+18,Niue,1996,Australia,340
+19,Samoa,1996,Australia,"10,660"
+20,Samoa American,1996,Australia,90
+21,Tokelau,1996,Australia,200
+22,Tonga,1996,Australia,"7,750"
+23,Tuvalu,1996,Australia,90
+24,Wallis/Futuna,1996,Australia,10
+25,Pitcairn Is,1996,Australia,0
+26,"Polynesia, nec",1996,Australia,10
+27,Adelie Land,1996,Australia,0
+28,Argentinian A T,1996,Australia,0
+29,Australian A T,1996,Australia,0
+30,British A T,1996,Australia,0
+31,Chilean A T,1996,Australia,0
+32,Queen Maud Land,1996,Australia,0
+33,Ross Dependency,1996,Australia,0
+34,England,1996,Australia,"956,680"
+35,Isle of Man,1996,Australia,710
+36,N'thern Ireland,1996,Australia,"23,040"
+37,Scotland,1996,Australia,"150,110"
+38,Wales,1996,Australia,"32,230"
+39,Guernsey,1996,Australia,590
+40,Jersey,1996,Australia,"1,010"
+41,Ireland,1996,Australia,"53,850"
+42,Austria,1996,Australia,"22,700"
+43,Belgium,1996,Australia,"5,080"
+44,France,1996,Australia,"16,500"
+45,Germany,1996,Australia,"121,910"
+46,Liechtenstein,1996,Australia,20
+47,Luxembourg,1996,Australia,130
+48,Monaco,1996,Australia,20
+49,Netherlands,1996,Australia,"96,370"
+50,Switzerland,1996,Australia,"11,050"
+51,Denmark,1996,Australia,"9,740"
+52,Faroe Islands,1996,Australia,30
+53,Finland,1996,Australia,"9,420"
+54,Greenland,1996,Australia,20
+55,Iceland,1996,Australia,400
+56,Norway,1996,Australia,"2,880"
+57,Sweden,1996,Australia,"6,380"
+58,Aland Islands,1996,Australia,0
+59,Andorra,1996,Australia,10
+60,Gibraltar,1996,Australia,460
+61,Holy See,1996,Australia,0
+62,Italy,1996,Australia,"250,360"
+63,Malta,1996,Australia,"55,980"
+64,Portugal,1996,Australia,"18,660"
+65,San Marino,1996,Australia,0
+66,Spain,1996,Australia,"14,710"
+67,Albania,1996,Australia,"1,200"
+68,Bosnia/Herzegov,1996,Australia,"20,570"
+69,Bulgaria,1996,Australia,"2,600"
+70,Croatia,1996,Australia,"57,640"
+71,Cyprus,1996,Australia,"23,310"
+72,North Macedonia,1996,Australia,"49,660"
+73,Greece,1996,Australia,"138,080"
+74,Moldova,1996,Australia,430
+75,Romania,1996,Australia,"13,130"
+76,Slovenia,1996,Australia,"9,460"
+77,Montenegro,1996,Australia,"5,170"
+78,Serbia,1996,Australia,"50,500"
+79,Kosovo,1996,Australia,0
+80,Belarus,1996,Australia,"1,270"
+81,Czechia,1996,Australia,"13,690"
+82,Estonia,1996,Australia,"2,450"
+83,Hungary,1996,Australia,"27,750"
+84,Latvia,1996,Australia,"9,180"
+85,Lithuania,1996,Australia,"4,700"
+86,Poland,1996,Australia,"72,420"
+87,Russia,1996,Australia,"17,190"
+88,Slovakia,1996,Australia,"5,840"
+89,Ukraine,1996,Australia,"17,560"
+90,Algeria,1996,Australia,870
+91,Egypt,1996,Australia,"38,610"
+92,Libya,1996,Australia,"1,290"
+93,Morocco,1996,Australia,"1,230"
+94,Sudan,1996,Australia,"2,570"
+95,Tunisia,1996,Australia,490
+96,Western Sahara,1996,Australia,0
+97,Sp North Africa,1996,Australia,0
+98,South Sudan,1996,Australia,0
+99,Bahrain,1996,Australia,670
+100,Gaza Str/W Bank,1996,Australia,"3,060"
+101,Iran,1996,Australia,"19,260"
+102,Iraq,1996,Australia,"16,400"
+103,Israel,1996,Australia,"7,110"
+104,Jordan,1996,Australia,"2,980"
+105,Kuwait,1996,Australia,"1,740"
+106,Lebanon,1996,Australia,"77,670"
+107,Oman,1996,Australia,160
+108,Qatar,1996,Australia,170
+109,Saudi Arabia,1996,Australia,"1,110"
+110,Syria,1996,Australia,"6,620"
+111,Turkey,1996,Australia,"32,100"
+112,Unit Arab Emir,1996,Australia,970
+113,Yemen,1996,Australia,290
+114,Myanmar,1996,Australia,"11,560"
+115,Cambodia,1996,Australia,"24,080"
+116,Laos,1996,Australia,"11,020"
+117,Thailand,1996,Australia,"19,890"
+118,Vietnam,1996,Australia,"158,740"
+119,Brunei,1996,Australia,"1,900"
+120,Indonesia,1996,Australia,"49,020"
+121,Malaysia,1996,Australia,"82,530"
+122,Philippines,1996,Australia,"104,820"
+123,Singapore,1996,Australia,"31,260"
+124,Timor-Leste,1996,Australia,0
+125,China,1996,Australia,"118,640"
+126,Hong Kong,1996,Australia,"75,960"
+127,Macau,1996,Australia,"1,970"
+128,Mongolia,1996,Australia,150
+129,Taiwan,1996,Australia,"19,380"
+130,Japan,1996,Australia,"25,280"
+131,"Korea, North",1996,Australia,260
+132,"Korea, South",1996,Australia,"30,470"
+133,Bangladesh,1996,Australia,"5,650"
+134,Bhutan,1996,Australia,50
+135,India,1996,Australia,"80,470"
+136,Maldives,1996,Australia,170
+137,Nepal,1996,Australia,"1,410"
+138,Pakistan,1996,Australia,"8,710"
+139,Sri Lanka,1996,Australia,"53,880"
+140,Afghanistan,1996,Australia,"7,170"
+141,Armenia,1996,Australia,910
+142,Azerbaijan,1996,Australia,90
+143,Georgia,1996,Australia,190
+144,Kazakhstan,1996,Australia,190
+145,Kyrgyzstan,1996,Australia,30
+146,Tajikistan,1996,Australia,30
+147,Turkmenistan,1996,Australia,10
+148,Uzbekistan,1996,Australia,340
+149,Bermuda,1996,Australia,380
+150,Canada,1996,Australia,"27,970"
+151,St Pierre/Mique,1996,Australia,20
+152,USA,1996,Australia,"56,050"
+153,Argentina,1996,Australia,"12,140"
+154,Bolivia,1996,Australia,620
+155,Brazil,1996,Australia,"3,690"
+156,Chile,1996,Australia,"26,850"
+157,Colombia,1996,Australia,"2,870"
+158,Ecuador,1996,Australia,"1,380"
+159,Falkland Is,1996,Australia,120
+160,French Guiana,1996,Australia,10
+161,Guyana,1996,Australia,520
+162,Paraguay,1996,Australia,320
+163,Peru,1996,Australia,"5,320"
+164,Suriname,1996,Australia,80
+165,Uruguay,1996,Australia,"10,980"
+166,Venezuela,1996,Australia,890
+167,"S America, nec",1996,Australia,0
+168,Belize,1996,Australia,40
+169,Costa Rica,1996,Australia,350
+170,El Salvador,1996,Australia,"10,960"
+171,Guatemala,1996,Australia,270
+172,Honduras,1996,Australia,170
+173,Mexico,1996,Australia,"1,030"
+174,Nicaragua,1996,Australia,850
+175,Panama,1996,Australia,130
+176,Anguilla,1996,Australia,10
+177,Antigua/Barbuda,1996,Australia,20
+178,Aruba,1996,Australia,60
+179,Bahamas,1996,Australia,240
+180,Barbados,1996,Australia,360
+181,Cayman Islands,1996,Australia,10
+182,Cuba,1996,Australia,500
+183,Dominica,1996,Australia,10
+184,Dominican Rep,1996,Australia,50
+185,Grenada,1996,Australia,100
+186,Guadeloupe,1996,Australia,10
+187,Haiti,1996,Australia,80
+188,Jamaica,1996,Australia,900
+189,Martinique,1996,Australia,20
+190,Montserrat,1996,Australia,0
+191,Puerto Rico,1996,Australia,100
+192,St Kitts/Nevis,1996,Australia,20
+193,St Lucia,1996,Australia,20
+194,St Vinc/Grenad,1996,Australia,60
+195,Trinidad/Tobago,1996,Australia,"1,350"
+196,Turks/Caicos Is,1996,Australia,0
+197,"Virgin Is, Brit",1996,Australia,10
+198,"Virgin Is, US",1996,Australia,10
+199,St Barthelemy,1996,Australia,0
+200,St Martin (Fr),1996,Australia,0
+201,Bonaire/SE/Saba,1996,Australia,0
+202,Curacao,1996,Australia,90
+203,Sint Maarten Dp,1996,Australia,0
+204,Benin,1996,Australia,10
+205,Burkina Faso,1996,Australia,10
+206,Cameroon,1996,Australia,30
+207,Cabo Verde,1996,Australia,30
+208,Cent Africa Rep,1996,Australia,10
+209,Chad,1996,Australia,20
+210,"Congo, Rep",1996,Australia,20
+211,"Congo, Dem Rep",1996,Australia,320
+212,Cote d'Ivoire,1996,Australia,40
+213,Equator Guinea,1996,Australia,0
+214,Gabon,1996,Australia,10
+215,Gambia,1996,Australia,20
+216,Ghana,1996,Australia,"1,680"
+217,Guinea,1996,Australia,10
+218,Guinea-Bissau,1996,Australia,10
+219,Liberia,1996,Australia,90
+220,Mali,1996,Australia,10
+221,Mauritania,1996,Australia,0
+222,Niger,1996,Australia,10
+223,Nigeria,1996,Australia,"1,460"
+224,Sao Tome/Princ,1996,Australia,20
+225,Senegal,1996,Australia,200
+226,Sierra Leone,1996,Australia,170
+227,Togo,1996,Australia,10
+228,Angola,1996,Australia,400
+229,Botswana,1996,Australia,260
+230,Burundi,1996,Australia,30
+231,Comoros,1996,Australia,10
+232,Djibouti,1996,Australia,70
+233,Eritrea,1996,Australia,"1,330"
+234,Ethiopia,1996,Australia,"2,620"
+235,Kenya,1996,Australia,"6,060"
+236,Lesotho,1996,Australia,60
+237,Madagascar,1996,Australia,150
+238,Malawi,1996,Australia,470
+239,Mauritius,1996,Australia,"19,020"
+240,Mayotte,1996,Australia,0
+241,Mozambique,1996,Australia,510
+242,Namibia,1996,Australia,330
+243,Reunion,1996,Australia,70
+244,Rwanda,1996,Australia,20
+245,St Helena,1996,Australia,30
+246,Seychelles,1996,Australia,"2,900"
+247,Somalia,1996,Australia,"2,130"
+248,South Africa,1996,Australia,"61,810"
+249,Eswatini,1996,Australia,160
+250,Tanzania,1996,Australia,"1,780"
+251,Uganda,1996,Australia,"1,340"
+252,Zambia,1996,Australia,"2,980"
+253,Zimbabwe,1996,Australia,"10,320"
+254,"S & E Afr, nec",1996,Australia,20
+255,Inadequately described,1996,Australia,0
+256,Australia,1996,New South Wales,"4,632,780"
+257,Norfolk Island,1996,New South Wales,0
+258,"Aust E T, nec",1996,New South Wales,0
+259,New Zealand,1996,New South Wales,"93,910"
+260,New Caledonia,1996,New South Wales,0
+261,PNG,1996,New South Wales,"6,320"
+262,Solomon Islands,1996,New South Wales,0
+263,Vanuatu,1996,New South Wales,0
+264,Guam,1996,New South Wales,0
+265,Kiribati,1996,New South Wales,0
+266,Marshall Is,1996,New South Wales,0
+267,"Micronesia, F S",1996,New South Wales,0
+268,Nauru,1996,New South Wales,0
+269,N Mariana Is,1996,New South Wales,0
+270,Palau,1996,New South Wales,0
+271,Cook Islands,1996,New South Wales,0
+272,Fiji,1996,New South Wales,"24,990"
+273,French Poly,1996,New South Wales,0
+274,Niue,1996,New South Wales,0
+275,Samoa,1996,New South Wales,0
+276,Samoa American,1996,New South Wales,0
+277,Tokelau,1996,New South Wales,0
+278,Tonga,1996,New South Wales,0
+279,Tuvalu,1996,New South Wales,0
+280,Wallis/Futuna,1996,New South Wales,0
+281,Pitcairn Is,1996,New South Wales,0
+282,"Polynesia, nec",1996,New South Wales,0
+283,Adelie Land,1996,New South Wales,0
+284,Argentinian A T,1996,New South Wales,0
+285,Australian A T,1996,New South Wales,0
+286,British A T,1996,New South Wales,0
+287,Chilean A T,1996,New South Wales,0
+288,Queen Maud Land,1996,New South Wales,0
+289,Ross Dependency,1996,New South Wales,0
+290,England,1996,New South Wales,0
+291,Isle of Man,1996,New South Wales,0
+292,N'thern Ireland,1996,New South Wales,0
+293,Scotland,1996,New South Wales,0
+294,Wales,1996,New South Wales,0
+295,Guernsey,1996,New South Wales,0
+296,Jersey,1996,New South Wales,0
+297,Ireland,1996,New South Wales,"18,020"
+298,Austria,1996,New South Wales,"7,840"
+299,Belgium,1996,New South Wales,0
+300,France,1996,New South Wales,"5,900"
+301,Germany,1996,New South Wales,"35,230"
+302,Liechtenstein,1996,New South Wales,0
+303,Luxembourg,1996,New South Wales,0
+304,Monaco,1996,New South Wales,0
+305,Netherlands,1996,New South Wales,"22,960"
+306,Switzerland,1996,New South Wales,"3,640"
+307,Denmark,1996,New South Wales,"3,000"
+308,Faroe Islands,1996,New South Wales,0
+309,Finland,1996,New South Wales,"2,760"
+310,Greenland,1996,New South Wales,0
+311,Iceland,1996,New South Wales,0
+312,Norway,1996,New South Wales,0
+313,Sweden,1996,New South Wales,0
+314,Aland Islands,1996,New South Wales,0
+315,Andorra,1996,New South Wales,0
+316,Gibraltar,1996,New South Wales,0
+317,Holy See,1996,New South Wales,0
+318,Italy,1996,New South Wales,"67,720"
+319,Malta,1996,New South Wales,"22,060"
+320,Portugal,1996,New South Wales,"10,400"
+321,San Marino,1996,New South Wales,0
+322,Spain,1996,New South Wales,"6,390"
+323,Albania,1996,New South Wales,0
+324,Bosnia/Herzegov,1996,New South Wales,0
+325,Bulgaria,1996,New South Wales,0
+326,Croatia,1996,New South Wales,0
+327,Cyprus,1996,New South Wales,"8,670"
+328,North Macedonia,1996,New South Wales,0
+329,Greece,1996,New South Wales,"44,280"
+330,Moldova,1996,New South Wales,0
+331,Romania,1996,New South Wales,"3,790"
+332,Slovenia,1996,New South Wales,0
+333,Montenegro,1996,New South Wales,0
+334,Serbia,1996,New South Wales,0
+335,Kosovo,1996,New South Wales,0
+336,Belarus,1996,New South Wales,0
+337,Czechia,1996,New South Wales,0
+338,Estonia,1996,New South Wales,"1,050"
+339,Hungary,1996,New South Wales,"10,730"
+340,Latvia,1996,New South Wales,"2,620"
+341,Lithuania,1996,New South Wales,"1,410"
+342,Poland,1996,New South Wales,"20,680"
+343,Russia,1996,New South Wales,0
+344,Slovakia,1996,New South Wales,0
+345,Ukraine,1996,New South Wales,"6,160"
+346,Algeria,1996,New South Wales,0
+347,Egypt,1996,New South Wales,"19,840"
+348,Libya,1996,New South Wales,0
+349,Morocco,1996,New South Wales,0
+350,Sudan,1996,New South Wales,0
+351,Tunisia,1996,New South Wales,0
+352,Western Sahara,1996,New South Wales,0
+353,Sp North Africa,1996,New South Wales,0
+354,South Sudan,1996,New South Wales,0
+355,Bahrain,1996,New South Wales,0
+356,Gaza Str/W Bank,1996,New South Wales,0
+357,Iran,1996,New South Wales,"10,920"
+358,Iraq,1996,New South Wales,0
+359,Israel,1996,New South Wales,"2,860"
+360,Jordan,1996,New South Wales,0
+361,Kuwait,1996,New South Wales,0
+362,Lebanon,1996,New South Wales,"57,800"
+363,Oman,1996,New South Wales,0
+364,Qatar,1996,New South Wales,0
+365,Saudi Arabia,1996,New South Wales,0
+366,Syria,1996,New South Wales,0
+367,Turkey,1996,New South Wales,"13,070"
+368,Unit Arab Emir,1996,New South Wales,0
+369,Yemen,1996,New South Wales,0
+370,Myanmar,1996,New South Wales,"2,750"
+371,Cambodia,1996,New South Wales,"10,400"
+372,Laos,1996,New South Wales,"6,230"
+373,Thailand,1996,New South Wales,"7,890"
+374,Vietnam,1996,New South Wales,"63,950"
+375,Brunei,1996,New South Wales,0
+376,Indonesia,1996,New South Wales,"19,370"
+377,Malaysia,1996,New South Wales,0
+378,Philippines,1996,New South Wales,"53,270"
+379,Singapore,1996,New South Wales,"7,530"
+380,Timor-Leste,1996,New South Wales,0
+381,China,1996,New South Wales,"69,680"
+382,Hong Kong,1996,New South Wales,0
+383,Macau,1996,New South Wales,0
+384,Mongolia,1996,New South Wales,0
+385,Taiwan,1996,New South Wales,0
+386,Japan,1996,New South Wales,"11,130"
+387,"Korea, North",1996,New South Wales,0
+388,"Korea, South",1996,New South Wales,"22,140"
+389,Bangladesh,1996,New South Wales,0
+390,Bhutan,1996,New South Wales,0
+391,India,1996,New South Wales,"29,230"
+392,Maldives,1996,New South Wales,0
+393,Nepal,1996,New South Wales,0
+394,Pakistan,1996,New South Wales,0
+395,Sri Lanka,1996,New South Wales,"16,300"
+396,Afghanistan,1996,New South Wales,0
+397,Armenia,1996,New South Wales,0
+398,Azerbaijan,1996,New South Wales,0
+399,Georgia,1996,New South Wales,0
+400,Kazakhstan,1996,New South Wales,0
+401,Kyrgyzstan,1996,New South Wales,0
+402,Tajikistan,1996,New South Wales,0
+403,Turkmenistan,1996,New South Wales,0
+404,Uzbekistan,1996,New South Wales,0
+405,Bermuda,1996,New South Wales,0
+406,Canada,1996,New South Wales,"9,410"
+407,St Pierre/Mique,1996,New South Wales,0
+408,USA,1996,New South Wales,"19,700"
+409,Argentina,1996,New South Wales,"6,230"
+410,Bolivia,1996,New South Wales,0
+411,Brazil,1996,New South Wales,0
+412,Chile,1996,New South Wales,"14,650"
+413,Colombia,1996,New South Wales,0
+414,Ecuador,1996,New South Wales,0
+415,Falkland Is,1996,New South Wales,0
+416,French Guiana,1996,New South Wales,0
+417,Guyana,1996,New South Wales,0
+418,Paraguay,1996,New South Wales,0
+419,Peru,1996,New South Wales,0
+420,Suriname,1996,New South Wales,0
+421,Uruguay,1996,New South Wales,"8,120"
+422,Venezuela,1996,New South Wales,0
+423,"S America, nec",1996,New South Wales,0
+424,Belize,1996,New South Wales,0
+425,Costa Rica,1996,New South Wales,0
+426,El Salvador,1996,New South Wales,0
+427,Guatemala,1996,New South Wales,0
+428,Honduras,1996,New South Wales,0
+429,Mexico,1996,New South Wales,0
+430,Nicaragua,1996,New South Wales,0
+431,Panama,1996,New South Wales,0
+432,Anguilla,1996,New South Wales,0
+433,Antigua/Barbuda,1996,New South Wales,0
+434,Aruba,1996,New South Wales,0
+435,Bahamas,1996,New South Wales,0
+436,Barbados,1996,New South Wales,0
+437,Cayman Islands,1996,New South Wales,0
+438,Cuba,1996,New South Wales,0
+439,Dominica,1996,New South Wales,0
+440,Dominican Rep,1996,New South Wales,0
+441,Grenada,1996,New South Wales,0
+442,Guadeloupe,1996,New South Wales,0
+443,Haiti,1996,New South Wales,0
+444,Jamaica,1996,New South Wales,0
+445,Martinique,1996,New South Wales,0
+446,Montserrat,1996,New South Wales,0
+447,Puerto Rico,1996,New South Wales,0
+448,St Kitts/Nevis,1996,New South Wales,0
+449,St Lucia,1996,New South Wales,0
+450,St Vinc/Grenad,1996,New South Wales,0
+451,Trinidad/Tobago,1996,New South Wales,0
+452,Turks/Caicos Is,1996,New South Wales,0
+453,"Virgin Is, Brit",1996,New South Wales,0
+454,"Virgin Is, US",1996,New South Wales,0
+455,St Barthelemy,1996,New South Wales,0
+456,St Martin (Fr),1996,New South Wales,0
+457,Bonaire/SE/Saba,1996,New South Wales,0
+458,Curacao,1996,New South Wales,0
+459,Sint Maarten Dp,1996,New South Wales,0
+460,Benin,1996,New South Wales,0
+461,Burkina Faso,1996,New South Wales,0
+462,Cameroon,1996,New South Wales,0
+463,Cabo Verde,1996,New South Wales,0
+464,Cent Africa Rep,1996,New South Wales,0
+465,Chad,1996,New South Wales,0
+466,"Congo, Rep",1996,New South Wales,0
+467,"Congo, Dem Rep",1996,New South Wales,0
+468,Cote d'Ivoire,1996,New South Wales,0
+469,Equator Guinea,1996,New South Wales,0
+470,Gabon,1996,New South Wales,0
+471,Gambia,1996,New South Wales,0
+472,Ghana,1996,New South Wales,0
+473,Guinea,1996,New South Wales,0
+474,Guinea-Bissau,1996,New South Wales,0
+475,Liberia,1996,New South Wales,0
+476,Mali,1996,New South Wales,0
+477,Mauritania,1996,New South Wales,0
+478,Niger,1996,New South Wales,0
+479,Nigeria,1996,New South Wales,0
+480,Sao Tome/Princ,1996,New South Wales,0
+481,Senegal,1996,New South Wales,0
+482,Sierra Leone,1996,New South Wales,0
+483,Togo,1996,New South Wales,0
+484,Angola,1996,New South Wales,0
+485,Botswana,1996,New South Wales,0
+486,Burundi,1996,New South Wales,0
+487,Comoros,1996,New South Wales,0
+488,Djibouti,1996,New South Wales,0
+489,Eritrea,1996,New South Wales,0
+490,Ethiopia,1996,New South Wales,0
+491,Kenya,1996,New South Wales,0
+492,Lesotho,1996,New South Wales,0
+493,Madagascar,1996,New South Wales,0
+494,Malawi,1996,New South Wales,0
+495,Mauritius,1996,New South Wales,"6,150"
+496,Mayotte,1996,New South Wales,0
+497,Mozambique,1996,New South Wales,0
+498,Namibia,1996,New South Wales,0
+499,Reunion,1996,New South Wales,0
+500,Rwanda,1996,New South Wales,0
+501,St Helena,1996,New South Wales,0
+502,Seychelles,1996,New South Wales,0
+503,Somalia,1996,New South Wales,0
+504,South Africa,1996,New South Wales,"22,840"
+505,Eswatini,1996,New South Wales,0
+506,Tanzania,1996,New South Wales,0
+507,Uganda,1996,New South Wales,0
+508,Zambia,1996,New South Wales,0
+509,Zimbabwe,1996,New South Wales,0
+510,"S & E Afr, nec",1996,New South Wales,0
+511,Inadequately described,1996,New South Wales,"601,700"
+512,Australia,1996,Victoria,"3,380,160"
+513,Norfolk Island,1996,Victoria,0
+514,"Aust E T, nec",1996,Victoria,0
+515,New Zealand,1996,Victoria,"45,410"
+516,New Caledonia,1996,Victoria,0
+517,PNG,1996,Victoria,"2,360"
+518,Solomon Islands,1996,Victoria,0
+519,Vanuatu,1996,Victoria,0
+520,Guam,1996,Victoria,0
+521,Kiribati,1996,Victoria,0
+522,Marshall Is,1996,Victoria,0
+523,"Micronesia, F S",1996,Victoria,0
+524,Nauru,1996,Victoria,0
+525,N Mariana Is,1996,Victoria,0
+526,Palau,1996,Victoria,0
+527,Cook Islands,1996,Victoria,0
+528,Fiji,1996,Victoria,"6,590"
+529,French Poly,1996,Victoria,0
+530,Niue,1996,Victoria,0
+531,Samoa,1996,Victoria,0
+532,Samoa American,1996,Victoria,0
+533,Tokelau,1996,Victoria,0
+534,Tonga,1996,Victoria,0
+535,Tuvalu,1996,Victoria,0
+536,Wallis/Futuna,1996,Victoria,0
+537,Pitcairn Is,1996,Victoria,0
+538,"Polynesia, nec",1996,Victoria,0
+539,Adelie Land,1996,Victoria,0
+540,Argentinian A T,1996,Victoria,0
+541,Australian A T,1996,Victoria,0
+542,British A T,1996,Victoria,0
+543,Chilean A T,1996,Victoria,0
+544,Queen Maud Land,1996,Victoria,0
+545,Ross Dependency,1996,Victoria,0
+546,England,1996,Victoria,0
+547,Isle of Man,1996,Victoria,0
+548,N'thern Ireland,1996,Victoria,0
+549,Scotland,1996,Victoria,0
+550,Wales,1996,Victoria,0
+551,Guernsey,1996,Victoria,0
+552,Jersey,1996,Victoria,0
+553,Ireland,1996,Victoria,"12,380"
+554,Austria,1996,Victoria,"6,490"
+555,Belgium,1996,Victoria,0
+556,France,1996,Victoria,"3,840"
+557,Germany,1996,Victoria,"33,070"
+558,Liechtenstein,1996,Victoria,0
+559,Luxembourg,1996,Victoria,0
+560,Monaco,1996,Victoria,0
+561,Netherlands,1996,Victoria,"28,260"
+562,Switzerland,1996,Victoria,"2,220"
+563,Denmark,1996,Victoria,"1,620"
+564,Faroe Islands,1996,Victoria,0
+565,Finland,1996,Victoria,"1,300"
+566,Greenland,1996,Victoria,0
+567,Iceland,1996,Victoria,0
+568,Norway,1996,Victoria,0
+569,Sweden,1996,Victoria,0
+570,Aland Islands,1996,Victoria,0
+571,Andorra,1996,Victoria,0
+572,Gibraltar,1996,Victoria,0
+573,Holy See,1996,Victoria,0
+574,Italy,1996,Victoria,"102,210"
+575,Malta,1996,Victoria,"26,710"
+576,Portugal,1996,Victoria,"3,160"
+577,San Marino,1996,Victoria,0
+578,Spain,1996,Victoria,"3,380"
+579,Albania,1996,Victoria,0
+580,Bosnia/Herzegov,1996,Victoria,0
+581,Bulgaria,1996,Victoria,0
+582,Croatia,1996,Victoria,0
+583,Cyprus,1996,Victoria,"10,570"
+584,North Macedonia,1996,Victoria,0
+585,Greece,1996,Victoria,"67,110"
+586,Moldova,1996,Victoria,0
+587,Romania,1996,Victoria,"5,120"
+588,Slovenia,1996,Victoria,0
+589,Montenegro,1996,Victoria,0
+590,Serbia,1996,Victoria,0
+591,Kosovo,1996,Victoria,0
+592,Belarus,1996,Victoria,0
+593,Czechia,1996,Victoria,0
+594,Estonia,1996,Victoria,470
+595,Hungary,1996,Victoria,"8,390"
+596,Latvia,1996,Victoria,"2,910"
+597,Lithuania,1996,Victoria,"1,570"
+598,Poland,1996,Victoria,"25,250"
+599,Russia,1996,Victoria,0
+600,Slovakia,1996,Victoria,0
+601,Ukraine,1996,Victoria,"7,100"
+602,Algeria,1996,Victoria,0
+603,Egypt,1996,Victoria,"13,500"
+604,Libya,1996,Victoria,0
+605,Morocco,1996,Victoria,0
+606,Sudan,1996,Victoria,0
+607,Tunisia,1996,Victoria,0
+608,Western Sahara,1996,Victoria,0
+609,Sp North Africa,1996,Victoria,0
+610,South Sudan,1996,Victoria,0
+611,Bahrain,1996,Victoria,0
+612,Gaza Str/W Bank,1996,Victoria,0
+613,Iran,1996,Victoria,"3,160"
+614,Iraq,1996,Victoria,0
+615,Israel,1996,Victoria,"2,930"
+616,Jordan,1996,Victoria,0
+617,Kuwait,1996,Victoria,0
+618,Lebanon,1996,Victoria,"15,380"
+619,Oman,1996,Victoria,0
+620,Qatar,1996,Victoria,0
+621,Saudi Arabia,1996,Victoria,0
+622,Syria,1996,Victoria,0
+623,Turkey,1996,Victoria,"16,420"
+624,Unit Arab Emir,1996,Victoria,0
+625,Yemen,1996,Victoria,0
+626,Myanmar,1996,Victoria,"1,080"
+627,Cambodia,1996,Victoria,"9,190"
+628,Laos,1996,Victoria,"2,410"
+629,Thailand,1996,Victoria,"4,600"
+630,Vietnam,1996,Victoria,"57,550"
+631,Brunei,1996,Victoria,0
+632,Indonesia,1996,Victoria,"13,300"
+633,Malaysia,1996,Victoria,0
+634,Philippines,1996,Victoria,"22,590"
+635,Singapore,1996,Victoria,"6,720"
+636,Timor-Leste,1996,Victoria,0
+637,China,1996,Victoria,"29,920"
+638,Hong Kong,1996,Victoria,0
+639,Macau,1996,Victoria,0
+640,Mongolia,1996,Victoria,0
+641,Taiwan,1996,Victoria,0
+642,Japan,1996,Victoria,"4,340"
+643,"Korea, North",1996,Victoria,0
+644,"Korea, South",1996,Victoria,"2,550"
+645,Bangladesh,1996,Victoria,0
+646,Bhutan,1996,Victoria,0
+647,India,1996,Victoria,"24,660"
+648,Maldives,1996,Victoria,0
+649,Nepal,1996,Victoria,0
+650,Pakistan,1996,Victoria,0
+651,Sri Lanka,1996,Victoria,"26,840"
+652,Afghanistan,1996,Victoria,0
+653,Armenia,1996,Victoria,0
+654,Azerbaijan,1996,Victoria,0
+655,Georgia,1996,Victoria,0
+656,Kazakhstan,1996,Victoria,0
+657,Kyrgyzstan,1996,Victoria,0
+658,Tajikistan,1996,Victoria,0
+659,Turkmenistan,1996,Victoria,0
+660,Uzbekistan,1996,Victoria,0
+661,Bermuda,1996,Victoria,0
+662,Canada,1996,Victoria,"5,210"
+663,St Pierre/Mique,1996,Victoria,0
+664,USA,1996,Victoria,"11,650"
+665,Argentina,1996,Victoria,"3,800"
+666,Bolivia,1996,Victoria,0
+667,Brazil,1996,Victoria,0
+668,Chile,1996,Victoria,"7,630"
+669,Colombia,1996,Victoria,0
+670,Ecuador,1996,Victoria,0
+671,Falkland Is,1996,Victoria,0
+672,French Guiana,1996,Victoria,0
+673,Guyana,1996,Victoria,0
+674,Paraguay,1996,Victoria,0
+675,Peru,1996,Victoria,0
+676,Suriname,1996,Victoria,0
+677,Uruguay,1996,Victoria,"1,980"
+678,Venezuela,1996,Victoria,0
+679,"S America, nec",1996,Victoria,0
+680,Belize,1996,Victoria,0
+681,Costa Rica,1996,Victoria,0
+682,El Salvador,1996,Victoria,0
+683,Guatemala,1996,Victoria,0
+684,Honduras,1996,Victoria,0
+685,Mexico,1996,Victoria,0
+686,Nicaragua,1996,Victoria,0
+687,Panama,1996,Victoria,0
+688,Anguilla,1996,Victoria,0
+689,Antigua/Barbuda,1996,Victoria,0
+690,Aruba,1996,Victoria,0
+691,Bahamas,1996,Victoria,0
+692,Barbados,1996,Victoria,0
+693,Cayman Islands,1996,Victoria,0
+694,Cuba,1996,Victoria,0
+695,Dominica,1996,Victoria,0
+696,Dominican Rep,1996,Victoria,0
+697,Grenada,1996,Victoria,0
+698,Guadeloupe,1996,Victoria,0
+699,Haiti,1996,Victoria,0
+700,Jamaica,1996,Victoria,0
+701,Martinique,1996,Victoria,0
+702,Montserrat,1996,Victoria,0
+703,Puerto Rico,1996,Victoria,0
+704,St Kitts/Nevis,1996,Victoria,0
+705,St Lucia,1996,Victoria,0
+706,St Vinc/Grenad,1996,Victoria,0
+707,Trinidad/Tobago,1996,Victoria,0
+708,Turks/Caicos Is,1996,Victoria,0
+709,"Virgin Is, Brit",1996,Victoria,0
+710,"Virgin Is, US",1996,Victoria,0
+711,St Barthelemy,1996,Victoria,0
+712,St Martin (Fr),1996,Victoria,0
+713,Bonaire/SE/Saba,1996,Victoria,0
+714,Curacao,1996,Victoria,0
+715,Sint Maarten Dp,1996,Victoria,0
+716,Benin,1996,Victoria,0
+717,Burkina Faso,1996,Victoria,0
+718,Cameroon,1996,Victoria,0
+719,Cabo Verde,1996,Victoria,0
+720,Cent Africa Rep,1996,Victoria,0
+721,Chad,1996,Victoria,0
+722,"Congo, Rep",1996,Victoria,0
+723,"Congo, Dem Rep",1996,Victoria,0
+724,Cote d'Ivoire,1996,Victoria,0
+725,Equator Guinea,1996,Victoria,0
+726,Gabon,1996,Victoria,0
+727,Gambia,1996,Victoria,0
+728,Ghana,1996,Victoria,0
+729,Guinea,1996,Victoria,0
+730,Guinea-Bissau,1996,Victoria,0
+731,Liberia,1996,Victoria,0
+732,Mali,1996,Victoria,0
+733,Mauritania,1996,Victoria,0
+734,Niger,1996,Victoria,0
+735,Nigeria,1996,Victoria,0
+736,Sao Tome/Princ,1996,Victoria,0
+737,Senegal,1996,Victoria,0
+738,Sierra Leone,1996,Victoria,0
+739,Togo,1996,Victoria,0
+740,Angola,1996,Victoria,0
+741,Botswana,1996,Victoria,0
+742,Burundi,1996,Victoria,0
+743,Comoros,1996,Victoria,0
+744,Djibouti,1996,Victoria,0
+745,Eritrea,1996,Victoria,0
+746,Ethiopia,1996,Victoria,0
+747,Kenya,1996,Victoria,0
+748,Lesotho,1996,Victoria,0
+749,Madagascar,1996,Victoria,0
+750,Malawi,1996,Victoria,0
+751,Mauritius,1996,Victoria,"9,030"
+752,Mayotte,1996,Victoria,0
+753,Mozambique,1996,Victoria,0
+754,Namibia,1996,Victoria,0
+755,Reunion,1996,Victoria,0
+756,Rwanda,1996,Victoria,0
+757,St Helena,1996,Victoria,0
+758,Seychelles,1996,Victoria,0
+759,Somalia,1996,Victoria,0
+760,South Africa,1996,Victoria,"12,780"
+761,Eswatini,1996,Victoria,0
+762,Tanzania,1996,Victoria,0
+763,Uganda,1996,Victoria,0
+764,Zambia,1996,Victoria,0
+765,Zimbabwe,1996,Victoria,0
+766,"S & E Afr, nec",1996,Victoria,0
+767,Inadequately described,1996,Victoria,"438,160"
+768,Australia,1996,Queensland,"2,682,600"
+769,Norfolk Island,1996,Queensland,0
+770,"Aust E T, nec",1996,Queensland,0
+771,New Zealand,1996,Queensland,"105,790"
+772,New Caledonia,1996,Queensland,0
+773,PNG,1996,Queensland,"13,180"
+774,Solomon Islands,1996,Queensland,0
+775,Vanuatu,1996,Queensland,0
+776,Guam,1996,Queensland,0
+777,Kiribati,1996,Queensland,0
+778,Marshall Is,1996,Queensland,0
+779,"Micronesia, F S",1996,Queensland,0
+780,Nauru,1996,Queensland,0
+781,N Mariana Is,1996,Queensland,0
+782,Palau,1996,Queensland,0
+783,Cook Islands,1996,Queensland,0
+784,Fiji,1996,Queensland,"6,660"
+785,French Poly,1996,Queensland,0
+786,Niue,1996,Queensland,0
+787,Samoa,1996,Queensland,0
+788,Samoa American,1996,Queensland,0
+789,Tokelau,1996,Queensland,0
+790,Tonga,1996,Queensland,0
+791,Tuvalu,1996,Queensland,0
+792,Wallis/Futuna,1996,Queensland,0
+793,Pitcairn Is,1996,Queensland,0
+794,"Polynesia, nec",1996,Queensland,0
+795,Adelie Land,1996,Queensland,0
+796,Argentinian A T,1996,Queensland,0
+797,Australian A T,1996,Queensland,0
+798,British A T,1996,Queensland,0
+799,Chilean A T,1996,Queensland,0
+800,Queen Maud Land,1996,Queensland,0
+801,Ross Dependency,1996,Queensland,0
+802,England,1996,Queensland,0
+803,Isle of Man,1996,Queensland,0
+804,N'thern Ireland,1996,Queensland,0
+805,Scotland,1996,Queensland,0
+806,Wales,1996,Queensland,0
+807,Guernsey,1996,Queensland,0
+808,Jersey,1996,Queensland,0
+809,Ireland,1996,Queensland,"7,070"
+810,Austria,1996,Queensland,"3,010"
+811,Belgium,1996,Queensland,0
+812,France,1996,Queensland,"3,040"
+813,Germany,1996,Queensland,"19,780"
+814,Liechtenstein,1996,Queensland,0
+815,Luxembourg,1996,Queensland,0
+816,Monaco,1996,Queensland,0
+817,Netherlands,1996,Queensland,"16,220"
+818,Switzerland,1996,Queensland,"2,230"
+819,Denmark,1996,Queensland,"2,550"
+820,Faroe Islands,1996,Queensland,0
+821,Finland,1996,Queensland,"2,950"
+822,Greenland,1996,Queensland,0
+823,Iceland,1996,Queensland,0
+824,Norway,1996,Queensland,0
+825,Sweden,1996,Queensland,0
+826,Aland Islands,1996,Queensland,0
+827,Andorra,1996,Queensland,0
+828,Gibraltar,1996,Queensland,0
+829,Holy See,1996,Queensland,0
+830,Italy,1996,Queensland,"16,650"
+831,Malta,1996,Queensland,"3,010"
+832,Portugal,1996,Queensland,860
+833,San Marino,1996,Queensland,0
+834,Spain,1996,Queensland,"1,950"
+835,Albania,1996,Queensland,0
+836,Bosnia/Herzegov,1996,Queensland,0
+837,Bulgaria,1996,Queensland,0
+838,Croatia,1996,Queensland,0
+839,Cyprus,1996,Queensland,"1,300"
+840,North Macedonia,1996,Queensland,0
+841,Greece,1996,Queensland,"4,590"
+842,Moldova,1996,Queensland,0
+843,Romania,1996,Queensland,"1,550"
+844,Slovenia,1996,Queensland,0
+845,Montenegro,1996,Queensland,0
+846,Serbia,1996,Queensland,0
+847,Kosovo,1996,Queensland,0
+848,Belarus,1996,Queensland,0
+849,Czechia,1996,Queensland,0
+850,Estonia,1996,Queensland,200
+851,Hungary,1996,Queensland,"3,310"
+852,Latvia,1996,Queensland,850
+853,Lithuania,1996,Queensland,360
+854,Poland,1996,Queensland,"5,900"
+855,Russia,1996,Queensland,0
+856,Slovakia,1996,Queensland,0
+857,Ukraine,1996,Queensland,"1,000"
+858,Algeria,1996,Queensland,0
+859,Egypt,1996,Queensland,"1,590"
+860,Libya,1996,Queensland,0
+861,Morocco,1996,Queensland,0
+862,Sudan,1996,Queensland,0
+863,Tunisia,1996,Queensland,0
+864,Western Sahara,1996,Queensland,0
+865,Sp North Africa,1996,Queensland,0
+866,South Sudan,1996,Queensland,0
+867,Bahrain,1996,Queensland,0
+868,Gaza Str/W Bank,1996,Queensland,0
+869,Iran,1996,Queensland,"1,220"
+870,Iraq,1996,Queensland,0
+871,Israel,1996,Queensland,380
+872,Jordan,1996,Queensland,0
+873,Kuwait,1996,Queensland,0
+874,Lebanon,1996,Queensland,"1,220"
+875,Oman,1996,Queensland,0
+876,Qatar,1996,Queensland,0
+877,Saudi Arabia,1996,Queensland,0
+878,Syria,1996,Queensland,0
+879,Turkey,1996,Queensland,940
+880,Unit Arab Emir,1996,Queensland,0
+881,Yemen,1996,Queensland,0
+882,Myanmar,1996,Queensland,520
+883,Cambodia,1996,Queensland,770
+884,Laos,1996,Queensland,890
+885,Thailand,1996,Queensland,"2,360"
+886,Vietnam,1996,Queensland,"11,290"
+887,Brunei,1996,Queensland,0
+888,Indonesia,1996,Queensland,"4,850"
+889,Malaysia,1996,Queensland,0
+890,Philippines,1996,Queensland,"14,490"
+891,Singapore,1996,Queensland,"3,700"
+892,Timor-Leste,1996,Queensland,0
+893,China,1996,Queensland,"7,660"
+894,Hong Kong,1996,Queensland,0
+895,Macau,1996,Queensland,0
+896,Mongolia,1996,Queensland,0
+897,Taiwan,1996,Queensland,0
+898,Japan,1996,Queensland,"5,880"
+899,"Korea, North",1996,Queensland,0
+900,"Korea, South",1996,Queensland,"2,800"
+901,Bangladesh,1996,Queensland,0
+902,Bhutan,1996,Queensland,0
+903,India,1996,Queensland,"5,870"
+904,Maldives,1996,Queensland,0
+905,Nepal,1996,Queensland,0
+906,Pakistan,1996,Queensland,0
+907,Sri Lanka,1996,Queensland,"3,930"
+908,Afghanistan,1996,Queensland,0
+909,Armenia,1996,Queensland,0
+910,Azerbaijan,1996,Queensland,0
+911,Georgia,1996,Queensland,0
+912,Kazakhstan,1996,Queensland,0
+913,Kyrgyzstan,1996,Queensland,0
+914,Tajikistan,1996,Queensland,0
+915,Turkmenistan,1996,Queensland,0
+916,Uzbekistan,1996,Queensland,0
+917,Bermuda,1996,Queensland,0
+918,Canada,1996,Queensland,"5,980"
+919,St Pierre/Mique,1996,Queensland,0
+920,USA,1996,Queensland,"10,090"
+921,Argentina,1996,Queensland,810
+922,Bolivia,1996,Queensland,0
+923,Brazil,1996,Queensland,0
+924,Chile,1996,Queensland,"1,280"
+925,Colombia,1996,Queensland,0
+926,Ecuador,1996,Queensland,0
+927,Falkland Is,1996,Queensland,0
+928,French Guiana,1996,Queensland,0
+929,Guyana,1996,Queensland,0
+930,Paraguay,1996,Queensland,0
+931,Peru,1996,Queensland,0
+932,Suriname,1996,Queensland,0
+933,Uruguay,1996,Queensland,420
+934,Venezuela,1996,Queensland,0
+935,"S America, nec",1996,Queensland,0
+936,Belize,1996,Queensland,0
+937,Costa Rica,1996,Queensland,0
+938,El Salvador,1996,Queensland,0
+939,Guatemala,1996,Queensland,0
+940,Honduras,1996,Queensland,0
+941,Mexico,1996,Queensland,0
+942,Nicaragua,1996,Queensland,0
+943,Panama,1996,Queensland,0
+944,Anguilla,1996,Queensland,0
+945,Antigua/Barbuda,1996,Queensland,0
+946,Aruba,1996,Queensland,0
+947,Bahamas,1996,Queensland,0
+948,Barbados,1996,Queensland,0
+949,Cayman Islands,1996,Queensland,0
+950,Cuba,1996,Queensland,0
+951,Dominica,1996,Queensland,0
+952,Dominican Rep,1996,Queensland,0
+953,Grenada,1996,Queensland,0
+954,Guadeloupe,1996,Queensland,0
+955,Haiti,1996,Queensland,0
+956,Jamaica,1996,Queensland,0
+957,Martinique,1996,Queensland,0
+958,Montserrat,1996,Queensland,0
+959,Puerto Rico,1996,Queensland,0
+960,St Kitts/Nevis,1996,Queensland,0
+961,St Lucia,1996,Queensland,0
+962,St Vinc/Grenad,1996,Queensland,0
+963,Trinidad/Tobago,1996,Queensland,0
+964,Turks/Caicos Is,1996,Queensland,0
+965,"Virgin Is, Brit",1996,Queensland,0
+966,"Virgin Is, US",1996,Queensland,0
+967,St Barthelemy,1996,Queensland,0
+968,St Martin (Fr),1996,Queensland,0
+969,Bonaire/SE/Saba,1996,Queensland,0
+970,Curacao,1996,Queensland,0
+971,Sint Maarten Dp,1996,Queensland,0
+972,Benin,1996,Queensland,0
+973,Burkina Faso,1996,Queensland,0
+974,Cameroon,1996,Queensland,0
+975,Cabo Verde,1996,Queensland,0
+976,Cent Africa Rep,1996,Queensland,0
+977,Chad,1996,Queensland,0
+978,"Congo, Rep",1996,Queensland,0
+979,"Congo, Dem Rep",1996,Queensland,0
+980,Cote d'Ivoire,1996,Queensland,0
+981,Equator Guinea,1996,Queensland,0
+982,Gabon,1996,Queensland,0
+983,Gambia,1996,Queensland,0
+984,Ghana,1996,Queensland,0
+985,Guinea,1996,Queensland,0
+986,Guinea-Bissau,1996,Queensland,0
+987,Liberia,1996,Queensland,0
+988,Mali,1996,Queensland,0
+989,Mauritania,1996,Queensland,0
+990,Niger,1996,Queensland,0
+991,Nigeria,1996,Queensland,0
+992,Sao Tome/Princ,1996,Queensland,0
+993,Senegal,1996,Queensland,0
+994,Sierra Leone,1996,Queensland,0
+995,Togo,1996,Queensland,0
+996,Angola,1996,Queensland,0
+997,Botswana,1996,Queensland,0
+998,Burundi,1996,Queensland,0
+999,Comoros,1996,Queensland,0
+1000,Djibouti,1996,Queensland,0
+1001,Eritrea,1996,Queensland,0
+1002,Ethiopia,1996,Queensland,0
+1003,Kenya,1996,Queensland,0
+1004,Lesotho,1996,Queensland,0
+1005,Madagascar,1996,Queensland,0
+1006,Malawi,1996,Queensland,0
+1007,Mauritius,1996,Queensland,970
+1008,Mayotte,1996,Queensland,0
+1009,Mozambique,1996,Queensland,0
+1010,Namibia,1996,Queensland,0
+1011,Reunion,1996,Queensland,0
+1012,Rwanda,1996,Queensland,0
+1013,St Helena,1996,Queensland,0
+1014,Seychelles,1996,Queensland,0
+1015,Somalia,1996,Queensland,0
+1016,South Africa,1996,Queensland,"9,190"
+1017,Eswatini,1996,Queensland,0
+1018,Tanzania,1996,Queensland,0
+1019,Uganda,1996,Queensland,0
+1020,Zambia,1996,Queensland,0
+1021,Zimbabwe,1996,Queensland,0
+1022,"S & E Afr, nec",1996,Queensland,0
+1023,Inadequately described,1996,Queensland,"297,500"
+1024,Australia,1996,South Australia,"1,161,070"
+1025,Norfolk Island,1996,South Australia,0
+1026,"Aust E T, nec",1996,South Australia,0
+1027,New Zealand,1996,South Australia,"10,520"
+1028,New Caledonia,1996,South Australia,0
+1029,PNG,1996,South Australia,"1,030"
+1030,Solomon Islands,1996,South Australia,0
+1031,Vanuatu,1996,South Australia,0
+1032,Guam,1996,South Australia,0
+1033,Kiribati,1996,South Australia,0
+1034,Marshall Is,1996,South Australia,0
+1035,"Micronesia, F S",1996,South Australia,0
+1036,Nauru,1996,South Australia,0
+1037,N Mariana Is,1996,South Australia,0
+1038,Palau,1996,South Australia,0
+1039,Cook Islands,1996,South Australia,0
+1040,Fiji,1996,South Australia,900
+1041,French Poly,1996,South Australia,0
+1042,Niue,1996,South Australia,0
+1043,Samoa,1996,South Australia,0
+1044,Samoa American,1996,South Australia,0
+1045,Tokelau,1996,South Australia,0
+1046,Tonga,1996,South Australia,0
+1047,Tuvalu,1996,South Australia,0
+1048,Wallis/Futuna,1996,South Australia,0
+1049,Pitcairn Is,1996,South Australia,0
+1050,"Polynesia, nec",1996,South Australia,0
+1051,Adelie Land,1996,South Australia,0
+1052,Argentinian A T,1996,South Australia,0
+1053,Australian A T,1996,South Australia,0
+1054,British A T,1996,South Australia,0
+1055,Chilean A T,1996,South Australia,0
+1056,Queen Maud Land,1996,South Australia,0
+1057,Ross Dependency,1996,South Australia,0
+1058,England,1996,South Australia,0
+1059,Isle of Man,1996,South Australia,0
+1060,N'thern Ireland,1996,South Australia,0
+1061,Scotland,1996,South Australia,0
+1062,Wales,1996,South Australia,0
+1063,Guernsey,1996,South Australia,0
+1064,Jersey,1996,South Australia,0
+1065,Ireland,1996,South Australia,"3,830"
+1066,Austria,1996,South Australia,"2,170"
+1067,Belgium,1996,South Australia,0
+1068,France,1996,South Australia,"1,110"
+1069,Germany,1996,South Australia,"15,340"
+1070,Liechtenstein,1996,South Australia,0
+1071,Luxembourg,1996,South Australia,0
+1072,Monaco,1996,South Australia,0
+1073,Netherlands,1996,South Australia,"10,170"
+1074,Switzerland,1996,South Australia,550
+1075,Denmark,1996,South Australia,730
+1076,Faroe Islands,1996,South Australia,0
+1077,Finland,1996,South Australia,660
+1078,Greenland,1996,South Australia,0
+1079,Iceland,1996,South Australia,0
+1080,Norway,1996,South Australia,0
+1081,Sweden,1996,South Australia,0
+1082,Aland Islands,1996,South Australia,0
+1083,Andorra,1996,South Australia,0
+1084,Gibraltar,1996,South Australia,0
+1085,Holy See,1996,South Australia,0
+1086,Italy,1996,South Australia,"29,420"
+1087,Malta,1996,South Australia,"2,270"
+1088,Portugal,1996,South Australia,560
+1089,San Marino,1996,South Australia,0
+1090,Spain,1996,South Australia,840
+1091,Albania,1996,South Australia,0
+1092,Bosnia/Herzegov,1996,South Australia,0
+1093,Bulgaria,1996,South Australia,0
+1094,Croatia,1996,South Australia,0
+1095,Cyprus,1996,South Australia,"1,840"
+1096,North Macedonia,1996,South Australia,0
+1097,Greece,1996,South Australia,"14,370"
+1098,Moldova,1996,South Australia,0
+1099,Romania,1996,South Australia,"1,070"
+1100,Slovenia,1996,South Australia,0
+1101,Montenegro,1996,South Australia,0
+1102,Serbia,1996,South Australia,0
+1103,Kosovo,1996,South Australia,0
+1104,Belarus,1996,South Australia,0
+1105,Czechia,1996,South Australia,0
+1106,Estonia,1996,South Australia,400
+1107,Hungary,1996,South Australia,"2,480"
+1108,Latvia,1996,South Australia,"1,530"
+1109,Lithuania,1996,South Australia,790
+1110,Poland,1996,South Australia,"9,140"
+1111,Russia,1996,South Australia,0
+1112,Slovakia,1996,South Australia,0
+1113,Ukraine,1996,South Australia,"2,030"
+1114,Algeria,1996,South Australia,0
+1115,Egypt,1996,South Australia,"1,300"
+1116,Libya,1996,South Australia,0
+1117,Morocco,1996,South Australia,0
+1118,Sudan,1996,South Australia,0
+1119,Tunisia,1996,South Australia,0
+1120,Western Sahara,1996,South Australia,0
+1121,Sp North Africa,1996,South Australia,0
+1122,South Sudan,1996,South Australia,0
+1123,Bahrain,1996,South Australia,0
+1124,Gaza Str/W Bank,1996,South Australia,0
+1125,Iran,1996,South Australia,"1,640"
+1126,Iraq,1996,South Australia,0
+1127,Israel,1996,South Australia,160
+1128,Jordan,1996,South Australia,0
+1129,Kuwait,1996,South Australia,0
+1130,Lebanon,1996,South Australia,"1,720"
+1131,Oman,1996,South Australia,0
+1132,Qatar,1996,South Australia,0
+1133,Saudi Arabia,1996,South Australia,0
+1134,Syria,1996,South Australia,0
+1135,Turkey,1996,South Australia,630
+1136,Unit Arab Emir,1996,South Australia,0
+1137,Yemen,1996,South Australia,0
+1138,Myanmar,1996,South Australia,130
+1139,Cambodia,1996,South Australia,"2,630"
+1140,Laos,1996,South Australia,300
+1141,Thailand,1996,South Australia,"1,150"
+1142,Vietnam,1996,South Australia,"11,300"
+1143,Brunei,1996,South Australia,0
+1144,Indonesia,1996,South Australia,"1,490"
+1145,Malaysia,1996,South Australia,0
+1146,Philippines,1996,South Australia,"4,570"
+1147,Singapore,1996,South Australia,"1,220"
+1148,Timor-Leste,1996,South Australia,0
+1149,China,1996,South Australia,"3,360"
+1150,Hong Kong,1996,South Australia,0
+1151,Macau,1996,South Australia,0
+1152,Mongolia,1996,South Australia,0
+1153,Taiwan,1996,South Australia,0
+1154,Japan,1996,South Australia,860
+1155,"Korea, North",1996,South Australia,0
+1156,"Korea, South",1996,South Australia,790
+1157,Bangladesh,1996,South Australia,0
+1158,Bhutan,1996,South Australia,0
+1159,India,1996,South Australia,"3,580"
+1160,Maldives,1996,South Australia,0
+1161,Nepal,1996,South Australia,0
+1162,Pakistan,1996,South Australia,0
+1163,Sri Lanka,1996,South Australia,"1,340"
+1164,Afghanistan,1996,South Australia,0
+1165,Armenia,1996,South Australia,0
+1166,Azerbaijan,1996,South Australia,0
+1167,Georgia,1996,South Australia,0
+1168,Kazakhstan,1996,South Australia,0
+1169,Kyrgyzstan,1996,South Australia,0
+1170,Tajikistan,1996,South Australia,0
+1171,Turkmenistan,1996,South Australia,0
+1172,Uzbekistan,1996,South Australia,0
+1173,Bermuda,1996,South Australia,0
+1174,Canada,1996,South Australia,"1,730"
+1175,St Pierre/Mique,1996,South Australia,0
+1176,USA,1996,South Australia,"3,610"
+1177,Argentina,1996,South Australia,330
+1178,Bolivia,1996,South Australia,0
+1179,Brazil,1996,South Australia,0
+1180,Chile,1996,South Australia,780
+1181,Colombia,1996,South Australia,0
+1182,Ecuador,1996,South Australia,0
+1183,Falkland Is,1996,South Australia,0
+1184,French Guiana,1996,South Australia,0
+1185,Guyana,1996,South Australia,0
+1186,Paraguay,1996,South Australia,0
+1187,Peru,1996,South Australia,0
+1188,Suriname,1996,South Australia,0
+1189,Uruguay,1996,South Australia,130
+1190,Venezuela,1996,South Australia,0
+1191,"S America, nec",1996,South Australia,0
+1192,Belize,1996,South Australia,0
+1193,Costa Rica,1996,South Australia,0
+1194,El Salvador,1996,South Australia,0
+1195,Guatemala,1996,South Australia,0
+1196,Honduras,1996,South Australia,0
+1197,Mexico,1996,South Australia,0
+1198,Nicaragua,1996,South Australia,0
+1199,Panama,1996,South Australia,0
+1200,Anguilla,1996,South Australia,0
+1201,Antigua/Barbuda,1996,South Australia,0
+1202,Aruba,1996,South Australia,0
+1203,Bahamas,1996,South Australia,0
+1204,Barbados,1996,South Australia,0
+1205,Cayman Islands,1996,South Australia,0
+1206,Cuba,1996,South Australia,0
+1207,Dominica,1996,South Australia,0
+1208,Dominican Rep,1996,South Australia,0
+1209,Grenada,1996,South Australia,0
+1210,Guadeloupe,1996,South Australia,0
+1211,Haiti,1996,South Australia,0
+1212,Jamaica,1996,South Australia,0
+1213,Martinique,1996,South Australia,0
+1214,Montserrat,1996,South Australia,0
+1215,Puerto Rico,1996,South Australia,0
+1216,St Kitts/Nevis,1996,South Australia,0
+1217,St Lucia,1996,South Australia,0
+1218,St Vinc/Grenad,1996,South Australia,0
+1219,Trinidad/Tobago,1996,South Australia,0
+1220,Turks/Caicos Is,1996,South Australia,0
+1221,"Virgin Is, Brit",1996,South Australia,0
+1222,"Virgin Is, US",1996,South Australia,0
+1223,St Barthelemy,1996,South Australia,0
+1224,St Martin (Fr),1996,South Australia,0
+1225,Bonaire/SE/Saba,1996,South Australia,0
+1226,Curacao,1996,South Australia,0
+1227,Sint Maarten Dp,1996,South Australia,0
+1228,Benin,1996,South Australia,0
+1229,Burkina Faso,1996,South Australia,0
+1230,Cameroon,1996,South Australia,0
+1231,Cabo Verde,1996,South Australia,0
+1232,Cent Africa Rep,1996,South Australia,0
+1233,Chad,1996,South Australia,0
+1234,"Congo, Rep",1996,South Australia,0
+1235,"Congo, Dem Rep",1996,South Australia,0
+1236,Cote d'Ivoire,1996,South Australia,0
+1237,Equator Guinea,1996,South Australia,0
+1238,Gabon,1996,South Australia,0
+1239,Gambia,1996,South Australia,0
+1240,Ghana,1996,South Australia,0
+1241,Guinea,1996,South Australia,0
+1242,Guinea-Bissau,1996,South Australia,0
+1243,Liberia,1996,South Australia,0
+1244,Mali,1996,South Australia,0
+1245,Mauritania,1996,South Australia,0
+1246,Niger,1996,South Australia,0
+1247,Nigeria,1996,South Australia,0
+1248,Sao Tome/Princ,1996,South Australia,0
+1249,Senegal,1996,South Australia,0
+1250,Sierra Leone,1996,South Australia,0
+1251,Togo,1996,South Australia,0
+1252,Angola,1996,South Australia,0
+1253,Botswana,1996,South Australia,0
+1254,Burundi,1996,South Australia,0
+1255,Comoros,1996,South Australia,0
+1256,Djibouti,1996,South Australia,0
+1257,Eritrea,1996,South Australia,0
+1258,Ethiopia,1996,South Australia,0
+1259,Kenya,1996,South Australia,0
+1260,Lesotho,1996,South Australia,0
+1261,Madagascar,1996,South Australia,0
+1262,Malawi,1996,South Australia,0
+1263,Mauritius,1996,South Australia,120
+1264,Mayotte,1996,South Australia,0
+1265,Mozambique,1996,South Australia,0
+1266,Namibia,1996,South Australia,0
+1267,Reunion,1996,South Australia,0
+1268,Rwanda,1996,South Australia,0
+1269,St Helena,1996,South Australia,0
+1270,Seychelles,1996,South Australia,0
+1271,Somalia,1996,South Australia,0
+1272,South Africa,1996,South Australia,"2,380"
+1273,Eswatini,1996,South Australia,0
+1274,Tanzania,1996,South Australia,0
+1275,Uganda,1996,South Australia,0
+1276,Zambia,1996,South Australia,0
+1277,Zimbabwe,1996,South Australia,0
+1278,"S & E Afr, nec",1996,South Australia,0
+1279,Inadequately described,1996,South Australia,"147,040"
+1280,Australia,1996,Western Australia,"1,336,820"
+1281,Norfolk Island,1996,Western Australia,0
+1282,"Aust E T, nec",1996,Western Australia,0
+1283,New Zealand,1996,Western Australia,"45,510"
+1284,New Caledonia,1996,Western Australia,0
+1285,PNG,1996,Western Australia,"1,320"
+1286,Solomon Islands,1996,Western Australia,0
+1287,Vanuatu,1996,Western Australia,0
+1288,Guam,1996,Western Australia,0
+1289,Kiribati,1996,Western Australia,0
+1290,Marshall Is,1996,Western Australia,0
+1291,"Micronesia, F S",1996,Western Australia,0
+1292,Nauru,1996,Western Australia,0
+1293,N Mariana Is,1996,Western Australia,0
+1294,Palau,1996,Western Australia,0
+1295,Cook Islands,1996,Western Australia,0
+1296,Fiji,1996,Western Australia,720
+1297,French Poly,1996,Western Australia,0
+1298,Niue,1996,Western Australia,0
+1299,Samoa,1996,Western Australia,0
+1300,Samoa American,1996,Western Australia,0
+1301,Tokelau,1996,Western Australia,0
+1302,Tonga,1996,Western Australia,0
+1303,Tuvalu,1996,Western Australia,0
+1304,Wallis/Futuna,1996,Western Australia,0
+1305,Pitcairn Is,1996,Western Australia,0
+1306,"Polynesia, nec",1996,Western Australia,0
+1307,Adelie Land,1996,Western Australia,0
+1308,Argentinian A T,1996,Western Australia,0
+1309,Australian A T,1996,Western Australia,0
+1310,British A T,1996,Western Australia,0
+1311,Chilean A T,1996,Western Australia,0
+1312,Queen Maud Land,1996,Western Australia,0
+1313,Ross Dependency,1996,Western Australia,0
+1314,England,1996,Western Australia,0
+1315,Isle of Man,1996,Western Australia,0
+1316,N'thern Ireland,1996,Western Australia,0
+1317,Scotland,1996,Western Australia,0
+1318,Wales,1996,Western Australia,0
+1319,Guernsey,1996,Western Australia,0
+1320,Jersey,1996,Western Australia,0
+1321,Ireland,1996,Western Australia,"10,770"
+1322,Austria,1996,Western Australia,"1,910"
+1323,Belgium,1996,Western Australia,0
+1324,France,1996,Western Australia,"1,770"
+1325,Germany,1996,Western Australia,"12,320"
+1326,Liechtenstein,1996,Western Australia,0
+1327,Luxembourg,1996,Western Australia,0
+1328,Monaco,1996,Western Australia,0
+1329,Netherlands,1996,Western Australia,"13,540"
+1330,Switzerland,1996,Western Australia,"1,650"
+1331,Denmark,1996,Western Australia,"1,350"
+1332,Faroe Islands,1996,Western Australia,0
+1333,Finland,1996,Western Australia,650
+1334,Greenland,1996,Western Australia,0
+1335,Iceland,1996,Western Australia,0
+1336,Norway,1996,Western Australia,0
+1337,Sweden,1996,Western Australia,0
+1338,Aland Islands,1996,Western Australia,0
+1339,Andorra,1996,Western Australia,0
+1340,Gibraltar,1996,Western Australia,0
+1341,Holy See,1996,Western Australia,0
+1342,Italy,1996,Western Australia,"29,770"
+1343,Malta,1996,Western Australia,"1,360"
+1344,Portugal,1996,Western Australia,"3,170"
+1345,San Marino,1996,Western Australia,0
+1346,Spain,1996,Western Australia,"1,300"
+1347,Albania,1996,Western Australia,0
+1348,Bosnia/Herzegov,1996,Western Australia,0
+1349,Bulgaria,1996,Western Australia,0
+1350,Croatia,1996,Western Australia,0
+1351,Cyprus,1996,Western Australia,520
+1352,North Macedonia,1996,Western Australia,0
+1353,Greece,1996,Western Australia,"4,280"
+1354,Moldova,1996,Western Australia,0
+1355,Romania,1996,Western Australia,"1,410"
+1356,Slovenia,1996,Western Australia,0
+1357,Montenegro,1996,Western Australia,0
+1358,Serbia,1996,Western Australia,0
+1359,Kosovo,1996,Western Australia,0
+1360,Belarus,1996,Western Australia,0
+1361,Czechia,1996,Western Australia,0
+1362,Estonia,1996,Western Australia,190
+1363,Hungary,1996,Western Australia,"1,760"
+1364,Latvia,1996,Western Australia,840
+1365,Lithuania,1996,Western Australia,350
+1366,Poland,1996,Western Australia,"8,610"
+1367,Russia,1996,Western Australia,0
+1368,Slovakia,1996,Western Australia,0
+1369,Ukraine,1996,Western Australia,940
+1370,Algeria,1996,Western Australia,0
+1371,Egypt,1996,Western Australia,"1,960"
+1372,Libya,1996,Western Australia,0
+1373,Morocco,1996,Western Australia,0
+1374,Sudan,1996,Western Australia,0
+1375,Tunisia,1996,Western Australia,0
+1376,Western Sahara,1996,Western Australia,0
+1377,Sp North Africa,1996,Western Australia,0
+1378,South Sudan,1996,Western Australia,0
+1379,Bahrain,1996,Western Australia,0
+1380,Gaza Str/W Bank,1996,Western Australia,0
+1381,Iran,1996,Western Australia,"1,880"
+1382,Iraq,1996,Western Australia,0
+1383,Israel,1996,Western Australia,670
+1384,Jordan,1996,Western Australia,0
+1385,Kuwait,1996,Western Australia,0
+1386,Lebanon,1996,Western Australia,"1,010"
+1387,Oman,1996,Western Australia,0
+1388,Qatar,1996,Western Australia,0
+1389,Saudi Arabia,1996,Western Australia,0
+1390,Syria,1996,Western Australia,0
+1391,Turkey,1996,Western Australia,830
+1392,Unit Arab Emir,1996,Western Australia,0
+1393,Yemen,1996,Western Australia,0
+1394,Myanmar,1996,Western Australia,"6,710"
+1395,Cambodia,1996,Western Australia,780
+1396,Laos,1996,Western Australia,130
+1397,Thailand,1996,Western Australia,"2,540"
+1398,Vietnam,1996,Western Australia,"11,540"
+1399,Brunei,1996,Western Australia,0
+1400,Indonesia,1996,Western Australia,"7,140"
+1401,Malaysia,1996,Western Australia,0
+1402,Philippines,1996,Western Australia,"5,860"
+1403,Singapore,1996,Western Australia,"10,630"
+1404,Timor-Leste,1996,Western Australia,0
+1405,China,1996,Western Australia,"5,400"
+1406,Hong Kong,1996,Western Australia,0
+1407,Macau,1996,Western Australia,0
+1408,Mongolia,1996,Western Australia,0
+1409,Taiwan,1996,Western Australia,0
+1410,Japan,1996,Western Australia,"2,180"
+1411,"Korea, North",1996,Western Australia,0
+1412,"Korea, South",1996,Western Australia,"1,360"
+1413,Bangladesh,1996,Western Australia,0
+1414,Bhutan,1996,Western Australia,0
+1415,India,1996,Western Australia,"14,480"
+1416,Maldives,1996,Western Australia,0
+1417,Nepal,1996,Western Australia,0
+1418,Pakistan,1996,Western Australia,0
+1419,Sri Lanka,1996,Western Australia,"3,430"
+1420,Afghanistan,1996,Western Australia,0
+1421,Armenia,1996,Western Australia,0
+1422,Azerbaijan,1996,Western Australia,0
+1423,Georgia,1996,Western Australia,0
+1424,Kazakhstan,1996,Western Australia,0
+1425,Kyrgyzstan,1996,Western Australia,0
+1426,Tajikistan,1996,Western Australia,0
+1427,Turkmenistan,1996,Western Australia,0
+1428,Uzbekistan,1996,Western Australia,0
+1429,Bermuda,1996,Western Australia,0
+1430,Canada,1996,Western Australia,"3,970"
+1431,St Pierre/Mique,1996,Western Australia,0
+1432,USA,1996,Western Australia,"6,890"
+1433,Argentina,1996,Western Australia,610
+1434,Bolivia,1996,Western Australia,0
+1435,Brazil,1996,Western Australia,0
+1436,Chile,1996,Western Australia,"1,440"
+1437,Colombia,1996,Western Australia,0
+1438,Ecuador,1996,Western Australia,0
+1439,Falkland Is,1996,Western Australia,0
+1440,French Guiana,1996,Western Australia,0
+1441,Guyana,1996,Western Australia,0
+1442,Paraguay,1996,Western Australia,0
+1443,Peru,1996,Western Australia,0
+1444,Suriname,1996,Western Australia,0
+1445,Uruguay,1996,Western Australia,200
+1446,Venezuela,1996,Western Australia,0
+1447,"S America, nec",1996,Western Australia,0
+1448,Belize,1996,Western Australia,0
+1449,Costa Rica,1996,Western Australia,0
+1450,El Salvador,1996,Western Australia,0
+1451,Guatemala,1996,Western Australia,0
+1452,Honduras,1996,Western Australia,0
+1453,Mexico,1996,Western Australia,0
+1454,Nicaragua,1996,Western Australia,0
+1455,Panama,1996,Western Australia,0
+1456,Anguilla,1996,Western Australia,0
+1457,Antigua/Barbuda,1996,Western Australia,0
+1458,Aruba,1996,Western Australia,0
+1459,Bahamas,1996,Western Australia,0
+1460,Barbados,1996,Western Australia,0
+1461,Cayman Islands,1996,Western Australia,0
+1462,Cuba,1996,Western Australia,0
+1463,Dominica,1996,Western Australia,0
+1464,Dominican Rep,1996,Western Australia,0
+1465,Grenada,1996,Western Australia,0
+1466,Guadeloupe,1996,Western Australia,0
+1467,Haiti,1996,Western Australia,0
+1468,Jamaica,1996,Western Australia,0
+1469,Martinique,1996,Western Australia,0
+1470,Montserrat,1996,Western Australia,0
+1471,Puerto Rico,1996,Western Australia,0
+1472,St Kitts/Nevis,1996,Western Australia,0
+1473,St Lucia,1996,Western Australia,0
+1474,St Vinc/Grenad,1996,Western Australia,0
+1475,Trinidad/Tobago,1996,Western Australia,0
+1476,Turks/Caicos Is,1996,Western Australia,0
+1477,"Virgin Is, Brit",1996,Western Australia,0
+1478,"Virgin Is, US",1996,Western Australia,0
+1479,St Barthelemy,1996,Western Australia,0
+1480,St Martin (Fr),1996,Western Australia,0
+1481,Bonaire/SE/Saba,1996,Western Australia,0
+1482,Curacao,1996,Western Australia,0
+1483,Sint Maarten Dp,1996,Western Australia,0
+1484,Benin,1996,Western Australia,0
+1485,Burkina Faso,1996,Western Australia,0
+1486,Cameroon,1996,Western Australia,0
+1487,Cabo Verde,1996,Western Australia,0
+1488,Cent Africa Rep,1996,Western Australia,0
+1489,Chad,1996,Western Australia,0
+1490,"Congo, Rep",1996,Western Australia,0
+1491,"Congo, Dem Rep",1996,Western Australia,0
+1492,Cote d'Ivoire,1996,Western Australia,0
+1493,Equator Guinea,1996,Western Australia,0
+1494,Gabon,1996,Western Australia,0
+1495,Gambia,1996,Western Australia,0
+1496,Ghana,1996,Western Australia,0
+1497,Guinea,1996,Western Australia,0
+1498,Guinea-Bissau,1996,Western Australia,0
+1499,Liberia,1996,Western Australia,0
+1500,Mali,1996,Western Australia,0
+1501,Mauritania,1996,Western Australia,0
+1502,Niger,1996,Western Australia,0
+1503,Nigeria,1996,Western Australia,0
+1504,Sao Tome/Princ,1996,Western Australia,0
+1505,Senegal,1996,Western Australia,0
+1506,Sierra Leone,1996,Western Australia,0
+1507,Togo,1996,Western Australia,0
+1508,Angola,1996,Western Australia,0
+1509,Botswana,1996,Western Australia,0
+1510,Burundi,1996,Western Australia,0
+1511,Comoros,1996,Western Australia,0
+1512,Djibouti,1996,Western Australia,0
+1513,Eritrea,1996,Western Australia,0
+1514,Ethiopia,1996,Western Australia,0
+1515,Kenya,1996,Western Australia,0
+1516,Lesotho,1996,Western Australia,0
+1517,Madagascar,1996,Western Australia,0
+1518,Malawi,1996,Western Australia,0
+1519,Mauritius,1996,Western Australia,"2,550"
+1520,Mayotte,1996,Western Australia,0
+1521,Mozambique,1996,Western Australia,0
+1522,Namibia,1996,Western Australia,0
+1523,Reunion,1996,Western Australia,0
+1524,Rwanda,1996,Western Australia,0
+1525,St Helena,1996,Western Australia,0
+1526,Seychelles,1996,Western Australia,0
+1527,Somalia,1996,Western Australia,0
+1528,South Africa,1996,Western Australia,"12,830"
+1529,Eswatini,1996,Western Australia,0
+1530,Tanzania,1996,Western Australia,0
+1531,Uganda,1996,Western Australia,0
+1532,Zambia,1996,Western Australia,0
+1533,Zimbabwe,1996,Western Australia,0
+1534,"S & E Afr, nec",1996,Western Australia,0
+1535,Inadequately described,1996,Western Australia,"178,370"
+1536,Australia,1996,Tasmania,"405,160"
+1537,Norfolk Island,1996,Tasmania,0
+1538,"Aust E T, nec",1996,Tasmania,0
+1539,New Zealand,1996,Tasmania,"3,670"
+1540,New Caledonia,1996,Tasmania,0
+1541,PNG,1996,Tasmania,300
+1542,Solomon Islands,1996,Tasmania,0
+1543,Vanuatu,1996,Tasmania,0
+1544,Guam,1996,Tasmania,0
+1545,Kiribati,1996,Tasmania,0
+1546,Marshall Is,1996,Tasmania,0
+1547,"Micronesia, F S",1996,Tasmania,0
+1548,Nauru,1996,Tasmania,0
+1549,N Mariana Is,1996,Tasmania,0
+1550,Palau,1996,Tasmania,0
+1551,Cook Islands,1996,Tasmania,0
+1552,Fiji,1996,Tasmania,320
+1553,French Poly,1996,Tasmania,0
+1554,Niue,1996,Tasmania,0
+1555,Samoa,1996,Tasmania,0
+1556,Samoa American,1996,Tasmania,0
+1557,Tokelau,1996,Tasmania,0
+1558,Tonga,1996,Tasmania,0
+1559,Tuvalu,1996,Tasmania,0
+1560,Wallis/Futuna,1996,Tasmania,0
+1561,Pitcairn Is,1996,Tasmania,0
+1562,"Polynesia, nec",1996,Tasmania,0
+1563,Adelie Land,1996,Tasmania,0
+1564,Argentinian A T,1996,Tasmania,0
+1565,Australian A T,1996,Tasmania,0
+1566,British A T,1996,Tasmania,0
+1567,Chilean A T,1996,Tasmania,0
+1568,Queen Maud Land,1996,Tasmania,0
+1569,Ross Dependency,1996,Tasmania,0
+1570,England,1996,Tasmania,0
+1571,Isle of Man,1996,Tasmania,0
+1572,N'thern Ireland,1996,Tasmania,0
+1573,Scotland,1996,Tasmania,0
+1574,Wales,1996,Tasmania,0
+1575,Guernsey,1996,Tasmania,0
+1576,Jersey,1996,Tasmania,0
+1577,Ireland,1996,Tasmania,590
+1578,Austria,1996,Tasmania,420
+1579,Belgium,1996,Tasmania,0
+1580,France,1996,Tasmania,160
+1581,Germany,1996,Tasmania,"2,140"
+1582,Liechtenstein,1996,Tasmania,0
+1583,Luxembourg,1996,Tasmania,0
+1584,Monaco,1996,Tasmania,0
+1585,Netherlands,1996,Tasmania,"2,900"
+1586,Switzerland,1996,Tasmania,280
+1587,Denmark,1996,Tasmania,170
+1588,Faroe Islands,1996,Tasmania,0
+1589,Finland,1996,Tasmania,160
+1590,Greenland,1996,Tasmania,0
+1591,Iceland,1996,Tasmania,0
+1592,Norway,1996,Tasmania,0
+1593,Sweden,1996,Tasmania,0
+1594,Aland Islands,1996,Tasmania,0
+1595,Andorra,1996,Tasmania,0
+1596,Gibraltar,1996,Tasmania,0
+1597,Holy See,1996,Tasmania,0
+1598,Italy,1996,Tasmania,"1,230"
+1599,Malta,1996,Tasmania,120
+1600,Portugal,1996,Tasmania,20
+1601,San Marino,1996,Tasmania,0
+1602,Spain,1996,Tasmania,70
+1603,Albania,1996,Tasmania,0
+1604,Bosnia/Herzegov,1996,Tasmania,0
+1605,Bulgaria,1996,Tasmania,0
+1606,Croatia,1996,Tasmania,0
+1607,Cyprus,1996,Tasmania,60
+1608,North Macedonia,1996,Tasmania,0
+1609,Greece,1996,Tasmania,650
+1610,Moldova,1996,Tasmania,0
+1611,Romania,1996,Tasmania,60
+1612,Slovenia,1996,Tasmania,0
+1613,Montenegro,1996,Tasmania,0
+1614,Serbia,1996,Tasmania,0
+1615,Kosovo,1996,Tasmania,0
+1616,Belarus,1996,Tasmania,0
+1617,Czechia,1996,Tasmania,0
+1618,Estonia,1996,Tasmania,50
+1619,Hungary,1996,Tasmania,300
+1620,Latvia,1996,Tasmania,130
+1621,Lithuania,1996,Tasmania,90
+1622,Poland,1996,Tasmania,"1,150"
+1623,Russia,1996,Tasmania,0
+1624,Slovakia,1996,Tasmania,0
+1625,Ukraine,1996,Tasmania,140
+1626,Algeria,1996,Tasmania,0
+1627,Egypt,1996,Tasmania,90
+1628,Libya,1996,Tasmania,0
+1629,Morocco,1996,Tasmania,0
+1630,Sudan,1996,Tasmania,0
+1631,Tunisia,1996,Tasmania,0
+1632,Western Sahara,1996,Tasmania,0
+1633,Sp North Africa,1996,Tasmania,0
+1634,South Sudan,1996,Tasmania,0
+1635,Bahrain,1996,Tasmania,0
+1636,Gaza Str/W Bank,1996,Tasmania,0
+1637,Iran,1996,Tasmania,100
+1638,Iraq,1996,Tasmania,0
+1639,Israel,1996,Tasmania,20
+1640,Jordan,1996,Tasmania,0
+1641,Kuwait,1996,Tasmania,0
+1642,Lebanon,1996,Tasmania,80
+1643,Oman,1996,Tasmania,0
+1644,Qatar,1996,Tasmania,0
+1645,Saudi Arabia,1996,Tasmania,0
+1646,Syria,1996,Tasmania,0
+1647,Turkey,1996,Tasmania,40
+1648,Unit Arab Emir,1996,Tasmania,0
+1649,Yemen,1996,Tasmania,0
+1650,Myanmar,1996,Tasmania,30
+1651,Cambodia,1996,Tasmania,10
+1652,Laos,1996,Tasmania,180
+1653,Thailand,1996,Tasmania,290
+1654,Vietnam,1996,Tasmania,200
+1655,Brunei,1996,Tasmania,0
+1656,Indonesia,1996,Tasmania,220
+1657,Malaysia,1996,Tasmania,0
+1658,Philippines,1996,Tasmania,720
+1659,Singapore,1996,Tasmania,310
+1660,Timor-Leste,1996,Tasmania,0
+1661,China,1996,Tasmania,410
+1662,Hong Kong,1996,Tasmania,0
+1663,Macau,1996,Tasmania,0
+1664,Mongolia,1996,Tasmania,0
+1665,Taiwan,1996,Tasmania,0
+1666,Japan,1996,Tasmania,200
+1667,"Korea, North",1996,Tasmania,0
+1668,"Korea, South",1996,Tasmania,210
+1669,Bangladesh,1996,Tasmania,0
+1670,Bhutan,1996,Tasmania,0
+1671,India,1996,Tasmania,500
+1672,Maldives,1996,Tasmania,0
+1673,Nepal,1996,Tasmania,0
+1674,Pakistan,1996,Tasmania,0
+1675,Sri Lanka,1996,Tasmania,200
+1676,Afghanistan,1996,Tasmania,0
+1677,Armenia,1996,Tasmania,0
+1678,Azerbaijan,1996,Tasmania,0
+1679,Georgia,1996,Tasmania,0
+1680,Kazakhstan,1996,Tasmania,0
+1681,Kyrgyzstan,1996,Tasmania,0
+1682,Tajikistan,1996,Tasmania,0
+1683,Turkmenistan,1996,Tasmania,0
+1684,Uzbekistan,1996,Tasmania,0
+1685,Bermuda,1996,Tasmania,0
+1686,Canada,1996,Tasmania,510
+1687,St Pierre/Mique,1996,Tasmania,0
+1688,USA,1996,Tasmania,950
+1689,Argentina,1996,Tasmania,40
+1690,Bolivia,1996,Tasmania,0
+1691,Brazil,1996,Tasmania,0
+1692,Chile,1996,Tasmania,130
+1693,Colombia,1996,Tasmania,0
+1694,Ecuador,1996,Tasmania,0
+1695,Falkland Is,1996,Tasmania,0
+1696,French Guiana,1996,Tasmania,0
+1697,Guyana,1996,Tasmania,0
+1698,Paraguay,1996,Tasmania,0
+1699,Peru,1996,Tasmania,0
+1700,Suriname,1996,Tasmania,0
+1701,Uruguay,1996,Tasmania,20
+1702,Venezuela,1996,Tasmania,0
+1703,"S America, nec",1996,Tasmania,0
+1704,Belize,1996,Tasmania,0
+1705,Costa Rica,1996,Tasmania,0
+1706,El Salvador,1996,Tasmania,0
+1707,Guatemala,1996,Tasmania,0
+1708,Honduras,1996,Tasmania,0
+1709,Mexico,1996,Tasmania,0
+1710,Nicaragua,1996,Tasmania,0
+1711,Panama,1996,Tasmania,0
+1712,Anguilla,1996,Tasmania,0
+1713,Antigua/Barbuda,1996,Tasmania,0
+1714,Aruba,1996,Tasmania,0
+1715,Bahamas,1996,Tasmania,0
+1716,Barbados,1996,Tasmania,0
+1717,Cayman Islands,1996,Tasmania,0
+1718,Cuba,1996,Tasmania,0
+1719,Dominica,1996,Tasmania,0
+1720,Dominican Rep,1996,Tasmania,0
+1721,Grenada,1996,Tasmania,0
+1722,Guadeloupe,1996,Tasmania,0
+1723,Haiti,1996,Tasmania,0
+1724,Jamaica,1996,Tasmania,0
+1725,Martinique,1996,Tasmania,0
+1726,Montserrat,1996,Tasmania,0
+1727,Puerto Rico,1996,Tasmania,0
+1728,St Kitts/Nevis,1996,Tasmania,0
+1729,St Lucia,1996,Tasmania,0
+1730,St Vinc/Grenad,1996,Tasmania,0
+1731,Trinidad/Tobago,1996,Tasmania,0
+1732,Turks/Caicos Is,1996,Tasmania,0
+1733,"Virgin Is, Brit",1996,Tasmania,0
+1734,"Virgin Is, US",1996,Tasmania,0
+1735,St Barthelemy,1996,Tasmania,0
+1736,St Martin (Fr),1996,Tasmania,0
+1737,Bonaire/SE/Saba,1996,Tasmania,0
+1738,Curacao,1996,Tasmania,0
+1739,Sint Maarten Dp,1996,Tasmania,0
+1740,Benin,1996,Tasmania,0
+1741,Burkina Faso,1996,Tasmania,0
+1742,Cameroon,1996,Tasmania,0
+1743,Cabo Verde,1996,Tasmania,0
+1744,Cent Africa Rep,1996,Tasmania,0
+1745,Chad,1996,Tasmania,0
+1746,"Congo, Rep",1996,Tasmania,0
+1747,"Congo, Dem Rep",1996,Tasmania,0
+1748,Cote d'Ivoire,1996,Tasmania,0
+1749,Equator Guinea,1996,Tasmania,0
+1750,Gabon,1996,Tasmania,0
+1751,Gambia,1996,Tasmania,0
+1752,Ghana,1996,Tasmania,0
+1753,Guinea,1996,Tasmania,0
+1754,Guinea-Bissau,1996,Tasmania,0
+1755,Liberia,1996,Tasmania,0
+1756,Mali,1996,Tasmania,0
+1757,Mauritania,1996,Tasmania,0
+1758,Niger,1996,Tasmania,0
+1759,Nigeria,1996,Tasmania,0
+1760,Sao Tome/Princ,1996,Tasmania,0
+1761,Senegal,1996,Tasmania,0
+1762,Sierra Leone,1996,Tasmania,0
+1763,Togo,1996,Tasmania,0
+1764,Angola,1996,Tasmania,0
+1765,Botswana,1996,Tasmania,0
+1766,Burundi,1996,Tasmania,0
+1767,Comoros,1996,Tasmania,0
+1768,Djibouti,1996,Tasmania,0
+1769,Eritrea,1996,Tasmania,0
+1770,Ethiopia,1996,Tasmania,0
+1771,Kenya,1996,Tasmania,0
+1772,Lesotho,1996,Tasmania,0
+1773,Madagascar,1996,Tasmania,0
+1774,Malawi,1996,Tasmania,0
+1775,Mauritius,1996,Tasmania,30
+1776,Mayotte,1996,Tasmania,0
+1777,Mozambique,1996,Tasmania,0
+1778,Namibia,1996,Tasmania,0
+1779,Reunion,1996,Tasmania,0
+1780,Rwanda,1996,Tasmania,0
+1781,St Helena,1996,Tasmania,0
+1782,Seychelles,1996,Tasmania,0
+1783,Somalia,1996,Tasmania,0
+1784,South Africa,1996,Tasmania,780
+1785,Eswatini,1996,Tasmania,0
+1786,Tanzania,1996,Tasmania,0
+1787,Uganda,1996,Tasmania,0
+1788,Zambia,1996,Tasmania,0
+1789,Zimbabwe,1996,Tasmania,0
+1790,"S & E Afr, nec",1996,Tasmania,0
+1791,Inadequately described,1996,Tasmania,"49,040"
+1792,Australia,1996,Northern Territory,"146,840"
+1793,Norfolk Island,1996,Northern Territory,0
+1794,"Aust E T, nec",1996,Northern Territory,0
+1795,New Zealand,1996,Northern Territory,"3,570"
+1796,New Caledonia,1996,Northern Territory,0
+1797,PNG,1996,Northern Territory,730
+1798,Solomon Islands,1996,Northern Territory,0
+1799,Vanuatu,1996,Northern Territory,0
+1800,Guam,1996,Northern Territory,0
+1801,Kiribati,1996,Northern Territory,0
+1802,Marshall Is,1996,Northern Territory,0
+1803,"Micronesia, F S",1996,Northern Territory,0
+1804,Nauru,1996,Northern Territory,0
+1805,N Mariana Is,1996,Northern Territory,0
+1806,Palau,1996,Northern Territory,0
+1807,Cook Islands,1996,Northern Territory,0
+1808,Fiji,1996,Northern Territory,160
+1809,French Poly,1996,Northern Territory,0
+1810,Niue,1996,Northern Territory,0
+1811,Samoa,1996,Northern Territory,0
+1812,Samoa American,1996,Northern Territory,0
+1813,Tokelau,1996,Northern Territory,0
+1814,Tonga,1996,Northern Territory,0
+1815,Tuvalu,1996,Northern Territory,0
+1816,Wallis/Futuna,1996,Northern Territory,0
+1817,Pitcairn Is,1996,Northern Territory,0
+1818,"Polynesia, nec",1996,Northern Territory,0
+1819,Adelie Land,1996,Northern Territory,0
+1820,Argentinian A T,1996,Northern Territory,0
+1821,Australian A T,1996,Northern Territory,0
+1822,British A T,1996,Northern Territory,0
+1823,Chilean A T,1996,Northern Territory,0
+1824,Queen Maud Land,1996,Northern Territory,0
+1825,Ross Dependency,1996,Northern Territory,0
+1826,England,1996,Northern Territory,0
+1827,Isle of Man,1996,Northern Territory,0
+1828,N'thern Ireland,1996,Northern Territory,0
+1829,Scotland,1996,Northern Territory,0
+1830,Wales,1996,Northern Territory,0
+1831,Guernsey,1996,Northern Territory,0
+1832,Jersey,1996,Northern Territory,0
+1833,Ireland,1996,Northern Territory,380
+1834,Austria,1996,Northern Territory,170
+1835,Belgium,1996,Northern Territory,0
+1836,France,1996,Northern Territory,230
+1837,Germany,1996,Northern Territory,"1,060"
+1838,Liechtenstein,1996,Northern Territory,0
+1839,Luxembourg,1996,Northern Territory,0
+1840,Monaco,1996,Northern Territory,0
+1841,Netherlands,1996,Northern Territory,670
+1842,Switzerland,1996,Northern Territory,210
+1843,Denmark,1996,Northern Territory,160
+1844,Faroe Islands,1996,Northern Territory,0
+1845,Finland,1996,Northern Territory,100
+1846,Greenland,1996,Northern Territory,0
+1847,Iceland,1996,Northern Territory,0
+1848,Norway,1996,Northern Territory,0
+1849,Sweden,1996,Northern Territory,0
+1850,Aland Islands,1996,Northern Territory,0
+1851,Andorra,1996,Northern Territory,0
+1852,Gibraltar,1996,Northern Territory,0
+1853,Holy See,1996,Northern Territory,0
+1854,Italy,1996,Northern Territory,590
+1855,Malta,1996,Northern Territory,60
+1856,Portugal,1996,Northern Territory,230
+1857,San Marino,1996,Northern Territory,0
+1858,Spain,1996,Northern Territory,110
+1859,Albania,1996,Northern Territory,0
+1860,Bosnia/Herzegov,1996,Northern Territory,0
+1861,Bulgaria,1996,Northern Territory,0
+1862,Croatia,1996,Northern Territory,0
+1863,Cyprus,1996,Northern Territory,200
+1864,North Macedonia,1996,Northern Territory,0
+1865,Greece,1996,Northern Territory,"1,210"
+1866,Moldova,1996,Northern Territory,0
+1867,Romania,1996,Northern Territory,20
+1868,Slovenia,1996,Northern Territory,0
+1869,Montenegro,1996,Northern Territory,0
+1870,Serbia,1996,Northern Territory,0
+1871,Kosovo,1996,Northern Territory,0
+1872,Belarus,1996,Northern Territory,0
+1873,Czechia,1996,Northern Territory,0
+1874,Estonia,1996,Northern Territory,10
+1875,Hungary,1996,Northern Territory,120
+1876,Latvia,1996,Northern Territory,20
+1877,Lithuania,1996,Northern Territory,10
+1878,Poland,1996,Northern Territory,100
+1879,Russia,1996,Northern Territory,0
+1880,Slovakia,1996,Northern Territory,0
+1881,Ukraine,1996,Northern Territory,10
+1882,Algeria,1996,Northern Territory,0
+1883,Egypt,1996,Northern Territory,50
+1884,Libya,1996,Northern Territory,0
+1885,Morocco,1996,Northern Territory,0
+1886,Sudan,1996,Northern Territory,0
+1887,Tunisia,1996,Northern Territory,0
+1888,Western Sahara,1996,Northern Territory,0
+1889,Sp North Africa,1996,Northern Territory,0
+1890,South Sudan,1996,Northern Territory,0
+1891,Bahrain,1996,Northern Territory,0
+1892,Gaza Str/W Bank,1996,Northern Territory,0
+1893,Iran,1996,Northern Territory,40
+1894,Iraq,1996,Northern Territory,0
+1895,Israel,1996,Northern Territory,30
+1896,Jordan,1996,Northern Territory,0
+1897,Kuwait,1996,Northern Territory,0
+1898,Lebanon,1996,Northern Territory,30
+1899,Oman,1996,Northern Territory,0
+1900,Qatar,1996,Northern Territory,0
+1901,Saudi Arabia,1996,Northern Territory,0
+1902,Syria,1996,Northern Territory,0
+1903,Turkey,1996,Northern Territory,20
+1904,Unit Arab Emir,1996,Northern Territory,0
+1905,Yemen,1996,Northern Territory,0
+1906,Myanmar,1996,Northern Territory,70
+1907,Cambodia,1996,Northern Territory,90
+1908,Laos,1996,Northern Territory,40
+1909,Thailand,1996,Northern Territory,410
+1910,Vietnam,1996,Northern Territory,540
+1911,Brunei,1996,Northern Territory,0
+1912,Indonesia,1996,Northern Territory,"1,900"
+1913,Malaysia,1996,Northern Territory,0
+1914,Philippines,1996,Northern Territory,"1,930"
+1915,Singapore,1996,Northern Territory,280
+1916,Timor-Leste,1996,Northern Territory,0
+1917,China,1996,Northern Territory,360
+1918,Hong Kong,1996,Northern Territory,0
+1919,Macau,1996,Northern Territory,0
+1920,Mongolia,1996,Northern Territory,0
+1921,Taiwan,1996,Northern Territory,0
+1922,Japan,1996,Northern Territory,150
+1923,"Korea, North",1996,Northern Territory,0
+1924,"Korea, South",1996,Northern Territory,60
+1925,Bangladesh,1996,Northern Territory,0
+1926,Bhutan,1996,Northern Territory,0
+1927,India,1996,Northern Territory,480
+1928,Maldives,1996,Northern Territory,0
+1929,Nepal,1996,Northern Territory,0
+1930,Pakistan,1996,Northern Territory,0
+1931,Sri Lanka,1996,Northern Territory,360
+1932,Afghanistan,1996,Northern Territory,0
+1933,Armenia,1996,Northern Territory,0
+1934,Azerbaijan,1996,Northern Territory,0
+1935,Georgia,1996,Northern Territory,0
+1936,Kazakhstan,1996,Northern Territory,0
+1937,Kyrgyzstan,1996,Northern Territory,0
+1938,Tajikistan,1996,Northern Territory,0
+1939,Turkmenistan,1996,Northern Territory,0
+1940,Uzbekistan,1996,Northern Territory,0
+1941,Bermuda,1996,Northern Territory,0
+1942,Canada,1996,Northern Territory,300
+1943,St Pierre/Mique,1996,Northern Territory,0
+1944,USA,1996,Northern Territory,"1,130"
+1945,Argentina,1996,Northern Territory,30
+1946,Bolivia,1996,Northern Territory,0
+1947,Brazil,1996,Northern Territory,0
+1948,Chile,1996,Northern Territory,90
+1949,Colombia,1996,Northern Territory,0
+1950,Ecuador,1996,Northern Territory,0
+1951,Falkland Is,1996,Northern Territory,0
+1952,French Guiana,1996,Northern Territory,0
+1953,Guyana,1996,Northern Territory,0
+1954,Paraguay,1996,Northern Territory,0
+1955,Peru,1996,Northern Territory,0
+1956,Suriname,1996,Northern Territory,0
+1957,Uruguay,1996,Northern Territory,10
+1958,Venezuela,1996,Northern Territory,0
+1959,"S America, nec",1996,Northern Territory,0
+1960,Belize,1996,Northern Territory,0
+1961,Costa Rica,1996,Northern Territory,0
+1962,El Salvador,1996,Northern Territory,0
+1963,Guatemala,1996,Northern Territory,0
+1964,Honduras,1996,Northern Territory,0
+1965,Mexico,1996,Northern Territory,0
+1966,Nicaragua,1996,Northern Territory,0
+1967,Panama,1996,Northern Territory,0
+1968,Anguilla,1996,Northern Territory,0
+1969,Antigua/Barbuda,1996,Northern Territory,0
+1970,Aruba,1996,Northern Territory,0
+1971,Bahamas,1996,Northern Territory,0
+1972,Barbados,1996,Northern Territory,0
+1973,Cayman Islands,1996,Northern Territory,0
+1974,Cuba,1996,Northern Territory,0
+1975,Dominica,1996,Northern Territory,0
+1976,Dominican Rep,1996,Northern Territory,0
+1977,Grenada,1996,Northern Territory,0
+1978,Guadeloupe,1996,Northern Territory,0
+1979,Haiti,1996,Northern Territory,0
+1980,Jamaica,1996,Northern Territory,0
+1981,Martinique,1996,Northern Territory,0
+1982,Montserrat,1996,Northern Territory,0
+1983,Puerto Rico,1996,Northern Territory,0
+1984,St Kitts/Nevis,1996,Northern Territory,0
+1985,St Lucia,1996,Northern Territory,0
+1986,St Vinc/Grenad,1996,Northern Territory,0
+1987,Trinidad/Tobago,1996,Northern Territory,0
+1988,Turks/Caicos Is,1996,Northern Territory,0
+1989,"Virgin Is, Brit",1996,Northern Territory,0
+1990,"Virgin Is, US",1996,Northern Territory,0
+1991,St Barthelemy,1996,Northern Territory,0
+1992,St Martin (Fr),1996,Northern Territory,0
+1993,Bonaire/SE/Saba,1996,Northern Territory,0
+1994,Curacao,1996,Northern Territory,0
+1995,Sint Maarten Dp,1996,Northern Territory,0
+1996,Benin,1996,Northern Territory,0
+1997,Burkina Faso,1996,Northern Territory,0
+1998,Cameroon,1996,Northern Territory,0
+1999,Cabo Verde,1996,Northern Territory,0
+2000,Cent Africa Rep,1996,Northern Territory,0
+2001,Chad,1996,Northern Territory,0
+2002,"Congo, Rep",1996,Northern Territory,0
+2003,"Congo, Dem Rep",1996,Northern Territory,0
+2004,Cote d'Ivoire,1996,Northern Territory,0
+2005,Equator Guinea,1996,Northern Territory,0
+2006,Gabon,1996,Northern Territory,0
+2007,Gambia,1996,Northern Territory,0
+2008,Ghana,1996,Northern Territory,0
+2009,Guinea,1996,Northern Territory,0
+2010,Guinea-Bissau,1996,Northern Territory,0
+2011,Liberia,1996,Northern Territory,0
+2012,Mali,1996,Northern Territory,0
+2013,Mauritania,1996,Northern Territory,0
+2014,Niger,1996,Northern Territory,0
+2015,Nigeria,1996,Northern Territory,0
+2016,Sao Tome/Princ,1996,Northern Territory,0
+2017,Senegal,1996,Northern Territory,0
+2018,Sierra Leone,1996,Northern Territory,0
+2019,Togo,1996,Northern Territory,0
+2020,Angola,1996,Northern Territory,0
+2021,Botswana,1996,Northern Territory,0
+2022,Burundi,1996,Northern Territory,0
+2023,Comoros,1996,Northern Territory,0
+2024,Djibouti,1996,Northern Territory,0
+2025,Eritrea,1996,Northern Territory,0
+2026,Ethiopia,1996,Northern Territory,0
+2027,Kenya,1996,Northern Territory,0
+2028,Lesotho,1996,Northern Territory,0
+2029,Madagascar,1996,Northern Territory,0
+2030,Malawi,1996,Northern Territory,0
+2031,Mauritius,1996,Northern Territory,30
+2032,Mayotte,1996,Northern Territory,0
+2033,Mozambique,1996,Northern Territory,0
+2034,Namibia,1996,Northern Territory,0
+2035,Reunion,1996,Northern Territory,0
+2036,Rwanda,1996,Northern Territory,0
+2037,St Helena,1996,Northern Territory,0
+2038,Seychelles,1996,Northern Territory,0
+2039,Somalia,1996,Northern Territory,0
+2040,South Africa,1996,Northern Territory,210
+2041,Eswatini,1996,Northern Territory,0
+2042,Tanzania,1996,Northern Territory,0
+2043,Uganda,1996,Northern Territory,0
+2044,Zambia,1996,Northern Territory,0
+2045,Zimbabwe,1996,Northern Territory,0
+2046,"S & E Afr, nec",1996,Northern Territory,0
+2047,Inadequately described,1996,Northern Territory,"18,910"
+2048,Australia,1996,Australian Capital Territory,"236,840"
+2049,Norfolk Island,1996,Australian Capital Territory,0
+2050,"Aust E T, nec",1996,Australian Capital Territory,0
+2051,New Zealand,1996,Australian Capital Territory,"3,830"
+2052,New Caledonia,1996,Australian Capital Territory,0
+2053,PNG,1996,Australian Capital Territory,870
+2054,Solomon Islands,1996,Australian Capital Territory,0
+2055,Vanuatu,1996,Australian Capital Territory,0
+2056,Guam,1996,Australian Capital Territory,0
+2057,Kiribati,1996,Australian Capital Territory,0
+2058,Marshall Is,1996,Australian Capital Territory,0
+2059,"Micronesia, F S",1996,Australian Capital Territory,0
+2060,Nauru,1996,Australian Capital Territory,0
+2061,N Mariana Is,1996,Australian Capital Territory,0
+2062,Palau,1996,Australian Capital Territory,0
+2063,Cook Islands,1996,Australian Capital Territory,0
+2064,Fiji,1996,Australian Capital Territory,590
+2065,French Poly,1996,Australian Capital Territory,0
+2066,Niue,1996,Australian Capital Territory,0
+2067,Samoa,1996,Australian Capital Territory,0
+2068,Samoa American,1996,Australian Capital Territory,0
+2069,Tokelau,1996,Australian Capital Territory,0
+2070,Tonga,1996,Australian Capital Territory,0
+2071,Tuvalu,1996,Australian Capital Territory,0
+2072,Wallis/Futuna,1996,Australian Capital Territory,0
+2073,Pitcairn Is,1996,Australian Capital Territory,0
+2074,"Polynesia, nec",1996,Australian Capital Territory,0
+2075,Adelie Land,1996,Australian Capital Territory,0
+2076,Argentinian A T,1996,Australian Capital Territory,0
+2077,Australian A T,1996,Australian Capital Territory,0
+2078,British A T,1996,Australian Capital Territory,0
+2079,Chilean A T,1996,Australian Capital Territory,0
+2080,Queen Maud Land,1996,Australian Capital Territory,0
+2081,Ross Dependency,1996,Australian Capital Territory,0
+2082,England,1996,Australian Capital Territory,0
+2083,Isle of Man,1996,Australian Capital Territory,0
+2084,N'thern Ireland,1996,Australian Capital Territory,0
+2085,Scotland,1996,Australian Capital Territory,0
+2086,Wales,1996,Australian Capital Territory,0
+2087,Guernsey,1996,Australian Capital Territory,0
+2088,Jersey,1996,Australian Capital Territory,0
+2089,Ireland,1996,Australian Capital Territory,800
+2090,Austria,1996,Australian Capital Territory,690
+2091,Belgium,1996,Australian Capital Territory,0
+2092,France,1996,Australian Capital Territory,440
+2093,Germany,1996,Australian Capital Territory,"2,970"
+2094,Liechtenstein,1996,Australian Capital Territory,0
+2095,Luxembourg,1996,Australian Capital Territory,0
+2096,Monaco,1996,Australian Capital Territory,0
+2097,Netherlands,1996,Australian Capital Territory,"1,660"
+2098,Switzerland,1996,Australian Capital Territory,270
+2099,Denmark,1996,Australian Capital Territory,160
+2100,Faroe Islands,1996,Australian Capital Territory,0
+2101,Finland,1996,Australian Capital Territory,850
+2102,Greenland,1996,Australian Capital Territory,0
+2103,Iceland,1996,Australian Capital Territory,0
+2104,Norway,1996,Australian Capital Territory,0
+2105,Sweden,1996,Australian Capital Territory,0
+2106,Aland Islands,1996,Australian Capital Territory,0
+2107,Andorra,1996,Australian Capital Territory,0
+2108,Gibraltar,1996,Australian Capital Territory,0
+2109,Holy See,1996,Australian Capital Territory,0
+2110,Italy,1996,Australian Capital Territory,"2,780"
+2111,Malta,1996,Australian Capital Territory,400
+2112,Portugal,1996,Australian Capital Territory,260
+2113,San Marino,1996,Australian Capital Territory,0
+2114,Spain,1996,Australian Capital Territory,680
+2115,Albania,1996,Australian Capital Territory,0
+2116,Bosnia/Herzegov,1996,Australian Capital Territory,0
+2117,Bulgaria,1996,Australian Capital Territory,0
+2118,Croatia,1996,Australian Capital Territory,0
+2119,Cyprus,1996,Australian Capital Territory,140
+2120,North Macedonia,1996,Australian Capital Territory,0
+2121,Greece,1996,Australian Capital Territory,"1,590"
+2122,Moldova,1996,Australian Capital Territory,0
+2123,Romania,1996,Australian Capital Territory,130
+2124,Slovenia,1996,Australian Capital Territory,0
+2125,Montenegro,1996,Australian Capital Territory,0
+2126,Serbia,1996,Australian Capital Territory,0
+2127,Kosovo,1996,Australian Capital Territory,0
+2128,Belarus,1996,Australian Capital Territory,0
+2129,Czechia,1996,Australian Capital Territory,0
+2130,Estonia,1996,Australian Capital Territory,90
+2131,Hungary,1996,Australian Capital Territory,660
+2132,Latvia,1996,Australian Capital Territory,290
+2133,Lithuania,1996,Australian Capital Territory,110
+2134,Poland,1996,Australian Capital Territory,"1,570"
+2135,Russia,1996,Australian Capital Territory,0
+2136,Slovakia,1996,Australian Capital Territory,0
+2137,Ukraine,1996,Australian Capital Territory,180
+2138,Algeria,1996,Australian Capital Territory,0
+2139,Egypt,1996,Australian Capital Territory,290
+2140,Libya,1996,Australian Capital Territory,0
+2141,Morocco,1996,Australian Capital Territory,0
+2142,Sudan,1996,Australian Capital Territory,0
+2143,Tunisia,1996,Australian Capital Territory,0
+2144,Western Sahara,1996,Australian Capital Territory,0
+2145,Sp North Africa,1996,Australian Capital Territory,0
+2146,South Sudan,1996,Australian Capital Territory,0
+2147,Bahrain,1996,Australian Capital Territory,0
+2148,Gaza Str/W Bank,1996,Australian Capital Territory,0
+2149,Iran,1996,Australian Capital Territory,300
+2150,Iraq,1996,Australian Capital Territory,0
+2151,Israel,1996,Australian Capital Territory,70
+2152,Jordan,1996,Australian Capital Territory,0
+2153,Kuwait,1996,Australian Capital Territory,0
+2154,Lebanon,1996,Australian Capital Territory,430
+2155,Oman,1996,Australian Capital Territory,0
+2156,Qatar,1996,Australian Capital Territory,0
+2157,Saudi Arabia,1996,Australian Capital Territory,0
+2158,Syria,1996,Australian Capital Territory,0
+2159,Turkey,1996,Australian Capital Territory,150
+2160,Unit Arab Emir,1996,Australian Capital Territory,0
+2161,Yemen,1996,Australian Capital Territory,0
+2162,Myanmar,1996,Australian Capital Territory,270
+2163,Cambodia,1996,Australian Capital Territory,220
+2164,Laos,1996,Australian Capital Territory,830
+2165,Thailand,1996,Australian Capital Territory,650
+2166,Vietnam,1996,Australian Capital Territory,"2,370"
+2167,Brunei,1996,Australian Capital Territory,0
+2168,Indonesia,1996,Australian Capital Territory,720
+2169,Malaysia,1996,Australian Capital Territory,0
+2170,Philippines,1996,Australian Capital Territory,"1,360"
+2171,Singapore,1996,Australian Capital Territory,710
+2172,Timor-Leste,1996,Australian Capital Territory,0
+2173,China,1996,Australian Capital Territory,"1,820"
+2174,Hong Kong,1996,Australian Capital Territory,0
+2175,Macau,1996,Australian Capital Territory,0
+2176,Mongolia,1996,Australian Capital Territory,0
+2177,Taiwan,1996,Australian Capital Territory,0
+2178,Japan,1996,Australian Capital Territory,540
+2179,"Korea, North",1996,Australian Capital Territory,0
+2180,"Korea, South",1996,Australian Capital Territory,570
+2181,Bangladesh,1996,Australian Capital Territory,0
+2182,Bhutan,1996,Australian Capital Territory,0
+2183,India,1996,Australian Capital Territory,"1,670"
+2184,Maldives,1996,Australian Capital Territory,0
+2185,Nepal,1996,Australian Capital Territory,0
+2186,Pakistan,1996,Australian Capital Territory,0
+2187,Sri Lanka,1996,Australian Capital Territory,"1,480"
+2188,Afghanistan,1996,Australian Capital Territory,0
+2189,Armenia,1996,Australian Capital Territory,0
+2190,Azerbaijan,1996,Australian Capital Territory,0
+2191,Georgia,1996,Australian Capital Territory,0
+2192,Kazakhstan,1996,Australian Capital Territory,0
+2193,Kyrgyzstan,1996,Australian Capital Territory,0
+2194,Tajikistan,1996,Australian Capital Territory,0
+2195,Turkmenistan,1996,Australian Capital Territory,0
+2196,Uzbekistan,1996,Australian Capital Territory,0
+2197,Bermuda,1996,Australian Capital Territory,0
+2198,Canada,1996,Australian Capital Territory,860
+2199,St Pierre/Mique,1996,Australian Capital Territory,0
+2200,USA,1996,Australian Capital Territory,"2,020"
+2201,Argentina,1996,Australian Capital Territory,300
+2202,Bolivia,1996,Australian Capital Territory,0
+2203,Brazil,1996,Australian Capital Territory,0
+2204,Chile,1996,Australian Capital Territory,860
+2205,Colombia,1996,Australian Capital Territory,0
+2206,Ecuador,1996,Australian Capital Territory,0
+2207,Falkland Is,1996,Australian Capital Territory,0
+2208,French Guiana,1996,Australian Capital Territory,0
+2209,Guyana,1996,Australian Capital Territory,0
+2210,Paraguay,1996,Australian Capital Territory,0
+2211,Peru,1996,Australian Capital Territory,0
+2212,Suriname,1996,Australian Capital Territory,0
+2213,Uruguay,1996,Australian Capital Territory,100
+2214,Venezuela,1996,Australian Capital Territory,0
+2215,"S America, nec",1996,Australian Capital Territory,0
+2216,Belize,1996,Australian Capital Territory,0
+2217,Costa Rica,1996,Australian Capital Territory,0
+2218,El Salvador,1996,Australian Capital Territory,0
+2219,Guatemala,1996,Australian Capital Territory,0
+2220,Honduras,1996,Australian Capital Territory,0
+2221,Mexico,1996,Australian Capital Territory,0
+2222,Nicaragua,1996,Australian Capital Territory,0
+2223,Panama,1996,Australian Capital Territory,0
+2224,Anguilla,1996,Australian Capital Territory,0
+2225,Antigua/Barbuda,1996,Australian Capital Territory,0
+2226,Aruba,1996,Australian Capital Territory,0
+2227,Bahamas,1996,Australian Capital Territory,0
+2228,Barbados,1996,Australian Capital Territory,0
+2229,Cayman Islands,1996,Australian Capital Territory,0
+2230,Cuba,1996,Australian Capital Territory,0
+2231,Dominica,1996,Australian Capital Territory,0
+2232,Dominican Rep,1996,Australian Capital Territory,0
+2233,Grenada,1996,Australian Capital Territory,0
+2234,Guadeloupe,1996,Australian Capital Territory,0
+2235,Haiti,1996,Australian Capital Territory,0
+2236,Jamaica,1996,Australian Capital Territory,0
+2237,Martinique,1996,Australian Capital Territory,0
+2238,Montserrat,1996,Australian Capital Territory,0
+2239,Puerto Rico,1996,Australian Capital Territory,0
+2240,St Kitts/Nevis,1996,Australian Capital Territory,0
+2241,St Lucia,1996,Australian Capital Territory,0
+2242,St Vinc/Grenad,1996,Australian Capital Territory,0
+2243,Trinidad/Tobago,1996,Australian Capital Territory,0
+2244,Turks/Caicos Is,1996,Australian Capital Territory,0
+2245,"Virgin Is, Brit",1996,Australian Capital Territory,0
+2246,"Virgin Is, US",1996,Australian Capital Territory,0
+2247,St Barthelemy,1996,Australian Capital Territory,0
+2248,St Martin (Fr),1996,Australian Capital Territory,0
+2249,Bonaire/SE/Saba,1996,Australian Capital Territory,0
+2250,Curacao,1996,Australian Capital Territory,0
+2251,Sint Maarten Dp,1996,Australian Capital Territory,0
+2252,Benin,1996,Australian Capital Territory,0
+2253,Burkina Faso,1996,Australian Capital Territory,0
+2254,Cameroon,1996,Australian Capital Territory,0
+2255,Cabo Verde,1996,Australian Capital Territory,0
+2256,Cent Africa Rep,1996,Australian Capital Territory,0
+2257,Chad,1996,Australian Capital Territory,0
+2258,"Congo, Rep",1996,Australian Capital Territory,0
+2259,"Congo, Dem Rep",1996,Australian Capital Territory,0
+2260,Cote d'Ivoire,1996,Australian Capital Territory,0
+2261,Equator Guinea,1996,Australian Capital Territory,0
+2262,Gabon,1996,Australian Capital Territory,0
+2263,Gambia,1996,Australian Capital Territory,0
+2264,Ghana,1996,Australian Capital Territory,0
+2265,Guinea,1996,Australian Capital Territory,0
+2266,Guinea-Bissau,1996,Australian Capital Territory,0
+2267,Liberia,1996,Australian Capital Territory,0
+2268,Mali,1996,Australian Capital Territory,0
+2269,Mauritania,1996,Australian Capital Territory,0
+2270,Niger,1996,Australian Capital Territory,0
+2271,Nigeria,1996,Australian Capital Territory,0
+2272,Sao Tome/Princ,1996,Australian Capital Territory,0
+2273,Senegal,1996,Australian Capital Territory,0
+2274,Sierra Leone,1996,Australian Capital Territory,0
+2275,Togo,1996,Australian Capital Territory,0
+2276,Angola,1996,Australian Capital Territory,0
+2277,Botswana,1996,Australian Capital Territory,0
+2278,Burundi,1996,Australian Capital Territory,0
+2279,Comoros,1996,Australian Capital Territory,0
+2280,Djibouti,1996,Australian Capital Territory,0
+2281,Eritrea,1996,Australian Capital Territory,0
+2282,Ethiopia,1996,Australian Capital Territory,0
+2283,Kenya,1996,Australian Capital Territory,0
+2284,Lesotho,1996,Australian Capital Territory,0
+2285,Madagascar,1996,Australian Capital Territory,0
+2286,Malawi,1996,Australian Capital Territory,0
+2287,Mauritius,1996,Australian Capital Territory,140
+2288,Mayotte,1996,Australian Capital Territory,0
+2289,Mozambique,1996,Australian Capital Territory,0
+2290,Namibia,1996,Australian Capital Territory,0
+2291,Reunion,1996,Australian Capital Territory,0
+2292,Rwanda,1996,Australian Capital Territory,0
+2293,St Helena,1996,Australian Capital Territory,0
+2294,Seychelles,1996,Australian Capital Territory,0
+2295,Somalia,1996,Australian Capital Territory,0
+2296,South Africa,1996,Australian Capital Territory,780
+2297,Eswatini,1996,Australian Capital Territory,0
+2298,Tanzania,1996,Australian Capital Territory,0
+2299,Uganda,1996,Australian Capital Territory,0
+2300,Zambia,1996,Australian Capital Territory,0
+2301,Zimbabwe,1996,Australian Capital Territory,0
+2302,"S & E Afr, nec",1996,Australian Capital Territory,0
+2303,Inadequately described,1996,Australian Capital Territory,"31,280"

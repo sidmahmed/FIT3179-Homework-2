@@ -1,0 +1,2305 @@
+,birth_country,year,destination,values
+0,Australia,2006,Australia,"15,419,340"
+1,Norfolk Island,2006,Australia,190
+2,"Aust E T, nec",2006,Australia,0
+3,New Zealand,2006,Australia,"437,890"
+4,New Caledonia,2006,Australia,"1,240"
+5,PNG,2006,Australia,"27,330"
+6,Solomon Islands,2006,Australia,"1,700"
+7,Vanuatu,2006,Australia,"1,210"
+8,Guam,2006,Australia,90
+9,Kiribati,2006,Australia,480
+10,Marshall Is,2006,Australia,40
+11,"Micronesia, F S",2006,Australia,30
+12,Nauru,2006,Australia,580
+13,N Mariana Is,2006,Australia,10
+14,Palau,2006,Australia,10
+15,Cook Islands,2006,Australia,"5,610"
+16,Fiji,2006,Australia,"56,350"
+17,French Poly,2006,Australia,390
+18,Niue,2006,Australia,590
+19,Samoa,2006,Australia,"17,170"
+20,Samoa American,2006,Australia,200
+21,Tokelau,2006,Australia,430
+22,Tonga,2006,Australia,"8,720"
+23,Tuvalu,2006,Australia,140
+24,Wallis/Futuna,2006,Australia,20
+25,Pitcairn Is,2006,Australia,0
+26,"Polynesia, nec",2006,Australia,0
+27,Adelie Land,2006,Australia,0
+28,Argentinian A T,2006,Australia,0
+29,Australian A T,2006,Australia,0
+30,British A T,2006,Australia,0
+31,Chilean A T,2006,Australia,0
+32,Queen Maud Land,2006,Australia,0
+33,Ross Dependency,2006,Australia,0
+34,England,2006,Australia,"939,260"
+35,Isle of Man,2006,Australia,770
+36,N'thern Ireland,2006,Australia,"23,280"
+37,Scotland,2006,Australia,"136,630"
+38,Wales,2006,Australia,"31,810"
+39,Guernsey,2006,Australia,630
+40,Jersey,2006,Australia,"1,090"
+41,Ireland,2006,Australia,"56,800"
+42,Austria,2006,Australia,"20,950"
+43,Belgium,2006,Australia,"5,920"
+44,France,2006,Australia,"22,020"
+45,Germany,2006,Australia,"124,710"
+46,Liechtenstein,2006,Australia,20
+47,Luxembourg,2006,Australia,190
+48,Monaco,2006,Australia,50
+49,Netherlands,2006,Australia,"91,850"
+50,Switzerland,2006,Australia,"13,480"
+51,Denmark,2006,Australia,"10,610"
+52,Faroe Islands,2006,Australia,40
+53,Finland,2006,Australia,"9,600"
+54,Greenland,2006,Australia,30
+55,Iceland,2006,Australia,670
+56,Norway,2006,Australia,"4,430"
+57,Sweden,2006,Australia,"8,960"
+58,Aland Islands,2006,Australia,0
+59,Andorra,2006,Australia,30
+60,Gibraltar,2006,Australia,470
+61,Holy See,2006,Australia,0
+62,Italy,2006,Australia,"218,040"
+63,Malta,2006,Australia,"51,160"
+64,Portugal,2006,Australia,"18,280"
+65,San Marino,2006,Australia,10
+66,Spain,2006,Australia,"14,430"
+67,Albania,2006,Australia,"2,410"
+68,Bosnia/Herzegov,2006,Australia,"40,580"
+69,Bulgaria,2006,Australia,"3,450"
+70,Croatia,2006,Australia,"71,810"
+71,Cyprus,2006,Australia,"22,350"
+72,North Macedonia,2006,Australia,"51,650"
+73,Greece,2006,Australia,"128,980"
+74,Moldova,2006,Australia,870
+75,Romania,2006,Australia,"16,110"
+76,Slovenia,2006,Australia,"8,860"
+77,Montenegro,2006,Australia,"1,850"
+78,Serbia,2006,Australia,"35,920"
+79,Kosovo,2006,Australia,0
+80,Belarus,2006,Australia,"1,720"
+81,Czechia,2006,Australia,"13,920"
+82,Estonia,2006,Australia,"1,600"
+83,Hungary,2006,Australia,"24,040"
+84,Latvia,2006,Australia,"6,120"
+85,Lithuania,2006,Australia,"3,210"
+86,Poland,2006,Australia,"62,900"
+87,Russia,2006,Australia,"18,540"
+88,Slovakia,2006,Australia,"5,970"
+89,Ukraine,2006,Australia,"17,010"
+90,Algeria,2006,Australia,"1,330"
+91,Egypt,2006,Australia,"39,370"
+92,Libya,2006,Australia,"1,620"
+93,Morocco,2006,Australia,"1,620"
+94,Sudan,2006,Australia,"20,870"
+95,Tunisia,2006,Australia,550
+96,Western Sahara,2006,Australia,10
+97,Sp North Africa,2006,Australia,0
+98,South Sudan,2006,Australia,0
+99,Bahrain,2006,Australia,"1,160"
+100,Gaza Str/W Bank,2006,Australia,"3,260"
+101,Iran,2006,Australia,"28,110"
+102,Iraq,2006,Australia,"39,500"
+103,Israel,2006,Australia,"9,440"
+104,Jordan,2006,Australia,"4,310"
+105,Kuwait,2006,Australia,"3,320"
+106,Lebanon,2006,Australia,"85,940"
+107,Oman,2006,Australia,"1,040"
+108,Qatar,2006,Australia,500
+109,Saudi Arabia,2006,Australia,"3,550"
+110,Syria,2006,Australia,"8,440"
+111,Turkey,2006,Australia,"38,060"
+112,Unit Arab Emir,2006,Australia,"3,320"
+113,Yemen,2006,Australia,520
+114,Myanmar,2006,Australia,"14,320"
+115,Cambodia,2006,Australia,"28,350"
+116,Laos,2006,Australia,"10,670"
+117,Thailand,2006,Australia,"34,060"
+118,Vietnam,2006,Australia,"178,010"
+119,Brunei,2006,Australia,"2,630"
+120,Indonesia,2006,Australia,"60,530"
+121,Malaysia,2006,Australia,"105,710"
+122,Philippines,2006,Australia,"141,890"
+123,Singapore,2006,Australia,"45,810"
+124,Timor-Leste,2006,Australia,"10,830"
+125,China,2006,Australia,"251,960"
+126,Hong Kong,2006,Australia,"81,360"
+127,Macau,2006,Australia,"2,090"
+128,Mongolia,2006,Australia,300
+129,Taiwan,2006,Australia,"25,860"
+130,Japan,2006,Australia,"35,390"
+131,"Korea, North",2006,Australia,430
+132,"Korea, South",2006,Australia,"55,950"
+133,Bangladesh,2006,Australia,"18,510"
+134,Bhutan,2006,Australia,140
+135,India,2006,Australia,"169,720"
+136,Maldives,2006,Australia,320
+137,Nepal,2006,Australia,"4,350"
+138,Pakistan,2006,Australia,"18,320"
+139,Sri Lanka,2006,Australia,"73,820"
+140,Afghanistan,2006,Australia,"21,980"
+141,Armenia,2006,Australia,"1,130"
+142,Azerbaijan,2006,Australia,300
+143,Georgia,2006,Australia,400
+144,Kazakhstan,2006,Australia,770
+145,Kyrgyzstan,2006,Australia,240
+146,Tajikistan,2006,Australia,60
+147,Turkmenistan,2006,Australia,60
+148,Uzbekistan,2006,Australia,930
+149,Bermuda,2006,Australia,470
+150,Canada,2006,Australia,"38,220"
+151,St Pierre/Mique,2006,Australia,0
+152,USA,2006,Australia,"74,670"
+153,Argentina,2006,Australia,"13,480"
+154,Bolivia,2006,Australia,780
+155,Brazil,2006,Australia,"8,500"
+156,Chile,2006,Australia,"27,190"
+157,Colombia,2006,Australia,"6,230"
+158,Ecuador,2006,Australia,"1,740"
+159,Falkland Is,2006,Australia,120
+160,French Guiana,2006,Australia,10
+161,Guyana,2006,Australia,570
+162,Paraguay,2006,Australia,420
+163,Peru,2006,Australia,"7,150"
+164,Suriname,2006,Australia,110
+165,Uruguay,2006,Australia,"10,940"
+166,Venezuela,2006,Australia,"1,800"
+167,"S America, nec",2006,Australia,0
+168,Belize,2006,Australia,60
+169,Costa Rica,2006,Australia,390
+170,El Salvador,2006,Australia,"10,780"
+171,Guatemala,2006,Australia,350
+172,Honduras,2006,Australia,220
+173,Mexico,2006,Australia,"2,140"
+174,Nicaragua,2006,Australia,790
+175,Panama,2006,Australia,190
+176,Anguilla,2006,Australia,0
+177,Antigua/Barbuda,2006,Australia,40
+178,Aruba,2006,Australia,50
+179,Bahamas,2006,Australia,270
+180,Barbados,2006,Australia,390
+181,Cayman Islands,2006,Australia,40
+182,Cuba,2006,Australia,640
+183,Dominica,2006,Australia,20
+184,Dominican Rep,2006,Australia,110
+185,Grenada,2006,Australia,130
+186,Guadeloupe,2006,Australia,20
+187,Haiti,2006,Australia,110
+188,Jamaica,2006,Australia,"1,040"
+189,Martinique,2006,Australia,40
+190,Montserrat,2006,Australia,10
+191,Puerto Rico,2006,Australia,180
+192,St Kitts/Nevis,2006,Australia,40
+193,St Lucia,2006,Australia,40
+194,St Vinc/Grenad,2006,Australia,90
+195,Trinidad/Tobago,2006,Australia,"1,580"
+196,Turks/Caicos Is,2006,Australia,0
+197,"Virgin Is, Brit",2006,Australia,20
+198,"Virgin Is, US",2006,Australia,10
+199,St Barthelemy,2006,Australia,0
+200,St Martin (Fr),2006,Australia,0
+201,Bonaire/SE/Saba,2006,Australia,0
+202,Curacao,2006,Australia,110
+203,Sint Maarten Dp,2006,Australia,10
+204,Benin,2006,Australia,30
+205,Burkina Faso,2006,Australia,20
+206,Cameroon,2006,Australia,140
+207,Cabo Verde,2006,Australia,30
+208,Cent Africa Rep,2006,Australia,10
+209,Chad,2006,Australia,40
+210,"Congo, Rep",2006,Australia,660
+211,"Congo, Dem Rep",2006,Australia,630
+212,Cote d'Ivoire,2006,Australia,230
+213,Equator Guinea,2006,Australia,10
+214,Gabon,2006,Australia,30
+215,Gambia,2006,Australia,90
+216,Ghana,2006,Australia,"3,150"
+217,Guinea,2006,Australia,290
+218,Guinea-Bissau,2006,Australia,10
+219,Liberia,2006,Australia,"1,590"
+220,Mali,2006,Australia,50
+221,Mauritania,2006,Australia,10
+222,Niger,2006,Australia,10
+223,Nigeria,2006,Australia,"2,880"
+224,Sao Tome/Princ,2006,Australia,20
+225,Senegal,2006,Australia,260
+226,Sierra Leone,2006,Australia,"1,950"
+227,Togo,2006,Australia,40
+228,Angola,2006,Australia,470
+229,Botswana,2006,Australia,"1,040"
+230,Burundi,2006,Australia,830
+231,Comoros,2006,Australia,10
+232,Djibouti,2006,Australia,110
+233,Eritrea,2006,Australia,"2,400"
+234,Ethiopia,2006,Australia,"6,390"
+235,Kenya,2006,Australia,"11,640"
+236,Lesotho,2006,Australia,100
+237,Madagascar,2006,Australia,240
+238,Malawi,2006,Australia,820
+239,Mauritius,2006,Australia,"20,930"
+240,Mayotte,2006,Australia,0
+241,Mozambique,2006,Australia,790
+242,Namibia,2006,Australia,810
+243,Reunion,2006,Australia,160
+244,Rwanda,2006,Australia,240
+245,St Helena,2006,Australia,50
+246,Seychelles,2006,Australia,"2,940"
+247,Somalia,2006,Australia,"4,620"
+248,South Africa,2006,Australia,"119,490"
+249,Eswatini,2006,Australia,280
+250,Tanzania,2006,Australia,"2,760"
+251,Uganda,2006,Australia,"2,050"
+252,Zambia,2006,Australia,"4,900"
+253,Zimbabwe,2006,Australia,"23,700"
+254,"S & E Afr, nec",2006,Australia,20
+255,Inadequately described,2006,Australia,0
+256,Australia,2006,New South Wales,"4,955,360"
+257,Norfolk Island,2006,New South Wales,90
+258,"Aust E T, nec",2006,New South Wales,0
+259,New Zealand,2006,New South Wales,"120,010"
+260,New Caledonia,2006,New South Wales,510
+261,PNG,2006,New South Wales,"5,910"
+262,Solomon Islands,2006,New South Wales,560
+263,Vanuatu,2006,New South Wales,500
+264,Guam,2006,New South Wales,20
+265,Kiribati,2006,New South Wales,130
+266,Marshall Is,2006,New South Wales,10
+267,"Micronesia, F S",2006,New South Wales,10
+268,Nauru,2006,New South Wales,80
+269,N Mariana Is,2006,New South Wales,0
+270,Palau,2006,New South Wales,0
+271,Cook Islands,2006,New South Wales,"2,330"
+272,Fiji,2006,New South Wales,"33,570"
+273,French Poly,2006,New South Wales,150
+274,Niue,2006,New South Wales,300
+275,Samoa,2006,New South Wales,"7,740"
+276,Samoa American,2006,New South Wales,70
+277,Tokelau,2006,New South Wales,250
+278,Tonga,2006,New South Wales,"5,670"
+279,Tuvalu,2006,New South Wales,20
+280,Wallis/Futuna,2006,New South Wales,10
+281,Pitcairn Is,2006,New South Wales,0
+282,"Polynesia, nec",2006,New South Wales,0
+283,Adelie Land,2006,New South Wales,0
+284,Argentinian A T,2006,New South Wales,0
+285,Australian A T,2006,New South Wales,0
+286,British A T,2006,New South Wales,0
+287,Chilean A T,2006,New South Wales,0
+288,Queen Maud Land,2006,New South Wales,0
+289,Ross Dependency,2006,New South Wales,0
+290,England,2006,New South Wales,"240,810"
+291,Isle of Man,2006,New South Wales,180
+292,N'thern Ireland,2006,New South Wales,"6,220"
+293,Scotland,2006,New South Wales,"34,990"
+294,Wales,2006,New South Wales,"8,770"
+295,Guernsey,2006,New South Wales,130
+296,Jersey,2006,New South Wales,230
+297,Ireland,2006,New South Wales,"19,620"
+298,Austria,2006,New South Wales,"7,130"
+299,Belgium,2006,New South Wales,"1,880"
+300,France,2006,New South Wales,"8,180"
+301,Germany,2006,New South Wales,"36,410"
+302,Liechtenstein,2006,New South Wales,10
+303,Luxembourg,2006,New South Wales,50
+304,Monaco,2006,New South Wales,20
+305,Netherlands,2006,New South Wales,"21,860"
+306,Switzerland,2006,New South Wales,"4,290"
+307,Denmark,2006,New South Wales,"3,240"
+308,Faroe Islands,2006,New South Wales,10
+309,Finland,2006,New South Wales,"2,830"
+310,Greenland,2006,New South Wales,10
+311,Iceland,2006,New South Wales,210
+312,Norway,2006,New South Wales,"1,420"
+313,Sweden,2006,New South Wales,"3,080"
+314,Aland Islands,2006,New South Wales,0
+315,Andorra,2006,New South Wales,20
+316,Gibraltar,2006,New South Wales,110
+317,Holy See,2006,New South Wales,0
+318,Italy,2006,New South Wales,"60,590"
+319,Malta,2006,New South Wales,"19,940"
+320,Portugal,2006,New South Wales,"10,080"
+321,San Marino,2006,New South Wales,0
+322,Spain,2006,New South Wales,"5,970"
+323,Albania,2006,New South Wales,250
+324,Bosnia/Herzegov,2006,New South Wales,"12,370"
+325,Bulgaria,2006,New South Wales,"1,110"
+326,Croatia,2006,New South Wales,"25,990"
+327,Cyprus,2006,New South Wales,"8,240"
+328,North Macedonia,2006,New South Wales,"22,330"
+329,Greece,2006,New South Wales,"41,520"
+330,Moldova,2006,New South Wales,190
+331,Romania,2006,New South Wales,"4,730"
+332,Slovenia,2006,New South Wales,"2,980"
+333,Montenegro,2006,New South Wales,560
+334,Serbia,2006,New South Wales,"12,710"
+335,Kosovo,2006,New South Wales,0
+336,Belarus,2006,New South Wales,440
+337,Czechia,2006,New South Wales,"5,500"
+338,Estonia,2006,New South Wales,670
+339,Hungary,2006,New South Wales,"9,170"
+340,Latvia,2006,New South Wales,"1,840"
+341,Lithuania,2006,New South Wales,990
+342,Poland,2006,New South Wales,"18,450"
+343,Russia,2006,New South Wales,"7,100"
+344,Slovakia,2006,New South Wales,"2,740"
+345,Ukraine,2006,New South Wales,"6,180"
+346,Algeria,2006,New South Wales,620
+347,Egypt,2006,New South Wales,"20,300"
+348,Libya,2006,New South Wales,440
+349,Morocco,2006,New South Wales,620
+350,Sudan,2006,New South Wales,"6,500"
+351,Tunisia,2006,New South Wales,240
+352,Western Sahara,2006,New South Wales,0
+353,Sp North Africa,2006,New South Wales,0
+354,South Sudan,2006,New South Wales,0
+355,Bahrain,2006,New South Wales,410
+356,Gaza Str/W Bank,2006,New South Wales,"1,810"
+357,Iran,2006,New South Wales,"14,910"
+358,Iraq,2006,New South Wales,"24,870"
+359,Israel,2006,New South Wales,"3,810"
+360,Jordan,2006,New South Wales,"2,960"
+361,Kuwait,2006,New South Wales,"1,710"
+362,Lebanon,2006,New South Wales,"64,060"
+363,Oman,2006,New South Wales,170
+364,Qatar,2006,New South Wales,190
+365,Saudi Arabia,2006,New South Wales,"1,250"
+366,Syria,2006,New South Wales,"5,350"
+367,Turkey,2006,New South Wales,"15,650"
+368,Unit Arab Emir,2006,New South Wales,"1,010"
+369,Yemen,2006,New South Wales,170
+370,Myanmar,2006,New South Wales,"4,380"
+371,Cambodia,2006,New South Wales,"11,580"
+372,Laos,2006,New South Wales,"5,710"
+373,Thailand,2006,New South Wales,"13,710"
+374,Vietnam,2006,New South Wales,"71,110"
+375,Brunei,2006,New South Wales,420
+376,Indonesia,2006,New South Wales,"25,730"
+377,Malaysia,2006,New South Wales,"26,650"
+378,Philippines,2006,New South Wales,"68,220"
+379,Singapore,2006,New South Wales,"11,010"
+380,Timor-Leste,2006,New South Wales,"2,620"
+381,China,2006,New South Wales,"139,440"
+382,Hong Kong,2006,New South Wales,"43,290"
+383,Macau,2006,New South Wales,"1,080"
+384,Mongolia,2006,New South Wales,110
+385,Taiwan,2006,New South Wales,"8,590"
+386,Japan,2006,New South Wales,"12,810"
+387,"Korea, North",2006,New South Wales,310
+388,"Korea, South",2006,New South Wales,"35,180"
+389,Bangladesh,2006,New South Wales,"12,260"
+390,Bhutan,2006,New South Wales,40
+391,India,2006,New South Wales,"66,730"
+392,Maldives,2006,New South Wales,60
+393,Nepal,2006,New South Wales,"2,940"
+394,Pakistan,2006,New South Wales,"9,390"
+395,Sri Lanka,2006,New South Wales,"22,860"
+396,Afghanistan,2006,New South Wales,"9,870"
+397,Armenia,2006,New South Wales,590
+398,Azerbaijan,2006,New South Wales,100
+399,Georgia,2006,New South Wales,160
+400,Kazakhstan,2006,New South Wales,250
+401,Kyrgyzstan,2006,New South Wales,70
+402,Tajikistan,2006,New South Wales,10
+403,Turkmenistan,2006,New South Wales,30
+404,Uzbekistan,2006,New South Wales,340
+405,Bermuda,2006,New South Wales,120
+406,Canada,2006,New South Wales,"12,480"
+407,St Pierre/Mique,2006,New South Wales,0
+408,USA,2006,New South Wales,"26,420"
+409,Argentina,2006,New South Wales,"6,670"
+410,Bolivia,2006,New South Wales,530
+411,Brazil,2006,New South Wales,"3,970"
+412,Chile,2006,New South Wales,"14,320"
+413,Colombia,2006,New South Wales,"3,150"
+414,Ecuador,2006,New South Wales,"1,380"
+415,Falkland Is,2006,New South Wales,40
+416,French Guiana,2006,New South Wales,0
+417,Guyana,2006,New South Wales,160
+418,Paraguay,2006,New South Wales,240
+419,Peru,2006,New South Wales,"4,730"
+420,Suriname,2006,New South Wales,30
+421,Uruguay,2006,New South Wales,"7,870"
+422,Venezuela,2006,New South Wales,810
+423,"S America, nec",2006,New South Wales,0
+424,Belize,2006,New South Wales,20
+425,Costa Rica,2006,New South Wales,190
+426,El Salvador,2006,New South Wales,"2,130"
+427,Guatemala,2006,New South Wales,110
+428,Honduras,2006,New South Wales,100
+429,Mexico,2006,New South Wales,890
+430,Nicaragua,2006,New South Wales,490
+431,Panama,2006,New South Wales,100
+432,Anguilla,2006,New South Wales,0
+433,Antigua/Barbuda,2006,New South Wales,10
+434,Aruba,2006,New South Wales,20
+435,Bahamas,2006,New South Wales,80
+436,Barbados,2006,New South Wales,80
+437,Cayman Islands,2006,New South Wales,10
+438,Cuba,2006,New South Wales,330
+439,Dominica,2006,New South Wales,10
+440,Dominican Rep,2006,New South Wales,30
+441,Grenada,2006,New South Wales,70
+442,Guadeloupe,2006,New South Wales,10
+443,Haiti,2006,New South Wales,30
+444,Jamaica,2006,New South Wales,320
+445,Martinique,2006,New South Wales,10
+446,Montserrat,2006,New South Wales,0
+447,Puerto Rico,2006,New South Wales,70
+448,St Kitts/Nevis,2006,New South Wales,10
+449,St Lucia,2006,New South Wales,10
+450,St Vinc/Grenad,2006,New South Wales,40
+451,Trinidad/Tobago,2006,New South Wales,370
+452,Turks/Caicos Is,2006,New South Wales,0
+453,"Virgin Is, Brit",2006,New South Wales,10
+454,"Virgin Is, US",2006,New South Wales,0
+455,St Barthelemy,2006,New South Wales,0
+456,St Martin (Fr),2006,New South Wales,0
+457,Bonaire/SE/Saba,2006,New South Wales,0
+458,Curacao,2006,New South Wales,30
+459,Sint Maarten Dp,2006,New South Wales,0
+460,Benin,2006,New South Wales,10
+461,Burkina Faso,2006,New South Wales,10
+462,Cameroon,2006,New South Wales,40
+463,Cabo Verde,2006,New South Wales,10
+464,Cent Africa Rep,2006,New South Wales,0
+465,Chad,2006,New South Wales,10
+466,"Congo, Rep",2006,New South Wales,120
+467,"Congo, Dem Rep",2006,New South Wales,130
+468,Cote d'Ivoire,2006,New South Wales,60
+469,Equator Guinea,2006,New South Wales,0
+470,Gabon,2006,New South Wales,10
+471,Gambia,2006,New South Wales,20
+472,Ghana,2006,New South Wales,"1,700"
+473,Guinea,2006,New South Wales,80
+474,Guinea-Bissau,2006,New South Wales,10
+475,Liberia,2006,New South Wales,370
+476,Mali,2006,New South Wales,20
+477,Mauritania,2006,New South Wales,10
+478,Niger,2006,New South Wales,0
+479,Nigeria,2006,New South Wales,"1,150"
+480,Sao Tome/Princ,2006,New South Wales,10
+481,Senegal,2006,New South Wales,140
+482,Sierra Leone,2006,New South Wales,930
+483,Togo,2006,New South Wales,20
+484,Angola,2006,New South Wales,200
+485,Botswana,2006,New South Wales,230
+486,Burundi,2006,New South Wales,160
+487,Comoros,2006,New South Wales,0
+488,Djibouti,2006,New South Wales,20
+489,Eritrea,2006,New South Wales,180
+490,Ethiopia,2006,New South Wales,860
+491,Kenya,2006,New South Wales,"2,690"
+492,Lesotho,2006,New South Wales,30
+493,Madagascar,2006,New South Wales,70
+494,Malawi,2006,New South Wales,160
+495,Mauritius,2006,New South Wales,"5,990"
+496,Mayotte,2006,New South Wales,0
+497,Mozambique,2006,New South Wales,210
+498,Namibia,2006,New South Wales,170
+499,Reunion,2006,New South Wales,60
+500,Rwanda,2006,New South Wales,50
+501,St Helena,2006,New South Wales,20
+502,Seychelles,2006,New South Wales,270
+503,Somalia,2006,New South Wales,630
+504,South Africa,2006,New South Wales,"37,660"
+505,Eswatini,2006,New South Wales,70
+506,Tanzania,2006,New South Wales,770
+507,Uganda,2006,New South Wales,640
+508,Zambia,2006,New South Wales,"1,090"
+509,Zimbabwe,2006,New South Wales,"4,850"
+510,"S & E Afr, nec",2006,New South Wales,10
+511,Inadequately described,2006,New South Wales,0
+512,Australia,2006,Victoria,"3,729,470"
+513,Norfolk Island,2006,Victoria,10
+514,"Aust E T, nec",2006,Victoria,0
+515,New Zealand,2006,Victoria,"71,250"
+516,New Caledonia,2006,Victoria,80
+517,PNG,2006,Victoria,"2,670"
+518,Solomon Islands,2006,Victoria,140
+519,Vanuatu,2006,Victoria,150
+520,Guam,2006,Victoria,10
+521,Kiribati,2006,Victoria,100
+522,Marshall Is,2006,Victoria,20
+523,"Micronesia, F S",2006,Victoria,10
+524,Nauru,2006,Victoria,280
+525,N Mariana Is,2006,Victoria,0
+526,Palau,2006,Victoria,0
+527,Cook Islands,2006,Victoria,"1,630"
+528,Fiji,2006,Victoria,"9,130"
+529,French Poly,2006,Victoria,30
+530,Niue,2006,Victoria,70
+531,Samoa,2006,Victoria,"3,370"
+532,Samoa American,2006,Victoria,40
+533,Tokelau,2006,Victoria,10
+534,Tonga,2006,Victoria,"1,370"
+535,Tuvalu,2006,Victoria,30
+536,Wallis/Futuna,2006,Victoria,0
+537,Pitcairn Is,2006,Victoria,0
+538,"Polynesia, nec",2006,Victoria,0
+539,Adelie Land,2006,Victoria,0
+540,Argentinian A T,2006,Victoria,0
+541,Australian A T,2006,Victoria,0
+542,British A T,2006,Victoria,0
+543,Chilean A T,2006,Victoria,0
+544,Queen Maud Land,2006,Victoria,0
+545,Ross Dependency,2006,Victoria,0
+546,England,2006,Victoria,"178,170"
+547,Isle of Man,2006,Victoria,130
+548,N'thern Ireland,2006,Victoria,"6,320"
+549,Scotland,2006,Victoria,"31,170"
+550,Wales,2006,Victoria,"5,520"
+551,Guernsey,2006,Victoria,90
+552,Jersey,2006,Victoria,150
+553,Ireland,2006,Victoria,"12,700"
+554,Austria,2006,Victoria,"5,720"
+555,Belgium,2006,Victoria,"1,310"
+556,France,2006,Victoria,"4,920"
+557,Germany,2006,Victoria,"32,530"
+558,Liechtenstein,2006,Victoria,0
+559,Luxembourg,2006,Victoria,50
+560,Monaco,2006,Victoria,10
+561,Netherlands,2006,Victoria,"26,240"
+562,Switzerland,2006,Victoria,"2,560"
+563,Denmark,2006,Victoria,"1,790"
+564,Faroe Islands,2006,Victoria,0
+565,Finland,2006,Victoria,"1,410"
+566,Greenland,2006,Victoria,10
+567,Iceland,2006,Victoria,90
+568,Norway,2006,Victoria,770
+569,Sweden,2006,Victoria,"1,860"
+570,Aland Islands,2006,Victoria,0
+571,Andorra,2006,Victoria,10
+572,Gibraltar,2006,Victoria,100
+573,Holy See,2006,Victoria,0
+574,Italy,2006,Victoria,"89,900"
+575,Malta,2006,Victoria,"24,330"
+576,Portugal,2006,Victoria,"3,190"
+577,San Marino,2006,Victoria,0
+578,Spain,2006,Victoria,"3,410"
+579,Albania,2006,Victoria,"1,500"
+580,Bosnia/Herzegov,2006,Victoria,"14,330"
+581,Bulgaria,2006,Victoria,"1,130"
+582,Croatia,2006,Victoria,"25,090"
+583,Cyprus,2006,Victoria,"10,220"
+584,North Macedonia,2006,Victoria,"22,990"
+585,Greece,2006,Victoria,"63,350"
+586,Moldova,2006,Victoria,560
+587,Romania,2006,Victoria,"5,990"
+588,Slovenia,2006,Victoria,"3,570"
+589,Montenegro,2006,Victoria,840
+590,Serbia,2006,Victoria,"12,620"
+591,Kosovo,2006,Victoria,0
+592,Belarus,2006,Victoria,990
+593,Czechia,2006,Victoria,"3,410"
+594,Estonia,2006,Victoria,340
+595,Hungary,2006,Victoria,"7,150"
+596,Latvia,2006,Victoria,"1,990"
+597,Lithuania,2006,Victoria,"1,090"
+598,Poland,2006,Victoria,"21,520"
+599,Russia,2006,Victoria,"6,700"
+600,Slovakia,2006,Victoria,"1,300"
+601,Ukraine,2006,Victoria,"7,080"
+602,Algeria,2006,Victoria,250
+603,Egypt,2006,Victoria,"13,500"
+604,Libya,2006,Victoria,830
+605,Morocco,2006,Victoria,540
+606,Sudan,2006,Victoria,"6,750"
+607,Tunisia,2006,Victoria,170
+608,Western Sahara,2006,Victoria,0
+609,Sp North Africa,2006,Victoria,0
+610,South Sudan,2006,Victoria,0
+611,Bahrain,2006,Victoria,310
+612,Gaza Str/W Bank,2006,Victoria,"1,000"
+613,Iran,2006,Victoria,"5,460"
+614,Iraq,2006,Victoria,"10,440"
+615,Israel,2006,Victoria,"3,960"
+616,Jordan,2006,Victoria,620
+617,Kuwait,2006,Victoria,920
+618,Lebanon,2006,Victoria,"17,130"
+619,Oman,2006,Victoria,360
+620,Qatar,2006,Victoria,110
+621,Saudi Arabia,2006,Victoria,900
+622,Syria,2006,Victoria,"2,220"
+623,Turkey,2006,Victoria,"19,060"
+624,Unit Arab Emir,2006,Victoria,"1,090"
+625,Yemen,2006,Victoria,120
+626,Myanmar,2006,Victoria,"2,020"
+627,Cambodia,2006,Victoria,"11,290"
+628,Laos,2006,Victoria,"2,320"
+629,Thailand,2006,Victoria,"7,810"
+630,Vietnam,2006,Victoria,"65,170"
+631,Brunei,2006,Victoria,550
+632,Indonesia,2006,Victoria,"14,880"
+633,Malaysia,2006,Victoria,"34,650"
+634,Philippines,2006,Victoria,"31,810"
+635,Singapore,2006,Victoria,"11,870"
+636,Timor-Leste,2006,Victoria,"5,790"
+637,China,2006,Victoria,"68,510"
+638,Hong Kong,2006,Victoria,"19,680"
+639,Macau,2006,Victoria,590
+640,Mongolia,2006,Victoria,70
+641,Taiwan,2006,Victoria,"5,050"
+642,Japan,2006,Victoria,"6,590"
+643,"Korea, North",2006,Victoria,30
+644,"Korea, South",2006,Victoria,"6,660"
+645,Bangladesh,2006,Victoria,"3,400"
+646,Bhutan,2006,Victoria,30
+647,India,2006,Victoria,"60,030"
+648,Maldives,2006,Victoria,80
+649,Nepal,2006,Victoria,780
+650,Pakistan,2006,Victoria,"4,970"
+651,Sri Lanka,2006,Victoria,"36,940"
+652,Afghanistan,2006,Victoria,"6,890"
+653,Armenia,2006,Victoria,350
+654,Azerbaijan,2006,Victoria,150
+655,Georgia,2006,Victoria,150
+656,Kazakhstan,2006,Victoria,230
+657,Kyrgyzstan,2006,Victoria,70
+658,Tajikistan,2006,Victoria,20
+659,Turkmenistan,2006,Victoria,20
+660,Uzbekistan,2006,Victoria,330
+661,Bermuda,2006,Victoria,60
+662,Canada,2006,Victoria,"7,380"
+663,St Pierre/Mique,2006,Victoria,0
+664,USA,2006,Victoria,"15,990"
+665,Argentina,2006,Victoria,"4,110"
+666,Bolivia,2006,Victoria,90
+667,Brazil,2006,Victoria,"1,320"
+668,Chile,2006,Victoria,"7,720"
+669,Colombia,2006,Victoria,"1,360"
+670,Ecuador,2006,Victoria,90
+671,Falkland Is,2006,Victoria,30
+672,French Guiana,2006,Victoria,0
+673,Guyana,2006,Victoria,140
+674,Paraguay,2006,Victoria,80
+675,Peru,2006,Victoria,990
+676,Suriname,2006,Victoria,20
+677,Uruguay,2006,Victoria,"1,920"
+678,Venezuela,2006,Victoria,340
+679,"S America, nec",2006,Victoria,0
+680,Belize,2006,Victoria,10
+681,Costa Rica,2006,Victoria,80
+682,El Salvador,2006,Victoria,"3,470"
+683,Guatemala,2006,Victoria,130
+684,Honduras,2006,Victoria,50
+685,Mexico,2006,Victoria,560
+686,Nicaragua,2006,Victoria,70
+687,Panama,2006,Victoria,30
+688,Anguilla,2006,Victoria,0
+689,Antigua/Barbuda,2006,Victoria,10
+690,Aruba,2006,Victoria,10
+691,Bahamas,2006,Victoria,30
+692,Barbados,2006,Victoria,60
+693,Cayman Islands,2006,Victoria,10
+694,Cuba,2006,Victoria,140
+695,Dominica,2006,Victoria,10
+696,Dominican Rep,2006,Victoria,20
+697,Grenada,2006,Victoria,10
+698,Guadeloupe,2006,Victoria,0
+699,Haiti,2006,Victoria,50
+700,Jamaica,2006,Victoria,180
+701,Martinique,2006,Victoria,0
+702,Montserrat,2006,Victoria,10
+703,Puerto Rico,2006,Victoria,50
+704,St Kitts/Nevis,2006,Victoria,10
+705,St Lucia,2006,Victoria,10
+706,St Vinc/Grenad,2006,Victoria,10
+707,Trinidad/Tobago,2006,Victoria,260
+708,Turks/Caicos Is,2006,Victoria,0
+709,"Virgin Is, Brit",2006,Victoria,0
+710,"Virgin Is, US",2006,Victoria,0
+711,St Barthelemy,2006,Victoria,0
+712,St Martin (Fr),2006,Victoria,0
+713,Bonaire/SE/Saba,2006,Victoria,0
+714,Curacao,2006,Victoria,10
+715,Sint Maarten Dp,2006,Victoria,0
+716,Benin,2006,Victoria,10
+717,Burkina Faso,2006,Victoria,10
+718,Cameroon,2006,Victoria,50
+719,Cabo Verde,2006,Victoria,10
+720,Cent Africa Rep,2006,Victoria,0
+721,Chad,2006,Victoria,10
+722,"Congo, Rep",2006,Victoria,120
+723,"Congo, Dem Rep",2006,Victoria,100
+724,Cote d'Ivoire,2006,Victoria,50
+725,Equator Guinea,2006,Victoria,0
+726,Gabon,2006,Victoria,0
+727,Gambia,2006,Victoria,10
+728,Ghana,2006,Victoria,580
+729,Guinea,2006,Victoria,40
+730,Guinea-Bissau,2006,Victoria,0
+731,Liberia,2006,Victoria,230
+732,Mali,2006,Victoria,20
+733,Mauritania,2006,Victoria,10
+734,Niger,2006,Victoria,10
+735,Nigeria,2006,Victoria,670
+736,Sao Tome/Princ,2006,Victoria,10
+737,Senegal,2006,Victoria,40
+738,Sierra Leone,2006,Victoria,90
+739,Togo,2006,Victoria,10
+740,Angola,2006,Victoria,90
+741,Botswana,2006,Victoria,270
+742,Burundi,2006,Victoria,90
+743,Comoros,2006,Victoria,10
+744,Djibouti,2006,Victoria,80
+745,Eritrea,2006,Victoria,"1,480"
+746,Ethiopia,2006,Victoria,"3,510"
+747,Kenya,2006,Victoria,"2,220"
+748,Lesotho,2006,Victoria,20
+749,Madagascar,2006,Victoria,60
+750,Malawi,2006,Victoria,150
+751,Mauritius,2006,Victoria,"10,370"
+752,Mayotte,2006,Victoria,0
+753,Mozambique,2006,Victoria,150
+754,Namibia,2006,Victoria,130
+755,Reunion,2006,Victoria,20
+756,Rwanda,2006,Victoria,10
+757,St Helena,2006,Victoria,10
+758,Seychelles,2006,Victoria,"1,160"
+759,Somalia,2006,Victoria,"2,780"
+760,South Africa,2006,Victoria,"21,820"
+761,Eswatini,2006,Victoria,50
+762,Tanzania,2006,Victoria,480
+763,Uganda,2006,Victoria,350
+764,Zambia,2006,Victoria,660
+765,Zimbabwe,2006,Victoria,"2,730"
+766,"S & E Afr, nec",2006,Victoria,0
+767,Inadequately described,2006,Victoria,0
+768,Australia,2006,Queensland,"3,218,110"
+769,Norfolk Island,2006,Queensland,80
+770,"Aust E T, nec",2006,Queensland,0
+771,New Zealand,2006,Queensland,"166,770"
+772,New Caledonia,2006,Queensland,580
+773,PNG,2006,Queensland,"14,320"
+774,Solomon Islands,2006,Queensland,810
+775,Vanuatu,2006,Queensland,430
+776,Guam,2006,Queensland,40
+777,Kiribati,2006,Queensland,150
+778,Marshall Is,2006,Queensland,10
+779,"Micronesia, F S",2006,Queensland,0
+780,Nauru,2006,Queensland,150
+781,N Mariana Is,2006,Queensland,0
+782,Palau,2006,Queensland,10
+783,Cook Islands,2006,Queensland,"1,410"
+784,Fiji,2006,Queensland,"10,560"
+785,French Poly,2006,Queensland,180
+786,Niue,2006,Queensland,170
+787,Samoa,2006,Queensland,"5,540"
+788,Samoa American,2006,Queensland,80
+789,Tokelau,2006,Queensland,160
+790,Tonga,2006,Queensland,"1,260"
+791,Tuvalu,2006,Queensland,70
+792,Wallis/Futuna,2006,Queensland,10
+793,Pitcairn Is,2006,Queensland,0
+794,"Polynesia, nec",2006,Queensland,0
+795,Adelie Land,2006,Queensland,0
+796,Argentinian A T,2006,Queensland,0
+797,Australian A T,2006,Queensland,0
+798,British A T,2006,Queensland,0
+799,Chilean A T,2006,Queensland,0
+800,Queen Maud Land,2006,Queensland,0
+801,Ross Dependency,2006,Queensland,0
+802,England,2006,Queensland,"176,520"
+803,Isle of Man,2006,Queensland,140
+804,N'thern Ireland,2006,Queensland,"3,960"
+805,Scotland,2006,Queensland,"23,490"
+806,Wales,2006,Queensland,"5,900"
+807,Guernsey,2006,Queensland,140
+808,Jersey,2006,Queensland,240
+809,Ireland,2006,Queensland,"8,550"
+810,Austria,2006,Queensland,"3,370"
+811,Belgium,2006,Queensland,"1,260"
+812,France,2006,Queensland,"4,380"
+813,Germany,2006,Queensland,"23,650"
+814,Liechtenstein,2006,Queensland,0
+815,Luxembourg,2006,Queensland,40
+816,Monaco,2006,Queensland,10
+817,Netherlands,2006,Queensland,"17,830"
+818,Switzerland,2006,Queensland,"3,120"
+819,Denmark,2006,Queensland,"3,000"
+820,Faroe Islands,2006,Queensland,20
+821,Finland,2006,Queensland,"3,180"
+822,Greenland,2006,Queensland,10
+823,Iceland,2006,Queensland,140
+824,Norway,2006,Queensland,"1,100"
+825,Sweden,2006,Queensland,"2,130"
+826,Aland Islands,2006,Queensland,0
+827,Andorra,2006,Queensland,0
+828,Gibraltar,2006,Queensland,70
+829,Holy See,2006,Queensland,0
+830,Italy,2006,Queensland,"15,400"
+831,Malta,2006,Queensland,"3,260"
+832,Portugal,2006,Queensland,"1,110"
+833,San Marino,2006,Queensland,0
+834,Spain,2006,Queensland,"2,230"
+835,Albania,2006,Queensland,220
+836,Bosnia/Herzegov,2006,Queensland,"5,290"
+837,Bulgaria,2006,Queensland,410
+838,Croatia,2006,Queensland,"5,890"
+839,Cyprus,2006,Queensland,"1,380"
+840,North Macedonia,2006,Queensland,"1,230"
+841,Greece,2006,Queensland,"4,770"
+842,Moldova,2006,Queensland,40
+843,Romania,2006,Queensland,"2,270"
+844,Slovenia,2006,Queensland,870
+845,Montenegro,2006,Queensland,140
+846,Serbia,2006,Queensland,"3,670"
+847,Kosovo,2006,Queensland,0
+848,Belarus,2006,Queensland,100
+849,Czechia,2006,Queensland,"2,150"
+850,Estonia,2006,Queensland,170
+851,Hungary,2006,Queensland,"3,590"
+852,Latvia,2006,Queensland,630
+853,Lithuania,2006,Queensland,280
+854,Poland,2006,Queensland,"6,040"
+855,Russia,2006,Queensland,"2,010"
+856,Slovakia,2006,Queensland,850
+857,Ukraine,2006,Queensland,"1,160"
+858,Algeria,2006,Queensland,240
+859,Egypt,2006,Queensland,"2,090"
+860,Libya,2006,Queensland,130
+861,Morocco,2006,Queensland,220
+862,Sudan,2006,Queensland,"2,640"
+863,Tunisia,2006,Queensland,70
+864,Western Sahara,2006,Queensland,10
+865,Sp North Africa,2006,Queensland,0
+866,South Sudan,2006,Queensland,0
+867,Bahrain,2006,Queensland,210
+868,Gaza Str/W Bank,2006,Queensland,110
+869,Iran,2006,Queensland,"2,170"
+870,Iraq,2006,Queensland,860
+871,Israel,2006,Queensland,630
+872,Jordan,2006,Queensland,190
+873,Kuwait,2006,Queensland,230
+874,Lebanon,2006,Queensland,"1,460"
+875,Oman,2006,Queensland,240
+876,Qatar,2006,Queensland,60
+877,Saudi Arabia,2006,Queensland,700
+878,Syria,2006,Queensland,270
+879,Turkey,2006,Queensland,"1,390"
+880,Unit Arab Emir,2006,Queensland,600
+881,Yemen,2006,Queensland,80
+882,Myanmar,2006,Queensland,800
+883,Cambodia,2006,Queensland,"1,410"
+884,Laos,2006,Queensland,"1,210"
+885,Thailand,2006,Queensland,"4,980"
+886,Vietnam,2006,Queensland,"14,540"
+887,Brunei,2006,Queensland,410
+888,Indonesia,2006,Queensland,"6,210"
+889,Malaysia,2006,Queensland,"10,920"
+890,Philippines,2006,Queensland,"21,950"
+891,Singapore,2006,Queensland,"5,640"
+892,Timor-Leste,2006,Queensland,570
+893,China,2006,Queensland,"18,400"
+894,Hong Kong,2006,Queensland,"8,940"
+895,Macau,2006,Queensland,240
+896,Mongolia,2006,Queensland,40
+897,Taiwan,2006,Queensland,"10,120"
+898,Japan,2006,Queensland,"9,880"
+899,"Korea, North",2006,Queensland,40
+900,"Korea, South",2006,Queensland,"8,120"
+901,Bangladesh,2006,Queensland,910
+902,Bhutan,2006,Queensland,10
+903,India,2006,Queensland,"12,680"
+904,Maldives,2006,Queensland,50
+905,Nepal,2006,Queensland,300
+906,Pakistan,2006,Queensland,"1,220"
+907,Sri Lanka,2006,Queensland,"5,730"
+908,Afghanistan,2006,Queensland,"1,100"
+909,Armenia,2006,Queensland,20
+910,Azerbaijan,2006,Queensland,20
+911,Georgia,2006,Queensland,10
+912,Kazakhstan,2006,Queensland,90
+913,Kyrgyzstan,2006,Queensland,50
+914,Tajikistan,2006,Queensland,10
+915,Turkmenistan,2006,Queensland,0
+916,Uzbekistan,2006,Queensland,50
+917,Bermuda,2006,Queensland,140
+918,Canada,2006,Queensland,"8,920"
+919,St Pierre/Mique,2006,Queensland,0
+920,USA,2006,Queensland,"14,560"
+921,Argentina,2006,Queensland,"1,270"
+922,Bolivia,2006,Queensland,80
+923,Brazil,2006,Queensland,"1,880"
+924,Chile,2006,Queensland,"1,840"
+925,Colombia,2006,Queensland,"1,120"
+926,Ecuador,2006,Queensland,100
+927,Falkland Is,2006,Queensland,20
+928,French Guiana,2006,Queensland,0
+929,Guyana,2006,Queensland,130
+930,Paraguay,2006,Queensland,50
+931,Peru,2006,Queensland,700
+932,Suriname,2006,Queensland,30
+933,Uruguay,2006,Queensland,690
+934,Venezuela,2006,Queensland,280
+935,"S America, nec",2006,Queensland,0
+936,Belize,2006,Queensland,10
+937,Costa Rica,2006,Queensland,50
+938,El Salvador,2006,Queensland,"2,610"
+939,Guatemala,2006,Queensland,70
+940,Honduras,2006,Queensland,40
+941,Mexico,2006,Queensland,390
+942,Nicaragua,2006,Queensland,120
+943,Panama,2006,Queensland,20
+944,Anguilla,2006,Queensland,0
+945,Antigua/Barbuda,2006,Queensland,10
+946,Aruba,2006,Queensland,10
+947,Bahamas,2006,Queensland,60
+948,Barbados,2006,Queensland,170
+949,Cayman Islands,2006,Queensland,10
+950,Cuba,2006,Queensland,120
+951,Dominica,2006,Queensland,10
+952,Dominican Rep,2006,Queensland,30
+953,Grenada,2006,Queensland,50
+954,Guadeloupe,2006,Queensland,0
+955,Haiti,2006,Queensland,20
+956,Jamaica,2006,Queensland,310
+957,Martinique,2006,Queensland,20
+958,Montserrat,2006,Queensland,0
+959,Puerto Rico,2006,Queensland,30
+960,St Kitts/Nevis,2006,Queensland,10
+961,St Lucia,2006,Queensland,10
+962,St Vinc/Grenad,2006,Queensland,20
+963,Trinidad/Tobago,2006,Queensland,400
+964,Turks/Caicos Is,2006,Queensland,0
+965,"Virgin Is, Brit",2006,Queensland,10
+966,"Virgin Is, US",2006,Queensland,0
+967,St Barthelemy,2006,Queensland,0
+968,St Martin (Fr),2006,Queensland,0
+969,Bonaire/SE/Saba,2006,Queensland,0
+970,Curacao,2006,Queensland,30
+971,Sint Maarten Dp,2006,Queensland,0
+972,Benin,2006,Queensland,10
+973,Burkina Faso,2006,Queensland,0
+974,Cameroon,2006,Queensland,20
+975,Cabo Verde,2006,Queensland,0
+976,Cent Africa Rep,2006,Queensland,0
+977,Chad,2006,Queensland,10
+978,"Congo, Rep",2006,Queensland,100
+979,"Congo, Dem Rep",2006,Queensland,90
+980,Cote d'Ivoire,2006,Queensland,30
+981,Equator Guinea,2006,Queensland,0
+982,Gabon,2006,Queensland,10
+983,Gambia,2006,Queensland,20
+984,Ghana,2006,Queensland,270
+985,Guinea,2006,Queensland,40
+986,Guinea-Bissau,2006,Queensland,0
+987,Liberia,2006,Queensland,240
+988,Mali,2006,Queensland,0
+989,Mauritania,2006,Queensland,0
+990,Niger,2006,Queensland,0
+991,Nigeria,2006,Queensland,400
+992,Sao Tome/Princ,2006,Queensland,0
+993,Senegal,2006,Queensland,50
+994,Sierra Leone,2006,Queensland,220
+995,Togo,2006,Queensland,10
+996,Angola,2006,Queensland,70
+997,Botswana,2006,Queensland,180
+998,Burundi,2006,Queensland,220
+999,Comoros,2006,Queensland,0
+1000,Djibouti,2006,Queensland,10
+1001,Eritrea,2006,Queensland,160
+1002,Ethiopia,2006,Queensland,500
+1003,Kenya,2006,Queensland,"1,690"
+1004,Lesotho,2006,Queensland,10
+1005,Madagascar,2006,Queensland,70
+1006,Malawi,2006,Queensland,190
+1007,Mauritius,2006,Queensland,"1,360"
+1008,Mayotte,2006,Queensland,0
+1009,Mozambique,2006,Queensland,190
+1010,Namibia,2006,Queensland,190
+1011,Reunion,2006,Queensland,30
+1012,Rwanda,2006,Queensland,70
+1013,St Helena,2006,Queensland,10
+1014,Seychelles,2006,Queensland,540
+1015,Somalia,2006,Queensland,280
+1016,South Africa,2006,Queensland,"26,110"
+1017,Eswatini,2006,Queensland,50
+1018,Tanzania,2006,Queensland,530
+1019,Uganda,2006,Queensland,350
+1020,Zambia,2006,Queensland,970
+1021,Zimbabwe,2006,Queensland,"6,770"
+1022,"S & E Afr, nec",2006,Queensland,0
+1023,Inadequately described,2006,Queensland,0
+1024,Australia,2006,South Australia,"1,212,610"
+1025,Norfolk Island,2006,South Australia,0
+1026,"Aust E T, nec",2006,South Australia,0
+1027,New Zealand,2006,South Australia,"12,560"
+1028,New Caledonia,2006,South Australia,20
+1029,PNG,2006,South Australia,"1,030"
+1030,Solomon Islands,2006,South Australia,40
+1031,Vanuatu,2006,South Australia,20
+1032,Guam,2006,South Australia,0
+1033,Kiribati,2006,South Australia,20
+1034,Marshall Is,2006,South Australia,0
+1035,"Micronesia, F S",2006,South Australia,0
+1036,Nauru,2006,South Australia,10
+1037,N Mariana Is,2006,South Australia,0
+1038,Palau,2006,South Australia,0
+1039,Cook Islands,2006,South Australia,80
+1040,Fiji,2006,South Australia,"1,060"
+1041,French Poly,2006,South Australia,10
+1042,Niue,2006,South Australia,10
+1043,Samoa,2006,South Australia,80
+1044,Samoa American,2006,South Australia,10
+1045,Tokelau,2006,South Australia,0
+1046,Tonga,2006,South Australia,60
+1047,Tuvalu,2006,South Australia,0
+1048,Wallis/Futuna,2006,South Australia,0
+1049,Pitcairn Is,2006,South Australia,0
+1050,"Polynesia, nec",2006,South Australia,0
+1051,Adelie Land,2006,South Australia,0
+1052,Argentinian A T,2006,South Australia,0
+1053,Australian A T,2006,South Australia,0
+1054,British A T,2006,South Australia,0
+1055,Chilean A T,2006,South Australia,0
+1056,Queen Maud Land,2006,South Australia,0
+1057,Ross Dependency,2006,South Australia,0
+1058,England,2006,South Australia,"108,320"
+1059,Isle of Man,2006,South Australia,60
+1060,N'thern Ireland,2006,South Australia,"2,210"
+1061,Scotland,2006,South Australia,"14,530"
+1062,Wales,2006,South Australia,"3,390"
+1063,Guernsey,2006,South Australia,60
+1064,Jersey,2006,South Australia,100
+1065,Ireland,2006,South Australia,"3,510"
+1066,Austria,2006,South Australia,"1,850"
+1067,Belgium,2006,South Australia,460
+1068,France,2006,South Australia,"1,260"
+1069,Germany,2006,South Australia,"13,700"
+1070,Liechtenstein,2006,South Australia,0
+1071,Luxembourg,2006,South Australia,0
+1072,Monaco,2006,South Australia,0
+1073,Netherlands,2006,South Australia,"8,920"
+1074,Switzerland,2006,South Australia,600
+1075,Denmark,2006,South Australia,710
+1076,Faroe Islands,2006,South Australia,0
+1077,Finland,2006,South Australia,600
+1078,Greenland,2006,South Australia,0
+1079,Iceland,2006,South Australia,30
+1080,Norway,2006,South Australia,270
+1081,Sweden,2006,South Australia,510
+1082,Aland Islands,2006,South Australia,0
+1083,Andorra,2006,South Australia,0
+1084,Gibraltar,2006,South Australia,50
+1085,Holy See,2006,South Australia,0
+1086,Italy,2006,South Australia,"24,390"
+1087,Malta,2006,South Australia,"1,880"
+1088,Portugal,2006,South Australia,560
+1089,San Marino,2006,South Australia,0
+1090,Spain,2006,South Australia,770
+1091,Albania,2006,South Australia,280
+1092,Bosnia/Herzegov,2006,South Australia,"3,490"
+1093,Bulgaria,2006,South Australia,410
+1094,Croatia,2006,South Australia,"4,980"
+1095,Cyprus,2006,South Australia,"1,630"
+1096,North Macedonia,2006,South Australia,570
+1097,Greece,2006,South Australia,"12,340"
+1098,Moldova,2006,South Australia,40
+1099,Romania,2006,South Australia,"1,180"
+1100,Slovenia,2006,South Australia,650
+1101,Montenegro,2006,South Australia,80
+1102,Serbia,2006,South Australia,"2,730"
+1103,Kosovo,2006,South Australia,0
+1104,Belarus,2006,South Australia,110
+1105,Czechia,2006,South Australia,"1,130"
+1106,Estonia,2006,South Australia,230
+1107,Hungary,2006,South Australia,"1,850"
+1108,Latvia,2006,South Australia,930
+1109,Lithuania,2006,South Australia,480
+1110,Poland,2006,South Australia,"7,440"
+1111,Russia,2006,South Australia,"1,220"
+1112,Slovakia,2006,South Australia,540
+1113,Ukraine,2006,South Australia,"1,530"
+1114,Algeria,2006,South Australia,70
+1115,Egypt,2006,South Australia,"1,210"
+1116,Libya,2006,South Australia,60
+1117,Morocco,2006,South Australia,50
+1118,Sudan,2006,South Australia,"1,620"
+1119,Tunisia,2006,South Australia,20
+1120,Western Sahara,2006,South Australia,0
+1121,Sp North Africa,2006,South Australia,0
+1122,South Sudan,2006,South Australia,0
+1123,Bahrain,2006,South Australia,40
+1124,Gaza Str/W Bank,2006,South Australia,100
+1125,Iran,2006,South Australia,"2,190"
+1126,Iraq,2006,South Australia,940
+1127,Israel,2006,South Australia,210
+1128,Jordan,2006,South Australia,130
+1129,Kuwait,2006,South Australia,90
+1130,Lebanon,2006,South Australia,"1,740"
+1131,Oman,2006,South Australia,40
+1132,Qatar,2006,South Australia,20
+1133,Saudi Arabia,2006,South Australia,130
+1134,Syria,2006,South Australia,260
+1135,Turkey,2006,South Australia,690
+1136,Unit Arab Emir,2006,South Australia,110
+1137,Yemen,2006,South Australia,40
+1138,Myanmar,2006,South Australia,150
+1139,Cambodia,2006,South Australia,"2,770"
+1140,Laos,2006,South Australia,500
+1141,Thailand,2006,South Australia,"1,880"
+1142,Vietnam,2006,South Australia,"11,700"
+1143,Brunei,2006,South Australia,110
+1144,Indonesia,2006,South Australia,"1,800"
+1145,Malaysia,2006,South Australia,"6,040"
+1146,Philippines,2006,South Australia,"6,330"
+1147,Singapore,2006,South Australia,"2,000"
+1148,Timor-Leste,2006,South Australia,90
+1149,China,2006,South Australia,"9,670"
+1150,Hong Kong,2006,South Australia,"2,690"
+1151,Macau,2006,South Australia,30
+1152,Mongolia,2006,South Australia,30
+1153,Taiwan,2006,South Australia,650
+1154,Japan,2006,South Australia,"1,420"
+1155,"Korea, North",2006,South Australia,10
+1156,"Korea, South",2006,South Australia,"2,070"
+1157,Bangladesh,2006,South Australia,360
+1158,Bhutan,2006,South Australia,10
+1159,India,2006,South Australia,"7,640"
+1160,Maldives,2006,South Australia,40
+1161,Nepal,2006,South Australia,90
+1162,Pakistan,2006,South Australia,680
+1163,Sri Lanka,2006,South Australia,"1,720"
+1164,Afghanistan,2006,South Australia,"1,840"
+1165,Armenia,2006,South Australia,120
+1166,Azerbaijan,2006,South Australia,20
+1167,Georgia,2006,South Australia,70
+1168,Kazakhstan,2006,South Australia,110
+1169,Kyrgyzstan,2006,South Australia,10
+1170,Tajikistan,2006,South Australia,0
+1171,Turkmenistan,2006,South Australia,0
+1172,Uzbekistan,2006,South Australia,140
+1173,Bermuda,2006,South Australia,20
+1174,Canada,2006,South Australia,"2,200"
+1175,St Pierre/Mique,2006,South Australia,0
+1176,USA,2006,South Australia,"4,080"
+1177,Argentina,2006,South Australia,450
+1178,Bolivia,2006,South Australia,30
+1179,Brazil,2006,South Australia,230
+1180,Chile,2006,South Australia,790
+1181,Colombia,2006,South Australia,130
+1182,Ecuador,2006,South Australia,50
+1183,Falkland Is,2006,South Australia,10
+1184,French Guiana,2006,South Australia,0
+1185,Guyana,2006,South Australia,40
+1186,Paraguay,2006,South Australia,10
+1187,Peru,2006,South Australia,200
+1188,Suriname,2006,South Australia,10
+1189,Uruguay,2006,South Australia,150
+1190,Venezuela,2006,South Australia,100
+1191,"S America, nec",2006,South Australia,0
+1192,Belize,2006,South Australia,0
+1193,Costa Rica,2006,South Australia,10
+1194,El Salvador,2006,South Australia,880
+1195,Guatemala,2006,South Australia,20
+1196,Honduras,2006,South Australia,10
+1197,Mexico,2006,South Australia,80
+1198,Nicaragua,2006,South Australia,30
+1199,Panama,2006,South Australia,20
+1200,Anguilla,2006,South Australia,0
+1201,Antigua/Barbuda,2006,South Australia,0
+1202,Aruba,2006,South Australia,0
+1203,Bahamas,2006,South Australia,0
+1204,Barbados,2006,South Australia,20
+1205,Cayman Islands,2006,South Australia,0
+1206,Cuba,2006,South Australia,20
+1207,Dominica,2006,South Australia,0
+1208,Dominican Rep,2006,South Australia,10
+1209,Grenada,2006,South Australia,0
+1210,Guadeloupe,2006,South Australia,0
+1211,Haiti,2006,South Australia,0
+1212,Jamaica,2006,South Australia,40
+1213,Martinique,2006,South Australia,0
+1214,Montserrat,2006,South Australia,0
+1215,Puerto Rico,2006,South Australia,0
+1216,St Kitts/Nevis,2006,South Australia,0
+1217,St Lucia,2006,South Australia,0
+1218,St Vinc/Grenad,2006,South Australia,10
+1219,Trinidad/Tobago,2006,South Australia,40
+1220,Turks/Caicos Is,2006,South Australia,0
+1221,"Virgin Is, Brit",2006,South Australia,0
+1222,"Virgin Is, US",2006,South Australia,0
+1223,St Barthelemy,2006,South Australia,0
+1224,St Martin (Fr),2006,South Australia,0
+1225,Bonaire/SE/Saba,2006,South Australia,0
+1226,Curacao,2006,South Australia,10
+1227,Sint Maarten Dp,2006,South Australia,0
+1228,Benin,2006,South Australia,0
+1229,Burkina Faso,2006,South Australia,0
+1230,Cameroon,2006,South Australia,10
+1231,Cabo Verde,2006,South Australia,0
+1232,Cent Africa Rep,2006,South Australia,0
+1233,Chad,2006,South Australia,0
+1234,"Congo, Rep",2006,South Australia,100
+1235,"Congo, Dem Rep",2006,South Australia,100
+1236,Cote d'Ivoire,2006,South Australia,40
+1237,Equator Guinea,2006,South Australia,0
+1238,Gabon,2006,South Australia,0
+1239,Gambia,2006,South Australia,0
+1240,Ghana,2006,South Australia,150
+1241,Guinea,2006,South Australia,50
+1242,Guinea-Bissau,2006,South Australia,0
+1243,Liberia,2006,South Australia,340
+1244,Mali,2006,South Australia,0
+1245,Mauritania,2006,South Australia,0
+1246,Niger,2006,South Australia,0
+1247,Nigeria,2006,South Australia,150
+1248,Sao Tome/Princ,2006,South Australia,0
+1249,Senegal,2006,South Australia,0
+1250,Sierra Leone,2006,South Australia,140
+1251,Togo,2006,South Australia,0
+1252,Angola,2006,South Australia,20
+1253,Botswana,2006,South Australia,80
+1254,Burundi,2006,South Australia,180
+1255,Comoros,2006,South Australia,0
+1256,Djibouti,2006,South Australia,0
+1257,Eritrea,2006,South Australia,140
+1258,Ethiopia,2006,South Australia,450
+1259,Kenya,2006,South Australia,850
+1260,Lesotho,2006,South Australia,0
+1261,Madagascar,2006,South Australia,10
+1262,Malawi,2006,South Australia,50
+1263,Mauritius,2006,South Australia,160
+1264,Mayotte,2006,South Australia,0
+1265,Mozambique,2006,South Australia,20
+1266,Namibia,2006,South Australia,60
+1267,Reunion,2006,South Australia,10
+1268,Rwanda,2006,South Australia,20
+1269,St Helena,2006,South Australia,0
+1270,Seychelles,2006,South Australia,50
+1271,Somalia,2006,South Australia,210
+1272,South Africa,2006,South Australia,"5,060"
+1273,Eswatini,2006,South Australia,10
+1274,Tanzania,2006,South Australia,250
+1275,Uganda,2006,South Australia,120
+1276,Zambia,2006,South Australia,220
+1277,Zimbabwe,2006,South Australia,"1,050"
+1278,"S & E Afr, nec",2006,South Australia,0
+1279,Inadequately described,2006,South Australia,0
+1280,Australia,2006,Western Australia,"1,436,700"
+1281,Norfolk Island,2006,Western Australia,10
+1282,"Aust E T, nec",2006,Western Australia,0
+1283,New Zealand,2006,Western Australia,"54,240"
+1284,New Caledonia,2006,Western Australia,30
+1285,PNG,2006,Western Australia,"1,520"
+1286,Solomon Islands,2006,Western Australia,80
+1287,Vanuatu,2006,Western Australia,50
+1288,Guam,2006,Western Australia,0
+1289,Kiribati,2006,Western Australia,20
+1290,Marshall Is,2006,Western Australia,0
+1291,"Micronesia, F S",2006,Western Australia,0
+1292,Nauru,2006,Western Australia,30
+1293,N Mariana Is,2006,Western Australia,0
+1294,Palau,2006,Western Australia,0
+1295,Cook Islands,2006,Western Australia,110
+1296,Fiji,2006,Western Australia,740
+1297,French Poly,2006,Western Australia,10
+1298,Niue,2006,Western Australia,30
+1299,Samoa,2006,Western Australia,230
+1300,Samoa American,2006,Western Australia,10
+1301,Tokelau,2006,Western Australia,10
+1302,Tonga,2006,Western Australia,100
+1303,Tuvalu,2006,Western Australia,20
+1304,Wallis/Futuna,2006,Western Australia,0
+1305,Pitcairn Is,2006,Western Australia,0
+1306,"Polynesia, nec",2006,Western Australia,0
+1307,Adelie Land,2006,Western Australia,0
+1308,Argentinian A T,2006,Western Australia,0
+1309,Australian A T,2006,Western Australia,0
+1310,British A T,2006,Western Australia,0
+1311,Chilean A T,2006,Western Australia,0
+1312,Queen Maud Land,2006,Western Australia,0
+1313,Ross Dependency,2006,Western Australia,0
+1314,England,2006,Western Australia,"195,310"
+1315,Isle of Man,2006,Western Australia,220
+1316,N'thern Ireland,2006,Western Australia,"3,660"
+1317,Scotland,2006,Western Australia,"26,380"
+1318,Wales,2006,Western Australia,"6,790"
+1319,Guernsey,2006,Western Australia,200
+1320,Jersey,2006,Western Australia,340
+1321,Ireland,2006,Western Australia,"10,540"
+1322,Austria,2006,Western Australia,"1,710"
+1323,Belgium,2006,Western Australia,720
+1324,France,2006,Western Australia,"2,260"
+1325,Germany,2006,Western Australia,"12,110"
+1326,Liechtenstein,2006,Western Australia,10
+1327,Luxembourg,2006,Western Australia,40
+1328,Monaco,2006,Western Australia,10
+1329,Netherlands,2006,Western Australia,"12,160"
+1330,Switzerland,2006,Western Australia,"2,100"
+1331,Denmark,2006,Western Australia,"1,340"
+1332,Faroe Islands,2006,Western Australia,0
+1333,Finland,2006,Western Australia,630
+1334,Greenland,2006,Western Australia,0
+1335,Iceland,2006,Western Australia,180
+1336,Norway,2006,Western Australia,690
+1337,Sweden,2006,Western Australia,990
+1338,Aland Islands,2006,Western Australia,0
+1339,Andorra,2006,Western Australia,0
+1340,Gibraltar,2006,Western Australia,130
+1341,Holy See,2006,Western Australia,0
+1342,Italy,2006,Western Australia,"23,630"
+1343,Malta,2006,Western Australia,"1,210"
+1344,Portugal,2006,Western Australia,"2,860"
+1345,San Marino,2006,Western Australia,0
+1346,Spain,2006,Western Australia,"1,270"
+1347,Albania,2006,Western Australia,130
+1348,Bosnia/Herzegov,2006,Western Australia,"4,300"
+1349,Bulgaria,2006,Western Australia,310
+1350,Croatia,2006,Western Australia,"7,390"
+1351,Cyprus,2006,Western Australia,510
+1352,North Macedonia,2006,Western Australia,"4,010"
+1353,Greece,2006,Western Australia,"3,560"
+1354,Moldova,2006,Western Australia,20
+1355,Romania,2006,Western Australia,"1,700"
+1356,Slovenia,2006,Western Australia,460
+1357,Montenegro,2006,Western Australia,200
+1358,Serbia,2006,Western Australia,"3,110"
+1359,Kosovo,2006,Western Australia,0
+1360,Belarus,2006,Western Australia,40
+1361,Czechia,2006,Western Australia,"1,070"
+1362,Estonia,2006,Western Australia,120
+1363,Hungary,2006,Western Australia,"1,430"
+1364,Latvia,2006,Western Australia,460
+1365,Lithuania,2006,Western Australia,220
+1366,Poland,2006,Western Australia,"7,150"
+1367,Russia,2006,Western Australia,"1,050"
+1368,Slovakia,2006,Western Australia,430
+1369,Ukraine,2006,Western Australia,760
+1370,Algeria,2006,Western Australia,120
+1371,Egypt,2006,Western Australia,"1,820"
+1372,Libya,2006,Western Australia,130
+1373,Morocco,2006,Western Australia,150
+1374,Sudan,2006,Western Australia,"2,260"
+1375,Tunisia,2006,Western Australia,40
+1376,Western Sahara,2006,Western Australia,0
+1377,Sp North Africa,2006,Western Australia,0
+1378,South Sudan,2006,Western Australia,0
+1379,Bahrain,2006,Western Australia,170
+1380,Gaza Str/W Bank,2006,Western Australia,190
+1381,Iran,2006,Western Australia,"2,800"
+1382,Iraq,2006,Western Australia,"2,170"
+1383,Israel,2006,Western Australia,680
+1384,Jordan,2006,Western Australia,310
+1385,Kuwait,2006,Western Australia,310
+1386,Lebanon,2006,Western Australia,"1,040"
+1387,Oman,2006,Western Australia,190
+1388,Qatar,2006,Western Australia,100
+1389,Saudi Arabia,2006,Western Australia,470
+1390,Syria,2006,Western Australia,230
+1391,Turkey,2006,Western Australia,980
+1392,Unit Arab Emir,2006,Western Australia,450
+1393,Yemen,2006,Western Australia,100
+1394,Myanmar,2006,Western Australia,"6,530"
+1395,Cambodia,2006,Western Australia,840
+1396,Laos,2006,Western Australia,170
+1397,Thailand,2006,Western Australia,"3,850"
+1398,Vietnam,2006,Western Australia,"12,010"
+1399,Brunei,2006,Western Australia,"1,070"
+1400,Indonesia,2006,Western Australia,"9,700"
+1401,Malaysia,2006,Western Australia,"23,080"
+1402,Philippines,2006,Western Australia,"8,140"
+1403,Singapore,2006,Western Australia,"13,800"
+1404,Timor-Leste,2006,Western Australia,440
+1405,China,2006,Western Australia,"9,990"
+1406,Hong Kong,2006,Western Australia,"4,740"
+1407,Macau,2006,Western Australia,120
+1408,Mongolia,2006,Western Australia,20
+1409,Taiwan,2006,Western Australia,"1,010"
+1410,Japan,2006,Western Australia,"3,550"
+1411,"Korea, North",2006,Western Australia,30
+1412,"Korea, South",2006,Western Australia,"2,370"
+1413,Bangladesh,2006,Western Australia,800
+1414,Bhutan,2006,Western Australia,30
+1415,India,2006,Western Australia,"17,740"
+1416,Maldives,2006,Western Australia,70
+1417,Nepal,2006,Western Australia,120
+1418,Pakistan,2006,Western Australia,"1,300"
+1419,Sri Lanka,2006,Western Australia,"4,030"
+1420,Afghanistan,2006,Western Australia,"1,930"
+1421,Armenia,2006,Western Australia,20
+1422,Azerbaijan,2006,Western Australia,10
+1423,Georgia,2006,Western Australia,10
+1424,Kazakhstan,2006,Western Australia,70
+1425,Kyrgyzstan,2006,Western Australia,30
+1426,Tajikistan,2006,Western Australia,20
+1427,Turkmenistan,2006,Western Australia,0
+1428,Uzbekistan,2006,Western Australia,50
+1429,Bermuda,2006,Western Australia,110
+1430,Canada,2006,Western Australia,"5,090"
+1431,St Pierre/Mique,2006,Western Australia,0
+1432,USA,2006,Western Australia,"8,310"
+1433,Argentina,2006,Western Australia,590
+1434,Bolivia,2006,Western Australia,30
+1435,Brazil,2006,Western Australia,810
+1436,Chile,2006,Western Australia,"1,520"
+1437,Colombia,2006,Western Australia,340
+1438,Ecuador,2006,Western Australia,70
+1439,Falkland Is,2006,Western Australia,10
+1440,French Guiana,2006,Western Australia,0
+1441,Guyana,2006,Western Australia,80
+1442,Paraguay,2006,Western Australia,30
+1443,Peru,2006,Western Australia,330
+1444,Suriname,2006,Western Australia,10
+1445,Uruguay,2006,Western Australia,190
+1446,Venezuela,2006,Western Australia,180
+1447,"S America, nec",2006,Western Australia,0
+1448,Belize,2006,Western Australia,10
+1449,Costa Rica,2006,Western Australia,40
+1450,El Salvador,2006,Western Australia,"1,340"
+1451,Guatemala,2006,Western Australia,20
+1452,Honduras,2006,Western Australia,20
+1453,Mexico,2006,Western Australia,130
+1454,Nicaragua,2006,Western Australia,60
+1455,Panama,2006,Western Australia,30
+1456,Anguilla,2006,Western Australia,0
+1457,Antigua/Barbuda,2006,Western Australia,0
+1458,Aruba,2006,Western Australia,10
+1459,Bahamas,2006,Western Australia,90
+1460,Barbados,2006,Western Australia,40
+1461,Cayman Islands,2006,Western Australia,10
+1462,Cuba,2006,Western Australia,20
+1463,Dominica,2006,Western Australia,0
+1464,Dominican Rep,2006,Western Australia,10
+1465,Grenada,2006,Western Australia,10
+1466,Guadeloupe,2006,Western Australia,0
+1467,Haiti,2006,Western Australia,0
+1468,Jamaica,2006,Western Australia,140
+1469,Martinique,2006,Western Australia,0
+1470,Montserrat,2006,Western Australia,0
+1471,Puerto Rico,2006,Western Australia,20
+1472,St Kitts/Nevis,2006,Western Australia,0
+1473,St Lucia,2006,Western Australia,0
+1474,St Vinc/Grenad,2006,Western Australia,10
+1475,Trinidad/Tobago,2006,Western Australia,470
+1476,Turks/Caicos Is,2006,Western Australia,0
+1477,"Virgin Is, Brit",2006,Western Australia,0
+1478,"Virgin Is, US",2006,Western Australia,0
+1479,St Barthelemy,2006,Western Australia,0
+1480,St Martin (Fr),2006,Western Australia,0
+1481,Bonaire/SE/Saba,2006,Western Australia,0
+1482,Curacao,2006,Western Australia,20
+1483,Sint Maarten Dp,2006,Western Australia,0
+1484,Benin,2006,Western Australia,0
+1485,Burkina Faso,2006,Western Australia,0
+1486,Cameroon,2006,Western Australia,20
+1487,Cabo Verde,2006,Western Australia,10
+1488,Cent Africa Rep,2006,Western Australia,0
+1489,Chad,2006,Western Australia,0
+1490,"Congo, Rep",2006,Western Australia,190
+1491,"Congo, Dem Rep",2006,Western Australia,180
+1492,Cote d'Ivoire,2006,Western Australia,40
+1493,Equator Guinea,2006,Western Australia,0
+1494,Gabon,2006,Western Australia,0
+1495,Gambia,2006,Western Australia,30
+1496,Ghana,2006,Western Australia,260
+1497,Guinea,2006,Western Australia,40
+1498,Guinea-Bissau,2006,Western Australia,0
+1499,Liberia,2006,Western Australia,270
+1500,Mali,2006,Western Australia,10
+1501,Mauritania,2006,Western Australia,0
+1502,Niger,2006,Western Australia,0
+1503,Nigeria,2006,Western Australia,380
+1504,Sao Tome/Princ,2006,Western Australia,0
+1505,Senegal,2006,Western Australia,20
+1506,Sierra Leone,2006,Western Australia,300
+1507,Togo,2006,Western Australia,10
+1508,Angola,2006,Western Australia,90
+1509,Botswana,2006,Western Australia,230
+1510,Burundi,2006,Western Australia,110
+1511,Comoros,2006,Western Australia,0
+1512,Djibouti,2006,Western Australia,10
+1513,Eritrea,2006,Western Australia,380
+1514,Ethiopia,2006,Western Australia,750
+1515,Kenya,2006,Western Australia,"3,650"
+1516,Lesotho,2006,Western Australia,20
+1517,Madagascar,2006,Western Australia,20
+1518,Malawi,2006,Western Australia,240
+1519,Mauritius,2006,Western Australia,"2,830"
+1520,Mayotte,2006,Western Australia,0
+1521,Mozambique,2006,Western Australia,190
+1522,Namibia,2006,Western Australia,240
+1523,Reunion,2006,Western Australia,50
+1524,Rwanda,2006,Western Australia,60
+1525,St Helena,2006,Western Australia,10
+1526,Seychelles,2006,Western Australia,850
+1527,Somalia,2006,Western Australia,680
+1528,South Africa,2006,Western Australia,"25,870"
+1529,Eswatini,2006,Western Australia,80
+1530,Tanzania,2006,Western Australia,590
+1531,Uganda,2006,Western Australia,430
+1532,Zambia,2006,Western Australia,"1,770"
+1533,Zimbabwe,2006,Western Australia,"7,310"
+1534,"S & E Afr, nec",2006,Western Australia,0
+1535,Inadequately described,2006,Western Australia,0
+1536,Australia,2006,Tasmania,"433,050"
+1537,Norfolk Island,2006,Tasmania,10
+1538,"Aust E T, nec",2006,Tasmania,0
+1539,New Zealand,2006,Tasmania,"4,660"
+1540,New Caledonia,2006,Tasmania,0
+1541,PNG,2006,Tasmania,340
+1542,Solomon Islands,2006,Tasmania,20
+1543,Vanuatu,2006,Tasmania,10
+1544,Guam,2006,Tasmania,0
+1545,Kiribati,2006,Tasmania,10
+1546,Marshall Is,2006,Tasmania,0
+1547,"Micronesia, F S",2006,Tasmania,0
+1548,Nauru,2006,Tasmania,10
+1549,N Mariana Is,2006,Tasmania,0
+1550,Palau,2006,Tasmania,0
+1551,Cook Islands,2006,Tasmania,10
+1552,Fiji,2006,Tasmania,290
+1553,French Poly,2006,Tasmania,0
+1554,Niue,2006,Tasmania,0
+1555,Samoa,2006,Tasmania,40
+1556,Samoa American,2006,Tasmania,0
+1557,Tokelau,2006,Tasmania,0
+1558,Tonga,2006,Tasmania,30
+1559,Tuvalu,2006,Tasmania,0
+1560,Wallis/Futuna,2006,Tasmania,0
+1561,Pitcairn Is,2006,Tasmania,0
+1562,"Polynesia, nec",2006,Tasmania,0
+1563,Adelie Land,2006,Tasmania,0
+1564,Argentinian A T,2006,Tasmania,0
+1565,Australian A T,2006,Tasmania,0
+1566,British A T,2006,Tasmania,0
+1567,Chilean A T,2006,Tasmania,0
+1568,Queen Maud Land,2006,Tasmania,0
+1569,Ross Dependency,2006,Tasmania,0
+1570,England,2006,Tasmania,"20,340"
+1571,Isle of Man,2006,Tasmania,30
+1572,N'thern Ireland,2006,Tasmania,390
+1573,Scotland,2006,Tasmania,"2,840"
+1574,Wales,2006,Tasmania,750
+1575,Guernsey,2006,Tasmania,10
+1576,Jersey,2006,Tasmania,20
+1577,Ireland,2006,Tasmania,710
+1578,Austria,2006,Tasmania,420
+1579,Belgium,2006,Tasmania,80
+1580,France,2006,Tasmania,250
+1581,Germany,2006,Tasmania,"2,460"
+1582,Liechtenstein,2006,Tasmania,0
+1583,Luxembourg,2006,Tasmania,0
+1584,Monaco,2006,Tasmania,0
+1585,Netherlands,2006,Tasmania,"2,860"
+1586,Switzerland,2006,Tasmania,310
+1587,Denmark,2006,Tasmania,190
+1588,Faroe Islands,2006,Tasmania,0
+1589,Finland,2006,Tasmania,160
+1590,Greenland,2006,Tasmania,0
+1591,Iceland,2006,Tasmania,10
+1592,Norway,2006,Tasmania,50
+1593,Sweden,2006,Tasmania,120
+1594,Aland Islands,2006,Tasmania,0
+1595,Andorra,2006,Tasmania,0
+1596,Gibraltar,2006,Tasmania,0
+1597,Holy See,2006,Tasmania,0
+1598,Italy,2006,Tasmania,"1,160"
+1599,Malta,2006,Tasmania,140
+1600,Portugal,2006,Tasmania,30
+1601,San Marino,2006,Tasmania,0
+1602,Spain,2006,Tasmania,80
+1603,Albania,2006,Tasmania,10
+1604,Bosnia/Herzegov,2006,Tasmania,170
+1605,Bulgaria,2006,Tasmania,20
+1606,Croatia,2006,Tasmania,380
+1607,Cyprus,2006,Tasmania,60
+1608,North Macedonia,2006,Tasmania,30
+1609,Greece,2006,Tasmania,690
+1610,Moldova,2006,Tasmania,0
+1611,Romania,2006,Tasmania,70
+1612,Slovenia,2006,Tasmania,90
+1613,Montenegro,2006,Tasmania,0
+1614,Serbia,2006,Tasmania,200
+1615,Kosovo,2006,Tasmania,0
+1616,Belarus,2006,Tasmania,20
+1617,Czechia,2006,Tasmania,260
+1618,Estonia,2006,Tasmania,20
+1619,Hungary,2006,Tasmania,280
+1620,Latvia,2006,Tasmania,100
+1621,Lithuania,2006,Tasmania,70
+1622,Poland,2006,Tasmania,880
+1623,Russia,2006,Tasmania,110
+1624,Slovakia,2006,Tasmania,40
+1625,Ukraine,2006,Tasmania,110
+1626,Algeria,2006,Tasmania,10
+1627,Egypt,2006,Tasmania,130
+1628,Libya,2006,Tasmania,10
+1629,Morocco,2006,Tasmania,10
+1630,Sudan,2006,Tasmania,610
+1631,Tunisia,2006,Tasmania,0
+1632,Western Sahara,2006,Tasmania,0
+1633,Sp North Africa,2006,Tasmania,0
+1634,South Sudan,2006,Tasmania,0
+1635,Bahrain,2006,Tasmania,0
+1636,Gaza Str/W Bank,2006,Tasmania,10
+1637,Iran,2006,Tasmania,130
+1638,Iraq,2006,Tasmania,50
+1639,Israel,2006,Tasmania,20
+1640,Jordan,2006,Tasmania,10
+1641,Kuwait,2006,Tasmania,10
+1642,Lebanon,2006,Tasmania,60
+1643,Oman,2006,Tasmania,10
+1644,Qatar,2006,Tasmania,0
+1645,Saudi Arabia,2006,Tasmania,10
+1646,Syria,2006,Tasmania,60
+1647,Turkey,2006,Tasmania,50
+1648,Unit Arab Emir,2006,Tasmania,20
+1649,Yemen,2006,Tasmania,10
+1650,Myanmar,2006,Tasmania,30
+1651,Cambodia,2006,Tasmania,10
+1652,Laos,2006,Tasmania,20
+1653,Thailand,2006,Tasmania,350
+1654,Vietnam,2006,Tasmania,160
+1655,Brunei,2006,Tasmania,0
+1656,Indonesia,2006,Tasmania,220
+1657,Malaysia,2006,Tasmania,"1,100"
+1658,Philippines,2006,Tasmania,"1,130"
+1659,Singapore,2006,Tasmania,370
+1660,Timor-Leste,2006,Tasmania,10
+1661,China,2006,Tasmania,"1,170"
+1662,Hong Kong,2006,Tasmania,360
+1663,Macau,2006,Tasmania,10
+1664,Mongolia,2006,Tasmania,0
+1665,Taiwan,2006,Tasmania,60
+1666,Japan,2006,Tasmania,360
+1667,"Korea, North",2006,Tasmania,0
+1668,"Korea, South",2006,Tasmania,470
+1669,Bangladesh,2006,Tasmania,70
+1670,Bhutan,2006,Tasmania,0
+1671,India,2006,Tasmania,960
+1672,Maldives,2006,Tasmania,10
+1673,Nepal,2006,Tasmania,20
+1674,Pakistan,2006,Tasmania,70
+1675,Sri Lanka,2006,Tasmania,260
+1676,Afghanistan,2006,Tasmania,40
+1677,Armenia,2006,Tasmania,0
+1678,Azerbaijan,2006,Tasmania,0
+1679,Georgia,2006,Tasmania,0
+1680,Kazakhstan,2006,Tasmania,0
+1681,Kyrgyzstan,2006,Tasmania,0
+1682,Tajikistan,2006,Tasmania,0
+1683,Turkmenistan,2006,Tasmania,0
+1684,Uzbekistan,2006,Tasmania,0
+1685,Bermuda,2006,Tasmania,10
+1686,Canada,2006,Tasmania,710
+1687,St Pierre/Mique,2006,Tasmania,0
+1688,USA,2006,Tasmania,"1,410"
+1689,Argentina,2006,Tasmania,60
+1690,Bolivia,2006,Tasmania,10
+1691,Brazil,2006,Tasmania,50
+1692,Chile,2006,Tasmania,160
+1693,Colombia,2006,Tasmania,20
+1694,Ecuador,2006,Tasmania,0
+1695,Falkland Is,2006,Tasmania,10
+1696,French Guiana,2006,Tasmania,0
+1697,Guyana,2006,Tasmania,10
+1698,Paraguay,2006,Tasmania,0
+1699,Peru,2006,Tasmania,40
+1700,Suriname,2006,Tasmania,0
+1701,Uruguay,2006,Tasmania,20
+1702,Venezuela,2006,Tasmania,10
+1703,"S America, nec",2006,Tasmania,0
+1704,Belize,2006,Tasmania,0
+1705,Costa Rica,2006,Tasmania,0
+1706,El Salvador,2006,Tasmania,200
+1707,Guatemala,2006,Tasmania,0
+1708,Honduras,2006,Tasmania,0
+1709,Mexico,2006,Tasmania,20
+1710,Nicaragua,2006,Tasmania,0
+1711,Panama,2006,Tasmania,0
+1712,Anguilla,2006,Tasmania,0
+1713,Antigua/Barbuda,2006,Tasmania,0
+1714,Aruba,2006,Tasmania,0
+1715,Bahamas,2006,Tasmania,10
+1716,Barbados,2006,Tasmania,10
+1717,Cayman Islands,2006,Tasmania,0
+1718,Cuba,2006,Tasmania,0
+1719,Dominica,2006,Tasmania,0
+1720,Dominican Rep,2006,Tasmania,0
+1721,Grenada,2006,Tasmania,0
+1722,Guadeloupe,2006,Tasmania,0
+1723,Haiti,2006,Tasmania,0
+1724,Jamaica,2006,Tasmania,10
+1725,Martinique,2006,Tasmania,0
+1726,Montserrat,2006,Tasmania,0
+1727,Puerto Rico,2006,Tasmania,0
+1728,St Kitts/Nevis,2006,Tasmania,0
+1729,St Lucia,2006,Tasmania,0
+1730,St Vinc/Grenad,2006,Tasmania,0
+1731,Trinidad/Tobago,2006,Tasmania,10
+1732,Turks/Caicos Is,2006,Tasmania,0
+1733,"Virgin Is, Brit",2006,Tasmania,0
+1734,"Virgin Is, US",2006,Tasmania,0
+1735,St Barthelemy,2006,Tasmania,0
+1736,St Martin (Fr),2006,Tasmania,0
+1737,Bonaire/SE/Saba,2006,Tasmania,0
+1738,Curacao,2006,Tasmania,0
+1739,Sint Maarten Dp,2006,Tasmania,0
+1740,Benin,2006,Tasmania,0
+1741,Burkina Faso,2006,Tasmania,0
+1742,Cameroon,2006,Tasmania,0
+1743,Cabo Verde,2006,Tasmania,0
+1744,Cent Africa Rep,2006,Tasmania,0
+1745,Chad,2006,Tasmania,0
+1746,"Congo, Rep",2006,Tasmania,10
+1747,"Congo, Dem Rep",2006,Tasmania,0
+1748,Cote d'Ivoire,2006,Tasmania,0
+1749,Equator Guinea,2006,Tasmania,0
+1750,Gabon,2006,Tasmania,0
+1751,Gambia,2006,Tasmania,0
+1752,Ghana,2006,Tasmania,30
+1753,Guinea,2006,Tasmania,10
+1754,Guinea-Bissau,2006,Tasmania,0
+1755,Liberia,2006,Tasmania,40
+1756,Mali,2006,Tasmania,0
+1757,Mauritania,2006,Tasmania,0
+1758,Niger,2006,Tasmania,0
+1759,Nigeria,2006,Tasmania,50
+1760,Sao Tome/Princ,2006,Tasmania,0
+1761,Senegal,2006,Tasmania,0
+1762,Sierra Leone,2006,Tasmania,200
+1763,Togo,2006,Tasmania,0
+1764,Angola,2006,Tasmania,0
+1765,Botswana,2006,Tasmania,10
+1766,Burundi,2006,Tasmania,50
+1767,Comoros,2006,Tasmania,0
+1768,Djibouti,2006,Tasmania,0
+1769,Eritrea,2006,Tasmania,20
+1770,Ethiopia,2006,Tasmania,190
+1771,Kenya,2006,Tasmania,140
+1772,Lesotho,2006,Tasmania,0
+1773,Madagascar,2006,Tasmania,0
+1774,Malawi,2006,Tasmania,10
+1775,Mauritius,2006,Tasmania,30
+1776,Mayotte,2006,Tasmania,0
+1777,Mozambique,2006,Tasmania,10
+1778,Namibia,2006,Tasmania,10
+1779,Reunion,2006,Tasmania,0
+1780,Rwanda,2006,Tasmania,10
+1781,St Helena,2006,Tasmania,0
+1782,Seychelles,2006,Tasmania,20
+1783,Somalia,2006,Tasmania,0
+1784,South Africa,2006,Tasmania,"1,230"
+1785,Eswatini,2006,Tasmania,10
+1786,Tanzania,2006,Tasmania,50
+1787,Uganda,2006,Tasmania,60
+1788,Zambia,2006,Tasmania,70
+1789,Zimbabwe,2006,Tasmania,270
+1790,"S & E Afr, nec",2006,Tasmania,0
+1791,Inadequately described,2006,Tasmania,0
+1792,Australia,2006,Northern Territory,"176,310"
+1793,Norfolk Island,2006,Northern Territory,0
+1794,"Aust E T, nec",2006,Northern Territory,0
+1795,New Zealand,2006,Northern Territory,"4,010"
+1796,New Caledonia,2006,Northern Territory,10
+1797,PNG,2006,Northern Territory,780
+1798,Solomon Islands,2006,Northern Territory,40
+1799,Vanuatu,2006,Northern Territory,10
+1800,Guam,2006,Northern Territory,0
+1801,Kiribati,2006,Northern Territory,30
+1802,Marshall Is,2006,Northern Territory,0
+1803,"Micronesia, F S",2006,Northern Territory,0
+1804,Nauru,2006,Northern Territory,10
+1805,N Mariana Is,2006,Northern Territory,0
+1806,Palau,2006,Northern Territory,0
+1807,Cook Islands,2006,Northern Territory,20
+1808,Fiji,2006,Northern Territory,230
+1809,French Poly,2006,Northern Territory,10
+1810,Niue,2006,Northern Territory,0
+1811,Samoa,2006,Northern Territory,20
+1812,Samoa American,2006,Northern Territory,0
+1813,Tokelau,2006,Northern Territory,0
+1814,Tonga,2006,Northern Territory,50
+1815,Tuvalu,2006,Northern Territory,0
+1816,Wallis/Futuna,2006,Northern Territory,0
+1817,Pitcairn Is,2006,Northern Territory,0
+1818,"Polynesia, nec",2006,Northern Territory,0
+1819,Adelie Land,2006,Northern Territory,0
+1820,Argentinian A T,2006,Northern Territory,0
+1821,Australian A T,2006,Northern Territory,0
+1822,British A T,2006,Northern Territory,0
+1823,Chilean A T,2006,Northern Territory,0
+1824,Queen Maud Land,2006,Northern Territory,0
+1825,Ross Dependency,2006,Northern Territory,0
+1826,England,2006,Northern Territory,"5,990"
+1827,Isle of Man,2006,Northern Territory,10
+1828,N'thern Ireland,2006,Northern Territory,140
+1829,Scotland,2006,Northern Territory,910
+1830,Wales,2006,Northern Territory,190
+1831,Guernsey,2006,Northern Territory,0
+1832,Jersey,2006,Northern Territory,0
+1833,Ireland,2006,Northern Territory,400
+1834,Austria,2006,Northern Territory,160
+1835,Belgium,2006,Northern Territory,50
+1836,France,2006,Northern Territory,260
+1837,Germany,2006,Northern Territory,"1,130"
+1838,Liechtenstein,2006,Northern Territory,0
+1839,Luxembourg,2006,Northern Territory,0
+1840,Monaco,2006,Northern Territory,0
+1841,Netherlands,2006,Northern Territory,620
+1842,Switzerland,2006,Northern Territory,200
+1843,Denmark,2006,Northern Territory,150
+1844,Faroe Islands,2006,Northern Territory,0
+1845,Finland,2006,Northern Territory,80
+1846,Greenland,2006,Northern Territory,0
+1847,Iceland,2006,Northern Territory,10
+1848,Norway,2006,Northern Territory,40
+1849,Sweden,2006,Northern Territory,80
+1850,Aland Islands,2006,Northern Territory,0
+1851,Andorra,2006,Northern Territory,0
+1852,Gibraltar,2006,Northern Territory,10
+1853,Holy See,2006,Northern Territory,0
+1854,Italy,2006,Northern Territory,560
+1855,Malta,2006,Northern Territory,70
+1856,Portugal,2006,Northern Territory,210
+1857,San Marino,2006,Northern Territory,0
+1858,Spain,2006,Northern Territory,110
+1859,Albania,2006,Northern Territory,10
+1860,Bosnia/Herzegov,2006,Northern Territory,50
+1861,Bulgaria,2006,Northern Territory,20
+1862,Croatia,2006,Northern Territory,80
+1863,Cyprus,2006,Northern Territory,170
+1864,North Macedonia,2006,Northern Territory,20
+1865,Greece,2006,Northern Territory,"1,310"
+1866,Moldova,2006,Northern Territory,0
+1867,Romania,2006,Northern Territory,20
+1868,Slovenia,2006,Northern Territory,30
+1869,Montenegro,2006,Northern Territory,10
+1870,Serbia,2006,Northern Territory,80
+1871,Kosovo,2006,Northern Territory,0
+1872,Belarus,2006,Northern Territory,0
+1873,Czechia,2006,Northern Territory,100
+1874,Estonia,2006,Northern Territory,10
+1875,Hungary,2006,Northern Territory,90
+1876,Latvia,2006,Northern Territory,20
+1877,Lithuania,2006,Northern Territory,10
+1878,Poland,2006,Northern Territory,120
+1879,Russia,2006,Northern Territory,20
+1880,Slovakia,2006,Northern Territory,20
+1881,Ukraine,2006,Northern Territory,20
+1882,Algeria,2006,Northern Territory,10
+1883,Egypt,2006,Northern Territory,70
+1884,Libya,2006,Northern Territory,0
+1885,Morocco,2006,Northern Territory,10
+1886,Sudan,2006,Northern Territory,240
+1887,Tunisia,2006,Northern Territory,0
+1888,Western Sahara,2006,Northern Territory,0
+1889,Sp North Africa,2006,Northern Territory,0
+1890,South Sudan,2006,Northern Territory,0
+1891,Bahrain,2006,Northern Territory,0
+1892,Gaza Str/W Bank,2006,Northern Territory,0
+1893,Iran,2006,Northern Territory,30
+1894,Iraq,2006,Northern Territory,20
+1895,Israel,2006,Northern Territory,10
+1896,Jordan,2006,Northern Territory,10
+1897,Kuwait,2006,Northern Territory,0
+1898,Lebanon,2006,Northern Territory,30
+1899,Oman,2006,Northern Territory,10
+1900,Qatar,2006,Northern Territory,0
+1901,Saudi Arabia,2006,Northern Territory,0
+1902,Syria,2006,Northern Territory,0
+1903,Turkey,2006,Northern Territory,30
+1904,Unit Arab Emir,2006,Northern Territory,10
+1905,Yemen,2006,Northern Territory,0
+1906,Myanmar,2006,Northern Territory,70
+1907,Cambodia,2006,Northern Territory,170
+1908,Laos,2006,Northern Territory,30
+1909,Thailand,2006,Northern Territory,600
+1910,Vietnam,2006,Northern Territory,690
+1911,Brunei,2006,Northern Territory,40
+1912,Indonesia,2006,Northern Territory,"1,070"
+1913,Malaysia,2006,Northern Territory,720
+1914,Philippines,2006,Northern Territory,"2,370"
+1915,Singapore,2006,Northern Territory,280
+1916,Timor-Leste,2006,Northern Territory,"1,290"
+1917,China,2006,Northern Territory,430
+1918,Hong Kong,2006,Northern Territory,250
+1919,Macau,2006,Northern Territory,10
+1920,Mongolia,2006,Northern Territory,0
+1921,Taiwan,2006,Northern Territory,90
+1922,Japan,2006,Northern Territory,160
+1923,"Korea, North",2006,Northern Territory,0
+1924,"Korea, South",2006,Northern Territory,110
+1925,Bangladesh,2006,Northern Territory,80
+1926,Bhutan,2006,Northern Territory,0
+1927,India,2006,Northern Territory,750
+1928,Maldives,2006,Northern Territory,0
+1929,Nepal,2006,Northern Territory,30
+1930,Pakistan,2006,Northern Territory,100
+1931,Sri Lanka,2006,Northern Territory,360
+1932,Afghanistan,2006,Northern Territory,10
+1933,Armenia,2006,Northern Territory,0
+1934,Azerbaijan,2006,Northern Territory,0
+1935,Georgia,2006,Northern Territory,0
+1936,Kazakhstan,2006,Northern Territory,0
+1937,Kyrgyzstan,2006,Northern Territory,0
+1938,Tajikistan,2006,Northern Territory,0
+1939,Turkmenistan,2006,Northern Territory,0
+1940,Uzbekistan,2006,Northern Territory,0
+1941,Bermuda,2006,Northern Territory,0
+1942,Canada,2006,Northern Territory,360
+1943,St Pierre/Mique,2006,Northern Territory,0
+1944,USA,2006,Northern Territory,"1,500"
+1945,Argentina,2006,Northern Territory,40
+1946,Bolivia,2006,Northern Territory,10
+1947,Brazil,2006,Northern Territory,40
+1948,Chile,2006,Northern Territory,60
+1949,Colombia,2006,Northern Territory,30
+1950,Ecuador,2006,Northern Territory,0
+1951,Falkland Is,2006,Northern Territory,0
+1952,French Guiana,2006,Northern Territory,0
+1953,Guyana,2006,Northern Territory,10
+1954,Paraguay,2006,Northern Territory,0
+1955,Peru,2006,Northern Territory,30
+1956,Suriname,2006,Northern Territory,0
+1957,Uruguay,2006,Northern Territory,10
+1958,Venezuela,2006,Northern Territory,10
+1959,"S America, nec",2006,Northern Territory,0
+1960,Belize,2006,Northern Territory,0
+1961,Costa Rica,2006,Northern Territory,0
+1962,El Salvador,2006,Northern Territory,10
+1963,Guatemala,2006,Northern Territory,0
+1964,Honduras,2006,Northern Territory,0
+1965,Mexico,2006,Northern Territory,10
+1966,Nicaragua,2006,Northern Territory,0
+1967,Panama,2006,Northern Territory,0
+1968,Anguilla,2006,Northern Territory,0
+1969,Antigua/Barbuda,2006,Northern Territory,0
+1970,Aruba,2006,Northern Territory,0
+1971,Bahamas,2006,Northern Territory,0
+1972,Barbados,2006,Northern Territory,0
+1973,Cayman Islands,2006,Northern Territory,10
+1974,Cuba,2006,Northern Territory,0
+1975,Dominica,2006,Northern Territory,0
+1976,Dominican Rep,2006,Northern Territory,0
+1977,Grenada,2006,Northern Territory,0
+1978,Guadeloupe,2006,Northern Territory,0
+1979,Haiti,2006,Northern Territory,0
+1980,Jamaica,2006,Northern Territory,10
+1981,Martinique,2006,Northern Territory,0
+1982,Montserrat,2006,Northern Territory,0
+1983,Puerto Rico,2006,Northern Territory,10
+1984,St Kitts/Nevis,2006,Northern Territory,0
+1985,St Lucia,2006,Northern Territory,0
+1986,St Vinc/Grenad,2006,Northern Territory,0
+1987,Trinidad/Tobago,2006,Northern Territory,10
+1988,Turks/Caicos Is,2006,Northern Territory,0
+1989,"Virgin Is, Brit",2006,Northern Territory,0
+1990,"Virgin Is, US",2006,Northern Territory,0
+1991,St Barthelemy,2006,Northern Territory,0
+1992,St Martin (Fr),2006,Northern Territory,0
+1993,Bonaire/SE/Saba,2006,Northern Territory,0
+1994,Curacao,2006,Northern Territory,0
+1995,Sint Maarten Dp,2006,Northern Territory,0
+1996,Benin,2006,Northern Territory,0
+1997,Burkina Faso,2006,Northern Territory,0
+1998,Cameroon,2006,Northern Territory,0
+1999,Cabo Verde,2006,Northern Territory,0
+2000,Cent Africa Rep,2006,Northern Territory,0
+2001,Chad,2006,Northern Territory,0
+2002,"Congo, Rep",2006,Northern Territory,30
+2003,"Congo, Dem Rep",2006,Northern Territory,20
+2004,Cote d'Ivoire,2006,Northern Territory,0
+2005,Equator Guinea,2006,Northern Territory,0
+2006,Gabon,2006,Northern Territory,0
+2007,Gambia,2006,Northern Territory,0
+2008,Ghana,2006,Northern Territory,20
+2009,Guinea,2006,Northern Territory,30
+2010,Guinea-Bissau,2006,Northern Territory,0
+2011,Liberia,2006,Northern Territory,90
+2012,Mali,2006,Northern Territory,0
+2013,Mauritania,2006,Northern Territory,0
+2014,Niger,2006,Northern Territory,0
+2015,Nigeria,2006,Northern Territory,30
+2016,Sao Tome/Princ,2006,Northern Territory,0
+2017,Senegal,2006,Northern Territory,0
+2018,Sierra Leone,2006,Northern Territory,10
+2019,Togo,2006,Northern Territory,0
+2020,Angola,2006,Northern Territory,0
+2021,Botswana,2006,Northern Territory,10
+2022,Burundi,2006,Northern Territory,10
+2023,Comoros,2006,Northern Territory,0
+2024,Djibouti,2006,Northern Territory,0
+2025,Eritrea,2006,Northern Territory,0
+2026,Ethiopia,2006,Northern Territory,30
+2027,Kenya,2006,Northern Territory,140
+2028,Lesotho,2006,Northern Territory,10
+2029,Madagascar,2006,Northern Territory,0
+2030,Malawi,2006,Northern Territory,10
+2031,Mauritius,2006,Northern Territory,40
+2032,Mayotte,2006,Northern Territory,0
+2033,Mozambique,2006,Northern Territory,10
+2034,Namibia,2006,Northern Territory,10
+2035,Reunion,2006,Northern Territory,0
+2036,Rwanda,2006,Northern Territory,0
+2037,St Helena,2006,Northern Territory,0
+2038,Seychelles,2006,Northern Territory,30
+2039,Somalia,2006,Northern Territory,30
+2040,South Africa,2006,Northern Territory,540
+2041,Eswatini,2006,Northern Territory,0
+2042,Tanzania,2006,Northern Territory,30
+2043,Uganda,2006,Northern Territory,50
+2044,Zambia,2006,Northern Territory,40
+2045,Zimbabwe,2006,Northern Territory,360
+2046,"S & E Afr, nec",2006,Northern Territory,0
+2047,Inadequately described,2006,Northern Territory,0
+2048,Australia,2006,Australian Capital Territory,"256,110"
+2049,Norfolk Island,2006,Australian Capital Territory,0
+2050,"Aust E T, nec",2006,Australian Capital Territory,0
+2051,New Zealand,2006,Australian Capital Territory,"4,360"
+2052,New Caledonia,2006,Australian Capital Territory,10
+2053,PNG,2006,Australian Capital Territory,770
+2054,Solomon Islands,2006,Australian Capital Territory,30
+2055,Vanuatu,2006,Australian Capital Territory,50
+2056,Guam,2006,Australian Capital Territory,0
+2057,Kiribati,2006,Australian Capital Territory,20
+2058,Marshall Is,2006,Australian Capital Territory,0
+2059,"Micronesia, F S",2006,Australian Capital Territory,0
+2060,Nauru,2006,Australian Capital Territory,10
+2061,N Mariana Is,2006,Australian Capital Territory,0
+2062,Palau,2006,Australian Capital Territory,0
+2063,Cook Islands,2006,Australian Capital Territory,20
+2064,Fiji,2006,Australian Capital Territory,760
+2065,French Poly,2006,Australian Capital Territory,0
+2066,Niue,2006,Australian Capital Territory,10
+2067,Samoa,2006,Australian Capital Territory,140
+2068,Samoa American,2006,Australian Capital Territory,0
+2069,Tokelau,2006,Australian Capital Territory,0
+2070,Tonga,2006,Australian Capital Territory,190
+2071,Tuvalu,2006,Australian Capital Territory,0
+2072,Wallis/Futuna,2006,Australian Capital Territory,0
+2073,Pitcairn Is,2006,Australian Capital Territory,0
+2074,"Polynesia, nec",2006,Australian Capital Territory,0
+2075,Adelie Land,2006,Australian Capital Territory,0
+2076,Argentinian A T,2006,Australian Capital Territory,0
+2077,Australian A T,2006,Australian Capital Territory,0
+2078,British A T,2006,Australian Capital Territory,0
+2079,Chilean A T,2006,Australian Capital Territory,0
+2080,Queen Maud Land,2006,Australian Capital Territory,0
+2081,Ross Dependency,2006,Australian Capital Territory,0
+2082,England,2006,Australian Capital Territory,"13,740"
+2083,Isle of Man,2006,Australian Capital Territory,10
+2084,N'thern Ireland,2006,Australian Capital Territory,380
+2085,Scotland,2006,Australian Capital Territory,"2,300"
+2086,Wales,2006,Australian Capital Territory,500
+2087,Guernsey,2006,Australian Capital Territory,0
+2088,Jersey,2006,Australian Capital Territory,10
+2089,Ireland,2006,Australian Capital Territory,760
+2090,Austria,2006,Australian Capital Territory,600
+2091,Belgium,2006,Australian Capital Territory,150
+2092,France,2006,Australian Capital Territory,510
+2093,Germany,2006,Australian Capital Territory,"2,720"
+2094,Liechtenstein,2006,Australian Capital Territory,0
+2095,Luxembourg,2006,Australian Capital Territory,0
+2096,Monaco,2006,Australian Capital Territory,0
+2097,Netherlands,2006,Australian Capital Territory,"1,360"
+2098,Switzerland,2006,Australian Capital Territory,300
+2099,Denmark,2006,Australian Capital Territory,190
+2100,Faroe Islands,2006,Australian Capital Territory,0
+2101,Finland,2006,Australian Capital Territory,710
+2102,Greenland,2006,Australian Capital Territory,0
+2103,Iceland,2006,Australian Capital Territory,10
+2104,Norway,2006,Australian Capital Territory,100
+2105,Sweden,2006,Australian Capital Territory,190
+2106,Aland Islands,2006,Australian Capital Territory,0
+2107,Andorra,2006,Australian Capital Territory,0
+2108,Gibraltar,2006,Australian Capital Territory,10
+2109,Holy See,2006,Australian Capital Territory,0
+2110,Italy,2006,Australian Capital Territory,"2,410"
+2111,Malta,2006,Australian Capital Territory,340
+2112,Portugal,2006,Australian Capital Territory,240
+2113,San Marino,2006,Australian Capital Territory,0
+2114,Spain,2006,Australian Capital Territory,600
+2115,Albania,2006,Australian Capital Territory,10
+2116,Bosnia/Herzegov,2006,Australian Capital Territory,570
+2117,Bulgaria,2006,Australian Capital Territory,40
+2118,Croatia,2006,Australian Capital Territory,"2,020"
+2119,Cyprus,2006,Australian Capital Territory,140
+2120,North Macedonia,2006,Australian Capital Territory,470
+2121,Greece,2006,Australian Capital Territory,"1,440"
+2122,Moldova,2006,Australian Capital Territory,0
+2123,Romania,2006,Australian Capital Territory,150
+2124,Slovenia,2006,Australian Capital Territory,220
+2125,Montenegro,2006,Australian Capital Territory,20
+2126,Serbia,2006,Australian Capital Territory,810
+2127,Kosovo,2006,Australian Capital Territory,0
+2128,Belarus,2006,Australian Capital Territory,20
+2129,Czechia,2006,Australian Capital Territory,290
+2130,Estonia,2006,Australian Capital Territory,50
+2131,Hungary,2006,Australian Capital Territory,490
+2132,Latvia,2006,Australian Capital Territory,170
+2133,Lithuania,2006,Australian Capital Territory,80
+2134,Poland,2006,Australian Capital Territory,"1,300"
+2135,Russia,2006,Australian Capital Territory,330
+2136,Slovakia,2006,Australian Capital Territory,50
+2137,Ukraine,2006,Australian Capital Territory,180
+2138,Algeria,2006,Australian Capital Territory,20
+2139,Egypt,2006,Australian Capital Territory,260
+2140,Libya,2006,Australian Capital Territory,20
+2141,Morocco,2006,Australian Capital Territory,20
+2142,Sudan,2006,Australian Capital Territory,250
+2143,Tunisia,2006,Australian Capital Territory,0
+2144,Western Sahara,2006,Australian Capital Territory,0
+2145,Sp North Africa,2006,Australian Capital Territory,0
+2146,South Sudan,2006,Australian Capital Territory,0
+2147,Bahrain,2006,Australian Capital Territory,20
+2148,Gaza Str/W Bank,2006,Australian Capital Territory,40
+2149,Iran,2006,Australian Capital Territory,420
+2150,Iraq,2006,Australian Capital Territory,150
+2151,Israel,2006,Australian Capital Territory,110
+2152,Jordan,2006,Australian Capital Territory,80
+2153,Kuwait,2006,Australian Capital Territory,40
+2154,Lebanon,2006,Australian Capital Territory,420
+2155,Oman,2006,Australian Capital Territory,10
+2156,Qatar,2006,Australian Capital Territory,10
+2157,Saudi Arabia,2006,Australian Capital Territory,80
+2158,Syria,2006,Australian Capital Territory,40
+2159,Turkey,2006,Australian Capital Territory,210
+2160,Unit Arab Emir,2006,Australian Capital Territory,40
+2161,Yemen,2006,Australian Capital Territory,20
+2162,Myanmar,2006,Australian Capital Territory,350
+2163,Cambodia,2006,Australian Capital Territory,280
+2164,Laos,2006,Australian Capital Territory,710
+2165,Thailand,2006,Australian Capital Territory,890
+2166,Vietnam,2006,Australian Capital Territory,"2,630"
+2167,Brunei,2006,Australian Capital Territory,40
+2168,Indonesia,2006,Australian Capital Territory,890
+2169,Malaysia,2006,Australian Capital Territory,"2,050"
+2170,Philippines,2006,Australian Capital Territory,"1,940"
+2171,Singapore,2006,Australian Capital Territory,790
+2172,Timor-Leste,2006,Australian Capital Territory,30
+2173,China,2006,Australian Capital Territory,"4,350"
+2174,Hong Kong,2006,Australian Capital Territory,"1,410"
+2175,Macau,2006,Australian Capital Territory,30
+2176,Mongolia,2006,Australian Capital Territory,20
+2177,Taiwan,2006,Australian Capital Territory,290
+2178,Japan,2006,Australian Capital Territory,620
+2179,"Korea, North",2006,Australian Capital Territory,20
+2180,"Korea, South",2006,Australian Capital Territory,970
+2181,Bangladesh,2006,Australian Capital Territory,640
+2182,Bhutan,2006,Australian Capital Territory,30
+2183,India,2006,Australian Capital Territory,"3,200"
+2184,Maldives,2006,Australian Capital Territory,10
+2185,Nepal,2006,Australian Capital Territory,70
+2186,Pakistan,2006,Australian Capital Territory,600
+2187,Sri Lanka,2006,Australian Capital Territory,"1,930"
+2188,Afghanistan,2006,Australian Capital Territory,300
+2189,Armenia,2006,Australian Capital Territory,10
+2190,Azerbaijan,2006,Australian Capital Territory,0
+2191,Georgia,2006,Australian Capital Territory,0
+2192,Kazakhstan,2006,Australian Capital Territory,20
+2193,Kyrgyzstan,2006,Australian Capital Territory,0
+2194,Tajikistan,2006,Australian Capital Territory,0
+2195,Turkmenistan,2006,Australian Capital Territory,0
+2196,Uzbekistan,2006,Australian Capital Territory,20
+2197,Bermuda,2006,Australian Capital Territory,10
+2198,Canada,2006,Australian Capital Territory,"1,100"
+2199,St Pierre/Mique,2006,Australian Capital Territory,0
+2200,USA,2006,Australian Capital Territory,"2,410"
+2201,Argentina,2006,Australian Capital Territory,280
+2202,Bolivia,2006,Australian Capital Territory,10
+2203,Brazil,2006,Australian Capital Territory,190
+2204,Chile,2006,Australian Capital Territory,780
+2205,Colombia,2006,Australian Capital Territory,90
+2206,Ecuador,2006,Australian Capital Territory,40
+2207,Falkland Is,2006,Australian Capital Territory,0
+2208,French Guiana,2006,Australian Capital Territory,0
+2209,Guyana,2006,Australian Capital Territory,10
+2210,Paraguay,2006,Australian Capital Territory,0
+2211,Peru,2006,Australian Capital Territory,140
+2212,Suriname,2006,Australian Capital Territory,0
+2213,Uruguay,2006,Australian Capital Territory,90
+2214,Venezuela,2006,Australian Capital Territory,60
+2215,"S America, nec",2006,Australian Capital Territory,0
+2216,Belize,2006,Australian Capital Territory,0
+2217,Costa Rica,2006,Australian Capital Territory,10
+2218,El Salvador,2006,Australian Capital Territory,150
+2219,Guatemala,2006,Australian Capital Territory,10
+2220,Honduras,2006,Australian Capital Territory,0
+2221,Mexico,2006,Australian Capital Territory,70
+2222,Nicaragua,2006,Australian Capital Territory,30
+2223,Panama,2006,Australian Capital Territory,0
+2224,Anguilla,2006,Australian Capital Territory,0
+2225,Antigua/Barbuda,2006,Australian Capital Territory,0
+2226,Aruba,2006,Australian Capital Territory,0
+2227,Bahamas,2006,Australian Capital Territory,0
+2228,Barbados,2006,Australian Capital Territory,10
+2229,Cayman Islands,2006,Australian Capital Territory,0
+2230,Cuba,2006,Australian Capital Territory,10
+2231,Dominica,2006,Australian Capital Territory,0
+2232,Dominican Rep,2006,Australian Capital Territory,0
+2233,Grenada,2006,Australian Capital Territory,0
+2234,Guadeloupe,2006,Australian Capital Territory,0
+2235,Haiti,2006,Australian Capital Territory,10
+2236,Jamaica,2006,Australian Capital Territory,30
+2237,Martinique,2006,Australian Capital Territory,0
+2238,Montserrat,2006,Australian Capital Territory,0
+2239,Puerto Rico,2006,Australian Capital Territory,0
+2240,St Kitts/Nevis,2006,Australian Capital Territory,0
+2241,St Lucia,2006,Australian Capital Territory,0
+2242,St Vinc/Grenad,2006,Australian Capital Territory,0
+2243,Trinidad/Tobago,2006,Australian Capital Territory,20
+2244,Turks/Caicos Is,2006,Australian Capital Territory,0
+2245,"Virgin Is, Brit",2006,Australian Capital Territory,0
+2246,"Virgin Is, US",2006,Australian Capital Territory,0
+2247,St Barthelemy,2006,Australian Capital Territory,0
+2248,St Martin (Fr),2006,Australian Capital Territory,0
+2249,Bonaire/SE/Saba,2006,Australian Capital Territory,0
+2250,Curacao,2006,Australian Capital Territory,0
+2251,Sint Maarten Dp,2006,Australian Capital Territory,0
+2252,Benin,2006,Australian Capital Territory,0
+2253,Burkina Faso,2006,Australian Capital Territory,0
+2254,Cameroon,2006,Australian Capital Territory,0
+2255,Cabo Verde,2006,Australian Capital Territory,0
+2256,Cent Africa Rep,2006,Australian Capital Territory,0
+2257,Chad,2006,Australian Capital Territory,0
+2258,"Congo, Rep",2006,Australian Capital Territory,10
+2259,"Congo, Dem Rep",2006,Australian Capital Territory,10
+2260,Cote d'Ivoire,2006,Australian Capital Territory,0
+2261,Equator Guinea,2006,Australian Capital Territory,0
+2262,Gabon,2006,Australian Capital Territory,0
+2263,Gambia,2006,Australian Capital Territory,0
+2264,Ghana,2006,Australian Capital Territory,140
+2265,Guinea,2006,Australian Capital Territory,0
+2266,Guinea-Bissau,2006,Australian Capital Territory,0
+2267,Liberia,2006,Australian Capital Territory,0
+2268,Mali,2006,Australian Capital Territory,0
+2269,Mauritania,2006,Australian Capital Territory,0
+2270,Niger,2006,Australian Capital Territory,0
+2271,Nigeria,2006,Australian Capital Territory,60
+2272,Sao Tome/Princ,2006,Australian Capital Territory,0
+2273,Senegal,2006,Australian Capital Territory,0
+2274,Sierra Leone,2006,Australian Capital Territory,60
+2275,Togo,2006,Australian Capital Territory,0
+2276,Angola,2006,Australian Capital Territory,10
+2277,Botswana,2006,Australian Capital Territory,30
+2278,Burundi,2006,Australian Capital Territory,0
+2279,Comoros,2006,Australian Capital Territory,0
+2280,Djibouti,2006,Australian Capital Territory,0
+2281,Eritrea,2006,Australian Capital Territory,30
+2282,Ethiopia,2006,Australian Capital Territory,100
+2283,Kenya,2006,Australian Capital Territory,260
+2284,Lesotho,2006,Australian Capital Territory,10
+2285,Madagascar,2006,Australian Capital Territory,0
+2286,Malawi,2006,Australian Capital Territory,20
+2287,Mauritius,2006,Australian Capital Territory,150
+2288,Mayotte,2006,Australian Capital Territory,0
+2289,Mozambique,2006,Australian Capital Territory,20
+2290,Namibia,2006,Australian Capital Territory,20
+2291,Reunion,2006,Australian Capital Territory,0
+2292,Rwanda,2006,Australian Capital Territory,0
+2293,St Helena,2006,Australian Capital Territory,0
+2294,Seychelles,2006,Australian Capital Territory,10
+2295,Somalia,2006,Australian Capital Territory,20
+2296,South Africa,2006,Australian Capital Territory,"1,200"
+2297,Eswatini,2006,Australian Capital Territory,10
+2298,Tanzania,2006,Australian Capital Territory,60
+2299,Uganda,2006,Australian Capital Territory,50
+2300,Zambia,2006,Australian Capital Territory,90
+2301,Zimbabwe,2006,Australian Capital Territory,370
+2302,"S & E Afr, nec",2006,Australian Capital Territory,0
+2303,Inadequately described,2006,Australian Capital Territory,0

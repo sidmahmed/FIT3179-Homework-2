@@ -1,0 +1,2305 @@
+,birth_country,year,destination,values
+0,Australia,2016,Australia,"17,278,800"
+1,Norfolk Island,2016,Australia,770
+2,"Aust E T, nec",2016,Australia,0
+3,New Zealand,2016,Australia,"568,170"
+4,New Caledonia,2016,Australia,"1,590"
+5,PNG,2016,Australia,"34,260"
+6,Solomon Islands,2016,Australia,"2,360"
+7,Vanuatu,2016,Australia,"1,400"
+8,Guam,2016,Australia,120
+9,Kiribati,2016,Australia,640
+10,Marshall Is,2016,Australia,50
+11,"Micronesia, F S",2016,Australia,30
+12,Nauru,2016,Australia,710
+13,N Mariana Is,2016,Australia,30
+14,Palau,2016,Australia,30
+15,Cook Islands,2016,Australia,"8,140"
+16,Fiji,2016,Australia,"73,970"
+17,French Poly,2016,Australia,540
+18,Niue,2016,Australia,970
+19,Samoa,2016,Australia,"28,820"
+20,Samoa American,2016,Australia,430
+21,Tokelau,2016,Australia,660
+22,Tonga,2016,Australia,"11,980"
+23,Tuvalu,2016,Australia,190
+24,Wallis/Futuna,2016,Australia,20
+25,Pitcairn Is,2016,Australia,10
+26,"Polynesia, nec",2016,Australia,10
+27,Adelie Land,2016,Australia,0
+28,Argentinian A T,2016,Australia,0
+29,Australian A T,2016,Australia,0
+30,British A T,2016,Australia,0
+31,Chilean A T,2016,Australia,0
+32,Queen Maud Land,2016,Australia,0
+33,Ross Dependency,2016,Australia,0
+34,England,2016,Australia,"1,002,060"
+35,Isle of Man,2016,Australia,930
+36,N'thern Ireland,2016,Australia,"26,730"
+37,Scotland,2016,Australia,"137,760"
+38,Wales,2016,Australia,"32,360"
+39,Guernsey,2016,Australia,870
+40,Jersey,2016,Australia,"1,380"
+41,Ireland,2016,Australia,"88,020"
+42,Austria,2016,Australia,"17,470"
+43,Belgium,2016,Australia,"7,370"
+44,France,2016,Australia,"37,470"
+45,Germany,2016,Australia,"116,700"
+46,Liechtenstein,2016,Australia,20
+47,Luxembourg,2016,Australia,260
+48,Monaco,2016,Australia,90
+49,Netherlands,2016,Australia,"78,670"
+50,Switzerland,2016,Australia,"14,160"
+51,Denmark,2016,Australia,"10,130"
+52,Faroe Islands,2016,Australia,20
+53,Finland,2016,Australia,"9,050"
+54,Greenland,2016,Australia,40
+55,Iceland,2016,Australia,570
+56,Norway,2016,Australia,"4,390"
+57,Sweden,2016,Australia,"11,640"
+58,Aland Islands,2016,Australia,30
+59,Andorra,2016,Australia,30
+60,Gibraltar,2016,Australia,490
+61,Holy See,2016,Australia,0
+62,Italy,2016,Australia,"195,760"
+63,Malta,2016,Australia,"43,020"
+64,Portugal,2016,Australia,"19,130"
+65,San Marino,2016,Australia,10
+66,Spain,2016,Australia,"18,090"
+67,Albania,2016,Australia,"3,530"
+68,Bosnia/Herzegov,2016,Australia,"36,060"
+69,Bulgaria,2016,Australia,"4,010"
+70,Croatia,2016,Australia,"60,170"
+71,Cyprus,2016,Australia,"19,690"
+72,North Macedonia,2016,Australia,"49,680"
+73,Greece,2016,Australia,"113,420"
+74,Moldova,2016,Australia,"1,160"
+75,Romania,2016,Australia,"16,970"
+76,Slovenia,2016,Australia,"8,000"
+77,Montenegro,2016,Australia,"2,070"
+78,Serbia,2016,Australia,"33,380"
+79,Kosovo,2016,Australia,"1,470"
+80,Belarus,2016,Australia,"2,230"
+81,Czechia,2016,Australia,"13,110"
+82,Estonia,2016,Australia,"3,450"
+83,Hungary,2016,Australia,"20,790"
+84,Latvia,2016,Australia,"4,840"
+85,Lithuania,2016,Australia,"3,440"
+86,Poland,2016,Australia,"53,670"
+87,Russia,2016,Australia,"26,490"
+88,Slovakia,2016,Australia,"6,790"
+89,Ukraine,2016,Australia,"17,180"
+90,Algeria,2016,Australia,"1,640"
+91,Egypt,2016,Australia,"45,220"
+92,Libya,2016,Australia,"2,870"
+93,Morocco,2016,Australia,"2,240"
+94,Sudan,2016,Australia,"19,140"
+95,Tunisia,2016,Australia,680
+96,Western Sahara,2016,Australia,10
+97,Sp North Africa,2016,Australia,0
+98,South Sudan,2016,Australia,"8,430"
+99,Bahrain,2016,Australia,"1,820"
+100,Gaza Str/W Bank,2016,Australia,"3,230"
+101,Iran,2016,Australia,"66,150"
+102,Iraq,2016,Australia,"74,680"
+103,Israel,2016,Australia,"11,350"
+104,Jordan,2016,Australia,"6,950"
+105,Kuwait,2016,Australia,"6,920"
+106,Lebanon,2016,Australia,"93,720"
+107,Oman,2016,Australia,"1,840"
+108,Qatar,2016,Australia,"1,260"
+109,Saudi Arabia,2016,Australia,"14,480"
+110,Syria,2016,Australia,"16,320"
+111,Turkey,2016,Australia,"39,920"
+112,Unit Arab Emir,2016,Australia,"9,170"
+113,Yemen,2016,Australia,770
+114,Myanmar,2016,Australia,"34,070"
+115,Cambodia,2016,Australia,"35,100"
+116,Laos,2016,Australia,"10,950"
+117,Thailand,2016,Australia,"71,250"
+118,Vietnam,2016,Australia,"243,220"
+119,Brunei,2016,Australia,"2,950"
+120,Indonesia,2016,Australia,"78,970"
+121,Malaysia,2016,Australia,"152,900"
+122,Philippines,2016,Australia,"252,690"
+123,Singapore,2016,Australia,"59,120"
+124,Timor-Leste,2016,Australia,"9,780"
+125,China,2016,Australia,"557,690"
+126,Hong Kong,2016,Australia,"97,590"
+127,Macau,2016,Australia,"2,930"
+128,Mongolia,2016,Australia,"2,560"
+129,Taiwan,2016,Australia,"54,040"
+130,Japan,2016,Australia,"49,040"
+131,"Korea, North",2016,Australia,240
+132,"Korea, South",2016,Australia,"111,570"
+133,Bangladesh,2016,Australia,"46,250"
+134,Bhutan,2016,Australia,"6,420"
+135,India,2016,Australia,"489,410"
+136,Maldives,2016,Australia,610
+137,Nepal,2016,Australia,"58,980"
+138,Pakistan,2016,Australia,"69,660"
+139,Sri Lanka,2016,Australia,"124,500"
+140,Afghanistan,2016,Australia,"53,670"
+141,Armenia,2016,Australia,"1,520"
+142,Azerbaijan,2016,Australia,680
+143,Georgia,2016,Australia,650
+144,Kazakhstan,2016,Australia,"2,020"
+145,Kyrgyzstan,2016,Australia,520
+146,Tajikistan,2016,Australia,160
+147,Turkmenistan,2016,Australia,110
+148,Uzbekistan,2016,Australia,"1,950"
+149,Bermuda,2016,Australia,580
+150,Canada,2016,Australia,"53,750"
+151,St Pierre/Mique,2016,Australia,0
+152,USA,2016,Australia,"105,750"
+153,Argentina,2016,Australia,"16,020"
+154,Bolivia,2016,Australia,"1,080"
+155,Brazil,2016,Australia,"32,900"
+156,Chile,2016,Australia,"31,040"
+157,Colombia,2016,Australia,"22,680"
+158,Ecuador,2016,Australia,"2,710"
+159,Falkland Is,2016,Australia,120
+160,French Guiana,2016,Australia,20
+161,Guyana,2016,Australia,670
+162,Paraguay,2016,Australia,510
+163,Peru,2016,Australia,"11,570"
+164,Suriname,2016,Australia,160
+165,Uruguay,2016,Australia,"10,620"
+166,Venezuela,2016,Australia,"6,470"
+167,"S America, nec",2016,Australia,0
+168,Belize,2016,Australia,80
+169,Costa Rica,2016,Australia,530
+170,El Salvador,2016,Australia,"11,430"
+171,Guatemala,2016,Australia,550
+172,Honduras,2016,Australia,310
+173,Mexico,2016,Australia,"5,920"
+174,Nicaragua,2016,Australia,870
+175,Panama,2016,Australia,260
+176,Anguilla,2016,Australia,20
+177,Antigua/Barbuda,2016,Australia,60
+178,Aruba,2016,Australia,70
+179,Bahamas,2016,Australia,310
+180,Barbados,2016,Australia,450
+181,Cayman Islands,2016,Australia,150
+182,Cuba,2016,Australia,900
+183,Dominica,2016,Australia,40
+184,Dominican Rep,2016,Australia,210
+185,Grenada,2016,Australia,140
+186,Guadeloupe,2016,Australia,20
+187,Haiti,2016,Australia,120
+188,Jamaica,2016,Australia,"1,280"
+189,Martinique,2016,Australia,40
+190,Montserrat,2016,Australia,10
+191,Puerto Rico,2016,Australia,180
+192,St Kitts/Nevis,2016,Australia,50
+193,St Lucia,2016,Australia,70
+194,St Vinc/Grenad,2016,Australia,70
+195,Trinidad/Tobago,2016,Australia,"1,880"
+196,Turks/Caicos Is,2016,Australia,0
+197,"Virgin Is, Brit",2016,Australia,30
+198,"Virgin Is, US",2016,Australia,20
+199,St Barthelemy,2016,Australia,0
+200,St Martin (Fr),2016,Australia,0
+201,Bonaire/SE/Saba,2016,Australia,10
+202,Curacao,2016,Australia,150
+203,Sint Maarten Dp,2016,Australia,10
+204,Benin,2016,Australia,100
+205,Burkina Faso,2016,Australia,60
+206,Cameroon,2016,Australia,480
+207,Cabo Verde,2016,Australia,40
+208,Cent Africa Rep,2016,Australia,40
+209,Chad,2016,Australia,60
+210,"Congo, Rep",2016,Australia,"1,700"
+211,"Congo, Dem Rep",2016,Australia,"4,810"
+212,Cote d'Ivoire,2016,Australia,600
+213,Equator Guinea,2016,Australia,10
+214,Gabon,2016,Australia,50
+215,Gambia,2016,Australia,130
+216,Ghana,2016,Australia,"6,300"
+217,Guinea,2016,Australia,960
+218,Guinea-Bissau,2016,Australia,20
+219,Liberia,2016,Australia,"3,580"
+220,Mali,2016,Australia,80
+221,Mauritania,2016,Australia,60
+222,Niger,2016,Australia,30
+223,Nigeria,2016,Australia,"9,800"
+224,Sao Tome/Princ,2016,Australia,20
+225,Senegal,2016,Australia,460
+226,Sierra Leone,2016,Australia,"4,050"
+227,Togo,2016,Australia,370
+228,Angola,2016,Australia,560
+229,Botswana,2016,Australia,"1,370"
+230,Burundi,2016,Australia,"2,510"
+231,Comoros,2016,Australia,20
+232,Djibouti,2016,Australia,200
+233,Eritrea,2016,Australia,"5,140"
+234,Ethiopia,2016,Australia,"14,000"
+235,Kenya,2016,Australia,"21,090"
+236,Lesotho,2016,Australia,150
+237,Madagascar,2016,Australia,310
+238,Malawi,2016,Australia,"1,490"
+239,Mauritius,2016,Australia,"29,300"
+240,Mayotte,2016,Australia,0
+241,Mozambique,2016,Australia,"1,020"
+242,Namibia,2016,Australia,"1,510"
+243,Reunion,2016,Australia,230
+244,Rwanda,2016,Australia,"1,040"
+245,St Helena,2016,Australia,40
+246,Seychelles,2016,Australia,"3,020"
+247,Somalia,2016,Australia,"9,220"
+248,South Africa,2016,Australia,"180,480"
+249,Eswatini,2016,Australia,380
+250,Tanzania,2016,Australia,"4,600"
+251,Uganda,2016,Australia,"4,010"
+252,Zambia,2016,Australia,"7,480"
+253,Zimbabwe,2016,Australia,"41,570"
+254,"S & E Afr, nec",2016,Australia,20
+255,Inadequately described,2016,Australia,0
+256,Australia,2016,New South Wales,"5,406,420"
+257,Norfolk Island,2016,New South Wales,120
+258,"Aust E T, nec",2016,New South Wales,0
+259,New Zealand,2016,New South Wales,"127,910"
+260,New Caledonia,2016,New South Wales,620
+261,PNG,2016,New South Wales,"6,460"
+262,Solomon Islands,2016,New South Wales,640
+263,Vanuatu,2016,New South Wales,520
+264,Guam,2016,New South Wales,30
+265,Kiribati,2016,New South Wales,140
+266,Marshall Is,2016,New South Wales,10
+267,"Micronesia, F S",2016,New South Wales,10
+268,Nauru,2016,New South Wales,90
+269,N Mariana Is,2016,New South Wales,10
+270,Palau,2016,New South Wales,0
+271,Cook Islands,2016,New South Wales,"2,600"
+272,Fiji,2016,New South Wales,"40,570"
+273,French Poly,2016,New South Wales,200
+274,Niue,2016,New South Wales,400
+275,Samoa,2016,New South Wales,"10,810"
+276,Samoa American,2016,New South Wales,130
+277,Tokelau,2016,New South Wales,330
+278,Tonga,2016,New South Wales,"6,990"
+279,Tuvalu,2016,New South Wales,20
+280,Wallis/Futuna,2016,New South Wales,10
+281,Pitcairn Is,2016,New South Wales,10
+282,"Polynesia, nec",2016,New South Wales,0
+283,Adelie Land,2016,New South Wales,0
+284,Argentinian A T,2016,New South Wales,0
+285,Australian A T,2016,New South Wales,0
+286,British A T,2016,New South Wales,0
+287,Chilean A T,2016,New South Wales,0
+288,Queen Maud Land,2016,New South Wales,0
+289,Ross Dependency,2016,New South Wales,0
+290,England,2016,New South Wales,"250,660"
+291,Isle of Man,2016,New South Wales,230
+292,N'thern Ireland,2016,New South Wales,"7,010"
+293,Scotland,2016,New South Wales,"33,080"
+294,Wales,2016,New South Wales,"8,550"
+295,Guernsey,2016,New South Wales,200
+296,Jersey,2016,New South Wales,390
+297,Ireland,2016,New South Wales,"28,200"
+298,Austria,2016,New South Wales,"5,860"
+299,Belgium,2016,New South Wales,"2,370"
+300,France,2016,New South Wales,"14,140"
+301,Germany,2016,New South Wales,"33,660"
+302,Liechtenstein,2016,New South Wales,10
+303,Luxembourg,2016,New South Wales,70
+304,Monaco,2016,New South Wales,30
+305,Netherlands,2016,New South Wales,"18,930"
+306,Switzerland,2016,New South Wales,"4,490"
+307,Denmark,2016,New South Wales,"3,050"
+308,Faroe Islands,2016,New South Wales,10
+309,Finland,2016,New South Wales,"2,710"
+310,Greenland,2016,New South Wales,10
+311,Iceland,2016,New South Wales,150
+312,Norway,2016,New South Wales,"1,450"
+313,Sweden,2016,New South Wales,"4,170"
+314,Aland Islands,2016,New South Wales,10
+315,Andorra,2016,New South Wales,10
+316,Gibraltar,2016,New South Wales,110
+317,Holy See,2016,New South Wales,0
+318,Italy,2016,New South Wales,"55,980"
+319,Malta,2016,New South Wales,"16,530"
+320,Portugal,2016,New South Wales,"10,140"
+321,San Marino,2016,New South Wales,10
+322,Spain,2016,New South Wales,"7,530"
+323,Albania,2016,New South Wales,370
+324,Bosnia/Herzegov,2016,New South Wales,"10,950"
+325,Bulgaria,2016,New South Wales,"1,310"
+326,Croatia,2016,New South Wales,"21,580"
+327,Cyprus,2016,New South Wales,"7,250"
+328,North Macedonia,2016,New South Wales,"20,750"
+329,Greece,2016,New South Wales,"35,970"
+330,Moldova,2016,New South Wales,290
+331,Romania,2016,New South Wales,"4,090"
+332,Slovenia,2016,New South Wales,"2,580"
+333,Montenegro,2016,New South Wales,670
+334,Serbia,2016,New South Wales,"11,620"
+335,Kosovo,2016,New South Wales,320
+336,Belarus,2016,New South Wales,610
+337,Czechia,2016,New South Wales,"5,540"
+338,Estonia,2016,New South Wales,"1,080"
+339,Hungary,2016,New South Wales,"7,440"
+340,Latvia,2016,New South Wales,"1,510"
+341,Lithuania,2016,New South Wales,"1,380"
+342,Poland,2016,New South Wales,"16,060"
+343,Russia,2016,New South Wales,"9,910"
+344,Slovakia,2016,New South Wales,"3,300"
+345,Ukraine,2016,New South Wales,"6,230"
+346,Algeria,2016,New South Wales,710
+347,Egypt,2016,New South Wales,"22,380"
+348,Libya,2016,New South Wales,800
+349,Morocco,2016,New South Wales,880
+350,Sudan,2016,New South Wales,"5,680"
+351,Tunisia,2016,New South Wales,270
+352,Western Sahara,2016,New South Wales,10
+353,Sp North Africa,2016,New South Wales,0
+354,South Sudan,2016,New South Wales,"1,060"
+355,Bahrain,2016,New South Wales,580
+356,Gaza Str/W Bank,2016,New South Wales,"1,830"
+357,Iran,2016,New South Wales,"26,220"
+358,Iraq,2016,New South Wales,"44,540"
+359,Israel,2016,New South Wales,"4,190"
+360,Jordan,2016,New South Wales,"4,460"
+361,Kuwait,2016,New South Wales,"2,980"
+362,Lebanon,2016,New South Wales,"68,360"
+363,Oman,2016,New South Wales,420
+364,Qatar,2016,New South Wales,400
+365,Saudi Arabia,2016,New South Wales,"4,090"
+366,Syria,2016,New South Wales,"9,970"
+367,Turkey,2016,New South Wales,"15,910"
+368,Unit Arab Emir,2016,New South Wales,"2,870"
+369,Yemen,2016,New South Wales,270
+370,Myanmar,2016,New South Wales,"7,440"
+371,Cambodia,2016,New South Wales,"13,110"
+372,Laos,2016,New South Wales,"5,520"
+373,Thailand,2016,New South Wales,"28,740"
+374,Vietnam,2016,New South Wales,"92,890"
+375,Brunei,2016,New South Wales,510
+376,Indonesia,2016,New South Wales,"34,070"
+377,Malaysia,2016,New South Wales,"34,930"
+378,Philippines,2016,New South Wales,"94,110"
+379,Singapore,2016,New South Wales,"13,660"
+380,Timor-Leste,2016,New South Wales,"2,190"
+381,China,2016,New South Wales,"256,050"
+382,Hong Kong,2016,New South Wales,"47,290"
+383,Macau,2016,New South Wales,"1,360"
+384,Mongolia,2016,New South Wales,"1,770"
+385,Taiwan,2016,New South Wales,"15,380"
+386,Japan,2016,New South Wales,"16,170"
+387,"Korea, North",2016,New South Wales,150
+388,"Korea, South",2016,New South Wales,"58,030"
+389,Bangladesh,2016,New South Wales,"27,230"
+390,Bhutan,2016,New South Wales,730
+391,India,2016,New South Wales,"153,800"
+392,Maldives,2016,New South Wales,70
+393,Nepal,2016,New South Wales,"34,470"
+394,Pakistan,2016,New South Wales,"27,470"
+395,Sri Lanka,2016,New South Wales,"32,580"
+396,Afghanistan,2016,New South Wales,"14,830"
+397,Armenia,2016,New South Wales,870
+398,Azerbaijan,2016,New South Wales,210
+399,Georgia,2016,New South Wales,250
+400,Kazakhstan,2016,New South Wales,650
+401,Kyrgyzstan,2016,New South Wales,130
+402,Tajikistan,2016,New South Wales,60
+403,Turkmenistan,2016,New South Wales,40
+404,Uzbekistan,2016,New South Wales,650
+405,Bermuda,2016,New South Wales,170
+406,Canada,2016,New South Wales,"16,580"
+407,St Pierre/Mique,2016,New South Wales,0
+408,USA,2016,New South Wales,"36,930"
+409,Argentina,2016,New South Wales,"7,500"
+410,Bolivia,2016,New South Wales,670
+411,Brazil,2016,New South Wales,"14,640"
+412,Chile,2016,New South Wales,"15,510"
+413,Colombia,2016,New South Wales,"8,060"
+414,Ecuador,2016,New South Wales,"1,650"
+415,Falkland Is,2016,New South Wales,30
+416,French Guiana,2016,New South Wales,10
+417,Guyana,2016,New South Wales,190
+418,Paraguay,2016,New South Wales,270
+419,Peru,2016,New South Wales,"6,920"
+420,Suriname,2016,New South Wales,40
+421,Uruguay,2016,New South Wales,"7,320"
+422,Venezuela,2016,New South Wales,"2,200"
+423,"S America, nec",2016,New South Wales,0
+424,Belize,2016,New South Wales,30
+425,Costa Rica,2016,New South Wales,230
+426,El Salvador,2016,New South Wales,"2,210"
+427,Guatemala,2016,New South Wales,180
+428,Honduras,2016,New South Wales,120
+429,Mexico,2016,New South Wales,"2,080"
+430,Nicaragua,2016,New South Wales,500
+431,Panama,2016,New South Wales,120
+432,Anguilla,2016,New South Wales,10
+433,Antigua/Barbuda,2016,New South Wales,10
+434,Aruba,2016,New South Wales,20
+435,Bahamas,2016,New South Wales,70
+436,Barbados,2016,New South Wales,100
+437,Cayman Islands,2016,New South Wales,50
+438,Cuba,2016,New South Wales,360
+439,Dominica,2016,New South Wales,10
+440,Dominican Rep,2016,New South Wales,60
+441,Grenada,2016,New South Wales,70
+442,Guadeloupe,2016,New South Wales,10
+443,Haiti,2016,New South Wales,40
+444,Jamaica,2016,New South Wales,360
+445,Martinique,2016,New South Wales,10
+446,Montserrat,2016,New South Wales,0
+447,Puerto Rico,2016,New South Wales,60
+448,St Kitts/Nevis,2016,New South Wales,20
+449,St Lucia,2016,New South Wales,20
+450,St Vinc/Grenad,2016,New South Wales,30
+451,Trinidad/Tobago,2016,New South Wales,430
+452,Turks/Caicos Is,2016,New South Wales,0
+453,"Virgin Is, Brit",2016,New South Wales,10
+454,"Virgin Is, US",2016,New South Wales,10
+455,St Barthelemy,2016,New South Wales,0
+456,St Martin (Fr),2016,New South Wales,0
+457,Bonaire/SE/Saba,2016,New South Wales,0
+458,Curacao,2016,New South Wales,50
+459,Sint Maarten Dp,2016,New South Wales,0
+460,Benin,2016,New South Wales,30
+461,Burkina Faso,2016,New South Wales,20
+462,Cameroon,2016,New South Wales,120
+463,Cabo Verde,2016,New South Wales,10
+464,Cent Africa Rep,2016,New South Wales,0
+465,Chad,2016,New South Wales,20
+466,"Congo, Rep",2016,New South Wales,300
+467,"Congo, Dem Rep",2016,New South Wales,630
+468,Cote d'Ivoire,2016,New South Wales,130
+469,Equator Guinea,2016,New South Wales,10
+470,Gabon,2016,New South Wales,30
+471,Gambia,2016,New South Wales,60
+472,Ghana,2016,New South Wales,"2,930"
+473,Guinea,2016,New South Wales,280
+474,Guinea-Bissau,2016,New South Wales,20
+475,Liberia,2016,New South Wales,700
+476,Mali,2016,New South Wales,20
+477,Mauritania,2016,New South Wales,40
+478,Niger,2016,New South Wales,10
+479,Nigeria,2016,New South Wales,"3,120"
+480,Sao Tome/Princ,2016,New South Wales,10
+481,Senegal,2016,New South Wales,200
+482,Sierra Leone,2016,New South Wales,"1,910"
+483,Togo,2016,New South Wales,100
+484,Angola,2016,New South Wales,190
+485,Botswana,2016,New South Wales,280
+486,Burundi,2016,New South Wales,230
+487,Comoros,2016,New South Wales,0
+488,Djibouti,2016,New South Wales,40
+489,Eritrea,2016,New South Wales,340
+490,Ethiopia,2016,New South Wales,"1,490"
+491,Kenya,2016,New South Wales,"3,820"
+492,Lesotho,2016,New South Wales,50
+493,Madagascar,2016,New South Wales,70
+494,Malawi,2016,New South Wales,240
+495,Mauritius,2016,New South Wales,"6,810"
+496,Mayotte,2016,New South Wales,0
+497,Mozambique,2016,New South Wales,250
+498,Namibia,2016,New South Wales,310
+499,Reunion,2016,New South Wales,70
+500,Rwanda,2016,New South Wales,160
+501,St Helena,2016,New South Wales,10
+502,Seychelles,2016,New South Wales,280
+503,Somalia,2016,New South Wales,960
+504,South Africa,2016,New South Wales,"47,740"
+505,Eswatini,2016,New South Wales,100
+506,Tanzania,2016,New South Wales,970
+507,Uganda,2016,New South Wales,950
+508,Zambia,2016,New South Wales,"1,330"
+509,Zimbabwe,2016,New South Wales,"7,700"
+510,"S & E Afr, nec",2016,New South Wales,10
+511,Inadequately described,2016,New South Wales,0
+512,Australia,2016,Victoria,"4,280,630"
+513,Norfolk Island,2016,Victoria,20
+514,"Aust E T, nec",2016,Victoria,0
+515,New Zealand,2016,Victoria,"102,720"
+516,New Caledonia,2016,Victoria,160
+517,PNG,2016,Victoria,"3,080"
+518,Solomon Islands,2016,Victoria,220
+519,Vanuatu,2016,Victoria,190
+520,Guam,2016,Victoria,20
+521,Kiribati,2016,Victoria,130
+522,Marshall Is,2016,Victoria,20
+523,"Micronesia, F S",2016,Victoria,10
+524,Nauru,2016,Victoria,300
+525,N Mariana Is,2016,Victoria,10
+526,Palau,2016,Victoria,0
+527,Cook Islands,2016,Victoria,"2,290"
+528,Fiji,2016,Victoria,"13,100"
+529,French Poly,2016,Victoria,50
+530,Niue,2016,Victoria,130
+531,Samoa,2016,Victoria,"7,440"
+532,Samoa American,2016,Victoria,110
+533,Tokelau,2016,Victoria,30
+534,Tonga,2016,Victoria,"2,060"
+535,Tuvalu,2016,Victoria,50
+536,Wallis/Futuna,2016,Victoria,0
+537,Pitcairn Is,2016,Victoria,0
+538,"Polynesia, nec",2016,Victoria,0
+539,Adelie Land,2016,Victoria,0
+540,Argentinian A T,2016,Victoria,0
+541,Australian A T,2016,Victoria,0
+542,British A T,2016,Victoria,0
+543,Chilean A T,2016,Victoria,0
+544,Queen Maud Land,2016,Victoria,0
+545,Ross Dependency,2016,Victoria,0
+546,England,2016,Victoria,"192,730"
+547,Isle of Man,2016,Victoria,150
+548,N'thern Ireland,2016,Victoria,"6,640"
+549,Scotland,2016,Victoria,"30,290"
+550,Wales,2016,Victoria,"5,460"
+551,Guernsey,2016,Victoria,160
+552,Jersey,2016,Victoria,160
+553,Ireland,2016,Victoria,"18,190"
+554,Austria,2016,Victoria,"4,680"
+555,Belgium,2016,Victoria,"1,700"
+556,France,2016,Victoria,"8,580"
+557,Germany,2016,Victoria,"29,970"
+558,Liechtenstein,2016,Victoria,10
+559,Luxembourg,2016,Victoria,80
+560,Monaco,2016,Victoria,20
+561,Netherlands,2016,Victoria,"22,200"
+562,Switzerland,2016,Victoria,"2,860"
+563,Denmark,2016,Victoria,"1,820"
+564,Faroe Islands,2016,Victoria,0
+565,Finland,2016,Victoria,"1,520"
+566,Greenland,2016,Victoria,20
+567,Iceland,2016,Victoria,110
+568,Norway,2016,Victoria,870
+569,Sweden,2016,Victoria,"2,560"
+570,Aland Islands,2016,Victoria,10
+571,Andorra,2016,Victoria,10
+572,Gibraltar,2016,Victoria,110
+573,Holy See,2016,Victoria,0
+574,Italy,2016,Victoria,"79,100"
+575,Malta,2016,Victoria,"20,570"
+576,Portugal,2016,Victoria,"3,380"
+577,San Marino,2016,Victoria,0
+578,Spain,2016,Victoria,"4,160"
+579,Albania,2016,Victoria,"2,060"
+580,Bosnia/Herzegov,2016,Victoria,"12,790"
+581,Bulgaria,2016,Victoria,"1,260"
+582,Croatia,2016,Victoria,"21,190"
+583,Cyprus,2016,Victoria,"8,860"
+584,North Macedonia,2016,Victoria,"22,040"
+585,Greece,2016,Victoria,"57,010"
+586,Moldova,2016,Victoria,590
+587,Romania,2016,Victoria,"6,400"
+588,Slovenia,2016,Victoria,"3,060"
+589,Montenegro,2016,Victoria,830
+590,Serbia,2016,Victoria,"11,760"
+591,Kosovo,2016,Victoria,780
+592,Belarus,2016,Victoria,"1,150"
+593,Czechia,2016,Victoria,"2,840"
+594,Estonia,2016,Victoria,570
+595,Hungary,2016,Victoria,"5,740"
+596,Latvia,2016,Victoria,"1,570"
+597,Lithuania,2016,Victoria,"1,050"
+598,Poland,2016,Victoria,"17,330"
+599,Russia,2016,Victoria,"8,190"
+600,Slovakia,2016,Victoria,"1,220"
+601,Ukraine,2016,Victoria,"6,870"
+602,Algeria,2016,Victoria,360
+603,Egypt,2016,Victoria,"15,100"
+604,Libya,2016,Victoria,"1,200"
+605,Morocco,2016,Victoria,720
+606,Sudan,2016,Victoria,"6,420"
+607,Tunisia,2016,Victoria,200
+608,Western Sahara,2016,Victoria,0
+609,Sp North Africa,2016,Victoria,0
+610,South Sudan,2016,Victoria,"3,030"
+611,Bahrain,2016,Victoria,570
+612,Gaza Str/W Bank,2016,Victoria,850
+613,Iran,2016,Victoria,"18,940"
+614,Iraq,2016,Victoria,"20,700"
+615,Israel,2016,Victoria,"5,030"
+616,Jordan,2016,Victoria,"1,080"
+617,Kuwait,2016,Victoria,"2,140"
+618,Lebanon,2016,Victoria,"19,880"
+619,Oman,2016,Victoria,660
+620,Qatar,2016,Victoria,350
+621,Saudi Arabia,2016,Victoria,"5,050"
+622,Syria,2016,Victoria,"4,150"
+623,Turkey,2016,Victoria,"19,610"
+624,Unit Arab Emir,2016,Victoria,"3,070"
+625,Yemen,2016,Victoria,200
+626,Myanmar,2016,Victoria,"11,450"
+627,Cambodia,2016,Victoria,"14,510"
+628,Laos,2016,Victoria,"2,350"
+629,Thailand,2016,Victoria,"17,210"
+630,Vietnam,2016,Victoria,"89,930"
+631,Brunei,2016,Victoria,820
+632,Indonesia,2016,Victoria,"19,250"
+633,Malaysia,2016,Victoria,"55,340"
+634,Philippines,2016,Victoria,"55,950"
+635,Singapore,2016,Victoria,"17,280"
+636,Timor-Leste,2016,Victoria,"5,210"
+637,China,2016,Victoria,"176,640"
+638,Hong Kong,2016,Victoria,"24,390"
+639,Macau,2016,Victoria,840
+640,Mongolia,2016,Victoria,240
+641,Taiwan,2016,Victoria,"11,440"
+642,Japan,2016,Victoria,"9,810"
+643,"Korea, North",2016,Victoria,30
+644,"Korea, South",2016,Victoria,"16,860"
+645,Bangladesh,2016,Victoria,"8,790"
+646,Bhutan,2016,Victoria,630
+647,India,2016,Victoria,"182,840"
+648,Maldives,2016,Victoria,200
+649,Nepal,2016,Victoria,"10,150"
+650,Pakistan,2016,Victoria,"23,980"
+651,Sri Lanka,2016,Victoria,"63,240"
+652,Afghanistan,2016,Victoria,"20,970"
+653,Armenia,2016,Victoria,430
+654,Azerbaijan,2016,Victoria,270
+655,Georgia,2016,Victoria,280
+656,Kazakhstan,2016,Victoria,590
+657,Kyrgyzstan,2016,Victoria,150
+658,Tajikistan,2016,Victoria,50
+659,Turkmenistan,2016,Victoria,30
+660,Uzbekistan,2016,Victoria,600
+661,Bermuda,2016,Victoria,100
+662,Canada,2016,Victoria,"11,210"
+663,St Pierre/Mique,2016,Victoria,0
+664,USA,2016,Victoria,"24,260"
+665,Argentina,2016,Victoria,"4,790"
+666,Bolivia,2016,Victoria,140
+667,Brazil,2016,Victoria,"4,540"
+668,Chile,2016,Victoria,"8,830"
+669,Colombia,2016,Victoria,"6,370"
+670,Ecuador,2016,Victoria,350
+671,Falkland Is,2016,Victoria,30
+672,French Guiana,2016,Victoria,0
+673,Guyana,2016,Victoria,190
+674,Paraguay,2016,Victoria,100
+675,Peru,2016,Victoria,"1,710"
+676,Suriname,2016,Victoria,30
+677,Uruguay,2016,Victoria,"1,910"
+678,Venezuela,2016,Victoria,"1,510"
+679,"S America, nec",2016,Victoria,0
+680,Belize,2016,Victoria,10
+681,Costa Rica,2016,Victoria,110
+682,El Salvador,2016,Victoria,"3,790"
+683,Guatemala,2016,Victoria,170
+684,Honduras,2016,Victoria,80
+685,Mexico,2016,Victoria,"1,800"
+686,Nicaragua,2016,Victoria,90
+687,Panama,2016,Victoria,40
+688,Anguilla,2016,Victoria,0
+689,Antigua/Barbuda,2016,Victoria,20
+690,Aruba,2016,Victoria,10
+691,Bahamas,2016,Victoria,60
+692,Barbados,2016,Victoria,70
+693,Cayman Islands,2016,Victoria,40
+694,Cuba,2016,Victoria,200
+695,Dominica,2016,Victoria,10
+696,Dominican Rep,2016,Victoria,60
+697,Grenada,2016,Victoria,10
+698,Guadeloupe,2016,Victoria,0
+699,Haiti,2016,Victoria,40
+700,Jamaica,2016,Victoria,260
+701,Martinique,2016,Victoria,0
+702,Montserrat,2016,Victoria,0
+703,Puerto Rico,2016,Victoria,30
+704,St Kitts/Nevis,2016,Victoria,10
+705,St Lucia,2016,Victoria,10
+706,St Vinc/Grenad,2016,Victoria,10
+707,Trinidad/Tobago,2016,Victoria,310
+708,Turks/Caicos Is,2016,Victoria,0
+709,"Virgin Is, Brit",2016,Victoria,0
+710,"Virgin Is, US",2016,Victoria,0
+711,St Barthelemy,2016,Victoria,0
+712,St Martin (Fr),2016,Victoria,0
+713,Bonaire/SE/Saba,2016,Victoria,0
+714,Curacao,2016,Victoria,30
+715,Sint Maarten Dp,2016,Victoria,0
+716,Benin,2016,Victoria,30
+717,Burkina Faso,2016,Victoria,20
+718,Cameroon,2016,Victoria,120
+719,Cabo Verde,2016,Victoria,10
+720,Cent Africa Rep,2016,Victoria,0
+721,Chad,2016,Victoria,20
+722,"Congo, Rep",2016,Victoria,290
+723,"Congo, Dem Rep",2016,Victoria,860
+724,Cote d'Ivoire,2016,Victoria,150
+725,Equator Guinea,2016,Victoria,0
+726,Gabon,2016,Victoria,10
+727,Gambia,2016,Victoria,40
+728,Ghana,2016,Victoria,"1,120"
+729,Guinea,2016,Victoria,150
+730,Guinea-Bissau,2016,Victoria,0
+731,Liberia,2016,Victoria,820
+732,Mali,2016,Victoria,20
+733,Mauritania,2016,Victoria,10
+734,Niger,2016,Victoria,10
+735,Nigeria,2016,Victoria,"2,300"
+736,Sao Tome/Princ,2016,Victoria,10
+737,Senegal,2016,Victoria,90
+738,Sierra Leone,2016,Victoria,450
+739,Togo,2016,Victoria,80
+740,Angola,2016,Victoria,120
+741,Botswana,2016,Victoria,280
+742,Burundi,2016,Victoria,290
+743,Comoros,2016,Victoria,20
+744,Djibouti,2016,Victoria,110
+745,Eritrea,2016,Victoria,"2,410"
+746,Ethiopia,2016,Victoria,"7,610"
+747,Kenya,2016,Victoria,"4,610"
+748,Lesotho,2016,Victoria,30
+749,Madagascar,2016,Victoria,70
+750,Malawi,2016,Victoria,290
+751,Mauritius,2016,Victoria,"14,260"
+752,Mayotte,2016,Victoria,0
+753,Mozambique,2016,Victoria,200
+754,Namibia,2016,Victoria,210
+755,Reunion,2016,Victoria,30
+756,Rwanda,2016,Victoria,120
+757,St Helena,2016,Victoria,10
+758,Seychelles,2016,Victoria,"1,130"
+759,Somalia,2016,Victoria,"4,730"
+760,South Africa,2016,Victoria,"30,320"
+761,Eswatini,2016,Victoria,70
+762,Tanzania,2016,Victoria,800
+763,Uganda,2016,Victoria,800
+764,Zambia,2016,Victoria,"1,020"
+765,Zimbabwe,2016,Victoria,"5,620"
+766,"S & E Afr, nec",2016,Victoria,0
+767,Inadequately described,2016,Victoria,0
+768,Australia,2016,Queensland,"3,705,110"
+769,Norfolk Island,2016,Queensland,190
+770,"Aust E T, nec",2016,Queensland,0
+771,New Zealand,2016,Queensland,"219,930"
+772,New Caledonia,2016,Queensland,700
+773,PNG,2016,Queensland,"19,240"
+774,Solomon Islands,2016,Queensland,"1,210"
+775,Vanuatu,2016,Queensland,510
+776,Guam,2016,Queensland,50
+777,Kiribati,2016,Queensland,270
+778,Marshall Is,2016,Queensland,20
+779,"Micronesia, F S",2016,Queensland,10
+780,Nauru,2016,Queensland,250
+781,N Mariana Is,2016,Queensland,10
+782,Palau,2016,Queensland,20
+783,Cook Islands,2016,Queensland,"2,480"
+784,Fiji,2016,Queensland,"15,300"
+785,French Poly,2016,Queensland,240
+786,Niue,2016,Queensland,350
+787,Samoa,2016,Queensland,"9,400"
+788,Samoa American,2016,Queensland,160
+789,Tokelau,2016,Queensland,270
+790,Tonga,2016,Queensland,"2,090"
+791,Tuvalu,2016,Queensland,100
+792,Wallis/Futuna,2016,Queensland,10
+793,Pitcairn Is,2016,Queensland,0
+794,"Polynesia, nec",2016,Queensland,0
+795,Adelie Land,2016,Queensland,0
+796,Argentinian A T,2016,Queensland,0
+797,Australian A T,2016,Queensland,0
+798,British A T,2016,Queensland,0
+799,Chilean A T,2016,Queensland,0
+800,Queen Maud Land,2016,Queensland,0
+801,Ross Dependency,2016,Queensland,0
+802,England,2016,Queensland,"200,360"
+803,Isle of Man,2016,Queensland,160
+804,N'thern Ireland,2016,Queensland,"4,930"
+805,Scotland,2016,Queensland,"25,220"
+806,Wales,2016,Queensland,"6,550"
+807,Guernsey,2016,Queensland,170
+808,Jersey,2016,Queensland,330
+809,Ireland,2016,Queensland,"13,270"
+810,Austria,2016,Queensland,"3,070"
+811,Belgium,2016,Queensland,"1,480"
+812,France,2016,Queensland,"6,870"
+813,Germany,2016,Queensland,"23,110"
+814,Liechtenstein,2016,Queensland,0
+815,Luxembourg,2016,Queensland,50
+816,Monaco,2016,Queensland,20
+817,Netherlands,2016,Queensland,"15,770"
+818,Switzerland,2016,Queensland,"3,240"
+819,Denmark,2016,Queensland,"2,890"
+820,Faroe Islands,2016,Queensland,10
+821,Finland,2016,Queensland,"2,940"
+822,Greenland,2016,Queensland,10
+823,Iceland,2016,Queensland,130
+824,Norway,2016,Queensland,"1,020"
+825,Sweden,2016,Queensland,"2,640"
+826,Aland Islands,2016,Queensland,0
+827,Andorra,2016,Queensland,0
+828,Gibraltar,2016,Queensland,90
+829,Holy See,2016,Queensland,0
+830,Italy,2016,Queensland,"14,780"
+831,Malta,2016,Queensland,"2,820"
+832,Portugal,2016,Queensland,"1,500"
+833,San Marino,2016,Queensland,0
+834,Spain,2016,Queensland,"2,990"
+835,Albania,2016,Queensland,290
+836,Bosnia/Herzegov,2016,Queensland,"4,660"
+837,Bulgaria,2016,Queensland,570
+838,Croatia,2016,Queensland,"5,110"
+839,Cyprus,2016,Queensland,"1,350"
+840,North Macedonia,2016,Queensland,"1,480"
+841,Greece,2016,Queensland,"3,990"
+842,Moldova,2016,Queensland,120
+843,Romania,2016,Queensland,"2,900"
+844,Slovenia,2016,Queensland,"1,010"
+845,Montenegro,2016,Queensland,180
+846,Serbia,2016,Queensland,"3,710"
+847,Kosovo,2016,Queensland,140
+848,Belarus,2016,Queensland,210
+849,Czechia,2016,Queensland,"2,160"
+850,Estonia,2016,Queensland,590
+851,Hungary,2016,Queensland,"4,020"
+852,Latvia,2016,Queensland,570
+853,Lithuania,2016,Queensland,330
+854,Poland,2016,Queensland,"5,930"
+855,Russia,2016,Queensland,"3,760"
+856,Slovakia,2016,Queensland,"1,010"
+857,Ukraine,2016,Queensland,"1,640"
+858,Algeria,2016,Queensland,260
+859,Egypt,2016,Queensland,"2,790"
+860,Libya,2016,Queensland,310
+861,Morocco,2016,Queensland,300
+862,Sudan,2016,Queensland,"2,660"
+863,Tunisia,2016,Queensland,90
+864,Western Sahara,2016,Queensland,0
+865,Sp North Africa,2016,Queensland,0
+866,South Sudan,2016,Queensland,"1,570"
+867,Bahrain,2016,Queensland,280
+868,Gaza Str/W Bank,2016,Queensland,130
+869,Iran,2016,Queensland,"7,450"
+870,Iraq,2016,Queensland,"3,120"
+871,Israel,2016,Queensland,880
+872,Jordan,2016,Queensland,420
+873,Kuwait,2016,Queensland,740
+874,Lebanon,2016,Queensland,"1,710"
+875,Oman,2016,Queensland,320
+876,Qatar,2016,Queensland,160
+877,Saudi Arabia,2016,Queensland,"2,160"
+878,Syria,2016,Queensland,510
+879,Turkey,2016,Queensland,"1,860"
+880,Unit Arab Emir,2016,Queensland,"1,220"
+881,Yemen,2016,Queensland,110
+882,Myanmar,2016,Queensland,"3,330"
+883,Cambodia,2016,Queensland,"2,160"
+884,Laos,2016,Queensland,"1,510"
+885,Thailand,2016,Queensland,"10,780"
+886,Vietnam,2016,Queensland,"21,810"
+887,Brunei,2016,Queensland,340
+888,Indonesia,2016,Queensland,"7,860"
+889,Malaysia,2016,Queensland,"16,440"
+890,Philippines,2016,Queensland,"43,130"
+891,Singapore,2016,Queensland,"7,260"
+892,Timor-Leste,2016,Queensland,550
+893,China,2016,Queensland,"51,640"
+894,Hong Kong,2016,Queensland,"12,190"
+895,Macau,2016,Queensland,360
+896,Mongolia,2016,Queensland,250
+897,Taiwan,2016,Queensland,"17,980"
+898,Japan,2016,Queensland,"14,410"
+899,"Korea, North",2016,Queensland,40
+900,"Korea, South",2016,Queensland,"20,990"
+901,Bangladesh,2016,Queensland,"3,080"
+902,Bhutan,2016,Queensland,690
+903,India,2016,Queensland,"53,100"
+904,Maldives,2016,Queensland,70
+905,Nepal,2016,Queensland,"5,530"
+906,Pakistan,2016,Queensland,"5,270"
+907,Sri Lanka,2016,Queensland,"11,120"
+908,Afghanistan,2016,Queensland,"3,880"
+909,Armenia,2016,Queensland,30
+910,Azerbaijan,2016,Queensland,80
+911,Georgia,2016,Queensland,30
+912,Kazakhstan,2016,Queensland,320
+913,Kyrgyzstan,2016,Queensland,120
+914,Tajikistan,2016,Queensland,10
+915,Turkmenistan,2016,Queensland,10
+916,Uzbekistan,2016,Queensland,280
+917,Bermuda,2016,Queensland,150
+918,Canada,2016,Queensland,"13,500"
+919,St Pierre/Mique,2016,Queensland,0
+920,USA,2016,Queensland,"20,920"
+921,Argentina,2016,Queensland,"1,840"
+922,Bolivia,2016,Queensland,120
+923,Brazil,2016,Queensland,"7,900"
+924,Chile,2016,Queensland,"2,700"
+925,Colombia,2016,Queensland,"5,140"
+926,Ecuador,2016,Queensland,410
+927,Falkland Is,2016,Queensland,20
+928,French Guiana,2016,Queensland,0
+929,Guyana,2016,Queensland,150
+930,Paraguay,2016,Queensland,70
+931,Peru,2016,Queensland,"1,370"
+932,Suriname,2016,Queensland,40
+933,Uruguay,2016,Queensland,880
+934,Venezuela,2016,Queensland,"1,330"
+935,"S America, nec",2016,Queensland,0
+936,Belize,2016,Queensland,20
+937,Costa Rica,2016,Queensland,90
+938,El Salvador,2016,Queensland,"2,750"
+939,Guatemala,2016,Queensland,110
+940,Honduras,2016,Queensland,70
+941,Mexico,2016,Queensland,920
+942,Nicaragua,2016,Queensland,150
+943,Panama,2016,Queensland,50
+944,Anguilla,2016,Queensland,0
+945,Antigua/Barbuda,2016,Queensland,10
+946,Aruba,2016,Queensland,20
+947,Bahamas,2016,Queensland,80
+948,Barbados,2016,Queensland,190
+949,Cayman Islands,2016,Queensland,40
+950,Cuba,2016,Queensland,210
+951,Dominica,2016,Queensland,10
+952,Dominican Rep,2016,Queensland,30
+953,Grenada,2016,Queensland,50
+954,Guadeloupe,2016,Queensland,0
+955,Haiti,2016,Queensland,20
+956,Jamaica,2016,Queensland,360
+957,Martinique,2016,Queensland,20
+958,Montserrat,2016,Queensland,10
+959,Puerto Rico,2016,Queensland,40
+960,St Kitts/Nevis,2016,Queensland,10
+961,St Lucia,2016,Queensland,20
+962,St Vinc/Grenad,2016,Queensland,20
+963,Trinidad/Tobago,2016,Queensland,490
+964,Turks/Caicos Is,2016,Queensland,0
+965,"Virgin Is, Brit",2016,Queensland,10
+966,"Virgin Is, US",2016,Queensland,10
+967,St Barthelemy,2016,Queensland,0
+968,St Martin (Fr),2016,Queensland,0
+969,Bonaire/SE/Saba,2016,Queensland,0
+970,Curacao,2016,Queensland,40
+971,Sint Maarten Dp,2016,Queensland,0
+972,Benin,2016,Queensland,20
+973,Burkina Faso,2016,Queensland,0
+974,Cameroon,2016,Queensland,90
+975,Cabo Verde,2016,Queensland,0
+976,Cent Africa Rep,2016,Queensland,10
+977,Chad,2016,Queensland,20
+978,"Congo, Rep",2016,Queensland,460
+979,"Congo, Dem Rep",2016,Queensland,"1,400"
+980,Cote d'Ivoire,2016,Queensland,130
+981,Equator Guinea,2016,Queensland,0
+982,Gabon,2016,Queensland,10
+983,Gambia,2016,Queensland,20
+984,Ghana,2016,Queensland,600
+985,Guinea,2016,Queensland,180
+986,Guinea-Bissau,2016,Queensland,0
+987,Liberia,2016,Queensland,570
+988,Mali,2016,Queensland,10
+989,Mauritania,2016,Queensland,0
+990,Niger,2016,Queensland,10
+991,Nigeria,2016,Queensland,"1,400"
+992,Sao Tome/Princ,2016,Queensland,0
+993,Senegal,2016,Queensland,60
+994,Sierra Leone,2016,Queensland,530
+995,Togo,2016,Queensland,60
+996,Angola,2016,Queensland,110
+997,Botswana,2016,Queensland,300
+998,Burundi,2016,Queensland,810
+999,Comoros,2016,Queensland,0
+1000,Djibouti,2016,Queensland,20
+1001,Eritrea,2016,Queensland,"1,130"
+1002,Ethiopia,2016,Queensland,"1,490"
+1003,Kenya,2016,Queensland,"3,190"
+1004,Lesotho,2016,Queensland,30
+1005,Madagascar,2016,Queensland,80
+1006,Malawi,2016,Queensland,380
+1007,Mauritius,2016,Queensland,"1,860"
+1008,Mayotte,2016,Queensland,0
+1009,Mozambique,2016,Queensland,260
+1010,Namibia,2016,Queensland,410
+1011,Reunion,2016,Queensland,30
+1012,Rwanda,2016,Queensland,390
+1013,St Helena,2016,Queensland,10
+1014,Seychelles,2016,Queensland,560
+1015,Somalia,2016,Queensland,"1,510"
+1016,South Africa,2016,Queensland,"44,740"
+1017,Eswatini,2016,Queensland,70
+1018,Tanzania,2016,Queensland,"1,020"
+1019,Uganda,2016,Queensland,830
+1020,Zambia,2016,Queensland,"1,590"
+1021,Zimbabwe,2016,Queensland,"10,680"
+1022,"S & E Afr, nec",2016,Queensland,0
+1023,Inadequately described,2016,Queensland,0
+1024,Australia,2016,South Australia,"1,294,010"
+1025,Norfolk Island,2016,South Australia,10
+1026,"Aust E T, nec",2016,South Australia,0
+1027,New Zealand,2016,South Australia,"13,830"
+1028,New Caledonia,2016,South Australia,30
+1029,PNG,2016,South Australia,"1,060"
+1030,Solomon Islands,2016,South Australia,60
+1031,Vanuatu,2016,South Australia,30
+1032,Guam,2016,South Australia,10
+1033,Kiribati,2016,South Australia,20
+1034,Marshall Is,2016,South Australia,0
+1035,"Micronesia, F S",2016,South Australia,0
+1036,Nauru,2016,South Australia,20
+1037,N Mariana Is,2016,South Australia,0
+1038,Palau,2016,South Australia,0
+1039,Cook Islands,2016,South Australia,110
+1040,Fiji,2016,South Australia,"1,420"
+1041,French Poly,2016,South Australia,10
+1042,Niue,2016,South Australia,10
+1043,Samoa,2016,South Australia,110
+1044,Samoa American,2016,South Australia,10
+1045,Tokelau,2016,South Australia,10
+1046,Tonga,2016,South Australia,110
+1047,Tuvalu,2016,South Australia,0
+1048,Wallis/Futuna,2016,South Australia,0
+1049,Pitcairn Is,2016,South Australia,0
+1050,"Polynesia, nec",2016,South Australia,0
+1051,Adelie Land,2016,South Australia,0
+1052,Argentinian A T,2016,South Australia,0
+1053,Australian A T,2016,South Australia,0
+1054,British A T,2016,South Australia,0
+1055,Chilean A T,2016,South Australia,0
+1056,Queen Maud Land,2016,South Australia,0
+1057,Ross Dependency,2016,South Australia,0
+1058,England,2016,South Australia,"103,740"
+1059,Isle of Man,2016,South Australia,70
+1060,N'thern Ireland,2016,South Australia,"2,310"
+1061,Scotland,2016,South Australia,"13,310"
+1062,Wales,2016,South Australia,"3,130"
+1063,Guernsey,2016,South Australia,90
+1064,Jersey,2016,South Australia,90
+1065,Ireland,2016,South Australia,"3,720"
+1066,Austria,2016,South Australia,"1,460"
+1067,Belgium,2016,South Australia,500
+1068,France,2016,South Australia,"1,550"
+1069,Germany,2016,South Australia,"11,160"
+1070,Liechtenstein,2016,South Australia,0
+1071,Luxembourg,2016,South Australia,10
+1072,Monaco,2016,South Australia,10
+1073,Netherlands,2016,South Australia,"7,190"
+1074,Switzerland,2016,South Australia,620
+1075,Denmark,2016,South Australia,600
+1076,Faroe Islands,2016,South Australia,0
+1077,Finland,2016,South Australia,480
+1078,Greenland,2016,South Australia,0
+1079,Iceland,2016,South Australia,30
+1080,Norway,2016,South Australia,220
+1081,Sweden,2016,South Australia,530
+1082,Aland Islands,2016,South Australia,10
+1083,Andorra,2016,South Australia,0
+1084,Gibraltar,2016,South Australia,50
+1085,Holy See,2016,South Australia,0
+1086,Italy,2016,South Australia,"20,180"
+1087,Malta,2016,South Australia,"1,580"
+1088,Portugal,2016,South Australia,610
+1089,San Marino,2016,South Australia,0
+1090,Spain,2016,South Australia,940
+1091,Albania,2016,South Australia,530
+1092,Bosnia/Herzegov,2016,South Australia,"2,900"
+1093,Bulgaria,2016,South Australia,340
+1094,Croatia,2016,South Australia,"3,970"
+1095,Cyprus,2016,South Australia,"1,340"
+1096,North Macedonia,2016,South Australia,660
+1097,Greece,2016,South Australia,"10,150"
+1098,Moldova,2016,South Australia,80
+1099,Romania,2016,South Australia,"1,160"
+1100,Slovenia,2016,South Australia,570
+1101,Montenegro,2016,South Australia,150
+1102,Serbia,2016,South Australia,"2,410"
+1103,Kosovo,2016,South Australia,140
+1104,Belarus,2016,South Australia,100
+1105,Czechia,2016,South Australia,840
+1106,Estonia,2016,South Australia,220
+1107,Hungary,2016,South Australia,"1,460"
+1108,Latvia,2016,South Australia,640
+1109,Lithuania,2016,South Australia,340
+1110,Poland,2016,South Australia,"5,720"
+1111,Russia,2016,South Australia,"1,580"
+1112,Slovakia,2016,South Australia,490
+1113,Ukraine,2016,South Australia,"1,170"
+1114,Algeria,2016,South Australia,70
+1115,Egypt,2016,South Australia,"1,670"
+1116,Libya,2016,South Australia,100
+1117,Morocco,2016,South Australia,80
+1118,Sudan,2016,South Australia,"1,100"
+1119,Tunisia,2016,South Australia,20
+1120,Western Sahara,2016,South Australia,0
+1121,Sp North Africa,2016,South Australia,0
+1122,South Sudan,2016,South Australia,980
+1123,Bahrain,2016,South Australia,70
+1124,Gaza Str/W Bank,2016,South Australia,120
+1125,Iran,2016,South Australia,"5,070"
+1126,Iraq,2016,South Australia,"1,690"
+1127,Israel,2016,South Australia,260
+1128,Jordan,2016,South Australia,250
+1129,Kuwait,2016,South Australia,220
+1130,Lebanon,2016,South Australia,"1,840"
+1131,Oman,2016,South Australia,170
+1132,Qatar,2016,South Australia,40
+1133,Saudi Arabia,2016,South Australia,"1,300"
+1134,Syria,2016,South Australia,820
+1135,Turkey,2016,South Australia,670
+1136,Unit Arab Emir,2016,South Australia,390
+1137,Yemen,2016,South Australia,40
+1138,Myanmar,2016,South Australia,"1,610"
+1139,Cambodia,2016,South Australia,"3,320"
+1140,Laos,2016,South Australia,560
+1141,Thailand,2016,South Australia,"2,990"
+1142,Vietnam,2016,South Australia,"15,690"
+1143,Brunei,2016,South Australia,140
+1144,Indonesia,2016,South Australia,"2,270"
+1145,Malaysia,2016,South Australia,"8,440"
+1146,Philippines,2016,South Australia,"13,300"
+1147,Singapore,2016,South Australia,"2,610"
+1148,Timor-Leste,2016,South Australia,130
+1149,China,2016,South Australia,"26,770"
+1150,Hong Kong,2016,South Australia,"4,020"
+1151,Macau,2016,South Australia,100
+1152,Mongolia,2016,South Australia,50
+1153,Taiwan,2016,South Australia,"1,940"
+1154,Japan,2016,South Australia,"1,720"
+1155,"Korea, North",2016,South Australia,10
+1156,"Korea, South",2016,South Australia,"4,100"
+1157,Bangladesh,2016,South Australia,"2,160"
+1158,Bhutan,2016,South Australia,"1,510"
+1159,India,2016,South Australia,"29,010"
+1160,Maldives,2016,South Australia,50
+1161,Nepal,2016,South Australia,"3,010"
+1162,Pakistan,2016,South Australia,"3,760"
+1163,Sri Lanka,2016,South Australia,"4,200"
+1164,Afghanistan,2016,South Australia,"7,070"
+1165,Armenia,2016,South Australia,140
+1166,Azerbaijan,2016,South Australia,30
+1167,Georgia,2016,South Australia,70
+1168,Kazakhstan,2016,South Australia,170
+1169,Kyrgyzstan,2016,South Australia,40
+1170,Tajikistan,2016,South Australia,10
+1171,Turkmenistan,2016,South Australia,0
+1172,Uzbekistan,2016,South Australia,240
+1173,Bermuda,2016,South Australia,20
+1174,Canada,2016,South Australia,"2,700"
+1175,St Pierre/Mique,2016,South Australia,0
+1176,USA,2016,South Australia,"5,230"
+1177,Argentina,2016,South Australia,540
+1178,Bolivia,2016,South Australia,50
+1179,Brazil,2016,South Australia,"1,030"
+1180,Chile,2016,South Australia,880
+1181,Colombia,2016,South Australia,680
+1182,Ecuador,2016,South Australia,90
+1183,Falkland Is,2016,South Australia,10
+1184,French Guiana,2016,South Australia,0
+1185,Guyana,2016,South Australia,40
+1186,Paraguay,2016,South Australia,10
+1187,Peru,2016,South Australia,400
+1188,Suriname,2016,South Australia,10
+1189,Uruguay,2016,South Australia,140
+1190,Venezuela,2016,South Australia,520
+1191,"S America, nec",2016,South Australia,0
+1192,Belize,2016,South Australia,10
+1193,Costa Rica,2016,South Australia,20
+1194,El Salvador,2016,South Australia,900
+1195,Guatemala,2016,South Australia,20
+1196,Honduras,2016,South Australia,10
+1197,Mexico,2016,South Australia,400
+1198,Nicaragua,2016,South Australia,40
+1199,Panama,2016,South Australia,10
+1200,Anguilla,2016,South Australia,0
+1201,Antigua/Barbuda,2016,South Australia,0
+1202,Aruba,2016,South Australia,10
+1203,Bahamas,2016,South Australia,10
+1204,Barbados,2016,South Australia,20
+1205,Cayman Islands,2016,South Australia,0
+1206,Cuba,2016,South Australia,40
+1207,Dominica,2016,South Australia,0
+1208,Dominican Rep,2016,South Australia,10
+1209,Grenada,2016,South Australia,0
+1210,Guadeloupe,2016,South Australia,0
+1211,Haiti,2016,South Australia,0
+1212,Jamaica,2016,South Australia,50
+1213,Martinique,2016,South Australia,0
+1214,Montserrat,2016,South Australia,0
+1215,Puerto Rico,2016,South Australia,10
+1216,St Kitts/Nevis,2016,South Australia,0
+1217,St Lucia,2016,South Australia,10
+1218,St Vinc/Grenad,2016,South Australia,0
+1219,Trinidad/Tobago,2016,South Australia,50
+1220,Turks/Caicos Is,2016,South Australia,0
+1221,"Virgin Is, Brit",2016,South Australia,10
+1222,"Virgin Is, US",2016,South Australia,0
+1223,St Barthelemy,2016,South Australia,0
+1224,St Martin (Fr),2016,South Australia,0
+1225,Bonaire/SE/Saba,2016,South Australia,0
+1226,Curacao,2016,South Australia,10
+1227,Sint Maarten Dp,2016,South Australia,0
+1228,Benin,2016,South Australia,20
+1229,Burkina Faso,2016,South Australia,0
+1230,Cameroon,2016,South Australia,30
+1231,Cabo Verde,2016,South Australia,0
+1232,Cent Africa Rep,2016,South Australia,0
+1233,Chad,2016,South Australia,0
+1234,"Congo, Rep",2016,South Australia,270
+1235,"Congo, Dem Rep",2016,South Australia,800
+1236,Cote d'Ivoire,2016,South Australia,100
+1237,Equator Guinea,2016,South Australia,0
+1238,Gabon,2016,South Australia,0
+1239,Gambia,2016,South Australia,0
+1240,Ghana,2016,South Australia,380
+1241,Guinea,2016,South Australia,160
+1242,Guinea-Bissau,2016,South Australia,0
+1243,Liberia,2016,South Australia,660
+1244,Mali,2016,South Australia,0
+1245,Mauritania,2016,South Australia,0
+1246,Niger,2016,South Australia,0
+1247,Nigeria,2016,South Australia,600
+1248,Sao Tome/Princ,2016,South Australia,0
+1249,Senegal,2016,South Australia,10
+1250,Sierra Leone,2016,South Australia,280
+1251,Togo,2016,South Australia,50
+1252,Angola,2016,South Australia,30
+1253,Botswana,2016,South Australia,70
+1254,Burundi,2016,South Australia,680
+1255,Comoros,2016,South Australia,0
+1256,Djibouti,2016,South Australia,10
+1257,Eritrea,2016,South Australia,390
+1258,Ethiopia,2016,South Australia,930
+1259,Kenya,2016,South Australia,"1,980"
+1260,Lesotho,2016,South Australia,10
+1261,Madagascar,2016,South Australia,20
+1262,Malawi,2016,South Australia,140
+1263,Mauritius,2016,South Australia,240
+1264,Mayotte,2016,South Australia,0
+1265,Mozambique,2016,South Australia,40
+1266,Namibia,2016,South Australia,100
+1267,Reunion,2016,South Australia,0
+1268,Rwanda,2016,South Australia,150
+1269,St Helena,2016,South Australia,0
+1270,Seychelles,2016,South Australia,60
+1271,Somalia,2016,South Australia,310
+1272,South Africa,2016,South Australia,"7,150"
+1273,Eswatini,2016,South Australia,10
+1274,Tanzania,2016,South Australia,600
+1275,Uganda,2016,South Australia,370
+1276,Zambia,2016,South Australia,340
+1277,Zimbabwe,2016,South Australia,"1,740"
+1278,"S & E Afr, nec",2016,South Australia,0
+1279,Inadequately described,2016,South Australia,0
+1280,Australia,2016,Western Australia,"1,660,600"
+1281,Norfolk Island,2016,Western Australia,20
+1282,"Aust E T, nec",2016,Western Australia,0
+1283,New Zealand,2016,Western Australia,"87,350"
+1284,New Caledonia,2016,Western Australia,50
+1285,PNG,2016,Western Australia,"2,410"
+1286,Solomon Islands,2016,Western Australia,120
+1287,Vanuatu,2016,Western Australia,60
+1288,Guam,2016,Western Australia,10
+1289,Kiribati,2016,Western Australia,30
+1290,Marshall Is,2016,Western Australia,0
+1291,"Micronesia, F S",2016,Western Australia,0
+1292,Nauru,2016,Western Australia,30
+1293,N Mariana Is,2016,Western Australia,0
+1294,Palau,2016,Western Australia,0
+1295,Cook Islands,2016,Western Australia,560
+1296,Fiji,2016,Western Australia,"1,590"
+1297,French Poly,2016,Western Australia,30
+1298,Niue,2016,Western Australia,70
+1299,Samoa,2016,Western Australia,660
+1300,Samoa American,2016,Western Australia,10
+1301,Tokelau,2016,Western Australia,20
+1302,Tonga,2016,Western Australia,330
+1303,Tuvalu,2016,Western Australia,10
+1304,Wallis/Futuna,2016,Western Australia,0
+1305,Pitcairn Is,2016,Western Australia,0
+1306,"Polynesia, nec",2016,Western Australia,0
+1307,Adelie Land,2016,Western Australia,0
+1308,Argentinian A T,2016,Western Australia,0
+1309,Australian A T,2016,Western Australia,0
+1310,British A T,2016,Western Australia,0
+1311,Chilean A T,2016,Western Australia,0
+1312,Queen Maud Land,2016,Western Australia,0
+1313,Ross Dependency,2016,Western Australia,0
+1314,England,2016,Western Australia,"213,940"
+1315,Isle of Man,2016,Western Australia,270
+1316,N'thern Ireland,2016,Western Australia,"4,900"
+1317,Scotland,2016,Western Australia,"30,350"
+1318,Wales,2016,Western Australia,"7,320"
+1319,Guernsey,2016,Western Australia,230
+1320,Jersey,2016,Western Australia,370
+1321,Ireland,2016,Western Australia,"21,580"
+1322,Austria,2016,Western Australia,"1,480"
+1323,Belgium,2016,Western Australia,950
+1324,France,2016,Western Australia,"4,680"
+1325,Germany,2016,Western Australia,"12,770"
+1326,Liechtenstein,2016,Western Australia,0
+1327,Luxembourg,2016,Western Australia,50
+1328,Monaco,2016,Western Australia,10
+1329,Netherlands,2016,Western Australia,"10,390"
+1330,Switzerland,2016,Western Australia,"2,220"
+1331,Denmark,2016,Western Australia,"1,340"
+1332,Faroe Islands,2016,Western Australia,10
+1333,Finland,2016,Western Australia,650
+1334,Greenland,2016,Western Australia,0
+1335,Iceland,2016,Western Australia,140
+1336,Norway,2016,Western Australia,640
+1337,Sweden,2016,Western Australia,"1,280"
+1338,Aland Islands,2016,Western Australia,0
+1339,Andorra,2016,Western Australia,0
+1340,Gibraltar,2016,Western Australia,110
+1341,Holy See,2016,Western Australia,0
+1342,Italy,2016,Western Australia,"21,960"
+1343,Malta,2016,Western Australia,"1,050"
+1344,Portugal,2016,Western Australia,"2,960"
+1345,San Marino,2016,Western Australia,0
+1346,Spain,2016,Western Australia,"1,640"
+1347,Albania,2016,Western Australia,230
+1348,Bosnia/Herzegov,2016,Western Australia,"3,980"
+1349,Bulgaria,2016,Western Australia,440
+1350,Croatia,2016,Western Australia,"6,250"
+1351,Cyprus,2016,Western Australia,520
+1352,North Macedonia,2016,Western Australia,"4,110"
+1353,Greece,2016,Western Australia,"2,750"
+1354,Moldova,2016,Western Australia,60
+1355,Romania,2016,Western Australia,"2,110"
+1356,Slovenia,2016,Western Australia,520
+1357,Montenegro,2016,Western Australia,220
+1358,Serbia,2016,Western Australia,"3,000"
+1359,Kosovo,2016,Western Australia,70
+1360,Belarus,2016,Western Australia,120
+1361,Czechia,2016,Western Australia,"1,210"
+1362,Estonia,2016,Western Australia,800
+1363,Hungary,2016,Western Australia,"1,460"
+1364,Latvia,2016,Western Australia,340
+1365,Lithuania,2016,Western Australia,250
+1366,Poland,2016,Western Australia,"6,670"
+1367,Russia,2016,Western Australia,"2,310"
+1368,Slovakia,2016,Western Australia,580
+1369,Ukraine,2016,Western Australia,930
+1370,Algeria,2016,Western Australia,170
+1371,Egypt,2016,Western Australia,"2,560"
+1372,Libya,2016,Western Australia,380
+1373,Morocco,2016,Western Australia,190
+1374,Sudan,2016,Western Australia,"2,480"
+1375,Tunisia,2016,Western Australia,70
+1376,Western Sahara,2016,Western Australia,0
+1377,Sp North Africa,2016,Western Australia,0
+1378,South Sudan,2016,Western Australia,"1,320"
+1379,Bahrain,2016,Western Australia,270
+1380,Gaza Str/W Bank,2016,Western Australia,220
+1381,Iran,2016,Western Australia,"6,670"
+1382,Iraq,2016,Western Australia,"3,890"
+1383,Israel,2016,Western Australia,800
+1384,Jordan,2016,Western Australia,530
+1385,Kuwait,2016,Western Australia,670
+1386,Lebanon,2016,Western Australia,"1,310"
+1387,Oman,2016,Western Australia,230
+1388,Qatar,2016,Western Australia,260
+1389,Saudi Arabia,2016,Western Australia,"1,400"
+1390,Syria,2016,Western Australia,660
+1391,Turkey,2016,Western Australia,"1,470"
+1392,Unit Arab Emir,2016,Western Australia,"1,270"
+1393,Yemen,2016,Western Australia,120
+1394,Myanmar,2016,Western Australia,"9,110"
+1395,Cambodia,2016,Western Australia,"1,320"
+1396,Laos,2016,Western Australia,230
+1397,Thailand,2016,Western Australia,"8,360"
+1398,Vietnam,2016,Western Australia,"17,620"
+1399,Brunei,2016,Western Australia,"1,050"
+1400,Indonesia,2016,Western Australia,"12,490"
+1401,Malaysia,2016,Western Australia,"32,250"
+1402,Philippines,2016,Western Australia,"33,430"
+1403,Singapore,2016,Western Australia,"16,270"
+1404,Timor-Leste,2016,Western Australia,450
+1405,China,2016,Western Australia,"29,960"
+1406,Hong Kong,2016,Western Australia,"6,980"
+1407,Macau,2016,Western Australia,200
+1408,Mongolia,2016,Western Australia,150
+1409,Taiwan,2016,Western Australia,"5,560"
+1410,Japan,2016,Western Australia,"5,000"
+1411,"Korea, North",2016,Western Australia,10
+1412,"Korea, South",2016,Western Australia,"7,920"
+1413,Bangladesh,2016,Western Australia,"2,890"
+1414,Bhutan,2016,Western Australia,"1,390"
+1415,India,2016,Western Australia,"53,370"
+1416,Maldives,2016,Western Australia,160
+1417,Nepal,2016,Western Australia,"2,780"
+1418,Pakistan,2016,Western Australia,"6,170"
+1419,Sri Lanka,2016,Western Australia,"8,870"
+1420,Afghanistan,2016,Western Australia,"6,000"
+1421,Armenia,2016,Western Australia,40
+1422,Azerbaijan,2016,Western Australia,80
+1423,Georgia,2016,Western Australia,10
+1424,Kazakhstan,2016,Western Australia,250
+1425,Kyrgyzstan,2016,Western Australia,70
+1426,Tajikistan,2016,Western Australia,20
+1427,Turkmenistan,2016,Western Australia,10
+1428,Uzbekistan,2016,Western Australia,140
+1429,Bermuda,2016,Western Australia,120
+1430,Canada,2016,Western Australia,"6,820"
+1431,St Pierre/Mique,2016,Western Australia,0
+1432,USA,2016,Western Australia,"11,450"
+1433,Argentina,2016,Western Australia,930
+1434,Bolivia,2016,Western Australia,60
+1435,Brazil,2016,Western Australia,"4,200"
+1436,Chile,2016,Western Australia,"1,960"
+1437,Colombia,2016,Western Australia,"2,030"
+1438,Ecuador,2016,Western Australia,130
+1439,Falkland Is,2016,Western Australia,10
+1440,French Guiana,2016,Western Australia,0
+1441,Guyana,2016,Western Australia,70
+1442,Paraguay,2016,Western Australia,40
+1443,Peru,2016,Western Australia,840
+1444,Suriname,2016,Western Australia,30
+1445,Uruguay,2016,Western Australia,230
+1446,Venezuela,2016,Western Australia,770
+1447,"S America, nec",2016,Western Australia,0
+1448,Belize,2016,Western Australia,10
+1449,Costa Rica,2016,Western Australia,50
+1450,El Salvador,2016,Western Australia,"1,390"
+1451,Guatemala,2016,Western Australia,50
+1452,Honduras,2016,Western Australia,20
+1453,Mexico,2016,Western Australia,450
+1454,Nicaragua,2016,Western Australia,50
+1455,Panama,2016,Western Australia,40
+1456,Anguilla,2016,Western Australia,0
+1457,Antigua/Barbuda,2016,Western Australia,10
+1458,Aruba,2016,Western Australia,10
+1459,Bahamas,2016,Western Australia,90
+1460,Barbados,2016,Western Australia,60
+1461,Cayman Islands,2016,Western Australia,20
+1462,Cuba,2016,Western Australia,70
+1463,Dominica,2016,Western Australia,10
+1464,Dominican Rep,2016,Western Australia,30
+1465,Grenada,2016,Western Australia,10
+1466,Guadeloupe,2016,Western Australia,0
+1467,Haiti,2016,Western Australia,10
+1468,Jamaica,2016,Western Australia,180
+1469,Martinique,2016,Western Australia,0
+1470,Montserrat,2016,Western Australia,0
+1471,Puerto Rico,2016,Western Australia,30
+1472,St Kitts/Nevis,2016,Western Australia,0
+1473,St Lucia,2016,Western Australia,10
+1474,St Vinc/Grenad,2016,Western Australia,10
+1475,Trinidad/Tobago,2016,Western Australia,550
+1476,Turks/Caicos Is,2016,Western Australia,0
+1477,"Virgin Is, Brit",2016,Western Australia,0
+1478,"Virgin Is, US",2016,Western Australia,0
+1479,St Barthelemy,2016,Western Australia,0
+1480,St Martin (Fr),2016,Western Australia,0
+1481,Bonaire/SE/Saba,2016,Western Australia,0
+1482,Curacao,2016,Western Australia,20
+1483,Sint Maarten Dp,2016,Western Australia,0
+1484,Benin,2016,Western Australia,10
+1485,Burkina Faso,2016,Western Australia,10
+1486,Cameroon,2016,Western Australia,80
+1487,Cabo Verde,2016,Western Australia,10
+1488,Cent Africa Rep,2016,Western Australia,10
+1489,Chad,2016,Western Australia,0
+1490,"Congo, Rep",2016,Western Australia,290
+1491,"Congo, Dem Rep",2016,Western Australia,840
+1492,Cote d'Ivoire,2016,Western Australia,90
+1493,Equator Guinea,2016,Western Australia,0
+1494,Gabon,2016,Western Australia,10
+1495,Gambia,2016,Western Australia,10
+1496,Ghana,2016,Western Australia,940
+1497,Guinea,2016,Western Australia,160
+1498,Guinea-Bissau,2016,Western Australia,0
+1499,Liberia,2016,Western Australia,690
+1500,Mali,2016,Western Australia,20
+1501,Mauritania,2016,Western Australia,10
+1502,Niger,2016,Western Australia,0
+1503,Nigeria,2016,Western Australia,"1,550"
+1504,Sao Tome/Princ,2016,Western Australia,0
+1505,Senegal,2016,Western Australia,80
+1506,Sierra Leone,2016,Western Australia,600
+1507,Togo,2016,Western Australia,80
+1508,Angola,2016,Western Australia,100
+1509,Botswana,2016,Western Australia,360
+1510,Burundi,2016,Western Australia,430
+1511,Comoros,2016,Western Australia,0
+1512,Djibouti,2016,Western Australia,20
+1513,Eritrea,2016,Western Australia,710
+1514,Ethiopia,2016,Western Australia,"1,920"
+1515,Kenya,2016,Western Australia,"6,560"
+1516,Lesotho,2016,Western Australia,30
+1517,Madagascar,2016,Western Australia,50
+1518,Malawi,2016,Western Australia,360
+1519,Mauritius,2016,Western Australia,"5,630"
+1520,Mayotte,2016,Western Australia,0
+1521,Mozambique,2016,Western Australia,230
+1522,Namibia,2016,Western Australia,440
+1523,Reunion,2016,Western Australia,80
+1524,Rwanda,2016,Western Australia,180
+1525,St Helena,2016,Western Australia,10
+1526,Seychelles,2016,Western Australia,920
+1527,Somalia,2016,Western Australia,"1,630"
+1528,South Africa,2016,Western Australia,"45,550"
+1529,Eswatini,2016,Western Australia,110
+1530,Tanzania,2016,Western Australia,"1,060"
+1531,Uganda,2016,Western Australia,780
+1532,Zambia,2016,Western Australia,"2,880"
+1533,Zimbabwe,2016,Western Australia,"13,890"
+1534,"S & E Afr, nec",2016,Western Australia,0
+1535,Inadequately described,2016,Western Australia,0
+1536,Australia,2016,Tasmania,"449,660"
+1537,Norfolk Island,2016,Tasmania,0
+1538,"Aust E T, nec",2016,Tasmania,0
+1539,New Zealand,2016,Tasmania,"5,420"
+1540,New Caledonia,2016,Tasmania,10
+1541,PNG,2016,Tasmania,370
+1542,Solomon Islands,2016,Tasmania,20
+1543,Vanuatu,2016,Tasmania,10
+1544,Guam,2016,Tasmania,0
+1545,Kiribati,2016,Tasmania,10
+1546,Marshall Is,2016,Tasmania,0
+1547,"Micronesia, F S",2016,Tasmania,0
+1548,Nauru,2016,Tasmania,10
+1549,N Mariana Is,2016,Tasmania,0
+1550,Palau,2016,Tasmania,0
+1551,Cook Islands,2016,Tasmania,20
+1552,Fiji,2016,Tasmania,300
+1553,French Poly,2016,Tasmania,0
+1554,Niue,2016,Tasmania,0
+1555,Samoa,2016,Tasmania,50
+1556,Samoa American,2016,Tasmania,0
+1557,Tokelau,2016,Tasmania,0
+1558,Tonga,2016,Tasmania,40
+1559,Tuvalu,2016,Tasmania,0
+1560,Wallis/Futuna,2016,Tasmania,0
+1561,Pitcairn Is,2016,Tasmania,0
+1562,"Polynesia, nec",2016,Tasmania,0
+1563,Adelie Land,2016,Tasmania,0
+1564,Argentinian A T,2016,Tasmania,0
+1565,Australian A T,2016,Tasmania,0
+1566,British A T,2016,Tasmania,0
+1567,Chilean A T,2016,Tasmania,0
+1568,Queen Maud Land,2016,Tasmania,0
+1569,Ross Dependency,2016,Tasmania,0
+1570,England,2016,Tasmania,"20,480"
+1571,Isle of Man,2016,Tasmania,20
+1572,N'thern Ireland,2016,Tasmania,370
+1573,Scotland,2016,Tasmania,"2,610"
+1574,Wales,2016,Tasmania,640
+1575,Guernsey,2016,Tasmania,10
+1576,Jersey,2016,Tasmania,20
+1577,Ireland,2016,Tasmania,770
+1578,Austria,2016,Tasmania,360
+1579,Belgium,2016,Tasmania,110
+1580,France,2016,Tasmania,380
+1581,Germany,2016,Tasmania,"2,380"
+1582,Liechtenstein,2016,Tasmania,0
+1583,Luxembourg,2016,Tasmania,0
+1584,Monaco,2016,Tasmania,0
+1585,Netherlands,2016,Tasmania,"2,520"
+1586,Switzerland,2016,Tasmania,290
+1587,Denmark,2016,Tasmania,180
+1588,Faroe Islands,2016,Tasmania,0
+1589,Finland,2016,Tasmania,160
+1590,Greenland,2016,Tasmania,0
+1591,Iceland,2016,Tasmania,10
+1592,Norway,2016,Tasmania,60
+1593,Sweden,2016,Tasmania,140
+1594,Aland Islands,2016,Tasmania,0
+1595,Andorra,2016,Tasmania,0
+1596,Gibraltar,2016,Tasmania,10
+1597,Holy See,2016,Tasmania,0
+1598,Italy,2016,Tasmania,970
+1599,Malta,2016,Tasmania,130
+1600,Portugal,2016,Tasmania,40
+1601,San Marino,2016,Tasmania,0
+1602,Spain,2016,Tasmania,120
+1603,Albania,2016,Tasmania,10
+1604,Bosnia/Herzegov,2016,Tasmania,160
+1605,Bulgaria,2016,Tasmania,20
+1606,Croatia,2016,Tasmania,330
+1607,Cyprus,2016,Tasmania,70
+1608,North Macedonia,2016,Tasmania,30
+1609,Greece,2016,Tasmania,590
+1610,Moldova,2016,Tasmania,10
+1611,Romania,2016,Tasmania,90
+1612,Slovenia,2016,Tasmania,60
+1613,Montenegro,2016,Tasmania,0
+1614,Serbia,2016,Tasmania,130
+1615,Kosovo,2016,Tasmania,0
+1616,Belarus,2016,Tasmania,20
+1617,Czechia,2016,Tasmania,210
+1618,Estonia,2016,Tasmania,30
+1619,Hungary,2016,Tasmania,220
+1620,Latvia,2016,Tasmania,50
+1621,Lithuania,2016,Tasmania,40
+1622,Poland,2016,Tasmania,700
+1623,Russia,2016,Tasmania,160
+1624,Slovakia,2016,Tasmania,70
+1625,Ukraine,2016,Tasmania,110
+1626,Algeria,2016,Tasmania,10
+1627,Egypt,2016,Tasmania,140
+1628,Libya,2016,Tasmania,30
+1629,Morocco,2016,Tasmania,20
+1630,Sudan,2016,Tasmania,270
+1631,Tunisia,2016,Tasmania,0
+1632,Western Sahara,2016,Tasmania,0
+1633,Sp North Africa,2016,Tasmania,0
+1634,South Sudan,2016,Tasmania,90
+1635,Bahrain,2016,Tasmania,10
+1636,Gaza Str/W Bank,2016,Tasmania,10
+1637,Iran,2016,Tasmania,640
+1638,Iraq,2016,Tasmania,110
+1639,Israel,2016,Tasmania,40
+1640,Jordan,2016,Tasmania,10
+1641,Kuwait,2016,Tasmania,20
+1642,Lebanon,2016,Tasmania,90
+1643,Oman,2016,Tasmania,10
+1644,Qatar,2016,Tasmania,10
+1645,Saudi Arabia,2016,Tasmania,100
+1646,Syria,2016,Tasmania,100
+1647,Turkey,2016,Tasmania,80
+1648,Unit Arab Emir,2016,Tasmania,70
+1649,Yemen,2016,Tasmania,10
+1650,Myanmar,2016,Tasmania,300
+1651,Cambodia,2016,Tasmania,40
+1652,Laos,2016,Tasmania,40
+1653,Thailand,2016,Tasmania,650
+1654,Vietnam,2016,Tasmania,450
+1655,Brunei,2016,Tasmania,10
+1656,Indonesia,2016,Tasmania,360
+1657,Malaysia,2016,Tasmania,"1,560"
+1658,Philippines,2016,Tasmania,"1,770"
+1659,Singapore,2016,Tasmania,610
+1660,Timor-Leste,2016,Tasmania,10
+1661,China,2016,Tasmania,"3,270"
+1662,Hong Kong,2016,Tasmania,520
+1663,Macau,2016,Tasmania,20
+1664,Mongolia,2016,Tasmania,10
+1665,Taiwan,2016,Tasmania,370
+1666,Japan,2016,Tasmania,480
+1667,"Korea, North",2016,Tasmania,0
+1668,"Korea, South",2016,Tasmania,670
+1669,Bangladesh,2016,Tasmania,120
+1670,Bhutan,2016,Tasmania,840
+1671,India,2016,Tasmania,"2,130"
+1672,Maldives,2016,Tasmania,10
+1673,Nepal,2016,Tasmania,900
+1674,Pakistan,2016,Tasmania,390
+1675,Sri Lanka,2016,Tasmania,440
+1676,Afghanistan,2016,Tasmania,330
+1677,Armenia,2016,Tasmania,0
+1678,Azerbaijan,2016,Tasmania,0
+1679,Georgia,2016,Tasmania,0
+1680,Kazakhstan,2016,Tasmania,10
+1681,Kyrgyzstan,2016,Tasmania,0
+1682,Tajikistan,2016,Tasmania,0
+1683,Turkmenistan,2016,Tasmania,0
+1684,Uzbekistan,2016,Tasmania,10
+1685,Bermuda,2016,Tasmania,10
+1686,Canada,2016,Tasmania,"1,040"
+1687,St Pierre/Mique,2016,Tasmania,0
+1688,USA,2016,Tasmania,"2,000"
+1689,Argentina,2016,Tasmania,70
+1690,Bolivia,2016,Tasmania,10
+1691,Brazil,2016,Tasmania,100
+1692,Chile,2016,Tasmania,220
+1693,Colombia,2016,Tasmania,60
+1694,Ecuador,2016,Tasmania,0
+1695,Falkland Is,2016,Tasmania,10
+1696,French Guiana,2016,Tasmania,0
+1697,Guyana,2016,Tasmania,10
+1698,Paraguay,2016,Tasmania,0
+1699,Peru,2016,Tasmania,60
+1700,Suriname,2016,Tasmania,0
+1701,Uruguay,2016,Tasmania,30
+1702,Venezuela,2016,Tasmania,20
+1703,"S America, nec",2016,Tasmania,0
+1704,Belize,2016,Tasmania,0
+1705,Costa Rica,2016,Tasmania,0
+1706,El Salvador,2016,Tasmania,190
+1707,Guatemala,2016,Tasmania,0
+1708,Honduras,2016,Tasmania,0
+1709,Mexico,2016,Tasmania,50
+1710,Nicaragua,2016,Tasmania,10
+1711,Panama,2016,Tasmania,0
+1712,Anguilla,2016,Tasmania,0
+1713,Antigua/Barbuda,2016,Tasmania,0
+1714,Aruba,2016,Tasmania,0
+1715,Bahamas,2016,Tasmania,10
+1716,Barbados,2016,Tasmania,10
+1717,Cayman Islands,2016,Tasmania,10
+1718,Cuba,2016,Tasmania,0
+1719,Dominica,2016,Tasmania,0
+1720,Dominican Rep,2016,Tasmania,10
+1721,Grenada,2016,Tasmania,0
+1722,Guadeloupe,2016,Tasmania,0
+1723,Haiti,2016,Tasmania,0
+1724,Jamaica,2016,Tasmania,10
+1725,Martinique,2016,Tasmania,0
+1726,Montserrat,2016,Tasmania,0
+1727,Puerto Rico,2016,Tasmania,0
+1728,St Kitts/Nevis,2016,Tasmania,0
+1729,St Lucia,2016,Tasmania,0
+1730,St Vinc/Grenad,2016,Tasmania,0
+1731,Trinidad/Tobago,2016,Tasmania,30
+1732,Turks/Caicos Is,2016,Tasmania,0
+1733,"Virgin Is, Brit",2016,Tasmania,0
+1734,"Virgin Is, US",2016,Tasmania,0
+1735,St Barthelemy,2016,Tasmania,0
+1736,St Martin (Fr),2016,Tasmania,0
+1737,Bonaire/SE/Saba,2016,Tasmania,0
+1738,Curacao,2016,Tasmania,0
+1739,Sint Maarten Dp,2016,Tasmania,0
+1740,Benin,2016,Tasmania,0
+1741,Burkina Faso,2016,Tasmania,0
+1742,Cameroon,2016,Tasmania,10
+1743,Cabo Verde,2016,Tasmania,0
+1744,Cent Africa Rep,2016,Tasmania,0
+1745,Chad,2016,Tasmania,0
+1746,"Congo, Rep",2016,Tasmania,20
+1747,"Congo, Dem Rep",2016,Tasmania,100
+1748,Cote d'Ivoire,2016,Tasmania,10
+1749,Equator Guinea,2016,Tasmania,0
+1750,Gabon,2016,Tasmania,0
+1751,Gambia,2016,Tasmania,0
+1752,Ghana,2016,Tasmania,50
+1753,Guinea,2016,Tasmania,10
+1754,Guinea-Bissau,2016,Tasmania,0
+1755,Liberia,2016,Tasmania,20
+1756,Mali,2016,Tasmania,0
+1757,Mauritania,2016,Tasmania,0
+1758,Niger,2016,Tasmania,0
+1759,Nigeria,2016,Tasmania,140
+1760,Sao Tome/Princ,2016,Tasmania,0
+1761,Senegal,2016,Tasmania,0
+1762,Sierra Leone,2016,Tasmania,70
+1763,Togo,2016,Tasmania,0
+1764,Angola,2016,Tasmania,0
+1765,Botswana,2016,Tasmania,20
+1766,Burundi,2016,Tasmania,30
+1767,Comoros,2016,Tasmania,0
+1768,Djibouti,2016,Tasmania,0
+1769,Eritrea,2016,Tasmania,80
+1770,Ethiopia,2016,Tasmania,340
+1771,Kenya,2016,Tasmania,200
+1772,Lesotho,2016,Tasmania,0
+1773,Madagascar,2016,Tasmania,10
+1774,Malawi,2016,Tasmania,20
+1775,Mauritius,2016,Tasmania,60
+1776,Mayotte,2016,Tasmania,0
+1777,Mozambique,2016,Tasmania,0
+1778,Namibia,2016,Tasmania,10
+1779,Reunion,2016,Tasmania,0
+1780,Rwanda,2016,Tasmania,20
+1781,St Helena,2016,Tasmania,0
+1782,Seychelles,2016,Tasmania,10
+1783,Somalia,2016,Tasmania,10
+1784,South Africa,2016,Tasmania,"1,720"
+1785,Eswatini,2016,Tasmania,0
+1786,Tanzania,2016,Tasmania,50
+1787,Uganda,2016,Tasmania,110
+1788,Zambia,2016,Tasmania,100
+1789,Zimbabwe,2016,Tasmania,330
+1790,"S & E Afr, nec",2016,Tasmania,0
+1791,Inadequately described,2016,Tasmania,0
+1792,Australia,2016,Northern Territory,"190,260"
+1793,Norfolk Island,2016,Northern Territory,0
+1794,"Aust E T, nec",2016,Northern Territory,0
+1795,New Zealand,2016,Northern Territory,"5,580"
+1796,New Caledonia,2016,Northern Territory,10
+1797,PNG,2016,Northern Territory,770
+1798,Solomon Islands,2016,Northern Territory,50
+1799,Vanuatu,2016,Northern Territory,30
+1800,Guam,2016,Northern Territory,0
+1801,Kiribati,2016,Northern Territory,20
+1802,Marshall Is,2016,Northern Territory,0
+1803,"Micronesia, F S",2016,Northern Territory,0
+1804,Nauru,2016,Northern Territory,10
+1805,N Mariana Is,2016,Northern Territory,0
+1806,Palau,2016,Northern Territory,0
+1807,Cook Islands,2016,Northern Territory,50
+1808,Fiji,2016,Northern Territory,560
+1809,French Poly,2016,Northern Territory,0
+1810,Niue,2016,Northern Territory,0
+1811,Samoa,2016,Northern Territory,60
+1812,Samoa American,2016,Northern Territory,0
+1813,Tokelau,2016,Northern Territory,10
+1814,Tonga,2016,Northern Territory,90
+1815,Tuvalu,2016,Northern Territory,0
+1816,Wallis/Futuna,2016,Northern Territory,0
+1817,Pitcairn Is,2016,Northern Territory,0
+1818,"Polynesia, nec",2016,Northern Territory,0
+1819,Adelie Land,2016,Northern Territory,0
+1820,Argentinian A T,2016,Northern Territory,0
+1821,Australian A T,2016,Northern Territory,0
+1822,British A T,2016,Northern Territory,0
+1823,Chilean A T,2016,Northern Territory,0
+1824,Queen Maud Land,2016,Northern Territory,0
+1825,Ross Dependency,2016,Northern Territory,0
+1826,England,2016,Northern Territory,"6,690"
+1827,Isle of Man,2016,Northern Territory,20
+1828,N'thern Ireland,2016,Northern Territory,220
+1829,Scotland,2016,Northern Territory,880
+1830,Wales,2016,Northern Territory,210
+1831,Guernsey,2016,Northern Territory,10
+1832,Jersey,2016,Northern Territory,10
+1833,Ireland,2016,Northern Territory,"1,360"
+1834,Austria,2016,Northern Territory,110
+1835,Belgium,2016,Northern Territory,90
+1836,France,2016,Northern Territory,520
+1837,Germany,2016,Northern Territory,"1,180"
+1838,Liechtenstein,2016,Northern Territory,0
+1839,Luxembourg,2016,Northern Territory,0
+1840,Monaco,2016,Northern Territory,0
+1841,Netherlands,2016,Northern Territory,540
+1842,Switzerland,2016,Northern Territory,150
+1843,Denmark,2016,Northern Territory,120
+1844,Faroe Islands,2016,Northern Territory,0
+1845,Finland,2016,Northern Territory,70
+1846,Greenland,2016,Northern Territory,0
+1847,Iceland,2016,Northern Territory,0
+1848,Norway,2016,Northern Territory,40
+1849,Sweden,2016,Northern Territory,110
+1850,Aland Islands,2016,Northern Territory,0
+1851,Andorra,2016,Northern Territory,0
+1852,Gibraltar,2016,Northern Territory,0
+1853,Holy See,2016,Northern Territory,0
+1854,Italy,2016,Northern Territory,640
+1855,Malta,2016,Northern Territory,40
+1856,Portugal,2016,Northern Territory,220
+1857,San Marino,2016,Northern Territory,0
+1858,Spain,2016,Northern Territory,110
+1859,Albania,2016,Northern Territory,10
+1860,Bosnia/Herzegov,2016,Northern Territory,50
+1861,Bulgaria,2016,Northern Territory,30
+1862,Croatia,2016,Northern Territory,70
+1863,Cyprus,2016,Northern Territory,150
+1864,North Macedonia,2016,Northern Territory,40
+1865,Greece,2016,Northern Territory,"1,790"
+1866,Moldova,2016,Northern Territory,10
+1867,Romania,2016,Northern Territory,40
+1868,Slovenia,2016,Northern Territory,30
+1869,Montenegro,2016,Northern Territory,10
+1870,Serbia,2016,Northern Territory,80
+1871,Kosovo,2016,Northern Territory,10
+1872,Belarus,2016,Northern Territory,0
+1873,Czechia,2016,Northern Territory,70
+1874,Estonia,2016,Northern Territory,110
+1875,Hungary,2016,Northern Territory,90
+1876,Latvia,2016,Northern Territory,10
+1877,Lithuania,2016,Northern Territory,10
+1878,Poland,2016,Northern Territory,160
+1879,Russia,2016,Northern Territory,80
+1880,Slovakia,2016,Northern Territory,20
+1881,Ukraine,2016,Northern Territory,40
+1882,Algeria,2016,Northern Territory,20
+1883,Egypt,2016,Northern Territory,70
+1884,Libya,2016,Northern Territory,10
+1885,Morocco,2016,Northern Territory,10
+1886,Sudan,2016,Northern Territory,180
+1887,Tunisia,2016,Northern Territory,10
+1888,Western Sahara,2016,Northern Territory,0
+1889,Sp North Africa,2016,Northern Territory,0
+1890,South Sudan,2016,Northern Territory,160
+1891,Bahrain,2016,Northern Territory,10
+1892,Gaza Str/W Bank,2016,Northern Territory,0
+1893,Iran,2016,Northern Territory,200
+1894,Iraq,2016,Northern Territory,50
+1895,Israel,2016,Northern Territory,20
+1896,Jordan,2016,Northern Territory,20
+1897,Kuwait,2016,Northern Territory,40
+1898,Lebanon,2016,Northern Territory,70
+1899,Oman,2016,Northern Territory,10
+1900,Qatar,2016,Northern Territory,10
+1901,Saudi Arabia,2016,Northern Territory,50
+1902,Syria,2016,Northern Territory,10
+1903,Turkey,2016,Northern Territory,50
+1904,Unit Arab Emir,2016,Northern Territory,70
+1905,Yemen,2016,Northern Territory,10
+1906,Myanmar,2016,Northern Territory,230
+1907,Cambodia,2016,Northern Territory,250
+1908,Laos,2016,Northern Territory,40
+1909,Thailand,2016,Northern Territory,"1,110"
+1910,Vietnam,2016,Northern Territory,"1,190"
+1911,Brunei,2016,Northern Territory,30
+1912,Indonesia,2016,Northern Territory,"1,300"
+1913,Malaysia,2016,Northern Territory,840
+1914,Philippines,2016,Northern Territory,"6,970"
+1915,Singapore,2016,Northern Territory,320
+1916,Timor-Leste,2016,Northern Territory,"1,200"
+1917,China,2016,Northern Territory,"1,420"
+1918,Hong Kong,2016,Northern Territory,350
+1919,Macau,2016,Northern Territory,20
+1920,Mongolia,2016,Northern Territory,0
+1921,Taiwan,2016,Northern Territory,810
+1922,Japan,2016,Northern Territory,600
+1923,"Korea, North",2016,Northern Territory,0
+1924,"Korea, South",2016,Northern Territory,500
+1925,Bangladesh,2016,Northern Territory,500
+1926,Bhutan,2016,Northern Territory,30
+1927,India,2016,Northern Territory,"4,240"
+1928,Maldives,2016,Northern Territory,0
+1929,Nepal,2016,Northern Territory,"1,340"
+1930,Pakistan,2016,Northern Territory,430
+1931,Sri Lanka,2016,Northern Territory,980
+1932,Afghanistan,2016,Northern Territory,80
+1933,Armenia,2016,Northern Territory,0
+1934,Azerbaijan,2016,Northern Territory,0
+1935,Georgia,2016,Northern Territory,0
+1936,Kazakhstan,2016,Northern Territory,20
+1937,Kyrgyzstan,2016,Northern Territory,10
+1938,Tajikistan,2016,Northern Territory,0
+1939,Turkmenistan,2016,Northern Territory,0
+1940,Uzbekistan,2016,Northern Territory,10
+1941,Bermuda,2016,Northern Territory,0
+1942,Canada,2016,Northern Territory,490
+1943,St Pierre/Mique,2016,Northern Territory,0
+1944,USA,2016,Northern Territory,"1,660"
+1945,Argentina,2016,Northern Territory,50
+1946,Bolivia,2016,Northern Territory,10
+1947,Brazil,2016,Northern Territory,120
+1948,Chile,2016,Northern Territory,70
+1949,Colombia,2016,Northern Territory,70
+1950,Ecuador,2016,Northern Territory,10
+1951,Falkland Is,2016,Northern Territory,10
+1952,French Guiana,2016,Northern Territory,0
+1953,Guyana,2016,Northern Territory,10
+1954,Paraguay,2016,Northern Territory,0
+1955,Peru,2016,Northern Territory,40
+1956,Suriname,2016,Northern Territory,0
+1957,Uruguay,2016,Northern Territory,10
+1958,Venezuela,2016,Northern Territory,30
+1959,"S America, nec",2016,Northern Territory,0
+1960,Belize,2016,Northern Territory,0
+1961,Costa Rica,2016,Northern Territory,10
+1962,El Salvador,2016,Northern Territory,10
+1963,Guatemala,2016,Northern Territory,10
+1964,Honduras,2016,Northern Territory,0
+1965,Mexico,2016,Northern Territory,50
+1966,Nicaragua,2016,Northern Territory,0
+1967,Panama,2016,Northern Territory,10
+1968,Anguilla,2016,Northern Territory,0
+1969,Antigua/Barbuda,2016,Northern Territory,0
+1970,Aruba,2016,Northern Territory,0
+1971,Bahamas,2016,Northern Territory,0
+1972,Barbados,2016,Northern Territory,0
+1973,Cayman Islands,2016,Northern Territory,0
+1974,Cuba,2016,Northern Territory,0
+1975,Dominica,2016,Northern Territory,0
+1976,Dominican Rep,2016,Northern Territory,0
+1977,Grenada,2016,Northern Territory,0
+1978,Guadeloupe,2016,Northern Territory,0
+1979,Haiti,2016,Northern Territory,0
+1980,Jamaica,2016,Northern Territory,30
+1981,Martinique,2016,Northern Territory,0
+1982,Montserrat,2016,Northern Territory,0
+1983,Puerto Rico,2016,Northern Territory,0
+1984,St Kitts/Nevis,2016,Northern Territory,0
+1985,St Lucia,2016,Northern Territory,0
+1986,St Vinc/Grenad,2016,Northern Territory,0
+1987,Trinidad/Tobago,2016,Northern Territory,10
+1988,Turks/Caicos Is,2016,Northern Territory,0
+1989,"Virgin Is, Brit",2016,Northern Territory,0
+1990,"Virgin Is, US",2016,Northern Territory,0
+1991,St Barthelemy,2016,Northern Territory,0
+1992,St Martin (Fr),2016,Northern Territory,0
+1993,Bonaire/SE/Saba,2016,Northern Territory,0
+1994,Curacao,2016,Northern Territory,0
+1995,Sint Maarten Dp,2016,Northern Territory,0
+1996,Benin,2016,Northern Territory,0
+1997,Burkina Faso,2016,Northern Territory,0
+1998,Cameroon,2016,Northern Territory,10
+1999,Cabo Verde,2016,Northern Territory,0
+2000,Cent Africa Rep,2016,Northern Territory,0
+2001,Chad,2016,Northern Territory,0
+2002,"Congo, Rep",2016,Northern Territory,60
+2003,"Congo, Dem Rep",2016,Northern Territory,140
+2004,Cote d'Ivoire,2016,Northern Territory,0
+2005,Equator Guinea,2016,Northern Territory,0
+2006,Gabon,2016,Northern Territory,0
+2007,Gambia,2016,Northern Territory,0
+2008,Ghana,2016,Northern Territory,40
+2009,Guinea,2016,Northern Territory,10
+2010,Guinea-Bissau,2016,Northern Territory,0
+2011,Liberia,2016,Northern Territory,80
+2012,Mali,2016,Northern Territory,0
+2013,Mauritania,2016,Northern Territory,0
+2014,Niger,2016,Northern Territory,0
+2015,Nigeria,2016,Northern Territory,210
+2016,Sao Tome/Princ,2016,Northern Territory,0
+2017,Senegal,2016,Northern Territory,10
+2018,Sierra Leone,2016,Northern Territory,10
+2019,Togo,2016,Northern Territory,10
+2020,Angola,2016,Northern Territory,0
+2021,Botswana,2016,Northern Territory,30
+2022,Burundi,2016,Northern Territory,20
+2023,Comoros,2016,Northern Territory,0
+2024,Djibouti,2016,Northern Territory,0
+2025,Eritrea,2016,Northern Territory,0
+2026,Ethiopia,2016,Northern Territory,40
+2027,Kenya,2016,Northern Territory,210
+2028,Lesotho,2016,Northern Territory,0
+2029,Madagascar,2016,Northern Territory,10
+2030,Malawi,2016,Northern Territory,40
+2031,Mauritius,2016,Northern Territory,90
+2032,Mayotte,2016,Northern Territory,0
+2033,Mozambique,2016,Northern Territory,30
+2034,Namibia,2016,Northern Territory,10
+2035,Reunion,2016,Northern Territory,10
+2036,Rwanda,2016,Northern Territory,10
+2037,St Helena,2016,Northern Territory,0
+2038,Seychelles,2016,Northern Territory,40
+2039,Somalia,2016,Northern Territory,30
+2040,South Africa,2016,Northern Territory,"1,080"
+2041,Eswatini,2016,Northern Territory,10
+2042,Tanzania,2016,Northern Territory,40
+2043,Uganda,2016,Northern Territory,70
+2044,Zambia,2016,Northern Territory,90
+2045,Zimbabwe,2016,Northern Territory,860
+2046,"S & E Afr, nec",2016,Northern Territory,0
+2047,Inadequately described,2016,Northern Territory,0
+2048,Australia,2016,Australian Capital Territory,"289,590"
+2049,Norfolk Island,2016,Australian Capital Territory,10
+2050,"Aust E T, nec",2016,Australian Capital Territory,0
+2051,New Zealand,2016,Australian Capital Territory,"5,020"
+2052,New Caledonia,2016,Australian Capital Territory,20
+2053,PNG,2016,Australian Capital Territory,860
+2054,Solomon Islands,2016,Australian Capital Territory,40
+2055,Vanuatu,2016,Australian Capital Territory,40
+2056,Guam,2016,Australian Capital Territory,10
+2057,Kiribati,2016,Australian Capital Territory,20
+2058,Marshall Is,2016,Australian Capital Territory,0
+2059,"Micronesia, F S",2016,Australian Capital Territory,0
+2060,Nauru,2016,Australian Capital Territory,10
+2061,N Mariana Is,2016,Australian Capital Territory,0
+2062,Palau,2016,Australian Capital Territory,0
+2063,Cook Islands,2016,Australian Capital Territory,30
+2064,Fiji,2016,Australian Capital Territory,"1,070"
+2065,French Poly,2016,Australian Capital Territory,10
+2066,Niue,2016,Australian Capital Territory,10
+2067,Samoa,2016,Australian Capital Territory,290
+2068,Samoa American,2016,Australian Capital Territory,10
+2069,Tokelau,2016,Australian Capital Territory,0
+2070,Tonga,2016,Australian Capital Territory,260
+2071,Tuvalu,2016,Australian Capital Territory,10
+2072,Wallis/Futuna,2016,Australian Capital Territory,0
+2073,Pitcairn Is,2016,Australian Capital Territory,0
+2074,"Polynesia, nec",2016,Australian Capital Territory,0
+2075,Adelie Land,2016,Australian Capital Territory,0
+2076,Argentinian A T,2016,Australian Capital Territory,0
+2077,Australian A T,2016,Australian Capital Territory,0
+2078,British A T,2016,Australian Capital Territory,0
+2079,Chilean A T,2016,Australian Capital Territory,0
+2080,Queen Maud Land,2016,Australian Capital Territory,0
+2081,Ross Dependency,2016,Australian Capital Territory,0
+2082,England,2016,Australian Capital Territory,"13,330"
+2083,Isle of Man,2016,Australian Capital Territory,20
+2084,N'thern Ireland,2016,Australian Capital Territory,360
+2085,Scotland,2016,Australian Capital Territory,"2,010"
+2086,Wales,2016,Australian Capital Territory,490
+2087,Guernsey,2016,Australian Capital Territory,20
+2088,Jersey,2016,Australian Capital Territory,10
+2089,Ireland,2016,Australian Capital Territory,930
+2090,Austria,2016,Australian Capital Territory,460
+2091,Belgium,2016,Australian Capital Territory,170
+2092,France,2016,Australian Capital Territory,740
+2093,Germany,2016,Australian Capital Territory,"2,460"
+2094,Liechtenstein,2016,Australian Capital Territory,0
+2095,Luxembourg,2016,Australian Capital Territory,0
+2096,Monaco,2016,Australian Capital Territory,0
+2097,Netherlands,2016,Australian Capital Territory,"1,120"
+2098,Switzerland,2016,Australian Capital Territory,280
+2099,Denmark,2016,Australian Capital Territory,140
+2100,Faroe Islands,2016,Australian Capital Territory,0
+2101,Finland,2016,Australian Capital Territory,520
+2102,Greenland,2016,Australian Capital Territory,0
+2103,Iceland,2016,Australian Capital Territory,0
+2104,Norway,2016,Australian Capital Territory,90
+2105,Sweden,2016,Australian Capital Territory,200
+2106,Aland Islands,2016,Australian Capital Territory,0
+2107,Andorra,2016,Australian Capital Territory,0
+2108,Gibraltar,2016,Australian Capital Territory,10
+2109,Holy See,2016,Australian Capital Territory,0
+2110,Italy,2016,Australian Capital Territory,"2,130"
+2111,Malta,2016,Australian Capital Territory,300
+2112,Portugal,2016,Australian Capital Territory,270
+2113,San Marino,2016,Australian Capital Territory,0
+2114,Spain,2016,Australian Capital Territory,590
+2115,Albania,2016,Australian Capital Territory,20
+2116,Bosnia/Herzegov,2016,Australian Capital Territory,560
+2117,Bulgaria,2016,Australian Capital Territory,40
+2118,Croatia,2016,Australian Capital Territory,"1,670"
+2119,Cyprus,2016,Australian Capital Territory,140
+2120,North Macedonia,2016,Australian Capital Territory,580
+2121,Greece,2016,Australian Capital Territory,"1,170"
+2122,Moldova,2016,Australian Capital Territory,10
+2123,Romania,2016,Australian Capital Territory,190
+2124,Slovenia,2016,Australian Capital Territory,180
+2125,Montenegro,2016,Australian Capital Territory,10
+2126,Serbia,2016,Australian Capital Territory,680
+2127,Kosovo,2016,Australian Capital Territory,10
+2128,Belarus,2016,Australian Capital Territory,20
+2129,Czechia,2016,Australian Capital Territory,230
+2130,Estonia,2016,Australian Capital Territory,50
+2131,Hungary,2016,Australian Capital Territory,350
+2132,Latvia,2016,Australian Capital Territory,130
+2133,Lithuania,2016,Australian Capital Territory,50
+2134,Poland,2016,Australian Capital Territory,"1,110"
+2135,Russia,2016,Australian Capital Territory,500
+2136,Slovakia,2016,Australian Capital Territory,90
+2137,Ukraine,2016,Australian Capital Territory,200
+2138,Algeria,2016,Australian Capital Territory,50
+2139,Egypt,2016,Australian Capital Territory,490
+2140,Libya,2016,Australian Capital Territory,50
+2141,Morocco,2016,Australian Capital Territory,50
+2142,Sudan,2016,Australian Capital Territory,320
+2143,Tunisia,2016,Australian Capital Territory,20
+2144,Western Sahara,2016,Australian Capital Territory,0
+2145,Sp North Africa,2016,Australian Capital Territory,0
+2146,South Sudan,2016,Australian Capital Territory,230
+2147,Bahrain,2016,Australian Capital Territory,30
+2148,Gaza Str/W Bank,2016,Australian Capital Territory,70
+2149,Iran,2016,Australian Capital Territory,930
+2150,Iraq,2016,Australian Capital Territory,580
+2151,Israel,2016,Australian Capital Territory,150
+2152,Jordan,2016,Australian Capital Territory,190
+2153,Kuwait,2016,Australian Capital Territory,100
+2154,Lebanon,2016,Australian Capital Territory,460
+2155,Oman,2016,Australian Capital Territory,30
+2156,Qatar,2016,Australian Capital Territory,30
+2157,Saudi Arabia,2016,Australian Capital Territory,330
+2158,Syria,2016,Australian Capital Territory,100
+2159,Turkey,2016,Australian Capital Territory,260
+2160,Unit Arab Emir,2016,Australian Capital Territory,210
+2161,Yemen,2016,Australian Capital Territory,30
+2162,Myanmar,2016,Australian Capital Territory,620
+2163,Cambodia,2016,Australian Capital Territory,390
+2164,Laos,2016,Australian Capital Territory,700
+2165,Thailand,2016,Australian Capital Territory,"1,390"
+2166,Vietnam,2016,Australian Capital Territory,"3,610"
+2167,Brunei,2016,Australian Capital Territory,50
+2168,Indonesia,2016,Australian Capital Territory,"1,360"
+2169,Malaysia,2016,Australian Capital Territory,"2,620"
+2170,Philippines,2016,Australian Capital Territory,"3,960"
+2171,Singapore,2016,Australian Capital Territory,"1,070"
+2172,Timor-Leste,2016,Australian Capital Territory,40
+2173,China,2016,Australian Capital Territory,"11,930"
+2174,Hong Kong,2016,Australian Capital Territory,"1,830"
+2175,Macau,2016,Australian Capital Territory,30
+2176,Mongolia,2016,Australian Capital Territory,100
+2177,Taiwan,2016,Australian Capital Territory,560
+2178,Japan,2016,Australian Capital Territory,870
+2179,"Korea, North",2016,Australian Capital Territory,0
+2180,"Korea, South",2016,Australian Capital Territory,"2,500"
+2181,Bangladesh,2016,Australian Capital Territory,"1,470"
+2182,Bhutan,2016,Australian Capital Territory,610
+2183,India,2016,Australian Capital Territory,"10,920"
+2184,Maldives,2016,Australian Capital Territory,30
+2185,Nepal,2016,Australian Capital Territory,800
+2186,Pakistan,2016,Australian Capital Territory,"2,170"
+2187,Sri Lanka,2016,Australian Capital Territory,"3,080"
+2188,Afghanistan,2016,Australian Capital Territory,510
+2189,Armenia,2016,Australian Capital Territory,10
+2190,Azerbaijan,2016,Australian Capital Territory,10
+2191,Georgia,2016,Australian Capital Territory,10
+2192,Kazakhstan,2016,Australian Capital Territory,20
+2193,Kyrgyzstan,2016,Australian Capital Territory,10
+2194,Tajikistan,2016,Australian Capital Territory,10
+2195,Turkmenistan,2016,Australian Capital Territory,0
+2196,Uzbekistan,2016,Australian Capital Territory,30
+2197,Bermuda,2016,Australian Capital Territory,10
+2198,Canada,2016,Australian Capital Territory,"1,390"
+2199,St Pierre/Mique,2016,Australian Capital Territory,0
+2200,USA,2016,Australian Capital Territory,"3,300"
+2201,Argentina,2016,Australian Capital Territory,290
+2202,Bolivia,2016,Australian Capital Territory,20
+2203,Brazil,2016,Australian Capital Territory,390
+2204,Chile,2016,Australian Capital Territory,880
+2205,Colombia,2016,Australian Capital Territory,270
+2206,Ecuador,2016,Australian Capital Territory,80
+2207,Falkland Is,2016,Australian Capital Territory,0
+2208,French Guiana,2016,Australian Capital Territory,0
+2209,Guyana,2016,Australian Capital Territory,10
+2210,Paraguay,2016,Australian Capital Territory,10
+2211,Peru,2016,Australian Capital Territory,240
+2212,Suriname,2016,Australian Capital Territory,10
+2213,Uruguay,2016,Australian Capital Territory,110
+2214,Venezuela,2016,Australian Capital Territory,90
+2215,"S America, nec",2016,Australian Capital Territory,0
+2216,Belize,2016,Australian Capital Territory,0
+2217,Costa Rica,2016,Australian Capital Territory,20
+2218,El Salvador,2016,Australian Capital Territory,170
+2219,Guatemala,2016,Australian Capital Territory,10
+2220,Honduras,2016,Australian Capital Territory,0
+2221,Mexico,2016,Australian Capital Territory,180
+2222,Nicaragua,2016,Australian Capital Territory,30
+2223,Panama,2016,Australian Capital Territory,0
+2224,Anguilla,2016,Australian Capital Territory,0
+2225,Antigua/Barbuda,2016,Australian Capital Territory,0
+2226,Aruba,2016,Australian Capital Territory,0
+2227,Bahamas,2016,Australian Capital Territory,0
+2228,Barbados,2016,Australian Capital Territory,0
+2229,Cayman Islands,2016,Australian Capital Territory,0
+2230,Cuba,2016,Australian Capital Territory,10
+2231,Dominica,2016,Australian Capital Territory,0
+2232,Dominican Rep,2016,Australian Capital Territory,0
+2233,Grenada,2016,Australian Capital Territory,0
+2234,Guadeloupe,2016,Australian Capital Territory,0
+2235,Haiti,2016,Australian Capital Territory,10
+2236,Jamaica,2016,Australian Capital Territory,30
+2237,Martinique,2016,Australian Capital Territory,0
+2238,Montserrat,2016,Australian Capital Territory,0
+2239,Puerto Rico,2016,Australian Capital Territory,0
+2240,St Kitts/Nevis,2016,Australian Capital Territory,0
+2241,St Lucia,2016,Australian Capital Territory,0
+2242,St Vinc/Grenad,2016,Australian Capital Territory,0
+2243,Trinidad/Tobago,2016,Australian Capital Territory,20
+2244,Turks/Caicos Is,2016,Australian Capital Territory,0
+2245,"Virgin Is, Brit",2016,Australian Capital Territory,0
+2246,"Virgin Is, US",2016,Australian Capital Territory,0
+2247,St Barthelemy,2016,Australian Capital Territory,0
+2248,St Martin (Fr),2016,Australian Capital Territory,0
+2249,Bonaire/SE/Saba,2016,Australian Capital Territory,0
+2250,Curacao,2016,Australian Capital Territory,0
+2251,Sint Maarten Dp,2016,Australian Capital Territory,0
+2252,Benin,2016,Australian Capital Territory,0
+2253,Burkina Faso,2016,Australian Capital Territory,0
+2254,Cameroon,2016,Australian Capital Territory,30
+2255,Cabo Verde,2016,Australian Capital Territory,0
+2256,Cent Africa Rep,2016,Australian Capital Territory,0
+2257,Chad,2016,Australian Capital Territory,0
+2258,"Congo, Rep",2016,Australian Capital Territory,10
+2259,"Congo, Dem Rep",2016,Australian Capital Territory,50
+2260,Cote d'Ivoire,2016,Australian Capital Territory,10
+2261,Equator Guinea,2016,Australian Capital Territory,0
+2262,Gabon,2016,Australian Capital Territory,0
+2263,Gambia,2016,Australian Capital Territory,0
+2264,Ghana,2016,Australian Capital Territory,250
+2265,Guinea,2016,Australian Capital Territory,10
+2266,Guinea-Bissau,2016,Australian Capital Territory,0
+2267,Liberia,2016,Australian Capital Territory,30
+2268,Mali,2016,Australian Capital Territory,0
+2269,Mauritania,2016,Australian Capital Territory,0
+2270,Niger,2016,Australian Capital Territory,0
+2271,Nigeria,2016,Australian Capital Territory,480
+2272,Sao Tome/Princ,2016,Australian Capital Territory,0
+2273,Senegal,2016,Australian Capital Territory,0
+2274,Sierra Leone,2016,Australian Capital Territory,190
+2275,Togo,2016,Australian Capital Territory,0
+2276,Angola,2016,Australian Capital Territory,20
+2277,Botswana,2016,Australian Capital Territory,40
+2278,Burundi,2016,Australian Capital Territory,10
+2279,Comoros,2016,Australian Capital Territory,0
+2280,Djibouti,2016,Australian Capital Territory,0
+2281,Eritrea,2016,Australian Capital Territory,80
+2282,Ethiopia,2016,Australian Capital Territory,190
+2283,Kenya,2016,Australian Capital Territory,510
+2284,Lesotho,2016,Australian Capital Territory,0
+2285,Madagascar,2016,Australian Capital Territory,0
+2286,Malawi,2016,Australian Capital Territory,20
+2287,Mauritius,2016,Australian Capital Territory,340
+2288,Mayotte,2016,Australian Capital Territory,0
+2289,Mozambique,2016,Australian Capital Territory,20
+2290,Namibia,2016,Australian Capital Territory,30
+2291,Reunion,2016,Australian Capital Territory,0
+2292,Rwanda,2016,Australian Capital Territory,20
+2293,St Helena,2016,Australian Capital Territory,0
+2294,Seychelles,2016,Australian Capital Territory,10
+2295,Somalia,2016,Australian Capital Territory,40
+2296,South Africa,2016,Australian Capital Territory,"2,150"
+2297,Eswatini,2016,Australian Capital Territory,10
+2298,Tanzania,2016,Australian Capital Territory,70
+2299,Uganda,2016,Australian Capital Territory,110
+2300,Zambia,2016,Australian Capital Territory,120
+2301,Zimbabwe,2016,Australian Capital Territory,730
+2302,"S & E Afr, nec",2016,Australian Capital Territory,0
+2303,Inadequately described,2016,Australian Capital Territory,0
